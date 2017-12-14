@@ -1,0 +1,1 @@
+echo "server=/mysaferudomain.ru/8.8.8.8" | sudo tee /etc/dnsmasq.d/wildcardoverride.conf

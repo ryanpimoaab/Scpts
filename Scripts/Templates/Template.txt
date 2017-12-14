@@ -1,0 +1,3 @@
+#! /bin/bash
+
+curl -s <link> | egrep '^\|\|' | cut -d'/' -f1 | cut -d '^' -f1 | cut -d '$' -f1 | tr -d '|' > /Users/rayyan/Desktop/Pi/Lists/<name-of-list>.txt

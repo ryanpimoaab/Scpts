@@ -1,0 +1,1 @@
+cat /Users/rayyan/Desktop/Pi/Lists/edit/<list-name>.txt | sed '/^\#/d; s/[[:space:]]\#.*$//g; /^\!/d; s/[[:space:]]\!.*$//g; /^\./d; /\.$/d' > /Users/rayyan/Desktop/Pi/Lists/<list-name>.txt

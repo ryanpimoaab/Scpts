@@ -1,0 +1,2 @@
+# Add to end, before >
+| sed 1,3d | cut -d'^' -f-1 

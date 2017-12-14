@@ -1,0 +1,45 @@
+Locations
+
+
+/etc/dnsmasq.d/
+
+/etc/dnsmasq.d/01-pihole.conf
+/etc/dnsmasq.d/02-pihole-dhcp.conf
+/etc/dnsmasq.d/02-pihole-dhcp-DNS.conf
+/etc/dnsmasq.d/03-pihole-wildcard.conf
+/etc/dnsmasq.d/04-pihole-static-dhcp.conf
+/etc/dnsmasq.d/wildcardoverride.conf
+/etc/dnsmasq.d/README
+
+
+
+/etc/dnsmasq.d/01-pihole.conf: the config specific to Pi-hole that controls how dnsmasq functions
+
+/etc/dnsmasq.d/02-pihole-dhcp.conf: the config file used when Pi-hole's DHCP server is active
+
+/etc/dnsmasq.d/03-pihole-wildcard.conf: used for wildcard blacklisting
+
+
+
+
+/etc/pihole/
+
+/etc/pihole/adlists.default: the list of URLs where the block lists are sourced from
+
+/etc/pihole/adlists.list: a custom user-defined list of URLs to source just like adlists.default. If created it will override adlists.default, but by default it does not exist until the user creates it.
+
+/etc/pihole/blacklist.txt: a user-defined list of additional domains to block52
+
+/etc/pihole/gravity.list: perhaps Pi-hole's most important file--it is a hosts file with all of the domains that are being blocked
+
+install.log: a log file generated during installation
+
+list.n.domain: these are the raw lists that are downloaded. You may have several others depending whether or not you use additional block lists
+
+local.list: this contains local list entries such as pi.hole so you can access the Web interface via name instead of IP.
+
+logrotate: this is the config file that controls how logrotate handles flushing the log file
+
+/etc/pihole/setupVars.conf: this file contains variables needed to effectively setup and configure Pi-hole
+
+/etc/pihole/whitelist.txt: a user-defined list of domains to be whitelisted. Pi-hole does generate this file during installation as it adds the domains that host the lists so they are not inadvertently blocked

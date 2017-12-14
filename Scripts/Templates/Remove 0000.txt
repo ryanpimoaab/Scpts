@@ -1,0 +1,3 @@
+#! /bin/bash
+
+curl -s <link> | sed 's/^0.0.0.0[ \t]*//' > /Users/rayyan/Desktop/Pi/Lists/edit/<name-of-list>.txt

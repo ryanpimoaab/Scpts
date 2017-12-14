@@ -1,0 +1,4 @@
+swcdn.apple.com
+swdownload.apple.com
+swquery.apple.com
+swscan.apple.com

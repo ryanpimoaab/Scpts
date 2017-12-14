@@ -1,0 +1,5 @@
+sed 's/^phrase//' or sed '/phrase/d'
+sed 's#^phrase##' if phrase contains /
+
+Remove ^ if phrase isn't at the beginning of lines
+sed 's/phrase//'   's#phrase##'

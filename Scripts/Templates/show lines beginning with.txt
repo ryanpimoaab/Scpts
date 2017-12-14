@@ -1,0 +1,2 @@
+# Show only lines beginning with letters
+grep "^[a-z]"

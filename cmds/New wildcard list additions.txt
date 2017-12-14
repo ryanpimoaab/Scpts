@@ -1,0 +1,16 @@
+# How to remove a phrase at the beginning of a line
+sed 's#^address=/##' /Users/rayyan/Desktop/test.txt > /Users/rayyan/Desktop/test3.txt
+
+# The ^ from above command means start of line, so remove to delete phrase from the end of a line
+# Using # because phrase has a / in it
+sed 's#/192.168.1.80##' /Users/rayyan/Desktop/test3.txt > /Users/rayyan/Desktop/test4.txt
+
+# How to add phrase to a beginning of a line
+awk '$0="address=/"$0' /Users/rayyan/Github/mylists/Wildcard.txt > /Users/rayyan/Desktop/Pi/Test/wildcard1.txt
+
+# Add phrase end of line
+awk '{print $0"/192.168.1.80"}' /Users/rayyan/Desktop/Pi/Test/wildcard1.txt > /Users/rayyan/Desktop/Pi/Test/wildcardpi1.txt
+awk '{print $0"/192.168.1.79"}' /Users/rayyan/Desktop/Pi/Test/wildcard1.txt > /Users/rayyan/Desktop/Pi/Test/wildcardpi0w2.txt
+
+# Remove duplicate lines
+awk '!seen[$0]++' /Users/rayyan/Desktop/test4.txt > /Users/rayyan/Desktop/Wildcard.txt

@@ -1,0 +1,2 @@
+/etc/pihole/gravity.list
+sudo scp /etc/pihole/gravity.list rayyan@192.168.1.100://Users/rayyan/Desktop/Pi/Backups/gravity.list

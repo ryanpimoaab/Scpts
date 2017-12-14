@@ -1,0 +1,5 @@
+# Paste directory of list to copy after cp, then paste name of list after /lists/
+# Link: https://ryanpimoaab.github.io/lists/<name-of-list>.txt
+# For larger lists, that aren't updated frequently
+
+cp /Users/rayyan/Github/lists

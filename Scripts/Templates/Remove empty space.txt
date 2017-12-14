@@ -1,0 +1,4 @@
+sed 's/^\s\+[ \t]//g; s/\s\+[ \t]$//g; /^\s*$/d; / /d'
+
+# Remove empty lines
+sed '/^$/d'

@@ -1,0 +1,1 @@
+curl -s http://some.list | sed 's/^||//' | cut -d'^' -f-1

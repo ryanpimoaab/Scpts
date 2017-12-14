@@ -1,0 +1,5 @@
+# Copy list exactly as is
+
+#! /bin/bash
+
+curl -s <link> > /Users/rayyan/Github/Scrpts/Lists/<name-of-list>.txt

@@ -1,0 +1,86 @@
+#notrack malicious site list updated 20 jun 2017
+1kdailyprofit.biz #scam
+1kdailyprofit.co #scam
+#a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a
+abcd7777.com #chinese scammer
+abcdnf.com #chinese scammer
+adfuture.cn #chinese android data collection 
+adsunflower.com #chinese android data collection 
+advmob.cn #chinese android data collection 
+akamoihd.net #ad injector
+andr-security.com #malicious site
+apple-safari.info #malicious site
+ashleyrnadison.com #typo
+#b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b
+biosagentplus.com #scam
+#c-c-c-c-c-c-c-c-c-c-c-c-c-c-c-c-c-c-c-c
+com-internet.online #malicious site
+cookiereports.com #annoying cookie popup
+#d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d
+davesbestdeals.com #ad injector
+donation-tools.org #ad injector
+digitaloptout.com #ad injector
+#e-e-e-e-e-e-e-e-e-e-e-e-e-e-e-e-e-e-e-e
+elbacom.com #angler ek
+edatasales.com #malicious site
+epicunitscan.info #malicious site
+#f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f
+facebookprofileview.com #malicious software
+ffdns.net #dns exploiters
+#g-g-g-g-g-g-g-g-g-g-g-g-g-g-g-g-g-g-g-g
+globaloffers.link #malware
+googele.com #typo
+gonirola.com #malicious site
+gotoout.ml #phishing
+#h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h
+hoholikik.club #ad injector
+#i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i
+intimglobus.ru #suspicious
+iubenda.com #annoying
+iphoneoptimizer.com #scam
+#j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j
+jianbaimei.com.cname.yunjiasu-cdn.net #cdn of malicious site jianbaimei.com
+jldnphwwu.bid #malicious site
+jesus2020.com #fake site
+#k-k-k-k-k-k-k-k-k-k-k-k-k-k-k-k-k-k-k-k
+#l-l-l-l-l-l-l-l-l-l-l-l-l-l-l-l-l-l-l-l
+lhzbdvm.com #ragentek rootkit
+#m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m
+m1ll1c4n0.com #added may 2016
+madmimi.com #email spam
+minaraca.com #malicious site
+myxns.cn #dns exploiters
+#n-n-n-n-n-n-n-n-n-n-n-n-n-n-n-n-n-n-n-n
+#o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+onlinesurveydaily.com #annoying
+oc.uk #typo of .co.uk
+#p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p
+prugskh.com #ragentek rootkit
+prugskh.net #ragentek rootkit
+#q-q-q-q-q-q-q-q-q-q-q-q-q-q-q-q-q-q-q-q
+#r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r
+reimageplus.com #fake bsod popus &scam
+#s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s
+ironbeast.io #suspicious
+safari-code.net #malicious site
+searchnet.com #malicious site
+searchtabnew.com #malicious site
+simplebookmark.info #buta trading - leak analytics
+site360.org.uk #angler ek
+solvusoft.com #malicious files
+surveyrouter.com #toluna surveys
+#t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t
+toogle.com #malicious site
+trumpetedextremes.com #ad injector
+#u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u
+#v-v-v-v-v-v-v-v-v-v-v-v-v-v-v-v-v-v-v-v
+#w-w-w-w-w-w-w-w-w-w-w-w-w-w-w-w-w-w-w-w
+wwu-natwiest.com #typo
+wwwp.link #malicious site
+#x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+xyz.com.br #scammer
+#y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y
+#z-z-z-z-z-z-z-z-z-z-z-z-z-z-z-z-z-z-z-z
+zief.pl #malicious site
+znznznznzn.com #malicious site
+zorwrite.com

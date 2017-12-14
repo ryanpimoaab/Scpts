@@ -1,0 +1,7 @@
+# Other lists
+
+https://ryanpimoaab.github.io/mylists/whitelist.txt
+https://ryanpimoaab.github.io/mylists/pi1-wildcard.txt
+https://ryanpimoaab.github.io/mylists/pi02-wilcard.txt
+
+https://ryanpimoaab.github.io/weekly/Anudeep-wildcard.txt

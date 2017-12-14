@@ -1,0 +1,2 @@
+sudo -s
+curl -sS https://raw.githubusercontent.com/ryanpimoaab/mylists/master/list_links.txt > /etc/pihole/adlists.list
