@@ -1,0 +1,201 @@
+1493361689.rsc.cdn77.org
+30-day-change.com
+2468.go2cloud.org
+adsmws.cloudapp.net
+androidads23.adcolony.com
+annualconsumersurvey.com
+apps.id.net
+breaksurvey.com
+data.cnn.com
+canuck-method.com
+com-notice.info
+www.com-notice.info
+apple.com-notice.info
+www.apple.com-notice.info
+support.apple.com-notice.info
+www.support.apple.com-notice.info
+dobre-programy.pl
+dobre-programy.xyz
+dobreprogramy.pro
+www.canuck-method.com
+letitbefaster.website
+login.dotomi.com
+login.dotomi.net
+external.stealthedeal.com
+goodblock.gladly.io
+help.evernote.com  ## browser add-in misbehaviour
+jackbootedroom.com ## phishing
+mackeeperapp.zeobit.com
+montrealgazette.stats.com
+fgoogle.com # misspelling
+hosted.stats.com
+hosted.stats.com.edgesuite.net
+howupdateworks.amazingupdates4youtoday.website
+mywot.com
+mywot.net
+onlineusagesurveys.com
+open.oneplus.net
+promotions.yourfirstmillion.biz
+quickcash-system.com
+save-your-pc.info
+sportsinteraction.com
+www.sportsinteraction.com
+embed.sendtonews.com
+performanceadexchange.com
+www.performanceadexchange.com
+privacyassistant.net
+ext.privacyassistant.net
+pussysaga.com
+www.pussysaga.com
+promotion.com-rewards.club
+rereddit.com
+s.zkcdn.net
+specialsections.siteseer.ca
+stealthedeal.com
+ags.news.com.au  # thanks, @valbonneconsulting
+orrenty-org.pl
+witter.cm    # common misspelling
+witter.com    # common misspelling and, besides, scumbags there.
+vdtrack.com
+www.vdtrack.com
+virtual.thewhig.com
+www.dobre-programy.pl
+www.quickcash-system.com
+www.diptanuinfo.co.cc
+www.mywot.com
+www.mywot.net
+www.torrenty-org.pl
+urldelivery.com
+www.urldelivery.com
+
+# analytics
+analysis.polarisoffice.com
+analytics-digit-in.cdn.ampproject.org
+analytics.cloudron.io
+analytics.colacoweb.net
+analytics.digit.in
+analytics.jabong.com
+analytics.lk.api.ditto.com
+analytics.logsss.com
+analytics.mailmunch.co
+analytics.mopub.com
+analytics.mytvzion.pro
+analytics.phando.com
+analytics.picsart.com
+analytics.poolshool.com
+analytics.posttv.com
+analytics.siliconexpert.com
+analytics.thevideo.me
+analyticsapi.bsbportal.com
+anayltics.kuikr.com
+zarget.com
+cdn.zarget.com
+# js based cryptocurrency mining sites
+server.jsecoin.com
+jsecoin.com
+www.jsecoin.com
+load.jsecoin.com
+listat.biz
+mataharirama.xyz
+static.reasedoper.pw
+lmodr.biz
+minecrunch.co
+minero.pw
+ppoi.org
+kissdoujin.com
+joyreactor.cc
+anime.reactor.cc
+miner.pr0gramm.com
+kisshentai.net
+coinerra.com
+crypto-loot.com
+minemytraffic.com
+coinnebula.com
+coinminerz.com
+cryptonight.wasm
+monerominer.rocks
+www.monerominer.rocks
+deepc.cc
+www.deepc.cc
+cryptocoinjs.com
+www.cryptocoinjs.com
+www.2giga.link
+2giga.link
+www.crypto-loot.com
+coinhive.com
+www.coinhive.com
+coin-have.com
+www.coin-have.com
+hashforcash.us
+www.hashforcash.us
+rocks.io
+www.rocks.io
+bjorksta.men
+www.bjorksta.men
+# ads and tracking on xiaomi devices
+api.ad.xiaomi.com
+api.admob.xiaomi.com
+api.d.xiaomi.com
+a.stat.xiaomi.com
+racking.miui.com
+cdn.ad.xiaomi.com
+data.mistat.xiaomi.com
+e.ad.xiaomi.com
+globalapi.ad.xiaomi.com
+new.api.ad.xiaomi.com
+sdkconfig.ad.xiaomi.com
+ssp.ad.xiaomi.com
+est.ad.xiaomi.com
+est.e.ad.xiaomi.com
+est.new.api.ad.xiaomi.com
+cc.sys.intl.xiaomi.com
+cc.sys.miui.com
+ccc.sys.miui.com
+ccc.sys.intl.xiaomi.com
+data.mistat.intl.xiaomi.com
+geofence.sys.miui.com
+abtest.mistat.xiaomi.com
+abtest.mistat.intl.xiaomi.com
+zeus.ad.intl.xiaomi.com
+storeconfig.mistat.intl.xiaomi.com
+fcanr.tracking.miui.com
+# ads and tracking
+ampmetrics.engadget.com
+c.adskeeper.co.uk
+datacollect.vmall.com
+events.appsflyer.com
+event.ksosoft.com
+events3.adcolony.com
+l2.visiblemeasures.com
+rack.tenjin.io
+ustat.batmobi.net
+0.0.0.0 an.batmobi.net
+0.0.0.0 api.stats.appa.pe
+0.0.0.0 api5.batmobil.net
+0.0.0.0 applog.uc.cn
+0.0.0.0 applog.camera360.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 datacollect.vmall.com
+0.0.0.0 metrics.adage.com
+0.0.0.0 ads.feedly.com
+0.0.0.0 bi-collector.oneapm.com
+0.0.0.0 lepodownload.mediatek.com
+0.0.0.0 pixel.realclever.com
+0.0.0.0 sdktm.w.inmobi.com
+0.0.0.0 matchmyip.com
+0.0.0.0 ads.aerserv.com
+0.0.0.0 ads.mp.mydas.mobi
+0.0.0.0 ads.nexage.com
+0.0.0.0 api.oneaudience.com
+0.0.0.0 d.applovin.com
+0.0.0.0 l-v1.presage.io
+0.0.0.0 rt.applovin.com
+0.0.0.0 sdk.adincube.com
+0.0.0.0 api.pubnative.net
+0.0.0.0 sdklogs.avocarrot.com
+0.0.0.0 telemetry.layer.com
+0.0.0.0 dasdada.fu.ck
+0.0.0.0 i1.dl-ad.com
+0.0.0.0 pl-v2.presage.io
+0.0.0.0 pixel.onaudience.com
+#=====================================
