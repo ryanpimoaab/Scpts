@@ -1,0 +1,8 @@
+# Remove comments, (lines beginning with #)
+sed '/^\#/d'
+
+# Remove empty lines
+sed '/^$/d'
+
+# Remove #comments after domains
+awk -F'#' '{print $1}'

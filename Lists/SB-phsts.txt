@@ -23,11 +23,11 @@ login.dotomi.com
 login.dotomi.net
 external.stealthedeal.com
 goodblock.gladly.io
-help.evernote.com  ## browser add-in misbehaviour
-jackbootedroom.com ## phishing
+help.evernote.com  
+jackbootedroom.com 
 mackeeperapp.zeobit.com
 montrealgazette.stats.com
-fgoogle.com # misspelling
+fgoogle.com 
 hosted.stats.com
 hosted.stats.com.edgesuite.net
 howupdateworks.amazingupdates4youtoday.website
@@ -52,10 +52,10 @@ rereddit.com
 s.zkcdn.net
 specialsections.siteseer.ca
 stealthedeal.com
-ags.news.com.au  # thanks, @valbonneconsulting
+ags.news.com.au  
 orrenty-org.pl
-witter.cm    # common misspelling
-witter.com    # common misspelling and, besides, scumbags there.
+witter.cm    
+witter.com    
 vdtrack.com
 www.vdtrack.com
 virtual.thewhig.com
@@ -67,8 +67,6 @@ www.mywot.net
 www.torrenty-org.pl
 urldelivery.com
 www.urldelivery.com
-
-# analytics
 analysis.polarisoffice.com
 analytics-digit-in.cdn.ampproject.org
 analytics.cloudron.io
@@ -90,7 +88,6 @@ analyticsapi.bsbportal.com
 anayltics.kuikr.com
 zarget.com
 cdn.zarget.com
-# js based cryptocurrency mining sites
 server.jsecoin.com
 jsecoin.com
 www.jsecoin.com
@@ -132,7 +129,6 @@ rocks.io
 www.rocks.io
 bjorksta.men
 www.bjorksta.men
-# ads and tracking on xiaomi devices
 api.ad.xiaomi.com
 api.admob.xiaomi.com
 api.d.xiaomi.com
@@ -159,7 +155,6 @@ abtest.mistat.intl.xiaomi.com
 zeus.ad.intl.xiaomi.com
 storeconfig.mistat.intl.xiaomi.com
 fcanr.tracking.miui.com
-# ads and tracking
 ampmetrics.engadget.com
 c.adskeeper.co.uk
 datacollect.vmall.com
@@ -169,33 +164,31 @@ events3.adcolony.com
 l2.visiblemeasures.com
 rack.tenjin.io
 ustat.batmobi.net
-0.0.0.0 an.batmobi.net
-0.0.0.0 api.stats.appa.pe
-0.0.0.0 api5.batmobil.net
-0.0.0.0 applog.uc.cn
-0.0.0.0 applog.camera360.com
-0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 datacollect.vmall.com
-0.0.0.0 metrics.adage.com
-0.0.0.0 ads.feedly.com
-0.0.0.0 bi-collector.oneapm.com
-0.0.0.0 lepodownload.mediatek.com
-0.0.0.0 pixel.realclever.com
-0.0.0.0 sdktm.w.inmobi.com
-0.0.0.0 matchmyip.com
-0.0.0.0 ads.aerserv.com
-0.0.0.0 ads.mp.mydas.mobi
-0.0.0.0 ads.nexage.com
-0.0.0.0 api.oneaudience.com
-0.0.0.0 d.applovin.com
-0.0.0.0 l-v1.presage.io
-0.0.0.0 rt.applovin.com
-0.0.0.0 sdk.adincube.com
-0.0.0.0 api.pubnative.net
-0.0.0.0 sdklogs.avocarrot.com
-0.0.0.0 telemetry.layer.com
-0.0.0.0 dasdada.fu.ck
-0.0.0.0 i1.dl-ad.com
-0.0.0.0 pl-v2.presage.io
-0.0.0.0 pixel.onaudience.com
-#=====================================
+an.batmobi.net
+api.stats.appa.pe
+api5.batmobil.net
+applog.uc.cn
+applog.camera360.com
+device-metrics-us.amazon.com
+metrics.adage.com
+ads.feedly.com
+bi-collector.oneapm.com
+lepodownload.mediatek.com
+pixel.realclever.com
+sdktm.w.inmobi.com
+matchmyip.com
+ads.aerserv.com
+ads.mp.mydas.mobi
+ads.nexage.com
+api.oneaudience.com
+d.applovin.com
+l-v1.presage.io
+rt.applovin.com
+sdk.adincube.com
+api.pubnative.net
+sdklogs.avocarrot.com
+elemetry.layer.com
+dasdada.fu.ck
+i1.dl-ad.com
+pl-v2.presage.io
+pixel.onaudience.com
