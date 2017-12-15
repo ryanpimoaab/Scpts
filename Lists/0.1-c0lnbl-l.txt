@@ -55,6 +55,7 @@ api.multipool.us
 api.nanopool.org
 api.nicehash.com
 api.pool.bitcoin.com
+api.pooldd.com
 api.slushpool.com
 api.staging.cryptokitties.co
 api.viaxmr.com
@@ -73,9 +74,11 @@ asia.ethash-hub.miningpoolhub.com
 asia.madmining.club
 asia.miningspeed.com
 asia.monero.miningpoolhub.com
+asia.zenmine.pro
 asia1.ethereum.miningpoolhub.com
 asia1.nanopool.org
 asia1.zcash.miningpoolhub.com
+asia1.zenmine.pro
 atlanta.minemonero.pro
 atlas.phoenixcoin.org
 auroramine.com
@@ -112,6 +115,7 @@ bitcoin.com
 bitcoin.cz
 bitcoin.de
 bitcoin.miningpoolhub.com
+bitcoiner.win
 bitcoinz.getpool.network
 bitconnect.co
 bitminer.io
@@ -139,6 +143,7 @@ btcprominer.life
 btcz-api.suprnova.cc
 btcz.suprnova.cc
 btg.altpool.pro
+btgmine.pro
 btgpool.pro
 btx.suprnova.cc
 buy.bitcoin.com
@@ -157,6 +162,7 @@ chc.suprnova.cc
 checkcoin.miningpoolhub.com
 cirkev.bitcoin.cz
 cliggi.download
+clod.pw
 clortho.multipool.us
 cloud.hashcoins.com
 cloudcdn.gdn
@@ -219,6 +225,7 @@ darkcoin.miningpoolhub.com
 dash.miningpoolhub.com
 dash.suprnova.cc
 dashboard.minemonero.pro
+dbix.drowningpool.net
 dc.deltapool.net
 dcr-api.suprnova.cc
 dcr-gw.suprnova.cc
@@ -257,6 +264,7 @@ digitalcoin-x11.miningpoolhub.com
 ditcoin.io
 dmdamedia.hu
 dogepool.rf.gd
+drowningpool.net
 dsh.tugae2.com
 eac.suprnova.cc
 edgeno.de
@@ -334,10 +342,13 @@ eu.stratum.bravo-mining.com
 eu.stratum.slushpool.com
 eu.wemineltc.com
 eu.zec.slushpool.com
+eu.zenmine.pro
 eu1.bitminter.com
 eu1.nanopool.org
+eu1.zenmine.pro
 eu2.multipool.us
 eu2.wemineltc.com
+eu2.zenmine.pro
 europe.cryptonight-hub.miningpoolhub.com
 europe.equihash-hub.miningpoolhub.com
 europe.ethash-hub.miningpoolhub.com
@@ -351,6 +362,7 @@ exp.suprnova.cc
 exp1.nanopool.org
 expanse.miningpoolhub.com
 explorer.bitcoin-russia.ru
+explorer.zenmine.pro
 f1.deepbit.net
 f2.deepbit.net
 f2pool.com
@@ -485,6 +497,8 @@ kissdoujin.com
 kisshentai.net
 kiwifarms.net
 kmd.suprnova.cc
+knet.kosmoplovci.org
+kosmoplovci.org
 kr.suprnova.cc
 krb.crypto-coins.club
 krb.cryptomine.pro
@@ -536,6 +550,7 @@ mail.deltapool.net
 mail.ditcoin.io
 mail.eth.pp.ua
 mail.hashcoin.io
+mail.kosmoplovci.org
 mail.miningpoolhub.com
 mail.miningspeed.com
 mail.multipool.us
@@ -669,6 +684,7 @@ node8old.mycelium.com
 node9.mycelium.com
 nodes.bitcoin-russia.ru
 nodes.viaxmr.com
+novaminers.tk
 nrn.suprnova.cc
 ns1.cryptmonero.com
 ns1.wemineltc.com
@@ -685,6 +701,7 @@ openkatalog.com
 p2p-multipool.greengaming.de
 p2pool.in
 p2pool.info
+p2pool.kosmoplovci.org
 p2pool.litecointools.com
 p2pool.neocities.org
 p2pool.org
@@ -706,6 +723,7 @@ pepe.suprnova.cc
 phkttm64gbquasaq.onion
 phoenixcoin.miningpoolhub.com
 pi2.bitcoin.cz
+pirl.drowningpool.net
 pit.deepbit.net
 platform.jsecoin.com
 podrltid.info
@@ -722,15 +740,18 @@ pool.coinimp.com
 pool.coinlab.biz
 pool.cryptmonero.com
 pool.eth.pp.ua
+pool.kosmoplovci.org
 pool.minemonero.pro
 pool.miners.pro
 pool.miningspeed.com
 pool.moneropool.nl
 pool.moriaxmr.com
+pool.qp.si
 pool.supportxmr.com
 pool.xmr.pt
 pool1.us.multipool.us
 pool2.coinimp.com
+pooldd.com
 poolmining.org
 pools.tugae2.com
 poolsupport.bitcoin.com
@@ -936,6 +957,7 @@ ttc.suprnova.cc
 tugae2.com
 tzc.suprnova.cc
 u.forre.st
+ubiq.drowningpool.net
 ubiq.suprnova.cc
 ucrypto.net
 ufocoin.miningpoolhub.com
@@ -973,8 +995,10 @@ us.miningspeed.com
 us.moneroocean.stream
 us.multipool.us
 us.wemineltc.com
+us.zenmine.pro
 us1.bitcoin.cz
 us1.bitminter.com
+us1.zenmine.pro
 us2.bitminter.com
 us3.wemineltc.com
 usa.bitcoin.cz
@@ -1017,6 +1041,7 @@ web.rocks.io
 web04.bitcoin.com
 webdisk.hashcoin.io
 webmail.coinpot.co
+webmail.cryptmonero.com
 webmail.hashcoin.io
 webmail.nicehash.com
 webmail.tugae2.com
@@ -1263,6 +1288,7 @@ ws9.3c0cb3b4.space
 ws9.3d0cb547.space
 ws9.coin-have.com
 wsnew.freebitco.in
+wty46.com
 ww.pr0gramm.com
 ww8.adminer.com
 www-tb7c.pr0gramm.com
@@ -1296,6 +1322,7 @@ www.coinhive.com
 www.coinimp.com
 www.coinlab.biz
 www.coinpot.co
+www.cryptmonero.com
 www.crypto-coins.club
 www.crypto-loot.com
 www.cryptokitties.co
@@ -1306,6 +1333,7 @@ www.deepbit.net
 www.deltapool.net
 www.ditcoin.io
 www.dogepool.rf.gd
+www.drowningpool.net
 www.eligius.st
 www.eth.pp.ua
 www.f2pool.com
@@ -1324,6 +1352,7 @@ www.jsccnn.com
 www.jscdndel.com
 www.jsecoin.com
 www.kano.is
+www.kosmoplovci.org
 www.ledgerwallet.com
 www.live.prohashing.com
 www.madmining.club
@@ -1345,6 +1374,7 @@ www.p2pool.org
 www.papoto.com
 www.pool.coinimp.com
 www.pool2.coinimp.com
+www.pooldd.com
 www.poolmining.org
 www.ppoi.org
 www.pr0gramm.com
@@ -1365,6 +1395,7 @@ www.ws.freebitco.in
 www.wsnew.freebitco.in
 www.xmr-tw.org
 www.xzpool.com
+www.zenmine.pro
 www1.2giga.link
 www2.2giga.link
 www2.wemineltc.com
@@ -1447,5 +1478,6 @@ zen-api.suprnova.cc
 zen.getpool.network
 zen.miningspeed.com
 zen.suprnova.cc
+zenmine.pro
 zero.suprnova.cc
 zrc-stratum.suprnova.cc

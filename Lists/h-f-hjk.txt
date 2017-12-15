@@ -10,6 +10,7 @@ aoasa.com
 api.toptenreviews.com
 click.xmlmonetize.com
 core.insightexpressai.com
+curationservices.com
 datanotary.com
 easypic.com
 elephantlist.com
@@ -76,4 +77,4 @@ www.www4search.net
 www4search.net
 youngteenporn.proboards89.com
 yyue.com
-# hosts: 78
+# hosts: 79
