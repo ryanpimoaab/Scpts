@@ -314,6 +314,7 @@ bnc.lt
 bookforest.biz
 boomerang.com.au
 boomtrain.com
+botman.ninja
 botsvisit.com
 bouncex.com
 bpmonline.com
@@ -1025,6 +1026,8 @@ ipinfodb.com
 ipinyou.com.cn
 iplocationtools.com
 ipro.com
+iproanalytics.com
+iprotrk.com
 ipstat.com
 ipv6monitoring.eu
 iqfp1.com
