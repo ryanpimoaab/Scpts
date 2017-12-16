@@ -2280,6 +2280,7 @@ coinpot.co
 cookiescript.info
 crypto-coins.club
 crypto-loot.com
+cryptoloot.pro
 cryptomine.pro
 deepc.cc
 gus.host
@@ -2304,6 +2305,7 @@ minexmr.com
 mmpool.org
 monerominer.rocks
 moneroocean.stream
+noblock.pro
 now.sh
 onlinereserchstatistics.online
 papoto.com
@@ -2320,6 +2322,7 @@ subloader.cf
 subloader.cf
 supportxmr.com
 webmine.cz
+wty46.com
 xbasfbno.info
 6ldu6qa.com
 aheadday.com

@@ -149,7 +149,9 @@ btx.suprnova.cc
 buy.bitcoin.com
 calc.btgpool.pro
 cann.suprnova.cc
+capitain.noblock.pro
 capodannoinversilia.com
+captain.noblock.pro
 captchas.freebitco.in
 carrel.services
 cdn.cloudcoins.co
@@ -158,6 +160,7 @@ cdn.rocks.io
 cdn.rove.cl
 cdn.static-cnt.bid
 changelly.com
+charlie.noblock.pro
 chc.suprnova.cc
 checkcoin.miningpoolhub.com
 cirkev.bitcoin.cz
@@ -481,6 +484,7 @@ itcareers.hashcoins.com
 iwanttoearn.money
 ja.changelly.com
 jackpotcoin.miningpoolhub.com
+jasmine.noblock.pro
 jira.prohashing.com
 joyreactor.cc
 jroqvbvw.info
@@ -669,6 +673,7 @@ newsupport.prohashing.com
 nicehash.com
 nist5.usa.nicehash.com
 nitsche.top
+noblock.pro
 node.supportxmr.com
 node1.mycelium.com
 node1.xmr-tw.org
@@ -1397,6 +1402,7 @@ www.webminerpool.com
 www.wemineltc.com
 www.ws.freebitco.in
 www.wsnew.freebitco.in
+www.wty46.com
 www.xmr-tw.org
 www.xzpool.com
 www.zenmine.pro
