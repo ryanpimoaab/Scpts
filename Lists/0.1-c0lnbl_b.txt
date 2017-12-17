@@ -29,6 +29,7 @@ api.370cabd5.space
 api.3c0cb3b4.space
 api.3d0cb547.space
 api.coinhive.com
+api.minexmr.com
 api.moneroocean.stream
 app.pr0gramm.com
 aservices.party
@@ -41,10 +42,13 @@ b.proxy4.nullrefexcep.com
 back4.2giga.link
 baiduccdn1.com
 bitcoiner.win
+blox.minexmr.com
 browsermine.com
+ca.minexmr.com
 capitain.noblock.pro
 capodannoinversilia.com
 captain.noblock.pro
+captchas.freebitco.in
 carrel.services
 cdn.cloudcoins.co
 cdn.cookiescript.info
@@ -93,7 +97,9 @@ en.cookiescript.info
 es.cookiescript.info
 escobar.pr0gramm.com
 eu.hatevery.info
+fbtc-uab.freebitco.in
 fr.cookiescript.info
+freebitco.in
 ftp.coinhive-manager.com
 ftp.coinlab.biz
 full.pr0gramm.com
@@ -148,6 +154,8 @@ minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
 minero.pw
+minexmr.com
+mining.freebitco.in
 minr.browsermine.com
 minr.nullrefexcep.com
 minr.pw
@@ -175,6 +183,7 @@ pool-de.supportxmr.com
 pool.cloudcoins.co
 pool.coinimp.com
 pool.coinlab.biz
+pool.minexmr.com
 pool.supportxmr.com
 pool2.coinimp.com
 ppoi.org
@@ -196,6 +205,7 @@ ron.si
 rot.ron.si
 s.gus.host
 s003.papoto.com
+s3.minexmr.com
 sbhmn-miner.com
 sea.cryptoloot.pro
 sentry.nullrefexcep.com
@@ -207,12 +217,23 @@ st.kjli.fi
 static-cnt.bid
 static.hk.rs
 static.reasedoper.pw
+static1.freebitco.in
+static2.freebitco.in
+static3.freebitco.in
+static4.freebitco.in
+static5.freebitco.in
+static6.freebitco.in
+static7.freebitco.in
+static8.freebitco.in
 statistic.date
+stats.minexmr.com
+status.minexmr.com
 stream.nullrefexcep.com
 supportxmr.com
 swanson.ron.si
 test.minr.pw
 thumb.pr0gramm.com
+tracking.freebitco.in
 ullnot.download
 us.moneroocean.stream
 vid.pr0gramm.com
@@ -240,6 +261,7 @@ ws-de-05.rocks.io
 ws-fr-01.rocks.io
 ws-fr-02.rocks.io
 ws-fr-03.rocks.io
+ws.freebitco.in
 ws000.coinhive.com
 ws001.authedmine.com
 ws001.coinhive.com
@@ -456,6 +478,7 @@ ws9.360caa42.space
 ws9.3c0cb3b4.space
 ws9.3d0cb547.space
 ws9.coin-have.com
+wsnew.freebitco.in
 wty46.com
 ww.pr0gramm.com
 ww8.adminer.com
@@ -476,6 +499,7 @@ www.coinpot.co
 www.cookiescript.info
 www.crypto-loot.com
 www.cryptoloot.pro
+www.freebitco.in
 www.gus.host
 www.hashforcash.us
 www.infamylists.com
@@ -483,6 +507,7 @@ www.jsccnn.com
 www.jscdndel.com
 www.jsecoin.com
 www.lightminer.co
+www.minexmr.com
 www.minr.pw
 www.moneroocean.stream
 www.nullrefexcep.com
@@ -493,6 +518,8 @@ www.ppoi.org
 www.pr0gramm.com
 www.rocks.io
 www.sbhmn-miner.com
+www.ws.freebitco.in
+www.wsnew.freebitco.in
 www.wty46.com
 www1.2giga.link
 www2.2giga.link

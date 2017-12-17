@@ -48,8 +48,10 @@ api.changelly.com
 api.coinhive.com
 api.cryptokitties.co
 api.demo.cryptokitties.co
+api.eminer.net
 api.ledgerwallet.com
 api.minemonero.pro
+api.minexmr.com
 api.moneroocean.stream
 api.multipool.us
 api.nanopool.org
@@ -130,6 +132,7 @@ blog.changelly.com
 blog.genesis-mining.com
 blog.hashflare.io
 blog.slushpool.com
+blox.minexmr.com
 blox.supportxmr.com
 boat.suprnova.cc
 bravo-mining.com
@@ -147,6 +150,7 @@ btgmine.pro
 btgpool.pro
 btx.suprnova.cc
 buy.bitcoin.com
+ca.minexmr.com
 calc.btgpool.pro
 cann.suprnova.cc
 capitain.noblock.pro
@@ -167,6 +171,7 @@ cirkev.bitcoin.cz
 cliggi.download
 clod.pw
 clortho.multipool.us
+cloud.eminer.net
 cloud.hashcoins.com
 cloudcdn.gdn
 cloudcoins.co
@@ -213,6 +218,7 @@ cryptonight.hk.nicehash.com
 cryptonight.in.nicehash.com
 cryptonight.jp.nicehash.com
 cryptonight.usa.nicehash.com
+cryptonoter.com
 cryptoxpool.com
 csc.suprnova.cc
 ctrb.jscdndel.com
@@ -283,6 +289,7 @@ email.crypto-coins.club
 email.mail.faucethub.io
 email.moneroocean.stream
 emc2.suprnova.cc
+eminer.net
 en.changelly.com
 eqt.suprnova.cc
 equal.suprnova.cc
@@ -290,6 +297,7 @@ equihash.cryptobroker.io
 equihash.eu.nicehash.com
 equihash.hk.nicehash.com
 equihash.jp.nicehash.com
+equihash.mine.zpool.ca
 equihash.usa.nicehash.com
 es.changelly.com
 escobar.pr0gramm.com
@@ -376,7 +384,9 @@ faucethub.io
 fbtc-audio.freebitco.in
 fbtc-uab.freebitco.in
 feathercoin.miningpoolhub.com
+fee.xmrig.com
 feedback.poolmining.org
+fees.xmrig.com
 flo.suprnova.cc
 forre.st
 forum.bitcoin.cz
@@ -455,6 +465,7 @@ hashcoins.ru
 hashflare.io
 hashforcash.us
 hashgate.eu
+hashrefinery.com
 hatevery.info
 hermes.bitcoin.de
 hexamining.io
@@ -542,6 +553,7 @@ lyra2rev2.hk.nicehash.com
 lyra2rev2.usa.nicehash.com
 m.bitcoin.cz
 m.pr0gramm.com
+m7m.mine.zpool.ca
 maaapi.mooo.com
 mac.suprnova.cc
 macminer.fabulouspanda.com
@@ -580,8 +592,10 @@ metrika.ron.si
 mine-for.us
 mine.ar-net.info
 mine.bitcoin.cz
+mine.hashrefinery.com
 mine.xmr.mypool.online
 mine.xmrpool.xyz
+mine.zpool.ca
 mine1.alimabi.cn
 minecrunch.co
 mineing.bitcoin.cz
@@ -648,6 +662,7 @@ musicoin.miningpoolhub.com
 mwnodes.viaxmr.com
 mx.mycelium.com
 mx.nanopool.org
+mx.zpool.ca
 my-retrospace.sbhmn-miner.com
 my.hashflare.io
 my.ledgerwallet.com
@@ -662,6 +677,7 @@ nanopool.org
 ndc.bitember.com
 neohash.com
 neoscrypt.eu.nicehash.com
+neoscrypt.mine.zpool.ca
 neoscrypt.usa.nicehash.com
 netko.suprnova.cc
 neva.suprnova.cc
@@ -671,6 +687,7 @@ new.supportxmr.com
 newark.minemonero.pro
 newsupport.prohashing.com
 nicehash.com
+nidscom.io
 nist5.usa.nicehash.com
 nitsche.top
 noblock.pro
@@ -747,9 +764,11 @@ pool.coinimp.com
 pool.coinlab.biz
 pool.cryptmonero.com
 pool.eth.pp.ua
+pool.hashrefinery.com
 pool.kosmoplovci.org
 pool.minemonero.pro
 pool.miners.pro
+pool.minexmr.com
 pool.miningspeed.com
 pool.moneropool.nl
 pool.moriaxmr.com
@@ -809,11 +828,13 @@ s.gus.host
 s.m.eligius.st
 s.zsolo.bid
 s003.papoto.com
+s3.minexmr.com
 sales.genesis-mining.com
 sbhmn-miner.com
 scrypt.cryptobroker.io
 scrypt.eu.nicehash.com
 scrypt.jp.nicehash.com
+scrypt.mine.zpool.ca
 scrypt.usa.nicehash.com
 sea.cryptoloot.pro
 seattle01.minemonero.pro
@@ -889,9 +910,11 @@ static6.freebitco.in
 static7.freebitco.in
 static8.freebitco.in
 statistic.date
+stats.minexmr.com
 statum.bitcoin.cz
 staturm.bitcoin.cz
 status.hashflare.io
+status.minexmr.com
 status.supportxmr.com
 sto.suprnova.cc
 stonk.suprnova.cc
@@ -936,6 +959,7 @@ support.hashflare.io
 support.ledgerwallet.com
 support.prohashing.com
 support.slushpool.com
+support.zpool.ca
 supporttickets.prohashing.com
 supportxmr.com
 suprnova.cc
@@ -1356,6 +1380,7 @@ www.hashcoins.ee
 www.hashcoins.ru
 www.hashflare.io
 www.hashforcash.us
+www.hashrefinery.com
 www.infamylists.com
 www.jsccnn.com
 www.jscdndel.com
@@ -1366,6 +1391,7 @@ www.ledgerwallet.com
 www.live.prohashing.com
 www.madmining.club
 www.minemonero.pro
+www.minexmr.com
 www.miningpoolhub.com
 www.miningspeed.com
 www.minning.bitcoin.cz
@@ -1406,6 +1432,7 @@ www.wty46.com
 www.xmr-tw.org
 www.xzpool.com
 www.zenmine.pro
+www.zpool.ca
 www1.2giga.link
 www2.2giga.link
 www2.wemineltc.com
@@ -1446,6 +1473,7 @@ xmr.suprnova.cc
 xmrapi.alimabi.cn
 xmrapib.alimabi.cn
 xmrget.com
+xmrig.com
 xmrminerpro.com
 xmrpool.eu
 xpool.net
@@ -1454,6 +1482,7 @@ xsecurity.fblaster.com
 xy.nullrefexcep.com
 xzc.suprnova.cc
 xzpool.com
+yescrypt.mine.zpool.ca
 youporn.sexy
 za.miningpool.africa
 zabbix.minemonero.pro
@@ -1490,4 +1519,5 @@ zen.miningspeed.com
 zen.suprnova.cc
 zenmine.pro
 zero.suprnova.cc
+zpool.ca
 zrc-stratum.suprnova.cc
