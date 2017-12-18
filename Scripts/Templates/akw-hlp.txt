@@ -1,0 +1,8 @@
+# Delete everything before /
+awk -F'/' '{print $2}'
+
+# Keep everything before .
+awk -F'.' '{print $1}'
+
+# Append line - add a _ at the end
+awk '{print $0"_"}'

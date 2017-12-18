@@ -2268,3 +2268,6 @@ oimagea2.ydstatic.com
 oimagea3.ydstatic.com
 oimagea4.ydstatic.com
 oimagea5.ydstatic.com
+amigo-prod-07-b4811.firebaseio.com
+api.zhuti.xiaomi.com
+ce-production-network-tracking-258870357.us-west-2.elb.amazonaws.com
