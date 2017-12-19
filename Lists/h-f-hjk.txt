@@ -27,6 +27,7 @@ internet-browser.com
 js.kolmic.com
 ldkiekxc.rr.nu
 lycos.com.org
+macrostructurable161.club
 meetyourmessenger.co.uk
 microsoft.com.org
 moobor.com
@@ -77,4 +78,4 @@ www.www4search.net
 www4search.net
 youngteenporn.proboards89.com
 yyue.com
-# hosts: 79
+# hosts: 80
