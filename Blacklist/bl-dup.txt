@@ -115,3 +115,5 @@ spklmis.com
 cwcams.com
 poloniex.spb.ru
 www.poloniex.spb.ru
+login-coinbase.com
+bittrex-support.com

@@ -14,6 +14,7 @@ arc-aws-cf-cloud-resources.tombola.com
 b.scorecardresearch.com
 badges-production-external-877820065.us-west-2.elb.amazonaws.com
 bitcoin-code.co
+bittrex-support.com
 candy.goodgame.ru
 cdn.ss.anno.channel4.com
 clicks.istripper.com
@@ -45,6 +46,7 @@ insnw.net
 instartlogic.com
 istripper.com
 legalsoft.safeupdatesforpcandmac.review
+login-coinbase.com
 macaheadapps.com
 main.dynsrvaba.com
 offer.tqeew.com
@@ -115,6 +117,7 @@ www.arc-aws-cf-cloud-resources.tombola.com
 www.b.scorecardresearch.com
 www.badges-production-external-877820065.us-west-2.elb.amazonaws.com
 www.bitcoin-code.co
+www.bittrex-support.com
 www.candy.goodgame.ru
 www.cdn.ss.anno.channel4.com
 www.clicks.istripper.com
@@ -146,6 +149,7 @@ www.insnw.net
 www.instartlogic.com
 www.istripper.com
 www.legalsoft.safeupdatesforpcandmac.review
+www.login-coinbase.com
 www.macaheadapps.com
 www.main.dynsrvaba.com
 www.offer.tqeew.com
