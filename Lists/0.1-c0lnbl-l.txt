@@ -74,21 +74,21 @@ api.moneroocean.stream
 api.multipool.us
 api.nanopool.org
 api.nicehash.com
-api.poloniex.com
 api.pool.bitcoin.com
 api.pooldd.com
 api.slushpool.com
 api.staging.cryptokitties.co
 api.viaxmr.com
+api.youbit.co.kr
 api01.ledgerwallet.com
 api02.ledgerwallet.com
 api2.bitcoin.cz
-api2.poloniex.com
 app.antpool.com
 app.bitaccess.co
 app.btcchina.com
 app.pr0gramm.com
 app.slushpool.com
+app.youbit.co.kr
 apps.ledgerwallet.com
 appv2.antpool.com
 ar.changelly.com
@@ -384,6 +384,7 @@ email.breadapp.com
 email.crypto-coins.club
 email.mail.faucethub.io
 email.moneroocean.stream
+email.yobit.net
 emc2.suprnova.cc
 eminer.net
 en.changelly.com
@@ -600,6 +601,7 @@ hashcoins.ru
 hashflare.io
 hashforcash.us
 hashgate.eu
+hashing.win
 hashrefinery.com
 hatevery.info
 help.cryptopay.me
@@ -615,6 +617,7 @@ hkasic1.wemineltc.com
 hodl.suprnova.cc
 host.d-ns.ga
 hot.wemineltc.com
+hts.youbit.co.kr
 hub.miningpoolhub.com
 huiwiw.hit.gemius.pl
 hurensohn.pr0gramm.com
@@ -631,8 +634,6 @@ inf8.extremepool.org
 infamylists.com
 influx.miningpoolhub.com
 info.bitcoin.de
-internal.poloniex.com
-ipmi.poloniex.com
 ipv6.freebitco.in
 irc.minemonero.pro
 itcareers.hashcoins.com
@@ -707,7 +708,6 @@ m-a.btcchina.com
 m.bitcoin.cz
 m.bithumb.com
 m.btcchina.com
-m.poloniex.com
 m.pr0gramm.com
 m7m.mine.zpool.ca
 maaapi.mooo.com
@@ -733,14 +733,12 @@ mail.miningspeed.com
 mail.multipool.us
 mail.nanopool.org
 mail.nicehash.com
-mail.poloniex.com
 mail.prohashing.com
 mail.ron.si
 mail.sbhmn-miner.com
 mail.tugae2.com
 mail.ypool.net
 mail2.nicehash.com
-mail2.poloniex.com
 mailout.bitcoin.de
 mailzimbra.nanopool.org
 map.bitaccess.co
@@ -895,11 +893,7 @@ novaminers.tk
 nrn.suprnova.cc
 ns1.cryptmonero.com
 ns1.wemineltc.com
-ns1alt.poloniex.com
 ns2.cryptmonero.com
-ns2alt.poloniex.com
-ns3alt.poloniex.com
-ns4alt.poloniex.com
 nullrefexcep.com
 nwx1.btcchina.com
 ny.cryptity.com
@@ -912,12 +906,12 @@ o4.email.bittrex.com
 oc.suprnova.cc
 ocean.cryptoloot.pro
 oec.extremepool.org
-office.poloniex.com
 old.bitcoin.cz
 old.nicehash.com
 oldsupport.prohashing.com
 oload.info
 op.bitaccess.co
+openapi.youbit.co.kr
 openkatalog.com
 orb.dnb.io
 p2p-multipool.greengaming.de
@@ -937,6 +931,7 @@ pasc.nanopool.org
 pasc.suprnova.cc
 pascal.eu.nicehash.com
 pascal.usa.nicehash.com
+pascal3.science
 pasl.suprnova.cc
 passport.btcchina.com
 pat.ron.si
@@ -957,7 +952,6 @@ plus-api.btcchina.com
 plus-data.btcchina.com
 plus.btcchina.com
 podrltid.info
-poloniex.com
 pool-de.supportxmr.com
 pool.antpool.com
 pool.ar-net.info
@@ -1024,10 +1018,8 @@ proxy7.nullrefexcep.com
 proxy8.nullrefexcep.com
 proxy9.nullrefexcep.com
 public.deltapool.net
-public.poloniex.com
 pure.suprnova.cc
 push.coinone.co.kr
-push.poloniex.com
 px1.papoto.com
 px2.papoto.com
 pxc.dnb.io
@@ -1239,7 +1231,6 @@ swanson.ron.si
 sweep.suprnova.cc
 sydney01.minemonero.pro
 taiga.getmonero.org
-temp.poloniex.com
 teracycle.net
 test.bitminter.com
 test.changelly.com
@@ -1257,6 +1248,7 @@ token.breadapp.com
 tokio01.minemonero.pro
 toshi.bitaccess.co
 tracking.freebitco.in
+trade.youbit.co.kr
 transfer.bitaccess.co
 tratum.bitcoin.cz
 trezor.bitcoin.cz
@@ -1747,7 +1739,6 @@ www.p2pool.info
 www.p2pool.org
 www.papoto.com
 www.pay.bithumb.com
-www.poloniex.com
 www.pool.coinimp.com
 www.pool.cryptonoter.com
 www.pool2.coinimp.com
@@ -1781,6 +1772,8 @@ www.www2.coinmine.pl
 www.xmr-tw.org
 www.xzpool.com
 www.ybcoin.com
+www.yobit.net
+www.youbit.co.kr
 www.ypool.net
 www.zenmine.pro
 www.zpool.ca
@@ -1834,9 +1827,11 @@ xmrget.com
 xmrig.com
 xmrminerpro.com
 xmrpool.eu
+xnode15.yobit.net
 xpool.net
 xre.suprnova.cc
 xsecurity.fblaster.com
+xt917.yobit.net
 xy.nullrefexcep.com
 xzc.suprnova.cc
 xzpool.com
@@ -1845,6 +1840,8 @@ ybc.coinmine.pl
 ybcoin.com
 ybh.ybcoin.com
 yescrypt.mine.zpool.ca
+yobit.net
+youbit.co.kr
 youporn.sexy
 ypool.net/
 z.coinpool.cloud
