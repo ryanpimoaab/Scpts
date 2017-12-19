@@ -1,5 +1,7 @@
-sed 's/^phrase//' or sed '/phrase/d'
+sed 's/^phrase//' or
 sed 's#^phrase##' if phrase contains /
+
+sed '/phrase/d' or awk '!/phrase1|phrase2|3etc/' deletes line
 
 Remove ^ if phrase isn't at the beginning of lines
 sed 's/phrase//'   's#phrase##'
