@@ -9,6 +9,7 @@ auroramine.com
 azvjudwr.info
 capodannoinversilia.com
 cieh.mx
+cloudcdn.gdn
 cloudcoins.co
 cnhv.co
 coin-have.com
@@ -30,7 +31,9 @@ edgeno.de
 elthamely.com
 goodolddownloads.com
 gus.host
+hallaert.online
 hashforcash.us
+hashing.win
 hatevery.info
 hit.gemius.pl
 joyreactor.cc
@@ -64,5 +67,7 @@ reasedoper.pw
 rocks.io
 ron.si
 rove.cl
+static-cnt.bid
+statistic.date
 webmine.cz
 xbasfbno.info
