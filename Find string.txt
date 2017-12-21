@@ -1,0 +1,1 @@
+grep -rnw '/Users/rayyan/Github/Scrpts' -e 'pattern'

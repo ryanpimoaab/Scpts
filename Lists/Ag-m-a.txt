@@ -915,6 +915,8 @@ static.wi-fi.ru
 login.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+crosspromotion.weplayer.cc
+ad.weplayer.cc
 mobile-campaigns.avast.com
 ketchapp.org
 global.appnext.com
@@ -956,7 +958,6 @@ s3.amazonaws.com
 api.live.daum.net
 vads-api.daumkakao.com
 spoofgames.com
-bahamut.com.tw
 gdeposylka.ru
 m.ezjoygame.com
 privetapp.ru
