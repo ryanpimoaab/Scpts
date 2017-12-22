@@ -915,6 +915,7 @@ static.wi-fi.ru
 login.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+app.openstreamapp.com
 crosspromotion.weplayer.cc
 ad.weplayer.cc
 mobile-campaigns.avast.com
@@ -976,6 +977,7 @@ eviltracker.net
 spotify.com
 trackersimulator.org
 app.adjust.com
+api.facebook.com
 pps-log.op-mobile.opera.com
 event.allnews.uodoo.com
 tktracker.aotter.net

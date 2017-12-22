@@ -52,8 +52,10 @@ azvjudwr.info
 b.proxy4.nullrefexcep.com
 back4.2giga.link
 baiduccdn1.com
+beta.coinrail.io
 bitcoiner.win
 blox.minexmr.com
+brominer.com
 browsermine.com
 ca.minexmr.com
 capitain.noblock.pro
@@ -101,6 +103,7 @@ cryptoloot.pro
 cryptonoter.com
 csgocpu.com
 ctrb.jscdndel.com
+d1e1rbybdt265x.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
 db.xmrpool.net
 de.cookiescript.info
@@ -228,6 +231,7 @@ pool.aeon.hashvault.pro
 pool.cloudcoins.co
 pool.coinimp.com
 pool.coinlab.biz
+pool.coinrail.io
 pool.cryptonoter.com
 pool.electroneum.hashvault.pro
 pool.intense.hashvault.pro
@@ -267,6 +271,7 @@ singapore01.monero.hashvault.pro
 smurf.crypto.csgocpu.com
 sr.cookiescript.info
 srv01.bitcoiner.win
+srv02.bitcoiner.win
 st.kjli.fi
 static-cnt.bid
 static.hk.rs
@@ -567,6 +572,7 @@ www.ad-miner.com
 www.adminer.com
 www.authedmine.com
 www.baiduccdn1.com
+www.bitcoiner.win
 www.browsermine.com
 www.cloudcdn.gdn
 www.cloudcoins.co
@@ -575,6 +581,7 @@ www.coinhive.com
 www.coinimp.com
 www.coinlab.biz
 www.coinpot.co
+www.coinrail.io
 www.cookiescript.info
 www.crypto-loot.com
 www.crypto-pool.fr
