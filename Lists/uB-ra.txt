@@ -92,3 +92,4 @@ siteverification.site
 subloader.cf
 supportxmr.com
 xbasfbno.info
+theappguruz.com
