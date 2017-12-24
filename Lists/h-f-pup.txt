@@ -6749,6 +6749,7 @@ sdnvndkdanging.review
 sdukanrelated.review
 search-fort.com
 search-privacy.co
+search-privacy.info
 search.hr
 search.moviecarpet.com
 search.moviecorner.com
@@ -15223,6 +15224,7 @@ www.sdnvndkdanging.review
 www.sdukanrelated.review
 www.search-fort.com
 www.search-privacy.co
+www.search-privacy.info
 www.searchanonymous.net
 www.searchassist.net
 www.searchdimension.com
@@ -18804,4 +18806,4 @@ zxmllsevanesced.review
 zyk.bratok.com
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 18810
+# hosts: 18812

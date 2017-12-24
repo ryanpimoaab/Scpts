@@ -303,6 +303,7 @@ blogreaderproject.com
 blogscounter.com
 blogsontop.com
 blogtoplist.com
+bloomjoy.com
 bluecava.com
 blueconic.net
 bluekai.com
@@ -1494,6 +1495,7 @@ proxad.net
 prtracker.com
 pstats.com
 psyma-statistics.com
+pt-trx.com
 ptengine.cn
 ptengine.com
 ptengine.jp
@@ -2285,6 +2287,7 @@ crypto-coins.club
 crypto-loot.com
 cryptoloot.pro
 cryptomine.pro
+csgocpu.com
 deepc.cc
 gus.host
 hashforcash.us
