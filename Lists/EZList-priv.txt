@@ -2267,6 +2267,8 @@ altpool.pro
 api.inwemo.com
 authedmine.com
 azvjudwr.info
+chainblock.science
+chainblock.science
 cloudcoins.co
 cnhv.co
 coin-have.com
@@ -2291,6 +2293,7 @@ csgocpu.com
 deepc.cc
 gus.host
 hashforcash.us
+hashing.win
 jroqvbvw.info
 jsccnn.com
 jscdndel.com
