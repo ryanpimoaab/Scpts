@@ -39,7 +39,6 @@ ad-apac.doubleclick.net
 ad-emea.doubleclick.net
 ad-feeds.com
 ad-maven.com
-ad.doubleclick.net
 ad131m.com
 ad2387.com
 ad2load.net
@@ -263,6 +262,7 @@ friendlyduck.com
 frtya.com
 frtyb.com
 frtye.com
+fwbntw.com
 g05.info
 ganja.com
 geranew.info
@@ -431,6 +431,7 @@ popped.biz
 popsuperbbrands.com
 popunderjs.com
 popwin.net
+poterrupte.co
 potpourrichordataoscilloscope.com
 prigmaperf.me
 print3.info
@@ -573,6 +574,7 @@ trklnks.com
 trkpointcloud.com
 trktrk017.com
 trw12.com
+tsyndicate.com
 turbofileindir.com
 tutvp.com
 tvas-a.pw

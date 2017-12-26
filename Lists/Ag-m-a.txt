@@ -22,6 +22,9 @@ plugin.mobopay.baidu.com
 mo.freeindoapp.com
 recreativ.ru
 hqsjc.com
+api*.batmobi.net
+cdn.batmobi.net
+api*.batmobil.net
 adn.insight.ucweb.com
 us.3zs0.date
 tkmftc.aotter.net
@@ -978,6 +981,7 @@ eviltracker.net
 spotify.com
 trackersimulator.org
 app.adjust.com
+sts.batmobi.net
 api.facebook.com
 pps-log.op-mobile.opera.com
 event.allnews.uodoo.com
@@ -1181,7 +1185,6 @@ nativesdks.mparticle.com
 nlog.droid4x.cn
 nrc.tapas.net
 oc.umeng.com
-onelink.me
 online-metrix.net
 openstat.net
 ping.taplytics.com
