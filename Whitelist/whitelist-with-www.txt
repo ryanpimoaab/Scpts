@@ -116,6 +116,7 @@ www.external-lhr6-1.xx.fbcdn.net
 www.external-lhr7-1.xx.fbcdn.net
 www.external-lhr8-1.xx.fbcdn.net
 www.external-lhr9-1.xx.fbcdn.net
+www.facebook.com
 www.fbcdn-creative-a.akamaihd.net
 www.fmovies.is
 www.fmovies.se
@@ -231,6 +232,7 @@ www.ryanpivpn.github.io
 www.s-new.tradingview.com
 www.s.gateway.messenger.live.com
 www.s.marketwatch.com
+www.s.tradingview.com
 www.s.youtube.com
 www.s.ytimg.com
 www.s1.symcb.com
@@ -290,6 +292,7 @@ www.v10.vortex-win.data.microsoft.com
 www.video-stats.l.google.com
 www.webcache.googleusercontent.com
 www.widget-cdn.rpxnow.com
+www.widgetdata.tradingview.com
 www.win10.ipv6.microsoft.com
 www.ws.audioscrobbler.com
 www.xbox.ipv6.microsoft.com

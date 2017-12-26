@@ -852,7 +852,6 @@ startappservice.com
 tb.beeline.ru
 youtube.com
 mobimagic.com
-graph.facebook.com
 turner.com
 images-*.ssl-images-amazon.com
 m.realgfporn.com
@@ -982,7 +981,6 @@ spotify.com
 trackersimulator.org
 app.adjust.com
 sts.batmobi.net
-api.facebook.com
 pps-log.op-mobile.opera.com
 event.allnews.uodoo.com
 tktracker.aotter.net
@@ -1149,7 +1147,6 @@ dsg.sc.omtrdc.net
 ep.xone.com
 etl.xlmc.sandai.net
 events.lbesecapi.com
-facebook.com
 fcanr.tracking.miui.com
 gate.hockeyapp.net
 geoip.fotoable.net

@@ -116,6 +116,7 @@ external-lhr6-1.xx.fbcdn.net
 external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
+facebook.com
 fbcdn-creative-a.akamaihd.net
 fmovies.is
 fmovies.se
@@ -231,6 +232,7 @@ ryanpivpn.github.io
 s-new.tradingview.com
 s.gateway.messenger.live.com
 s.marketwatch.com
+s.tradingview.com
 s.youtube.com
 s.ytimg.com
 s1.symcb.com
@@ -290,6 +292,7 @@ v10.vortex-win.data.microsoft.com
 video-stats.l.google.com
 webcache.googleusercontent.com
 widget-cdn.rpxnow.com
+widgetdata.tradingview.com
 win10.ipv6.microsoft.com
 ws.audioscrobbler.com
 xbox.ipv6.microsoft.com
@@ -423,6 +426,7 @@ www.external-lhr6-1.xx.fbcdn.net
 www.external-lhr7-1.xx.fbcdn.net
 www.external-lhr8-1.xx.fbcdn.net
 www.external-lhr9-1.xx.fbcdn.net
+www.facebook.com
 www.fbcdn-creative-a.akamaihd.net
 www.fmovies.is
 www.fmovies.se
@@ -538,6 +542,7 @@ www.ryanpivpn.github.io
 www.s-new.tradingview.com
 www.s.gateway.messenger.live.com
 www.s.marketwatch.com
+www.s.tradingview.com
 www.s.youtube.com
 www.s.ytimg.com
 www.s1.symcb.com
@@ -597,6 +602,7 @@ www.v10.vortex-win.data.microsoft.com
 www.video-stats.l.google.com
 www.webcache.googleusercontent.com
 www.widget-cdn.rpxnow.com
+www.widgetdata.tradingview.com
 www.win10.ipv6.microsoft.com
 www.ws.audioscrobbler.com
 www.xbox.ipv6.microsoft.com

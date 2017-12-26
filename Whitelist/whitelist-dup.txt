@@ -515,3 +515,8 @@ hitbtc.com
 coinpot.co
 copay.io
 mandrillapp.com
+s-new.tradingview.com
+s.tradingview.com
+s3.tradingview.com
+widgetdata.tradingview.com
+facebook.com

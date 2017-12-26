@@ -36,6 +36,7 @@ api.coinhive.com
 api.ethereum.hashvault.pro
 api.intense.hashvault.pro
 api.minexmr.com
+api.monerise.com
 api.monero.hashvault.pro
 api.moneroocean.stream
 api.sumo.hashvault.pro
@@ -198,6 +199,7 @@ mining.freebitco.in
 minr.browsermine.com
 minr.nullrefexcep.com
 minr.pw
+monerise.com
 monero-miner.net
 monero.crypto-pool.fr
 monero.hashvault.pro
@@ -313,11 +315,13 @@ web.minr.pw
 web.rocks.io
 webmail.coinpot.co
 webmine.cz
+webminerpool.com
 wijzeman.sbhmn-miner.com
 witkom.sbhmn-miner.com
 wo15.coinhive.com
 woork.sbhmn-miner.com
 wp-content.infamylists.com
+wp-monero-miner.de
 ws-ca-01.rocks.io
 ws-de-01.rocks.io
 ws-de-02.rocks.io

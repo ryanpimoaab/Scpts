@@ -116,6 +116,7 @@ external-lhr6-1.xx.fbcdn.net
 external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
+facebook.com
 fbcdn-creative-a.akamaihd.net
 fmovies.is
 fmovies.se
@@ -231,6 +232,7 @@ ryanpivpn.github.io
 s-new.tradingview.com
 s.gateway.messenger.live.com
 s.marketwatch.com
+s.tradingview.com
 s.youtube.com
 s.ytimg.com
 s1.symcb.com
@@ -290,6 +292,7 @@ v10.vortex-win.data.microsoft.com
 video-stats.l.google.com
 webcache.googleusercontent.com
 widget-cdn.rpxnow.com
+widgetdata.tradingview.com
 win10.ipv6.microsoft.com
 ws.audioscrobbler.com
 xbox.ipv6.microsoft.com
