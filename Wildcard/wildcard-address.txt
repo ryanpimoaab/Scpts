@@ -107,7 +107,6 @@ address=/epiphanyai.com
 address=/etl.tindersparks.com
 address=/everesttech.net
 address=/exosrv.com
-address=/firebaseio.com
 address=/flurry.com
 address=/fullstory.com
 address=/fwmrm.net

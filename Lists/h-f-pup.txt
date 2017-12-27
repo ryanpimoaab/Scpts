@@ -5020,6 +5020,7 @@ lp.masterpccleaner.com
 lp.pcboosterutils.com
 lp.pctonics.com
 lp.searchxptool.com
+lp.smartpcmechanics.com
 lpachrxufo.review
 lprwpphysalia.review
 lps.privacy2browsing.com
@@ -6514,6 +6515,7 @@ ruppasnugs.review
 rurpkbmxufloatable.club
 rurzwrmqimpartment.download
 rutorsearch.com
+rvozz.z3vvzdupezdl.figix.xyz
 rwlkjrhrlignominy.review
 rwlr.flu.cc
 rxokwtphytoses.download
@@ -14994,6 +14996,7 @@ www.ruppasnugs.review
 www.rurpkbmxufloatable.club
 www.rurzwrmqimpartment.download
 www.rutorsearch.com
+www.rvozz.z3vvzdupezdl.figix.xyz
 www.rwlkjrhrlignominy.review
 www.rxokwtphytoses.download
 www.rynzwgfecklessly.online
@@ -18808,4 +18811,4 @@ zxmllsevanesced.review
 zyk.bratok.com
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 18814
+# hosts: 18817

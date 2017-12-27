@@ -107,7 +107,6 @@ address=/epiphanyai.com/192.168.1.80
 address=/etl.tindersparks.com/192.168.1.80
 address=/everesttech.net/192.168.1.80
 address=/exosrv.com/192.168.1.80
-address=/firebaseio.com/192.168.1.80
 address=/flurry.com/192.168.1.80
 address=/fullstory.com/192.168.1.80
 address=/fwmrm.net/192.168.1.80
