@@ -216,6 +216,7 @@
 1-1ads.com
 1.che-ka.com
 1.chipde.damoh.schneevonmorgen.com
+1.coolestmobi.com
 1.gmxnet.damoh.schneevonmorgen.com
 1.im.cz
 1.psfree.pay.clickbank.net
@@ -1074,6 +1075,7 @@
 4see.mobi
 4seeresults.com
 4spp2.voluumtrk.com
+4ur.click
 4uxl.go2cloud.org
 4va3x.voluumtrk.com
 4web.cz
@@ -1935,6 +1937,7 @@ achmedia.com
 acim.com
 acknowing.com
 aclick.adhoc1.net
+aclickads.com
 acme.bfast.com
 acmeaffiliate.go2cloud.org
 acmgold.go2cloud.org
@@ -16521,6 +16524,7 @@ adplace.adsame.com
 adplace.i.adsame.com
 adplans.info
 adplans.net
+adplexo.com
 adplus.co.id
 adplus.goo.mx
 adpop.theglobe.net
@@ -18481,6 +18485,7 @@ adserverplus.com
 adserverpub.com
 adserversolutions.com
 adserverstatus.com
+adservi.com
 adservice.everyone.com
 adservice.everyone.net
 adservices02.picadmedia.com
@@ -19468,6 +19473,7 @@ altfarm.mediaplex.com.77799.9664.302br.net
 altfarm.mediaplex.com.77801.9664.302br.net
 altiris.112.2o7.net
 alwaysplanetss.com
+alxsite.com
 alyse-bolster.us
 alysia-lenoir.us
 alyson-canaday.us
@@ -19480,6 +19486,7 @@ amazingcounters.com
 amber-arendt.us
 amch.questionmarket.com
 amclicks.com
+amezele.com
 amica.ivwbox.de
 amie-koepke.us
 amkhn.voluumtrk.com
@@ -19743,6 +19750,7 @@ aolwpmqnoban.112.2o7.net
 aolwpnscom.112.2o7.net
 aolwpnswhatsnew.112.2o7.net
 aonx6.voluumtrk.com
+aoredi.com
 aos.wall.youmi.net
 ap.ads.link4ads.com
 ap.lijit.com
@@ -20004,6 +20012,7 @@ apps.oetingerverlag.de
 apps.outfit7.com
 apps.social.omniture.com
 apps2.outfit7.com
+apps4push.com
 appscion.go2cloud.org
 appserver-ap.com
 appserver-cp.com
@@ -20348,6 +20357,7 @@ aws-ap-southeast-2a.bench.cedexis.com
 aws.tracker.squidanalytics.com
 ax10.a.cocolog-nifty.com
 axad.shinobi.jp
+axd.cpapush.com
 axeds.com
 axf8.net
 axis7.go2cloud.org
@@ -21618,6 +21628,7 @@ bildwl.mobile.de
 bill-info.com
 billboard.cz
 billiger.ivwbox.de
+billionpops.com
 billmscurlrev.com
 bimlocal.com
 binarybliss.com
@@ -24420,7 +24431,9 @@ clickability.org
 clickable.com
 clickad.com.pl
 clickad.pl
+clickadin.com
 clickadscounter.com
+clickadu.com
 clickagents.com
 clickagy.com
 clickater.com
@@ -26979,6 +26992,7 @@ dean.doublepimp.com
 deanmediagroup.com
 deanna-husband.us
 deardrocher.com
+debadu.com
 debbie-carmen.us
 debbie-clifton.us
 debra-strom.us
@@ -27244,6 +27258,7 @@ dl392qndlveq0.cloudfront.net
 dlapf.voluumtrk.com
 dlixv.voluumtrk.com
 dlmagnetdl.maynemyltf.netdna-cdn.com
+dlsear.com
 dltags.com
 dltrk.com
 dlupv9uqtjlie.cloudfront.net
@@ -27382,6 +27397,7 @@ doubleclick.net.77654.9663.302br.net
 doubleclick.net.80252.9336.302br.net
 doubleclick.shockwave.com
 doubleclicks.me
+doubledeepclick.com
 doug1izaerwt3.cloudfront.net
 dowlatow.justclick.ru
 download.akamaitools.com.edgesuite.net
@@ -27997,6 +28013,7 @@ envy.2cnt.net
 enzjptkr.com
 eo0c1.voluumtrk.com
 eoleb.voluumtrk.com
+eoredi.com
 eosesd.org
 ep73e.voluumtrk.com
 epicgameads.com
@@ -28169,6 +28186,7 @@ evisit.exeter.ac.uk
 evisitcs2.com
 evita.ivwbox.de
 evklj.voluumtrk.com
+evleze.com
 evo5-com-netmining.netmining.com
 evs-hosted-14facd241e1c08.s3.amazonaws.com
 evt.moatads.com
@@ -28347,6 +28365,8 @@ fasteasytraffic.com
 fastlinkfinder.com
 fastly.bench.cedexis.com
 fastonlinefinder.com
+fastpopclick.com
+fastpopunder.com
 fastsexnow.net
 fasttrack.nu
 fata.ero-advertising.com
@@ -28376,9 +28396,11 @@ fe.lea.lycos.es
 fe1-au.imrworldwide.com
 fe2-au.imrworldwide.com
 fe3-au.imrworldwide.com
+febadu.com
 feclo.voluumtrk.com
 fedex.demdex.net
 fedex.tt.omtrdc.net
+fedsit.com
 feed.bizzclick.com
 feed.peakclick.com
 feed.snap.do
@@ -29186,6 +29208,7 @@ fs.moatads.com
 fsecfsecdev2.122.2o7.net
 fsfsfsfsfsf.112.207.net
 fsimedia.go2cloud.org
+fsitel.com
 fspsm.voluumtrk.com
 fsvbh.voluumtrk.com
 fsvzj.voluumtrk.com
@@ -29715,6 +29738,7 @@ gooool.com
 gopacket.goforandroid.com
 gopath2.xyz
 goreal.at
+goredi.com
 gorilla.go2cloud.org
 goshoppingonline.bfast.com
 gosms.3g.cn
@@ -30001,6 +30025,7 @@ hdplugindownload.com
 heals.msgfocus.com
 heartbeat.pmc.com
 heather-brennen.us
+hebadu.com
 hebdotop.com
 hector-lash.us
 heine.adclear.net
@@ -30198,6 +30223,7 @@ hooqy.com
 hope-weidner.us
 hoptopboy.com
 hopurl.org
+horedi.com
 horheloopo.com
 horizon.attn.com
 horizon.forbes.com
@@ -30319,6 +30345,7 @@ hypermall.com
 hyperspace-network.com
 hyperspacenetwork.com
 hypertracker.com
+hypoot.com
 hyv6u.voluumtrk.com
 hywae.voluumtrk.com
 hz7.de
@@ -30421,6 +30448,7 @@ i4.cmail1.com
 i4.createsend4.com
 i4.putags.com
 i46rz.voluumtrk.com
+i47-safebrowse.com
 i4927.voluumtrk.com
 i4c.go2cloud.org
 i5.cmail2.com
@@ -30510,6 +30538,7 @@ ieah8.voluumtrk.com
 iectl.voluumtrk.com
 iefqr.voluumtrk.com
 ield.jmp9.com
+iendoo.com
 ientc.voluumtrk.com
 ientry.com
 ientrymail.com
@@ -31024,6 +31053,7 @@ intext.nav-links.com
 intl.codecpackriver.eu
 intouch.adinfuse.com
 intouchmediagroup.com
+intovuz.com
 intranet.adition.com
 intranet.bnex.com
 intranet.zedo.com
@@ -31232,6 +31262,7 @@ jeanne-hutcherson.us
 jeannette-nauman.us
 jeannie-mccord.us
 jeanswest-com-au.b.appier.net
+jebadu.com
 jebtrack.com
 jeiup.voluumtrk.com
 jen-lobdell.us
@@ -31313,6 +31344,8 @@ jokep.com
 jokes.searchwho.com
 jolene-mclin.us
 jonathanleger.com
+joredi.com
+joredii.com
 jorel.radfellas.com
 josephine-youngberg.us
 joshtest1.evsuite.com
@@ -31462,6 +31495,7 @@ k658t.voluumtrk.com
 k66fd.voluumtrk.com
 k6afu.voluumtrk.com
 k6pwy.voluumtrk.com
+k73me-mobile.com
 k7j6a.voluumtrk.com
 k9a8e.voluumtrk.com
 kaartenhuis.nl.site-id.nl
@@ -32061,6 +32095,7 @@ liversely.com
 livesearchnow.com
 liveserver.com
 livesexasian.com
+livesharepersonals.com
 livestat.com
 livestat.derstandard.at
 livestats.la7.tv
@@ -32112,6 +32147,8 @@ loanlinks.com
 loanpush.com
 loc1.hitsprocessor.com
 local.ads.nwsource.com
+localads-statistics.maps.me
+localads.maps.me
 localmantra.com
 localmediabuying.com
 localytics.com
@@ -34122,6 +34159,7 @@ offerx.co.uk
 office.partnerearning.com
 offline.adsoftware.com
 offline.sanomaservices.nl
+ofolog.com
 og1rc.voluumtrk.com
 oggva.voluumtrk.com
 ogilvy.ngadcenter.net
@@ -34148,6 +34186,7 @@ olivia-hermes.us
 olivia-stanfield.us
 olizyr.com
 olmknp.space
+olpeb.com
 om.1and1.co.uk
 om.1und1.info
 om.cbsi.com
@@ -34223,6 +34262,7 @@ onvis.ivwbox.de
 onyarysh.ru
 onyx.bnex.com
 oobqt.voluumtrk.com
+ooredi.com
 op4g.go2cloud.org
 opads.ero-advertising.com
 opame.voluumtrk.com
@@ -34330,6 +34370,7 @@ orbitz.tt.omtrdc.net
 orders.webpower.com
 orencia.pflexads.com
 orf.oewabox.at
+orgibiz.com
 origin.privoy.doublepimp.com
 origin.zedo.com
 orion.bnex.com
@@ -34792,6 +34833,7 @@ pdt.tradedoubler.com
 peakclick.com
 peakcounter.dk
 pebble.bnex.com
+peekipaiw.com
 peerform.go2cloud.org
 peffk.voluumtrk.com
 pegasoweb.com
@@ -35038,6 +35080,7 @@ planetactive.com
 planetgamecube.us.intellitxt.com
 planetluck.com
 planituk.go2cloud.org
+platado.com
 platform.communicatorcorp.com
 platform.linkedin.com
 platform.revenuestreet.com
@@ -35174,6 +35217,7 @@ popups.infostart.com
 popuptraffic.com
 popzila.com
 poratav.com
+poredii.com
 pornads.biz
 pornaz.net
 porner.at
@@ -35568,6 +35612,7 @@ pv.sogou.com
 pvnrr.voluumtrk.com
 pvrgf.voluumtrk.com
 pwk.etrxc.com
+pwonla.com
 pwu0e.voluumtrk.com
 px.adhigh.net
 px.at.atwola.com
@@ -35661,6 +35706,7 @@ qnlcq.voluumtrk.com
 qnzdd.voluumtrk.com
 qof7o.voluumtrk.com
 qoolaid.mygeek.com
+qoredi.com
 qos.report.qq.com
 qos.video.yimg.com
 qplir.voluumtrk.com
@@ -35804,6 +35850,7 @@ raiss.voluumtrk.com
 ramctrlgate.com
 rampidads.com
 randall-mccabe.us
+raneso.com
 ranking-charts.de
 ranking-hits.de
 rankingscout.org
@@ -36284,6 +36331,7 @@ russia1.2cnt.net
 russia2.2cnt.net
 ruth-bromley.us
 ruth-westman.us
+rutht.vgzmedia.com
 rutht.voluumtrk.com
 rvcjn.voluumtrk.com
 rvkai.voluumtrk.com
@@ -37060,6 +37108,7 @@ sherry-klingbeil.us
 shfr.hernando.com
 shield.sitelock.com
 shift.nuggad.net
+shiltirs.com
 shinystat.com
 shinystat.it
 shinystat.lvlar.com
@@ -37286,7 +37335,9 @@ soastage.adition.com
 soav1.adition.com
 soccer.searchwho.com
 social.msgplus.net
+social1listnews.com
 socialize-it.com
+socialschanche.com
 socialskive.com
 sociomantic.com
 socitm.govmetric.com
@@ -37649,6 +37700,7 @@ static-ssl.exoclick.com
 static-trackers.adtarget.me
 static-www.ec.popcap.com
 static.2mdn.net
+static.3-mobiappu.com
 static.acs86.com
 static.addinto.com
 static.addynamo.net
@@ -37664,6 +37716,7 @@ static.akamai.startappexchange.com
 static.alimama.com
 static.ap.bittorrent.com
 static.app.widdit.com
+static.application-77my.com
 static.appwatch.com
 static.atdmt.com.24293.9170.302br.net
 static.atdmt.com.24299.9170.302br.net
@@ -37725,17 +37778,21 @@ static.hotjar.com
 static.htmlhubing.xyz
 static.hubspot.com
 static.hupso.com
+static.i47-safebrowse.com
 static.ifa.camads.net
 static.it.groupon-content.net
 static.itrack.it
+static.k73me-mobile.com
 static.kameleoon.com
 static.kinghost.com
 static.kinley.com
 static.l3.cdn.adbucks.com
+static.live2delivery.com
 static.livejasmin.com
 static.mailchimp.com
 static.manwin.doublepimp.com
 static.matchnet.com
+static.mb89-live.com
 static.mediav.com
 static.mlt01.com
 static.mmotraffic.com
@@ -37744,6 +37801,7 @@ static.ndoverdrive.net
 static.ngbn.net
 static.nirror.com
 static.nrelate.com
+static.o67-theguard.com
 static.parse.ly
 static.parsely.com
 static.pixazza.com
@@ -37751,11 +37809,13 @@ static.plista.com
 static.plugrush.com
 static.promo2.tubemogul.com.1748.9016.302br.net
 static.pubdirecte.com
+static.resetamobil.com
 static.rpxnow.com
 static.rts.doublepimp.com
 static.rts.phn.doublepimp.com
 static.salesresourcepartners.com
 static.serving-sys.com.47157.9349.302br.net
+static.shiltirs.com
 static.slfpu.com
 static.smowtion.com
 static.smsac.net.edgesuite.net
@@ -37773,6 +37833,7 @@ static.uolcontent.com
 static.verticalscope.com
 static.vinsight.de
 static.vpptechnologies.com
+static.whoopalook.com
 static.xpct.de
 static.yieldmo.com
 static.zangocash.com
@@ -38046,6 +38107,7 @@ stream4u.me
 streamagent.sensic.net
 streamate.doublepimp.com
 streamcastnetworks.com
+streaming-illimite5.com
 strikeadcdn.s3.amazonaws.com
 strk.enlnks.com
 strtrk.go2cloud.org
@@ -38164,6 +38226,7 @@ svastx.moatads.com
 svc-analytics.adkernel.com
 svpro7.oewabox.at
 svr1.unicaondemand.com
+svsub.com
 svz.ivwbox.de
 sw.static.planet49.com
 swa.demdex.net
@@ -38523,6 +38586,7 @@ te.versiontracker.com
 teachscape.vo.llnwd.net
 teasermedia.net
 teasernet.com
+tebadu.com
 tecchan.ivwbox.de
 tecchannel.de.intellitxt.com
 tech.ivwbox.de
@@ -38971,6 +39035,7 @@ track.effiliation.com
 track.emarketingandcommerce.com
 track.engagesciences.com
 track.enlinettrk.com
+track.eovnx.com
 track.flexlinks.com
 track.floppybank.com
 track.ft.com
@@ -39080,6 +39145,7 @@ trackbacksecure.com
 trackbar.go2cloud.org
 trackbar.navigator.web.de
 trackedclicks.com
+tracker-api.my.com
 tracker.adwingate.com
 tracker.adxpansion.com
 tracker.affility.com
@@ -39915,6 +39981,7 @@ udm.scorecardresearch.com
 udmserve.net
 udns1.newdotnet.net
 udorik.com
+uebadu.com
 uenetwork.go2cloud.org
 uestat.video.qiyi.com
 ueuerea.com
@@ -40000,6 +40067,7 @@ upads.info
 upapps.go2cloud.org
 upcnl.tt.omtrdc.net
 update.moatads.com
+updatewinrar.ru
 upliftsearch.com
 upload.kipa.co.il
 upload.webtrends.com
@@ -43816,6 +43884,7 @@ vogo-vogo.ru
 voluum.redirecting.site
 voodooparking.com
 vop.sundaysky.com
+voradu.com
 vorcu.go2cloud.org
 vorlon.ferretsoft.com
 vortex-sandbox.data.microsoft.com
@@ -43877,6 +43946,7 @@ w.hypercomments.com
 w.mlv-cdn.com
 w.online-verlag-freiburg.de
 w.sharethis.com
+w.shoopadoo.com
 w.tr553.com
 w.uimserv.net
 w.uptolike.com
@@ -44163,6 +44233,7 @@ webmasters.tubealliance.com
 webmedia.co.il
 webmedia.pl
 webnooze.com
+webodu.com
 weborama.fr
 webpagescripts.net
 webperformance.it
@@ -44278,6 +44349,7 @@ whistleout.s3.amazonaws.com
 whitney-swindell.us
 who.knows.com
 wholebodyresearch.go2cloud.org
+whoopalook.com
 whos.amung.us
 whoson.creativemark.co.uk
 whoson.smcorp.com
@@ -44384,6 +44456,7 @@ won.images.streamray.com
 wondrousvalue.com
 woopra.com
 wordwatch.go2cloud.org
+woredi.com
 workflowboard.com
 workingonline.com
 worksbest.freeservers.com
@@ -44595,6 +44668,7 @@ www.360adshost.net
 www.3dots.co.il
 www.49535.com
 www.4qsurvey.com
+www.4ur.click
 www.51yes.com
 www.526633146.redpop.pro
 www.600z.com
@@ -45746,6 +45820,7 @@ www.hyperlinksecure.com
 www.hyperspace-network.com
 www.hyperspacenetwork.com
 www.i-xzone.com
+www.i47-safebrowse.com
 www.iads.com.np
 www.iaspromotes.com
 www.ib.adnxs.com
@@ -45883,6 +45958,7 @@ www.jvz8.com
 www.jvz9.com
 www.jvzoo.com
 www.jwljj.adsb4track.com
+www.k73me-mobile.com
 www.kacey-sheilds.us
 www.kala-mazzariello.us
 www.kandace-fazio.us
@@ -46109,6 +46185,7 @@ www.maxtrust.ru
 www.mb01.com
 www.mb103.com
 www.mb104.com
+www.mb89-live.com
 www.mbotvisit.com
 www.mcpatrack.tv
 www.mcssl.com
@@ -46294,6 +46371,7 @@ www.nurno.com
 www.nvtrak.com
 www.nxsrv1.com
 www.o2onbusiness.de
+www.o67-theguard.com
 www.oamtrk.com
 www.oascentral.blogher.org.12468.9030.302br.net
 www.oascentral.blogher.org.12470.9030.302br.net
@@ -46697,6 +46775,10 @@ www.starterdir.ru
 www.statcount.com
 www.statcounter.com
 www.stateresolver.link
+www.static.i47-safebrowse.com
+www.static.k73me-mobile.com
+www.static.mb89-live.com
+www.static.o67-theguard.com
 www.statistik.biz
 www.stats4all.com
 www.stats4you.com
@@ -46947,6 +47029,7 @@ www.vstats.net
 www.vstrk.com
 www.vviii.ru
 www.vxcash.net
+www.w.shoopadoo.com
 www.wahoha.com
 www.wantstraffic.com
 www.wap.co.il
@@ -47300,6 +47383,7 @@ xbox360.ign.us.intellitxt.com
 xbridge.122.207.net
 xch.directrev.com
 xeanon.com
+xebadu.com
 xenec.stol.it
 xeontopa.com
 xerox.elicitapp.com
@@ -47438,7 +47522,9 @@ xstat.pl
 xtra.co.nz
 xtransfer.net
 xwne.wcdn.co.il
+xxladu.com
 xxx.cqcounter.com
+xxxadu.com
 xxxconnect.com
 xxxcounter.com
 xyz.freelogs.com
@@ -47484,6 +47570,7 @@ yeahmobi.go2cloud.org
 yeahmobi.hasoffers.com
 yearcast.com
 yeas.yahoo.co.jp
+yebadu.com
 yellgroup.122.2o7.net
 yello-de01.webtrekk.net
 yellostrom.webtrekk.net
@@ -47684,6 +47771,7 @@ ztrack.net
 zu.zeroredirect1.com
 zulu.go2cloud.org
 zulumob.go2cloud.org
+zumeno.com
 zv.zeroredirect1.com
 zw.zeroredirect1.com
 zww.ero-advertising.com
@@ -47697,4 +47785,4 @@ zz.cqcounter.com
 zz.zeroredirect1.com
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 47702
+# hosts: 47790

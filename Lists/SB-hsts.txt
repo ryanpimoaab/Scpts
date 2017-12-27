@@ -31918,7 +31918,7 @@ www.stickylogic.com
 # see below for acknowledgements.
 # please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
-# last updated: thu, 21 dec 2017 at 06:29:55 gmt
+# last updated: wed, 27 dec 2017 at 08:16:03 gmt
 # use this file to prevent your computer from connecting to selected
 # many types of spyware, reduces bandwidth use, blocks certain pop-up 
 # traps, prevents user tracking by way of "web bugs" embedded in spam,
@@ -32732,6 +32732,7 @@ photobox-tracking.adalyser.com
 pings.blip.tv
 p.iovation.com
 pix02.revsci.net
+pixel.bilinmedia.net
 pixel-geo.prfct.co
 pmg.ad-logics.com
 pointclicktrack.com
@@ -39695,6 +39696,7 @@ rubriccrumb.com
 rubyfortune.com
 rubylan.net
 rubytag.net
+runtime.lemonpi.io
 ru.redtram.com
 ruspolice.com
 ruspolice.net
@@ -43465,13 +43467,13 @@ nsis.bisrv.com
 # for more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   sat, 16 dec 2017 16:50:21 gmt
-# entries:        2533
+# entries:        2532
 # format:         hosts (hosts -- in hosts file format)
 # credits:        peter lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    fri, 26 dec 1997 00:00:00
+# start date:    thu, 01 jan 1998 00:00:00
 101com.com
 101order.com
 123found.com
@@ -44182,6 +44184,7 @@ creafi-online-media.com
 creative.whi.co.nz
 creatives.as4x.tmcs.net
 credishe.com
+crispads.com
 criteo.com
 critictruck.com
 croissed.info
@@ -44239,7 +44242,6 @@ e-m.fr
 e-n-t-e-r-n-e-x.com
 e-planning.net
 e.kde.cz
-eadexchange.com
 easyhits4u.com
 ebuzzing.com
 ecircle-ag.com
