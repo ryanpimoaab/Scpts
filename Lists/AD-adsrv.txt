@@ -274,7 +274,6 @@ api.newshuntads.com
 api.optnmstr.com
 api.picsart.com
 api.privy.com
-api.pushbullet.com
 api.quantumgraph.com
 api.recsys.opera.com
 api.reporo.net
@@ -1925,7 +1924,6 @@ webview.unityads.unity3d.com
 wes.df.telemetry.microsoft.com
 wfnmmrtw.bid
 widget.cloud.opta.net
-widget.pushbullet.com
 widgetdata.tradingview.com
 widgets.outbrain.com
 widgets.stackcommerce.com
@@ -2286,3 +2284,4 @@ ucb.global
 www4.ipg-online.com
 6132571714.log.optimizely.com
 a.daddyjump.xyz
+web.vortex.data.microsoft.com
