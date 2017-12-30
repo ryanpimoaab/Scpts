@@ -685,6 +685,7 @@ advertstatic.com
 advertstream.com
 advertur.ru
 advertxi.com
+advfeeds.com
 advg.jp
 advgoogle.com
 advideum.com
@@ -1068,6 +1069,7 @@ bitcoset.com
 bitfalcon.tv
 bittads.com
 bitx.tv
+bizfo.co.uk
 bizographics.com
 bizrotator.com
 bizzclick.com
@@ -6007,6 +6009,7 @@ gkeahnmvduys.com
 gkgdqahkcbmykurmngzrrolrecfqvsjgqdyujvgdrgoezkcobq.com
 gkiryieltcbg.com
 gkvhfryrramj.com
+glcgytymbp.bid
 gllkdkxygckb.com
 glnqvqbedbmvtcdzcokrfczopbddhopygrvrnlgmalgvhnsfsc.com
 glslciwwvtxn.com
@@ -6523,6 +6526,7 @@ mdrkqbsirbry.com
 meagjivconqt.com
 medyagundem.com
 meeaowsxneps.com
+megpacokjce.bid
 melqdjqiekcv.com
 mepchnbjsrik.com
 mflkgrgxadij.com
@@ -6648,6 +6652,7 @@ nklivofyjkbt.com
 nkyngrtleloc.com
 nlfqbfwbfovt.com
 nlljrfvbnisi.com
+nlmzvpvvhsau.bid
 nmaafswoiecv.com
 nmayxdwzhaus.com
 nmhhnyqmxgku.com
@@ -8115,6 +8120,13 @@ zhinkichi.info
 voodoo.com
 rcdn.pro
 greencuttlefish.com
+hiaaheddgjdfgabiafc.ru
+rybyzi.ru
+talysu.info
+latlfa.biz
+dopiku.biz
+leokross.com
+obovsemonline.ru
 wlyeo90l.pro
 bqugumvxc.biz
 xvmvvh.zcrqsfq.biz
@@ -11158,6 +11170,11 @@ theblackdeath.ru
 tiz.miladynews.ru
 tizer.rupornophoto.com
 ts2.hockey-talks.com
+niholaev.com
+caprofitx.com
+microad.net
+tdblazing.com
+hd100546b.com
 dvdsm0rlx65fo.cloudfront.net
 topjlinks.com
 webinstats.com
@@ -12418,7 +12435,6 @@ mediate-ios-*.hyprmx.com
 metamx.com
 mgage.com
 mi.gdt.qq.com
-microad.net
 mixadvert.com
 mmnetwork.mobi
 mob.huimee.net
@@ -16263,6 +16279,7 @@ ymtracking.com
 upoll.umengcloud.com
 utop.umengcloud.com
 analy.qq.com
+show.g.mediav.com
 ad.doganburda.com
 ads.linksrequest.com
 ads.yenimedya.com.tr
