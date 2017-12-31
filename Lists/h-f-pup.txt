@@ -6404,6 +6404,8 @@ regserve.com
 regservo.com
 regtask.com
 regtuneup.com
+reguse.com
+regwork.com
 reimage-express.com
 reimage.com
 reimagemac.com
@@ -13899,6 +13901,7 @@ www.maceg.tk
 www.macfileopener.com
 www.machinementljsw.website
 www.macremover.com
+www.macropccleaner.com
 www.macspacereviver.com
 www.mactweaker.com
 www.maczaminer.com
@@ -14901,6 +14904,8 @@ www.registrywizard.com
 www.regservo.com
 www.regtask.com
 www.regtuneup.com
+www.reguse.com
+www.regwork.com
 www.reimage-express.com
 www.reimage.com
 www.reimagemac.com
@@ -18816,4 +18821,4 @@ zxmllsevanesced.review
 zyk.bratok.com
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 18822
+# hosts: 18827

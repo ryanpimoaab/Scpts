@@ -520,3 +520,4 @@ s.tradingview.com
 s3.tradingview.com
 widgetdata.tradingview.com
 facebook.com
+browser-update.org

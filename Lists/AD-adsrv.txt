@@ -2285,3 +2285,10 @@ www4.ipg-online.com
 6132571714.log.optimizely.com
 a.daddyjump.xyz
 web.vortex.data.microsoft.com
+www.adthink.com
+a1.adthink.com
+app.adthink.com
+www.app.adthink.com
+cpa.adthink.com
+images.cpa.adthink.com
+network.cpa.adthink.com

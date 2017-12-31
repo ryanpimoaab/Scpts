@@ -1050,6 +1050,7 @@ bidvertiser.com
 biemedia.com
 bigadpoint.net
 bigchoicegroup.com
+bigdomain.in
 bigfineads.com
 bigpulpit.com
 bijscode.com
@@ -4336,6 +4337,7 @@ yieldadvert.com
 yieldbuild.com
 yieldkit.com
 yieldlab.net
+yieldlove.com
 yieldmanager.com
 yieldmanager.net
 yieldoptimizer.com
@@ -11226,7 +11228,6 @@ bitonclick.com
 daghashmal.com
 kulkerbolda.com
 erogaliv.com
-yieldlove.com
 adshost.site
 celeritascdn.com
 commercialvalue.org
@@ -16046,7 +16047,6 @@ s.frida.vse42.ru
 saber.srvcs.tumblr.com
 segments.adap.tv
 smetrics.uhc.com
-ssp.rambler.ru
 stags.bluekai.com
 startrekk.flaconi.de
 stat.novostimira.com

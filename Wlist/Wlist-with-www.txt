@@ -43,6 +43,7 @@ www.bitfinex.com
 www.bitpay.com
 www.bittrex.com
 www.brightcove.net
+www.browser-update.org
 www.c.s-microsoft.com
 www.camo.stream.highwebmedia.com
 www.cdn.embedly.com
