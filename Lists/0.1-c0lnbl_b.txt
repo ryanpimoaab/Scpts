@@ -1,4 +1,5 @@
 1beb2a44.space
+1q2w3.me
 2giga.link
 300ca0d0.space
 310ca263.space
@@ -59,6 +60,7 @@ bjorksta.men
 blox.minexmr.com
 brominer.com
 browsermine.com
+c7e935.netlify.com
 ca.minexmr.com
 capitain.noblock.pro
 capodannoinversilia.com
@@ -67,17 +69,21 @@ captchas.freebitco.in
 carrel.services
 cdn.cloudcoins.co
 cdn.cookiescript.info
+cdn.jquery-uim.download
 cdn.rocks.io
 cdn.rove.cl
 cdn.static-cnt.bid
+cdnfile.xyz
 charlie.noblock.pro
 chicago01.electroneum.hashvault.pro
 cliggi.download
 clod.pw
 cloudcdn.gdn
 cloudcoins.co
+cloudmedia.gdn
 cloudmediacdn.com
 cn-wallet-generator.hashvault.pro
+cndhit.xyz
 cnhv.co
 cnt.statistic.date
 cody.services
@@ -101,6 +107,7 @@ cqfnvznw.info
 crypto-loot.com
 crypto-pool.fr
 crypto.csgocpu.com
+cryptobara.com
 cryptoloot.pro
 cryptonoter.com
 csgocpu.com
@@ -112,6 +119,8 @@ de.cookiescript.info
 de.moneroocean.stream
 deepc.cc
 dev.coinlab.biz
+dev.cryptobara.com
+digger.cryptobara.com
 dmdamedia.hu
 dmg.crypto.csgocpu.com
 edgeno.de
@@ -122,6 +131,7 @@ email.moneroocean.stream
 en.cookiescript.info
 es.cookiescript.info
 escobar.pr0gramm.com
+etn.spacepools.org
 eu.hatevery.info
 fbtc-uab.freebitco.in
 fr.cookiescript.info
@@ -189,6 +199,7 @@ metrika.ron.si
 mine.xmrpool.net
 minecrunch.co
 minemytraffic.com
+miner.cryptobara.com
 miner.pr0gramm.com
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
@@ -208,6 +219,7 @@ moneroocean.stream
 moscow05.electroneum.hashvault.pro
 my-retrospace.sbhmn-miner.com
 myfhology.sbhmn-miner.com
+netlify.com
 new.minr.pw
 newark01.monero.hashvault.pro
 nitsche.top
@@ -272,11 +284,14 @@ server4.nullrefexcep.com
 silver.crypto.csgocpu.com
 singapore01.monero.hashvault.pro
 smurf.crypto.csgocpu.com
+spacepools.org
 sr.cookiescript.info
 srv01.bitcoiner.win
 srv02.bitcoiner.win
 st.kjli.fi
+static-02.flu.cc
 static-cnt.bid
+static-net.nut.cc
 static.hk.rs
 static.reasedoper.pw
 static1.freebitco.in
@@ -311,11 +326,13 @@ wc3-soft.sbhmn-miner.com
 wckp.sbhmn-miner.com
 web-master.sbhmn-miner.com
 web.clod.pw
+web.dle-news.pw
 web.minr.pw
 web.rocks.io
 webmail.coinpot.co
 webmine.cz
 webminerpool.com
+whchsvlxch.site
 wijzeman.sbhmn-miner.com
 witkom.sbhmn-miner.com
 wo15.coinhive.com
@@ -374,6 +391,7 @@ ws018.authedmine.com
 ws018.coinhive.com
 ws019.authedmine.com
 ws019.coinhive.com
+ws02.1q2w3.me
 ws02.coinnebula.com
 ws02.crypto-loot.com
 ws02.ppoi.org
@@ -396,6 +414,7 @@ ws028.authedmine.com
 ws028.coinhive.com
 ws029.authedmine.com
 ws029.coinhive.com
+ws03.1q2w3.me
 ws03.coinnebula.com
 ws03.crypto-loot.com
 ws030.authedmine.com

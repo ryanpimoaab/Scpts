@@ -336,6 +336,7 @@
 140cc.v.fwmrm.net
 140proof.com
 141.6.87.194.dynamic.dol.ru
+14119276be0852.com
 1412173.fls.doubleclick.net
 141aa.voluumtrk.com
 142.6.87.194.dynamic.dol.ru
@@ -23141,6 +23142,7 @@ bs.serving-sys.com.78501.9655.302br.net
 bs.serving-sys.com.78503.9655.302br.net
 bs.serving-sys.com.78505.9655.302br.net
 bs.yandex.ru
+bs50tds.com
 bsaig.voluumtrk.com
 bsch.serving-sys.com
 bshha.voluumtrk.com
@@ -26955,6 +26957,7 @@ dclk.net
 dcs.netbiscuits.net
 dcs.plussizetech.com
 dcs.wtlive.com
+dcw.1592878.com
 dd.connextra.com
 dd.myapp.com
 ddfnmo6ev4fd.cloudfront.net
@@ -27077,6 +27080,7 @@ demarketing.go2cloud.org
 demetria-tickle.us
 demo.adsender.us
 demo.advertising.com
+demo.cj.com
 demo.idg.com.au
 demo.kissmetrics.com
 demo.yeahmobi.com
@@ -31138,6 +31142,7 @@ itpaystolearn.com
 itpro.no.intellitxt.com
 itrack.it
 itrack19.com
+itrafficcontrol.com
 itrckr.com
 itreviews.uk.intellitxt.com
 itroq.voluumtrk.com
@@ -32611,6 +32616,7 @@ mainpost.ivwbox.de
 mainrhei.ivwbox.de
 majintetley.bravejournal.com
 makemoneyonline.2yu.in
+makersfile.com
 mako.checkm8.com
 malachite.bnex.com
 malinda-covin.us
@@ -32948,6 +32954,7 @@ meltwater.com
 meltwaternews.com
 member.clicksor.com
 members.applifier.com
+members.cj.com
 members.homecareersearch.com
 members.livejasmin.com
 members.swimsuitnetwork.com
@@ -37556,6 +37563,7 @@ ssl.clickbank.net
 ssl.google-analytics.com
 ssl.linksynergy.com
 ssl.luckyorange.com
+ssl.safepoollink.com
 ssl.webserviceaward.com
 ssl.xplosion.de
 sslad.adcash.com
@@ -38328,6 +38336,7 @@ t.mdn2015x1.com
 t.mdn2015x2.com
 t.medialytics.com
 t.menepe.com
+t.ml00.net
 t.mobilediva.com
 t.mobitrk.com
 t.mookie1.com
@@ -39499,6 +39508,7 @@ trck.dlpo.jp
 trck.illimeet.com
 trck.meexy.com
 trck.sixt.com
+trcktm.net
 treasure1.justclick.ru
 treasuredome.com
 treasuretrooper.com
@@ -39530,6 +39540,7 @@ trk-conceptaffi.aprism.me
 trk.1cpa.ru
 trk.adbutter.net
 trk.adtrkaa.com
+trk.airproof.party
 trk.anchtrk.com
 trk.apperol.com
 trk.atdmt.com
@@ -39552,6 +39563,7 @@ trk.trafficposse.com
 trk.vaultrk.com
 trk.vidible.tv
 trk.vindicosuite.com
+trk.wdacashtrk.com
 trk02.gtrk.info
 trk1.opanw.com
 trk2it4.com
@@ -43925,6 +43937,7 @@ vstrk.com
 vt.adition.com
 vtot.proxy.aol.com
 vtrack.larvtrk.com
+vtrack.wdavtrk.com
 vtracking.in.com
 vtrtl.de
 vu.moatads.com
@@ -44099,6 +44112,7 @@ watson.microsoft.com
 watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
 watson.telemetry.microsoft.com.nsatc.net
+waudeesestew.com
 wbf.go2cloud.org
 wblasti.go2cloud.org
 wbn.su
@@ -44571,6 +44585,7 @@ wutlar.fortumo.com
 wuv.ivwbox.de
 wv.inner-active.mobi
 wvwr1.hitbox.com
+ww.cj.com
 ww.thefile.me
 ww.tr553.com
 ww1.app4install.com
@@ -45215,6 +45230,7 @@ www.cityadspix.com
 www.cityredirect.com
 www.cityviplink.com
 www.civicscience.com
+www.cj.com
 www.cjsab.com
 www.cktagalongs.com
 www.cktrk.net
@@ -45409,6 +45425,7 @@ www.data-eroadvertising.com
 www.daylogs.com
 www.dayna-cadet.us
 www.dburl.us
+www.dcw.1592878.com
 www.dealcent.com
 www.dealofadayonline.com
 www.dealsfor.me
@@ -45916,6 +45933,7 @@ www.jayde.com
 www.jbugk.com
 www.jcount.com
 www.jd-mail.co.uk
+www.jdoqocy.com
 www.jeana-pedigo.us
 www.jeanette-cropper.us
 www.jeanine-ragan.us
@@ -46130,6 +46148,7 @@ www.mail-to-a-friend.com
 www.mailchimp.com
 www.mailtrack.me
 www.mainstreamadvertising.com
+www.makersfile.com
 www.mandi-kearney.us
 www.mandy-lauzon.us
 www.manuelu.com
@@ -46942,6 +46961,7 @@ www.trafic.ro
 www.traficmax.fr
 www.traktum.com
 www.transferhit.com
+www.trcktm.net
 www.trhzc.com
 www.tribalfusion.com
 www.trisha-meikle.us
@@ -47312,6 +47332,7 @@ wwwtest.timesink.com
 wwwthesharperimage.com
 wwwview.atdmt.com.1520.302br.net
 wwwview.atdmt.com.801.8000.302br.net
+wwww.cj.com
 wwww.woolik.com
 wxdownloadmanager.com
 wz.tynt.com
@@ -47785,4 +47806,4 @@ zz.cqcounter.com
 zz.zeroredirect1.com
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 47790
+# hosts: 47811

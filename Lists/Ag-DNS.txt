@@ -2352,6 +2352,7 @@ js.cdn.ac
 jscloud.org
 jscount.com
 jsfeedadsget.com
+jsmjmp.com
 jsretra.com
 jssearch.net
 jtrakk.com
@@ -3299,6 +3300,7 @@ push2check.com
 pussl10.com
 pussl11.com
 pussl13.com
+pussl18.com
 pussl28.com
 pussl3.com
 pussl30.com
@@ -3596,6 +3598,7 @@ simply.com
 simplyhired.com
 simvinvo.com
 siniature.com
+siradsalot.com
 sirfad.com
 sitebrand.com
 siteencore.com
@@ -11342,7 +11345,6 @@ jqueryserve.org
 econducte.com
 wct.click
 9content.com
-pussl18.com
 serving.adbetclickin.pink
 mtvp05j.com
 khimandi.info
