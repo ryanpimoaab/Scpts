@@ -27807,7 +27807,7 @@ www.winaproduct.com
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    sun, 04 jan 1998 00:00:00
+# start date:    wed, 07 jan 1998 00:00:00
 101com.com
 101order.com
 123found.com
