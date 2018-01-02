@@ -2248,6 +2248,7 @@ zqtk.net
 zroitracker.com
 ztsrv.com
 .cf
+.site
 1beb2a44.space
 1q2w3.me
 300ca0d0.space
@@ -2291,6 +2292,7 @@ coinpot.co
 cookiescript.info
 crypto-coins.club
 crypto-loot.com
+cryptobara.com
 cryptoloot.pro
 cryptomine.pro
 csgocpu.com

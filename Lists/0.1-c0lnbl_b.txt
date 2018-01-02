@@ -58,6 +58,7 @@ beta.coinrail.io
 bitcoiner.win
 bjorksta.men
 blox.minexmr.com
+bmnr.pw
 brominer.com
 browsermine.com
 c7e935.netlify.com
@@ -179,6 +180,7 @@ kisshentai.net
 kiwifarms.net
 kunay.nullrefexcep.com
 l-shop.nullrefexcep.com
+lib.xmrm.pw
 light.browsermine.com
 lightminer.co
 listat.biz
@@ -210,12 +212,14 @@ mining.freebitco.in
 minr.browsermine.com
 minr.nullrefexcep.com
 minr.pw
+moneone.ga
 monerise.com
 monero-miner.net
 monero.crypto-pool.fr
 monero.hashvault.pro
 monerominer.rocks
 moneroocean.stream
+monkeyminer.net
 moscow05.electroneum.hashvault.pro
 my-retrospace.sbhmn-miner.com
 myfhology.sbhmn-miner.com
@@ -240,6 +244,7 @@ phx-2.xmrpool.net
 phx-3.xmrpool.net
 phx-4.xmrpool.net
 platform.jsecoin.com
+plexcoin.info
 podrltid.info
 pool-de.supportxmr.com
 pool.aeon.hashvault.pro
@@ -349,6 +354,7 @@ ws-fr-01.rocks.io
 ws-fr-02.rocks.io
 ws-fr-03.rocks.io
 ws.freebitco.in
+ws.xmrm.pw
 ws.xmrpool.net
 ws000.coinhive.com
 ws001.authedmine.com
@@ -445,6 +451,7 @@ ws1.360caa42.space
 ws1.370cabd5.space
 ws1.3c0cb3b4.space
 ws1.3d0cb547.space
+ws1.bmnr.pw
 ws1.coin-have.com
 ws1.g-content.bid
 ws1.minr.pw
@@ -471,6 +478,7 @@ ws2.360caa42.space
 ws2.370cabd5.space
 ws2.3c0cb3b4.space
 ws2.3d0cb547.space
+ws2.bmnr.pw
 ws2.coin-have.com
 ws2.g-content.bid
 ws2.statistic.date
@@ -496,6 +504,7 @@ ws3.360caa42.space
 ws3.370cabd5.space
 ws3.3c0cb3b4.space
 ws3.3d0cb547.space
+ws3.bmnr.pw
 ws3.coin-have.com
 ws3.g-content.bid
 ws3.statistic.date
@@ -519,6 +528,7 @@ ws4.360caa42.space
 ws4.370cabd5.space
 ws4.3c0cb3b4.space
 ws4.3d0cb547.space
+ws4.bmnr.pw
 ws4.coin-have.com
 ws40.crypto-loot.com
 ws41.crypto-loot.com
@@ -637,6 +647,7 @@ www.test.cryptonoter.com
 www.ws.freebitco.in
 www.wsnew.freebitco.in
 www.wty46.com
+www.xmrm.pw
 www.xmrpool.net
 www1.2giga.link
 www2.2giga.link
@@ -657,6 +668,7 @@ xmr6.crypto-pool.fr
 xmr7.crypto-pool.fr
 xmr8.crypto-pool.fr
 xmrm.browsermine.com
+xmrm.pw
 xmrpool.net
 xy.nullrefexcep.com
 youporn.sexy
