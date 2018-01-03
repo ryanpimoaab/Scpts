@@ -2248,7 +2248,15 @@ zqtk.net
 zroitracker.com
 ztsrv.com
 .cf
+.date
+.faith
+.men
+.party
+.rocks
+.science
 .site
+.stream
+.xyz
 1beb2a44.space
 1q2w3.me
 300ca0d0.space
@@ -2270,6 +2278,8 @@ altpool.pro
 api.inwemo.com
 authedmine.com
 azvjudwr.info
+baiduccdn1.com
+biberukalap.com
 bjorksta.men
 cdnfile.xyz
 chainblock.science
@@ -2300,6 +2310,8 @@ deepc.cc
 dle-news.pw
 flu.cc
 g-content.bid
+goredirect.party
+gridiogrid.com
 gus.host
 hallaert.online
 hashforcash.us
@@ -2308,6 +2320,7 @@ hodlers.party
 hodling.faith
 hodling.party
 hodling.science
+host.d-ns.ga
 igg.biz
 jquery-uim.download
 jroqvbvw.info
@@ -2331,7 +2344,9 @@ minr.pw
 mmpool.org
 monerominer.rocks
 moneroocean.stream
+nahnoji.cz
 noblock.pro
+now.sh
 now.sh
 nut.cc
 onlinereserchstatistics.online

@@ -20,6 +20,7 @@ filmsworlds.blogspot.co.uk
 filmsworlds.blogspot.com
 freetube.com
 gimmebargains.com
+helperprotectionext.biz
 homepage.emachines.com
 homepagle.com
 iblockpopups.com
@@ -78,4 +79,4 @@ www.www4search.net
 www4search.net
 youngteenporn.proboards89.com
 yyue.com
-# hosts: 80
+# hosts: 81

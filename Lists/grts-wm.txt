@@ -4,6 +4,7 @@
 8jd2lfsq.me
 ad-miner.com
 afminer.com
+akvideo.stream
 anime.reactor.cc
 api.inwemo.com
 aservices.party
@@ -41,6 +42,7 @@ dmdamedia.hu
 edgeno.de
 elthamely.com
 fili.tv
+filmgoo.org
 g-content.bid
 goodkino.biz
 goodolddownloads.com
@@ -52,6 +54,7 @@ harvest.surge.sh
 hashforcash.us
 hashing.win
 hatevery.info
+hemnes.win
 hit.gemius.pl
 igrid.org
 joyreactor.cc
@@ -101,3 +104,4 @@ webmine.cz
 webminerpool.com
 wp-monero-miner.de
 xbasfbno.info
+zona.video
