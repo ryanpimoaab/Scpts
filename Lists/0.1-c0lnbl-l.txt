@@ -167,6 +167,7 @@ beta.prohashing.com
 beta.slushpool.com
 beta.supportxmr.com
 beta.viaxmr.com
+biberukalap.com
 bic.crypto-coins.club
 bip.crypto-coins.club
 bip.poolto.be
@@ -701,6 +702,7 @@ grafana.minemonero.pro
 grafana.xmrpool.net
 granite.miningpoolhub.com
 graph.coinone.co.kr
+gridiogrid.com
 groestlcoin.miningpoolhub.com
 grs.suprnova.cc
 guest-stat.com
@@ -908,6 +910,8 @@ mine.bitcoin.cz
 mine.cryptoescrow.eu
 mine.hashrefinery.com
 mine.moneropool.com
+mine.nahnoji.cz
+mine.torrent.pw
 mine.xmr.mypool.online
 mine.xmrpool.net
 mine.xmrpool.xyz
@@ -1034,7 +1038,6 @@ neoscrypt.eu.nicehash.com
 neoscrypt.mine.zpool.ca
 neoscrypt.usa.nicehash.com
 netko.suprnova.cc
-netlify.com
 neva.suprnova.cc
 new.minr.pw
 new.nicehash.com
@@ -1053,6 +1056,7 @@ nitsche.top
 nl1.ghash.io
 noblock.pro
 node.supportxmr.com
+node.viaxmr.com
 node1.mycelium.com
 node1.xmr-tw.org
 node2.mycelium.com
@@ -1512,6 +1516,7 @@ us-east.zec.slushpool.com
 us-east1.ethereum.miningpoolhub.com
 us-east1.nanopool.org
 us-east2.multipool.us
+us-stratum.viaxmr.com
 us-west.bitcoin.cz
 us-west.multipool.us
 us-west1.nanopool.org

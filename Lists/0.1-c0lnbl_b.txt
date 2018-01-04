@@ -22,6 +22,7 @@ afminer.com
 ait7ee.win
 andrew.nullrefexcep.com
 anime.reactor.cc
+api-backup.viaxmr.com
 api.1beb2a44.space
 api.300ca0d0.space
 api.310ca263.space
@@ -42,6 +43,7 @@ api.monero.hashvault.pro
 api.moneroocean.stream
 api.sumo.hashvault.pro
 api.sumokoin.hashvault.pro
+api.viaxmr.com
 api.xmrpool.net
 app.pr0gramm.com
 aservices.party
@@ -55,6 +57,7 @@ b.proxy4.nullrefexcep.com
 back4.2giga.link
 baiduccdn1.com
 beta.coinrail.io
+biberukalap.com
 bitcoiner.win
 bjorksta.men
 blox.minexmr.com
@@ -150,6 +153,7 @@ goldnova.crypto.csgocpu.com
 goodolddownloads.com
 google.gus.host
 grafana.xmrpool.net
+gridiogrid.com
 gulf.moneroocean.stream
 gus.host
 hallaert.online
@@ -198,6 +202,8 @@ main.xmrpool.net
 manila-1.xmrpool.net
 mataharirama.xyz
 metrika.ron.si
+mine.nahnoji.cz
+mine.torrent.pw
 mine.xmrpool.net
 minecrunch.co
 minemytraffic.com
@@ -221,14 +227,16 @@ monerominer.rocks
 moneroocean.stream
 monkeyminer.net
 moscow05.electroneum.hashvault.pro
+mwnodes.viaxmr.com
 my-retrospace.sbhmn-miner.com
 myfhology.sbhmn-miner.com
-netlify.com
 new.minr.pw
 newark01.monero.hashvault.pro
 nitsche.top
 nl.cookiescript.info
 noblock.pro
+node.viaxmr.com
+nodes.viaxmr.com
 novaminers.tk
 nullrefexcep.com
 ocean.cryptoloot.pro
@@ -322,8 +330,10 @@ testnet-api.xmrpool.net
 thumb.pr0gramm.com
 tracking.freebitco.in
 ullnot.download
+us-stratum.viaxmr.com
 us.moneroocean.stream
 vegas-1.xmrpool.net
+viaxmr.com
 vid.pr0gramm.com
 vxelkrhl.info
 w13.coinhive.com
@@ -644,6 +654,7 @@ www.pr0gramm.com
 www.rocks.io
 www.sbhmn-miner.com
 www.test.cryptonoter.com
+www.viaxmr.com
 www.ws.freebitco.in
 www.wsnew.freebitco.in
 www.wty46.com

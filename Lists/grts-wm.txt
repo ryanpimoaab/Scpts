@@ -11,6 +11,7 @@ aservices.party
 audioknigi.club
 auroramine.com
 azvjudwr.info
+baiduccdn1.com
 brominer.com
 c7e935.netlify.com
 capodannoinversilia.com
@@ -34,6 +35,7 @@ coinrail.io
 cookiescript.info
 cookiescriptcdn.pro
 crypto-loot.com
+cryptobara.com
 cryptoloot.pro
 cryptonoter.com
 d1e1rbybdt265x.cloudfront.net
@@ -46,6 +48,7 @@ filmgoo.org
 g-content.bid
 goodkino.biz
 goodolddownloads.com
+goredirect.party
 gridcash.net
 gridiogrid.com
 gus.host
@@ -56,10 +59,12 @@ hashing.win
 hatevery.info
 hemnes.win
 hit.gemius.pl
+host.d-ns.ga
 igrid.org
 joyreactor.cc
 jroqvbvw.info
 jsccnn.com
+jscdndel.com
 jsecoin.com
 jyhfuqoh.info
 kdowqlpt.info
@@ -70,6 +75,7 @@ kjli.fi
 listat.biz
 lmodr.biz
 mataharirama.xyz
+mine.nahnoji.cz
 minecrunch.co
 minemytraffic.com
 minero-proxy-01.now.sh
