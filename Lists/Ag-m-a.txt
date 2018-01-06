@@ -918,6 +918,7 @@ static.wi-fi.ru
 login.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+mobi.yanosik.pl:8080
 app.openstreamapp.com
 crosspromotion.weplayer.cc
 ad.weplayer.cc
