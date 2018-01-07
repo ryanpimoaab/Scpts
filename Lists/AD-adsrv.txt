@@ -5157,3 +5157,12 @@ new.free-counters.co.uk
 ns2.free-counters.co.uk
 rackers.free-counters.co.uk
 www.trackers.free-counters.co.uk
+www.popads.net
+anycast.popads.net
+banners.popads.net
+blog.popads.net
+c1.popads.net
+c2.popads.net
+www.c2.popads.net
+o1.notification.popads.net
+static.popads.net
