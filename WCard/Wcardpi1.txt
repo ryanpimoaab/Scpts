@@ -298,3 +298,5 @@ address=/yieldmo.com/192.168.1.80
 address=/zadserver.com/192.168.1.80
 address=/zedo.com/192.168.1.80
 address=/zenmxapps.com/192.168.1.80
+address=/behavioralengine.com/192.168.1.80
+address=/audienceinsights.net/192.168.1.80

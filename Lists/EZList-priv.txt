@@ -2248,6 +2248,7 @@ zqtk.net
 zroitracker.com
 ztsrv.com
 .cf
+.club
 .date
 .faith
 .men
@@ -2269,6 +2270,7 @@ ztsrv.com
 3c0cb3b4.space
 3d0cb547.space
 77.162.125.199
+abc.pema.cl
 ad-miner.com
 adminer.com
 afminer.com
@@ -2333,6 +2335,7 @@ listat.biz
 lmodr.biz
 mataharirama.xyz
 megabanners.cf
+mine.nahnoji.cz
 mine.torrent.pw
 minecrunch.co
 minemytraffic.com
@@ -2344,6 +2347,7 @@ minr.pw
 mmpool.org
 monerominer.rocks
 moneroocean.stream
+morningdigit.com
 nahnoji.cz
 noblock.pro
 now.sh
@@ -2355,6 +2359,7 @@ podrltid.info
 ppoi.org
 projectpoi.com
 reasedoper.pw
+reservedoffers.club
 rocks.io
 sbhmn-miner.com
 secumine.net
@@ -2366,6 +2371,7 @@ subloader.cf
 supportxmr.com
 usa.cc
 webmine.cz
+wsp.marketgid.com
 wty46.com
 xbasfbno.info
 ywtjdckysve.com

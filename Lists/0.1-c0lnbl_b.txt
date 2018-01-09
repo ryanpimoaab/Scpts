@@ -152,6 +152,7 @@ go.megabanners.cf
 goldnova.crypto.csgocpu.com
 goodolddownloads.com
 google.gus.host
+goredirect.party
 grafana.xmrpool.net
 gridiogrid.com
 gulf.moneroocean.stream
@@ -172,6 +173,9 @@ intense.hashvault.pro
 it.cookiescript.info
 jasmine.noblock.pro
 joyreactor.cc
+jqcdn01.herokuapp.com
+jqcdn03.herokuapp.com
+jqcdn2.herokuapp.com
 jroqvbvw.info
 js.coinhive.com
 jsccnn.com
@@ -228,6 +232,8 @@ moneroocean.stream
 monkeyminer.net
 moscow05.electroneum.hashvault.pro
 mwnodes.viaxmr.com
+mxcdn1.now.sh
+mxcdn2.now.sh
 my-retrospace.sbhmn-miner.com
 myfhology.sbhmn-miner.com
 new.minr.pw
@@ -238,6 +244,7 @@ noblock.pro
 node.viaxmr.com
 nodes.viaxmr.com
 novaminers.tk
+npcdn1.now.sh
 nullrefexcep.com
 ocean.cryptoloot.pro
 oload.info
@@ -323,6 +330,11 @@ sumo.hashvault.pro
 sumokoin.hashvault.pro
 supportxmr.com
 swanson.ron.si
+sxcdn02.now.sh
+sxcdn1.herokuapp.com
+sxcdn4.now.sh
+sxcdn5.herokuapp.com
+sxcdn6.now.sh
 sydney01.monero.hashvault.pro
 test.cryptonoter.com
 test.minr.pw
@@ -354,6 +366,7 @@ wo15.coinhive.com
 woork.sbhmn-miner.com
 wp-content.infamylists.com
 wp-monero-miner.de
+wpcdn1.herokuapp.com
 ws-ca-01.rocks.io
 ws-de-01.rocks.io
 ws-de-02.rocks.io

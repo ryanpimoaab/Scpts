@@ -298,3 +298,5 @@ address=/yieldmo.com
 address=/zadserver.com
 address=/zedo.com
 address=/zenmxapps.com
+address=/behavioralengine.com
+address=/audienceinsights.net
