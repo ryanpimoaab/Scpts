@@ -52,6 +52,107 @@ analyticsapi.bsbportal.com
 anayltics.kuikr.com
 zarget.com
 cdn.zarget.com
+www.alphonso.tv
+abclipper-ui1.alphonso.tv
+acr10.alphonso.tv
+acr11.alphonso.tv
+acr12.alphonso.tv
+acr13.alphonso.tv
+acr14.alphonso.tv
+acr15.alphonso.tv
+acr16.alphonso.tv
+acr17.alphonso.tv
+acr18.alphonso.tv
+acr19.alphonso.tv
+acr2.alphonso.tv
+acr20.alphonso.tv
+acr21.alphonso.tv
+acr22.alphonso.tv
+acr23.alphonso.tv
+acr25.alphonso.tv
+acr26.alphonso.tv
+acr27.alphonso.tv
+acr28.alphonso.tv
+acr29.alphonso.tv
+acr3.alphonso.tv
+acr30.alphonso.tv
+acr31.alphonso.tv
+acr32.alphonso.tv
+acr33.alphonso.tv
+acr34.alphonso.tv
+acr35.alphonso.tv
+acr36.alphonso.tv
+acr37.alphonso.tv
+acr39.alphonso.tv
+acr4.alphonso.tv
+acr40.alphonso.tv
+acr41.alphonso.tv
+acr42.alphonso.tv
+acr43.alphonso.tv
+acr44.alphonso.tv
+acr45.alphonso.tv
+acr46.alphonso.tv
+acr47.alphonso.tv
+acr49.alphonso.tv
+acr5.alphonso.tv
+acr51.alphonso.tv
+acr52.alphonso.tv
+acr53.alphonso.tv
+acr54.alphonso.tv
+acr55.alphonso.tv
+acr56.alphonso.tv
+acr58.alphonso.tv
+acr59.alphonso.tv
+acr6.alphonso.tv
+acr7.alphonso.tv
+acr8.alphonso.tv
+acr9.alphonso.tv
+acrdb.alphonso.tv
+ads.alphonso.tv
+api.alphonso.tv
+www.api.alphonso.tv
+assets.alphonso.tv
+bale.alphonso.tv
+bebe.alphonso.tv
+beckham.alphonso.tv
+best.alphonso.tv
+blog.alphonso.tv
+bwlkup.alphonso.tv
+clockskew.alphonso.tv
+cruyff.alphonso.tv
+dashboards.alphonso.tv
+degea.alphonso.tv
+dembele.alphonso.tv
+demo.alphonso.tv
+dimaria.alphonso.tv
+donovan.alphonso.tv
+honolulu.alphonso.tv
+insights.alphonso.tv
+koudas.alphonso.tv
+mahrez.alphonso.tv
+neymar.alphonso.tv
+optout.alphonso.tv
+oscar.alphonso.tv
+ozil.alphonso.tv
+pele.alphonso.tv
+pp.alphonso.tv
+ppjs.alphonso.tv
+prov.alphonso.tv
+proxy.alphonso.tv
+rtbdev4.alphonso.tv
+rtblbtr.alphonso.tv
+s4udash2.alphonso.tv
+silva.alphonso.tv
+socrates.alphonso.tv
+sterling.alphonso.tv
+n.alphonso.tv
+r.alphonso.tv
+vads.alphonso.tv
+vanpersie.alphonso.tv
+villa.alphonso.tv
+web2.alphonso.tv
+yashin.alphonso.tv
+zico.alphonso.tv
 # js based cryptocurrency mining sites
 server.jsecoin.com
 jsecoin.com
@@ -1506,7 +1607,7 @@ xyrjtq.misterjoy.ru
 # see below for acknowledgements.
 # please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
-# last updated: sat, 30 dec 2017 at 02:17:50 gmt
+# last updated: wed, 03 jan 2018 at 18:00:26 gmt
 # use this file to prevent your computer from connecting to selected
 # internet hosts. this is an easy and effective way to protect you from 
 # many types of spyware, reduces bandwidth use, blocks certain pop-up 
@@ -1823,6 +1924,7 @@ cdn.fastclick.net
 3ps.go.com
 4-counter.com
 a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net
+abclnks.com
 abscbn.spinbox.net
 accountlock-demo.iovation.com
 activity.serving-sys.com
@@ -1849,6 +1951,7 @@ ads.tiscali.it
 adult.foxcounter.com
 affiliate.ab1trk.com
 affiliate.irotracker.com
+affpool.com
 ai062.insightexpress.com
 ai078.insightexpressai.com
 ai087.insightexpress.com
@@ -1907,6 +2010,8 @@ bigdata.adups.com
 bigdata.advmob.cn
 bilbo.counted.com
 bin.clearspring.com
+bindedge.com
+bindfast.com
 birta.stats.is
 bkrtx.com
 bluekai.com
@@ -1971,6 +2076,7 @@ ci-mpsnare.iovation.com
 ci-snare.iovation.com
 citrix.tradedoubler.com
 cjt1.net
+clckcloud.com
 click.atdmt.com
 clickauditor.net
 click.fivemtn.com
@@ -2012,6 +2118,7 @@ clit8.sextracker.com
 clit9.sextracker.com
 clk.aboxdeal.com
 clk.relestar.com
+clkrtrkr.com
 cnn.entertainment.printthis.clickability.com
 cnt.xcounter.com
 code.murdoog.com
@@ -2178,6 +2285,7 @@ c.statcounter.com
 c.thecounter.de
 ctrack07.optin-global.net
 ctrack.optin-global.net
+customtrck.com
 cw.nu
 cyseal.cyveillance.com
 cz3.clickzs.com
@@ -2201,6 +2309,7 @@ didtheyreadit.com
 digistats.westjet.com
 dimeprice.com
 directads.mcafee.com
+diskager.com
 dkb01.webtrekk.net
 dotcomsecrets.com
 dpbolvw.net
@@ -2289,6 +2398,7 @@ e-n.y-1shz2prbmdj6wvny-1sez2pra2dj6wjmyepdzadpwudj6x9ny-1seq-2-2.stats.esomnitur
 e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
 es.optimost.com
 extremereach.com
+eztrck.com
 fastcounter.bcentral.com
 fastcounter.com
 fastcounter.linkexchange.com
@@ -2403,6 +2513,7 @@ js.cybermonitor.com
 js.hs-analytics.net
 jsonlinecollect.247realmedia.com
 js.revsci.net
+justtrck.com
 kissmetrics.com
 kqzyfj.com
 kt4.kliptracker.com
@@ -2457,6 +2568,7 @@ mailfoogae.appspot.com
 mailtrack1313.com
 mailtrack.me
 mama128.valuehost.ru
+marketaff.com
 marketscore.com
 mature.xxxcounter.com
 mbox5.offermatica.com
@@ -2535,6 +2647,7 @@ metrics.yellowpages.com
 metrics.yousendit.com
 metric.thenation.com
 mktg.actonsoftware.com
+mktrkr.com
 mmstat.com
 mng1.clickalyzer.com
 monetizer.com-01.site
@@ -2559,6 +2672,7 @@ nethit-free.nl
 net-radar.com
 network.leadpub.com
 nextgenstats.com
+nexttrk.com
 nht-2.extreme-dm.com
 nl.nedstatbasic.net
 #0.0.0.0 nl.sitestat.com	# may interfere with duo.nl
@@ -2581,6 +2695,7 @@ passpport.com
 paxito.sitetracker.com
 paycounter.com
 pei-ads.thesmokingjacket.com
+performancetrck.com
 perso.estat.com
 pf.tradedoubler.com
 photobox-tracking.adalyser.com
@@ -2615,6 +2730,7 @@ proxy.sj4.marketscore.com
 p.twitter.com
 quantserve.com
 quareclk.com
+quicktrck.com
 raw.oggifinogi.com
 r.clickdensity.com
 remotrk.com
@@ -2683,6 +2799,7 @@ s4.shinystat.com
 sact.atdmt.com
 sa.jumptap.com
 s.clickability.com
+sclk.org
 scorecardresearch.com
 scribe.twitter.com
 scrooge.channelcincinnati.com
@@ -2738,6 +2855,7 @@ seznam.hit.gemius.pl
 showads.pubmatic.com
 showcount.honest.com
 sideshow.directtrack.com
+simpletrck.com
 sitestat.com
 sitestats.tiscali.co.uk
 sm1.sitemeter.com
@@ -3194,8 +3312,11 @@ r.adinterax.com
 rafficopen.com
 raffic-stats.streamsolutions.co.uk
 rax.gamespot.com
+rckaction.com
+rcko.com
 rc.taboolasyndication.com
 rk.kissmetrics.com
+rkrpoint.com
 rk.tidaltv.com
 rue-counter.com
 ruehits1.gits.net.th
@@ -3431,6 +3552,7 @@ x.cb.kount.com
 xcnn.com
 xxxcounter.com
 xyz.freelogs.com
+zsisk.com
 zz.cqcounter.com
 #</spyware-sites>
 #<malware-sites>
@@ -8478,7 +8600,6 @@ cdns.privatamateure.com
 cdn.stat.easydate.biz
 cdn.stickyadstv.com
 cdn.syn.verticalacuity.com
-cdn.tabnak.ir
 cdn.taboola.com
 cdn.trafficstars.com
 cdnt.yottos.com
@@ -27800,14 +27921,14 @@ www.winaproduct.com
 # ad server list for use with hosts files to block ads
 # for more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   sat, 16 dec 2017 16:50:21 gmt
-# entries:        2526
+# last updated:   thu, 04 jan 2018 20:06:45 gmt
+# entries:        2528
 # format:         hosts (hosts -- in hosts file format)
 # credits:        peter lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    wed, 07 jan 1998 00:00:00
+# start date:    sun, 11 jan 1998 00:00:00
 101com.com
 101order.com
 123found.com
@@ -28292,6 +28413,7 @@ atwola.com
 auctionads.com
 auctionads.net
 audience2media.com
+audienceinsights.com
 audit.webinform.hu
 auto-bannertausch.de
 autohits.dk
@@ -28363,6 +28485,7 @@ bawdybeast.com
 beamincrease.com
 beamkite.com
 begun.ru
+behavioralengine.com
 belstat.com
 belstat.nl
 berp.com
@@ -28474,7 +28597,6 @@ clicktrack.ziyu.net
 clicktrade.com
 clickxchange.com
 clickz.com
-clickzxc.com
 clicmanager.fr
 clientmetrics-pa.googleapis.com
 clients.tbo.com
@@ -29000,6 +29122,7 @@ overture.com
 owebmoney.ru
 owneriq.net
 oxado.com
+oyster.ws
 pagead.l.google.com
 pagefair.net
 pagerank-ranking.de
@@ -29323,6 +29446,7 @@ hirdrespect.com
 hrnt.com
 hroattrees.com
 idytrail.com
+inybar.com
 izers.net
 lvmedia.com
 nkexchange.com
@@ -29359,7 +29483,6 @@ rack.flexlinkspro.com
 racking.crunchiemedia.com
 racking101.com
 rackingsoft.com
-rackjs.com
 rackmysales.com
 radeadexchange.com
 raffic-exchange.com
@@ -29539,7 +29662,7 @@ zv1.november-lax.com
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 ##### version information #
 ###################################################
-### version: v1.2017.12.1036
+### version: v1.2018.01.1076
 ##### version information ##
 # use this file to prevent your computer or server from connecting to selected
 # many types of spyware, adware, malware, click-jacking and porn sites and reduces 
@@ -30181,6 +30304,7 @@ amagle.com
 amanahmuslim.id
 amanda-porn.ga
 amanwelfare.org
+amaporn.com
 amarresyencantos.com
 amateurgalls.com
 amateurlivechat.org
@@ -31993,6 +32117,7 @@ crossfitsovereignty.com
 crossrockindo.com
 crowcom.com
 crybty.co
+crynet.cc
 cryptokopf.de
 crystalforthepeople.com
 crystalslot.com
@@ -39316,6 +39441,7 @@ heacgroupinc.com
 heallamericansteakhouse.com
 heallgirlarcade.com
 hearmchaircritic.org
+heautoprofit.ml
 hebarn.nu
 hebeerindex.com
 hebernoullieffect.com
@@ -40524,6 +40650,7 @@ www.ajedreztudela.com
 www.alicefans.se
 wwwallegro.pl
 www.alphateam.com
+www.amaporn.com
 www.amybites.com
 www.anaco.jp
 www.antiboss.de

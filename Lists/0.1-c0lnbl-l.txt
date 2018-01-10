@@ -1,3 +1,4 @@
+115776615-884492032168661957.preview.editmysite.com
 1beb2a44.space
 1q2w3.me
 2giga.link
@@ -477,6 +478,7 @@ eac.suprnova.cc
 edgeno.de
 eeme7j.win
 eeme7je.win
+egopastor.biz
 electroneum.cryptominingpool.eu
 electroneum.hashvault.pro
 electroneum.mobile-mining.com
@@ -623,6 +625,7 @@ exp1.nanopool.org
 expanse.miningpoolhub.com
 explorer.bitcoin-russia.ru
 explorer.nnc.mypool.online
+explorer.sumokoin.com
 explorer.testnet.z.cash
 explorer.ybcoin.com
 explorer.z.cash
@@ -888,6 +891,8 @@ local.ckpool.org
 localhost.miningspeed.com
 login.bitcoin.cz
 logs.z.cash
+lolkekss.us
+lolkekss.usite.pro
 london01.monero.hashvault.pro
 losangeles01.minemonero.pro
 losangeles01.monero.hashvault.pro
@@ -1266,6 +1271,7 @@ pool.moneropool.com
 pool.moneropool.nl
 pool.moriaxmr.com
 pool.qp.si
+pool.sumokoin.com
 pool.sumokoin.hashvault.pro
 pool.supportxmr.com
 pool.webcoin.us
@@ -1533,6 +1539,7 @@ sumo.hashvault.pro
 sumo.lindon-pool.win
 sumo.night-pool.de
 sumo.poolto.be
+sumokoin.com
 sumokoin.hashvault.pro
 support.bitcoin.cz
 support.coinone.co.kr
@@ -1668,11 +1675,13 @@ v7.srv.eligius.st
 validator.btgpool.pro
 varasto.kippo.eu
 vcash.miningpoolhub.com
+vcfs6ip5h6.bid
 vegas-1.xmrpool.net
 veltor.suprnova.cc
 verge-scrypt.miningpoolhub.com
 versiliaguide.com
 vertcoin.miningpoolhub.com
+vg02h8z1ul.me
 via.suprnova.cc
 viaxmr.com
 vid.pr0gramm.com
@@ -1690,6 +1699,7 @@ wallet-ethereum.com
 wallet.btcchina.com
 wallet.btgpool.pro
 wallet.eth.mypool.online
+wallet.sumokoin.com
 wallet.ybcoin.com
 wallet.ypool.net
 wc3-soft.sbhmn-miner.com
@@ -2133,6 +2143,7 @@ www.sbhmn-miner.com
 www.secumine.net
 www.slushpool.com
 www.staging.btcchina.com
+www.sumokoin.com
 www.supportxmr.com
 www.suprnova.cc
 www.test.cryptonoter.com
