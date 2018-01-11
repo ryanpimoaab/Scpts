@@ -1,5 +1,12 @@
 rcdn.pro
 greencuttlefish.com
+cpm.wargaming.net
+autonewspron.me
+degotmo.ru
+kdiso.ru
+newsportal1.com
+pacode.org
+tgsmtdata4.pro
 gegmanu.info
 fnbmlwip.biz
 pifvfovy.biz
@@ -1019,7 +1026,6 @@ cpatrck.net
 cpazilla.ru
 cpgweb.net
 cpl1.ru
-cpm.wargaming.net
 cpm.worldoftanks.com
 cpmsolution.ru
 cppgf.com
@@ -3135,6 +3141,13 @@ theblackdeath.ru
 tiz.miladynews.ru
 tizer.rupornophoto.com
 ts2.hockey-talks.com
+cebadu.com
+roxedltd.co.id
+recallen.info
+earnco.in
+d1qk9ujrmkucbl.cloudfront.net
+ssraju3n.com
+top-games.me
 m73lae5cpmgrv38.com
 smartclick.net
 3l4r8d61yz.com
@@ -4115,6 +4128,8 @@ dviixeyykyqjv.cloudfront.net
 js.bulkhentai.com
 script.hqpass.com
 d2t2on23g4lty1.cloudfront.net
+xpornoizlee.com
+adzbaba.com
 adeko.mobi
 hev2ev.com
 yebadu.com
@@ -4342,6 +4357,11 @@ c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
 hqsjc.com
+httpkafka.unityads.unity3d.com
+rtb.kds.media
+splicky.com
+auction.unityads.unity3d.com
+cdn-highwinds.unityads.unity3d.com
 api*.batmobi.net
 cdn.batmobi.net
 api*.batmobil.net
@@ -12679,6 +12699,8 @@ yaramol.info
 yatnozin.info
 zhinkichi.info
 voodoo.com
+log.aliyuncs.com
+rtbanalytics.com
 waust.at
 t2.hulu.com
 168logger.com

@@ -22,6 +22,13 @@ plugin.mobopay.baidu.com
 mo.freeindoapp.com
 recreativ.ru
 hqsjc.com
+httpkafka.unityads.unity3d.com
+amazonaws.com
+rtb.kds.media
+splicky.com
+auction.unityads.unity3d.com
+cdn-highwinds.unityads.unity3d.com
+dsp.batmobil.net
 api*.batmobi.net
 cdn.batmobi.net
 api*.batmobil.net
@@ -832,7 +839,6 @@ apps.outfit7.com
 cdn.lfstmedia.com
 cdn.outfit7.com
 cm.ksmobile.com
-amazonaws.com
 f.doodlemobile.com:8080
 fotoable.com
 gluservices.s3.amazonaws.com

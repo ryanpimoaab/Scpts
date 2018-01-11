@@ -2366,6 +2366,7 @@ driverinstaller.net
 drivers.com
 driversforfree.com
 driverupdate.net
+drivethelife.com
 drivinfosproduits.info
 drivingdirectionsfast.com
 drivsinfosproduits.info
@@ -3847,6 +3848,7 @@ halberdiertdogdd.website
 halvevcmhjebb.website
 hammeringsnugnutqv.online
 hamocwyx.top
+handypcfixer.com
 hangbirdsnnytimge.top
 hangmenrpvdjbl.website
 hankedepbcgyfy.download
@@ -6114,6 +6116,7 @@ odqzfqityjovially.review
 oejfj.info
 oexiv.info
 ofajliona.club
+ofdjeojfld.party
 offendsrbbmzmps.website
 offer.kenaki.club
 offermediacenter-content.bid
@@ -6219,6 +6222,7 @@ ospeedy.net
 ospeedy.org
 ossifiesmmyancevd.download
 osteopathjhpkxzbw.website
+ostoto.com
 osxadvertexchange.com
 osxadvertising.com
 otet.ptyaliseddxzaqudf.site
@@ -6280,6 +6284,7 @@ pargasitejqaqe.website
 parrockedbelyoh.download
 parsonsrhmxqj.website
 passportinfo.info
+paull.gdn
 paypal-login.email
 paypal.com.influcent-balance-information-login.usa.cc
 pbkzaazyhnoodles.club
@@ -12330,6 +12335,7 @@ www.driverinstaller.net
 www.driversforfree.com
 www.driverupdate.net
 www.driverupdateplus.com
+www.drivethelife.com
 www.drivingdirectionsfast.com
 www.droughtsmbdajqhsa.site
 www.dryrtyzlfsiphon.download
@@ -13664,6 +13670,7 @@ www.hagiologicizmcwal.website
 www.halberdiertdogdd.website
 www.halvevcmhjebb.website
 www.hammeringsnugnutqv.online
+www.handypcfixer.com
 www.hangbirdsnnytimge.top
 www.hangmenrpvdjbl.website
 www.hankedepbcgyfy.download
@@ -15509,6 +15516,7 @@ www.odqzfqityjovially.review
 www.oejfj.info
 www.oexiv.info
 www.ofajliona.club
+www.ofdjeojfld.party
 www.offendsrbbmzmps.website
 www.offermediacenter-content.bid
 www.offermediacenter-content.download
@@ -15587,6 +15595,7 @@ www.ospeedy.net
 www.ospeedy.org
 www.ossifiesmmyancevd.download
 www.osteopathjhpkxzbw.website
+www.ostoto.com
 www.osxadvertexchange.com
 www.osxadvertising.com
 www.otet.ptyaliseddxzaqudf.site
@@ -20355,4 +20364,4 @@ zxmllsevanesced.review
 zyk.bratok.com
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 20361
+# hosts: 20370
