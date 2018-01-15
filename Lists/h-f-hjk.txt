@@ -59,6 +59,7 @@ www.100ksearches.com
 www.afodo.com
 www.emptyitfs.com
 www.femalesex.com
+www.ffupdaterstatus.com
 www.find.fm
 www.freetube.com
 www.gimmebargains.com
@@ -80,4 +81,4 @@ www.www4search.net
 www4search.net
 youngteenporn.proboards89.com
 yyue.com
-# hosts: 82
+# hosts: 83

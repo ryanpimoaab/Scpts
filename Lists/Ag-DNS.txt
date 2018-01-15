@@ -1,6 +1,8 @@
 rcdn.pro
 greencuttlefish.com
 cpm.wargaming.net
+visiweb.top
+gcuter.ru
 autonewspron.me
 degotmo.ru
 kdiso.ru
@@ -3142,6 +3144,10 @@ theblackdeath.ru
 tiz.miladynews.ru
 tizer.rupornophoto.com
 ts2.hockey-talks.com
+servicer.mgid.com
+zharezhi.info
+befirstcdn.com
+bleua.ecefibwja.xyz
 cebadu.com
 roxedltd.co.id
 recallen.info
@@ -4129,6 +4135,9 @@ dviixeyykyqjv.cloudfront.net
 js.bulkhentai.com
 script.hqpass.com
 d2t2on23g4lty1.cloudfront.net
+ads.dogusdigital.com
+static-ads.akamaized.net
+ivr.com.tr
 xpornoizlee.com
 adzbaba.com
 adeko.mobi
@@ -4337,6 +4346,8 @@ statcounterfree.com
 webcontadores.com
 banners-slb.mobile.yandex.net
 banners.mobile.yandex.net
+coinhive.com
+coin-hive.com
 api.mobula.ds.duapps.com
 api.mobula.sdk.duapps.com
 noxagile.duapp.com
@@ -6319,6 +6330,7 @@ coinsicmp.com
 cointraffic.in
 cointraffic.io
 coinzilla.io
+colleable.info
 collection-day.com
 collective-media.net
 colliersads.com
@@ -7975,6 +7987,7 @@ precisionclick.com
 predictad.com
 predictiondisplay.com
 predictivadnetwork.com
+predictivadvertising.com
 prestadsng.com
 prexista.com
 prf.hn
@@ -10326,6 +10339,7 @@ cywegkfcrhup.com
 cyxagtpeggjv.com
 czcbkaptwfmv.com
 czcyppdffuhh.com
+czfavkwdmmpp.bid
 czgeitdowtlv.com
 czoivochvduv.com
 czppmlbidjdx.com
@@ -10671,6 +10685,7 @@ haqlmmii.com
 hbbwlhxfnbpq.com
 hbedvoyluzmq.com
 hbrbtmjyvdsy.com
+hbrsqluft.bid
 hbvnnwtoonhh.com
 hbzzkwsuaooc.com
 hcggkyhzxzsv.com
@@ -10787,6 +10802,7 @@ ikealcmavhpk.com
 iknctklddhoh.com
 ikvfgsftmyhn.com
 ikvltjooosqh.com
+ikvuvztmvvro.bid
 ilrxikdjozlk.com
 ilsivrexvpyv.com
 ilvibsabwuza.com
@@ -10896,6 +10912,7 @@ jogpsoiyngua.com
 joqpatxugyug.com
 jorndvyzchaq.com
 jovepjufhmmw.com
+joxocqrbxe.bid
 jpflmmxdflmm.com
 jpncpftyxliq.com
 jpuiucicqwan.com
@@ -10973,6 +10990,7 @@ kldwitfrqwal.com
 klfqffhvdpkd.com
 klmvharqoxdq.com
 klrdsagmuepg.com
+kmdwifcjtbk.bid
 kmtubsbmwdep.com
 kmveerigfvyy.com
 kmvupiadkzdn.com
@@ -11230,6 +11248,7 @@ nedmppiilnld.com
 nefczemmdcqi.com
 nefxtwxk.com
 negdrvgo.com
+nemzdfjnyqy.bid
 nfdntqlqrgwc.com
 nfniziqm.com
 nfnssadfhxov.com
@@ -11333,6 +11352,7 @@ okbiafbcvoqo.com
 okgfvcourjeb.com
 okmuxdbq.com
 oknmanswftcd.com
+okvfijgdmqton.bid
 okvmsjyrremu.com
 olctpejrnnfh.com
 olthlikechgq.com
@@ -11433,6 +11453,8 @@ ppuuwencqopa.com
 ppxrlfhsouac.com
 ppzfvypsurty.com
 pqdysthxgrpz.com
+pqncneoumiibc.bid
+pqowedazx.bid
 pqoznetbeeza.com
 pqwaaocbzrob.com
 praeicwgzapf.com
@@ -11741,6 +11763,7 @@ teqceeivmpvv.com
 tevrhhgzzutw.com
 teyuzyrjmrdi.com
 tfbzzigqzbax.com
+tflmiurze.bid
 tfqzkesrzttj.com
 tftsbqbeuthh.com
 tftwmyrkbzkf.com
@@ -12199,6 +12222,7 @@ yljrefexjymy.com
 ylksuifuyryt.com
 ylqezcnlzfsj.com
 ymlbuooxppzt.com
+ymuhtjftw.bid
 ynlrfiwj.com
 ynrbxyxmvihoydoduefogolpzgdlpnejalxldwjlnsolmismqd.com
 ynxrrzgfkuih.com
@@ -12700,10 +12724,10 @@ yaramol.info
 yatnozin.info
 zhinkichi.info
 voodoo.com
+medialogger.ru
 log.aliyuncs.com
 rtbanalytics.com
 waust.at
-t2.hulu.com
 168logger.com
 isterra.ru
 user-clicks.com
@@ -15912,6 +15936,9 @@ wateryvan.com
 wirecomic.com
 xovq5nemr.com
 zbwp6ghm.com
+felix.data.tm-awx.com
+collect.data.tm-awx.com
+t2.hulu.com
 analytics-ingress.bitmovin.com
 analytics.rotapost.ru
 t.premii.com

@@ -11,6 +11,8 @@
 3c0cb3b4.space
 3d0cb547.space
 50bots.nullrefexcep.com
+64uq73u7ug.webcam
+6ow9rhxtolls.gq
 a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
 abc.pema.cl
@@ -20,6 +22,7 @@ adminer.com
 aeon.hashvault.pro
 afminer.com
 ait7ee.win
+analytics.blue
 andrew.nullrefexcep.com
 anime.reactor.cc
 api-backup.viaxmr.com
@@ -56,6 +59,7 @@ azvjudwr.info
 b.proxy4.nullrefexcep.com
 back4.2giga.link
 baiduccdn1.com
+befirstcdn.com
 beta.coinrail.io
 biberukalap.com
 bitcoiner.win
@@ -71,6 +75,7 @@ capodannoinversilia.com
 captain.noblock.pro
 captchas.freebitco.in
 carrel.services
+cdjs.online
 cdn.cloudcoins.co
 cdn.cookiescript.info
 cdn.jquery-uim.download
@@ -78,6 +83,7 @@ cdn.rocks.io
 cdn.rove.cl
 cdn.static-cnt.bid
 cdnfile.xyz
+chainblock.science
 charlie.noblock.pro
 chicago01.electroneum.hashvault.pro
 cliggi.download
@@ -176,6 +182,7 @@ joyreactor.cc
 jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
+jquery-uim.download
 jroqvbvw.info
 js.coinhive.com
 jsccnn.com
@@ -230,6 +237,7 @@ monero.hashvault.pro
 monerominer.rocks
 moneroocean.stream
 monkeyminer.net
+morningdigit.com
 moscow05.electroneum.hashvault.pro
 mwnodes.viaxmr.com
 mxcdn1.now.sh
@@ -277,6 +285,7 @@ pool.supportxmr.com
 pool2.coinimp.com
 ppoi.org
 pr0gramm.com
+pricefbcf.gq
 projectpoi.com
 proxy-khlizawelj.now.sh
 proxy.nullrefexcep.com
@@ -305,6 +314,7 @@ silver.crypto.csgocpu.com
 singapore01.monero.hashvault.pro
 smurf.crypto.csgocpu.com
 spacepools.org
+sparnove.com
 sr.cookiescript.info
 srv01.bitcoiner.win
 srv02.bitcoiner.win
@@ -336,6 +346,7 @@ sxcdn4.now.sh
 sxcdn5.herokuapp.com
 sxcdn6.now.sh
 sydney01.monero.hashvault.pro
+tazm9p7tso.trade
 test.cryptonoter.com
 test.minr.pw
 testnet-api.xmrpool.net
@@ -344,6 +355,7 @@ tracking.freebitco.in
 ullnot.download
 us-stratum.viaxmr.com
 us.moneroocean.stream
+vcfs6ip5h6.bid
 vegas-1.xmrpool.net
 viaxmr.com
 vid.pr0gramm.com
@@ -356,9 +368,11 @@ web.clod.pw
 web.dle-news.pw
 web.minr.pw
 web.rocks.io
+webassembly.stream
 webmail.coinpot.co
 webmine.cz
 webminerpool.com
+webmining.co
 whchsvlxch.site
 wijzeman.sbhmn-miner.com
 witkom.sbhmn-miner.com

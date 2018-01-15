@@ -1,5 +1,7 @@
 banners-slb.mobile.yandex.net
 banners.mobile.yandex.net
+coinhive.com
+coin-hive.com
 api.mobula.ds.duapps.com
 api.mobula.sdk.duapps.com
 noxagile.duapp.com
@@ -921,7 +923,6 @@ www.a4yy.top
 xxhrd.com
 ymcdn.ymtrack6.co
 static.wi-fi.ru
-login.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
 mobi.yanosik.pl:8080

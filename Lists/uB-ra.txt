@@ -119,3 +119,5 @@ thepiratebay.cr
 kickass.cd
 ddmix.net
 whathyx.com
+analytics.blue
+smectapop12.pl

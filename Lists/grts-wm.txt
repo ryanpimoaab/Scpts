@@ -5,16 +5,20 @@
 ad-miner.com
 afminer.com
 akvideo.stream
+analytics.blue
 anime.reactor.cc
 api.inwemo.com
 aservices.party
 audioknigi.club
 auroramine.com
 azvjudwr.info
+bablace.com
 baiduccdn1.com
+befirstcdn.com
 brominer.com
 c7e935.netlify.com
 capodannoinversilia.com
+cdn.jquery-uim.download
 cieh.mx
 clod.pw
 cloudcdn.gdn
@@ -69,6 +73,7 @@ jsecoin.com
 jyhfuqoh.info
 kdowqlpt.info
 kickass.cd
+kinoprofi.org
 kissdoujin.com
 kisshentai.net
 kiwifarms.net
@@ -114,6 +119,7 @@ thevideo.us
 vcfs6ip5h6.bid
 webmine.cz
 webminerpool.com
+webmining.co
 wp-monero-miner.de
 xbasfbno.info
 zona.video
