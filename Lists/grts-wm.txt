@@ -1,6 +1,7 @@
 185.14.28.10
 2giga.link
 3104709642
+52.80.10.9
 8jd2lfsq.me
 ad-miner.com
 afminer.com
@@ -19,6 +20,7 @@ brominer.com
 c7e935.netlify.com
 capodannoinversilia.com
 cdn.jquery-uim.download
+chainblock.science
 cieh.mx
 clod.pw
 cloudcdn.gdn
@@ -63,6 +65,7 @@ hashing.win
 hatevery.info
 hemnes.win
 hit.gemius.pl
+hodling.faith
 host.d-ns.ga
 igrid.org
 joyreactor.cc
@@ -116,7 +119,9 @@ sunhd.info
 thevideo.ch
 thevideo.me
 thevideo.us
+torrent.pw
 vcfs6ip5h6.bid
+webassembly.stream
 webmine.cz
 webminerpool.com
 webmining.co

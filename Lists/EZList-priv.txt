@@ -105,6 +105,7 @@ adinte.jp
 adku.co
 adku.com
 admantx.com
+admaster.com.cn
 admitad.com
 admother.com
 adobedtm.com
@@ -375,6 +376,7 @@ cbtrk.net
 cccpmo.com
 ccgateway.net
 cdnanalytics.xyz
+cdnmaster.com
 cdntrf.com
 cedexis.com
 cedexis.net
@@ -2301,8 +2303,10 @@ bablace.com
 baiduccdn1.com
 befirstcdn.com
 berserkpl.net.pl
+bewaslac.com
 biberukalap.com
 bjorksta.men
+bowithow.com
 c0i8h8ac7e.bid
 cdnfile.xyz
 chainblock.science
@@ -2341,6 +2345,7 @@ gus.host
 hallaert.online
 hashforcash.us
 hashing.win
+hegrinhar.com
 hemnes.win
 hodlers.party
 hodling.faith
@@ -2348,6 +2353,7 @@ hodling.party
 hodling.science
 host.d-ns.ga
 igg.biz
+ingorob.com
 jquery-uim.download
 jroqvbvw.info
 jsccnn.com
@@ -2384,7 +2390,13 @@ podrltid.info
 ppoi.org
 projectpoi.com
 reasedoper.pw
+refunevent.com
+rencohep.com
+renhertfo.com
 reservedoffers.club
+retadint.com
+rineventrec.com
+rintindown.com
 rocks.io
 sbhmn-miner.com
 secumine.net
@@ -2396,9 +2408,11 @@ static-cnt.bid
 statistic.date
 subloader.cf
 supportxmr.com
+thatresha.com
 ue696vbd9l.bid
 usa.cc
 vcfs6ip5h6.bid
+veritrol.com
 webassembly.stream
 webmine.cz
 webmine.pro

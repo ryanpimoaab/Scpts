@@ -862,6 +862,8 @@ youtube.com
 mobimagic.com
 turner.com
 images-*.ssl-images-amazon.com
+giga.de
+andro-news.com
 m.realgfporn.com
 teknoseyir.com
 vorsprung-online.de
@@ -1249,5 +1251,3 @@ utop.umengcloud.com
 analy.qq.com
 appsupport.qq.com
 monitor.uu.qq.com
-qashqairussia.ru
-wsp.marketgid.com

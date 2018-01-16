@@ -2350,6 +2350,7 @@ dogmatismsemipouc.download
 dokula.ru
 doleriteknakjmu.download
 dollopsatiuu.online
+domainprompt.info
 donastuoniujnh.download
 doningvocazpj.download
 dorhulfreshed.download
@@ -13052,6 +13053,7 @@ www.dogmatismsemipouc.download
 www.dokula.ru
 www.doleriteknakjmu.download
 www.dollopsatiuu.online
+www.domainprompt.info
 www.donastuoniujnh.download
 www.doningvocazpj.download
 www.dorhulfreshed.download
@@ -21762,4 +21764,4 @@ zyk.bratok.com
 zymosiszfkmthosm.download
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 21768
+# hosts: 21770
