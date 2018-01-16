@@ -7390,6 +7390,7 @@ releasesdpduu.website
 relishesvcnaust.site
 rembleqyzhp.website
 remodifynbdphg.download
+remooptimizer.com
 removemalwares.com
 removerdesinstalacao.com
 removespymicrosoft.com
@@ -7553,6 +7554,7 @@ safecart.store
 safechecked.com
 safedownloadnow.work
 safemart.store
+safepckit.com
 saferound2update.bid
 saferound2update.club
 saferound2update.download
@@ -9802,6 +9804,7 @@ translationbuddy.com
 transposalevvosmere.website
 trashierinljrp.download
 trately.com
+travassactechnology.com
 travelomatic.site
 triaxialgkprud.download
 tricewmmfc.top
@@ -17291,6 +17294,7 @@ www.religioustourism.gr
 www.relishesvcnaust.site
 www.rembleqyzhp.website
 www.remodifynbdphg.download
+www.remooptimizer.com
 www.removespyware.tv
 www.removesystemvirus.com
 www.remsoefnfios.website
@@ -17435,6 +17439,7 @@ www.safecart.store
 www.safechecked.com
 www.safedownloadnow.work
 www.safemart.store
+www.safepckit.com
 www.saferound2update.bid
 www.saferound2update.club
 www.saferound2update.download
@@ -19652,6 +19657,7 @@ www.translationbuddy.com
 www.transposalevvosmere.website
 www.trashierinljrp.download
 www.trately.com
+www.travassactechnology.com
 www.travelomatic.site
 www.triaxialgkprud.download
 www.tricewmmfc.top
@@ -21764,4 +21770,4 @@ zyk.bratok.com
 zymosiszfkmthosm.download
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 21770
+# hosts: 21776
