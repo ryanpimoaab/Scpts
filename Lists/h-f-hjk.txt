@@ -46,6 +46,7 @@ raunchy.com
 ruserv.com
 search.myidentitydefender.com
 search.ruserv.com
+searchdf.biz
 serch-direct.com
 shellscriptcorrupt023.review
 sitesure.com
@@ -81,4 +82,4 @@ www.www4search.net
 www4search.net
 youngteenporn.proboards89.com
 yyue.com
-# hosts: 83
+# hosts: 84
