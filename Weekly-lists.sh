@@ -79,3 +79,6 @@ cd /Users/rayyan/Github/Scrpts/Scrpts/h-f-p-f-e
 for f in *.sh; do
 bash "$f" -H
 done
+
+read -p "Done" -n1 junk
+echo

@@ -118,3 +118,6 @@ echo -e "\033[1;31m h-f-p-f-e \033[0m"
 
 cd /Users/rayyan/Github/h-f-p-f-e
 /Users/rayyan/Github/Scrpts/push-github.sh
+
+read -p "Done" -n1 junk
+echo
