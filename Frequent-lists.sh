@@ -1,8 +1,5 @@
 #! /bin/bash
 
-cd /Users/rayyan/Github/mwd-id
-[ -s hsts.txt ] || /Users/rayyan/Github/Scrpts/Scrpts/mwd-id/hsts.sh
-
 echo -e "\033[1;31m AgD \033[0m"
 
 cd /Users/rayyan/Github/Scrpts/Scrpts/AgD/
