@@ -7,6 +7,7 @@ ads.viber.com
 adservice.google.co.uk
 agreemand.com
 allfreeforevertoupdate.bid
+analytics.blue
 api.mixpanel.com
 app-analytics.snapchat.com
 appsforimacs.com
