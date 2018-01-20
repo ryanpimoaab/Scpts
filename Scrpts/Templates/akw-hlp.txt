@@ -6,3 +6,6 @@ awk -F'.' '{print $1}'
 
 # Append line - add a _ at the end
 awk '{print $0"_"}'
+
+# Insert blank line every n lines
+cat $input | awk -v n=2 '1; NR % n == 0 {print ""}' > $output # n= number of lines before inserting blank line

@@ -519,7 +519,6 @@ crmmetrixwris.com
 crosspixel.net
 crosswalkmail.com
 crowdscience.com
-crowdskout.com
 crowdtwist.com
 crsspxl.com
 crwdcntrl.net
@@ -1580,6 +1579,7 @@ reinvigorate.net
 relead.com
 reliablecounter.com
 relmaxtop.com
+remarketingpixel.com
 remarketstats.com
 rep0pkgr.com
 report-uri.io
@@ -2261,7 +2261,6 @@ ztsrv.com
 .faith
 .fun
 .ga
-.ga
 .men
 .ml
 .party
@@ -2277,6 +2276,7 @@ ztsrv.com
 .webcam
 .win
 .xyz
+.zone
 1beb2a44.space
 1q2w3.fun
 1q2w3.me
@@ -2310,6 +2310,7 @@ biberukalap.com
 bjorksta.men
 bowithow.com
 c0i8h8ac7e.bid
+candid.zone
 cdnfile.xyz
 chainblock.science
 clod.pw
@@ -2429,6 +2430,7 @@ wsp.marketgid.com
 wty46.com
 xbasfbno.info
 ywtjdckysve.com
+zlx.com.br
 6ldu6qa.com
 aheadday.com
 anxiousapples.com
