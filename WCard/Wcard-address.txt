@@ -288,7 +288,6 @@ address=/weborama.net
 address=/widespace.com
 address=/wishpond.com
 address=/wistia.net
-address=/wpnrtnmrewunrtok.xyz
 address=/wzrkt.com
 address=/xg4ken.com
 address=/xiti.com
