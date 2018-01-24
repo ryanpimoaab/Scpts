@@ -1756,6 +1756,7 @@ a.vartoken.com
 a.venonita.com
 a.visadd.com
 a.visualrevenue.com
+a.volvelle.tech
 a.vserv.mobi
 a.wakapita.com
 a.walla.co.il
@@ -28139,6 +28140,7 @@ eu-pn3.adserver.yahoo.com
 eu-pn4.adserver.yahoo.com
 eu-px.steelhousemedia.com
 eu-u.openx.net
+eu.a.volvelle.tech
 eu.link.decideinteractive.com
 eu.webprodcdn.com
 eu.winninganswers.net
@@ -39172,6 +39174,7 @@ tracker.celebtaboo.com
 tracker.clicktrade.com
 tracker.com
 tracker.cztorrent.net
+tracker.divvit.com
 tracker.drippler.com
 tracker.egora.fr
 tracker.emailaptitude.com
@@ -39577,6 +39580,7 @@ trklnks.com
 trks.us
 trksst.com
 trktrk020.com
+trktrk026.com
 trkuoy.com
 trkur.com
 trkur1.com
@@ -40150,6 +40154,7 @@ usarmy.vo.llnwd.net
 usbanners.com
 usd.bravo-dog.com
 usdtop.58.com
+use.a.volvelle.tech
 usearchmedia.com
 usefb.adsrvr.org
 usell.go2cloud.org
@@ -40163,6 +40168,7 @@ uslbtest.cedexis.com
 usr.dropkickmedia.com
 usr.mgid.com
 usun.112.2o7.net
+usw.a.volvelle.tech
 utarget.co.uk
 utils.adadapter.netzathleten-media.de
 utils.mediageneral.net
@@ -43895,6 +43901,7 @@ vodafone.inq.com
 vodafone.ivwbox.de
 vogo-vogo.ru
 voluum.redirecting.site
+volvelle-ads-cdn.azureedge.net
 voodooparking.com
 vop.sundaysky.com
 voradu.com
@@ -44694,6 +44701,7 @@ www.863c4c0c521.se
 www.938host.xyz
 www.a-ads.com
 www.a.ero-advertising.com
+www.a.volvelle.tech
 www.a4dtracker.com
 www.a6ba.com
 www.a9.com
@@ -47807,4 +47815,4 @@ zz.cqcounter.com
 zz.zeroredirect1.com
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 47813
+# hosts: 47821

@@ -299,3 +299,4 @@ address=/zedo.com/192.168.1.79
 address=/zenmxapps.com/192.168.1.79
 address=/behavioralengine.com/192.168.1.79
 address=/audienceinsights.net/192.168.1.79
+address=/beginads.com/192.168.1.79

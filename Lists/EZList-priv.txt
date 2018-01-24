@@ -414,6 +414,7 @@ click4assistance.co.uk
 clickable.net
 clickaider.com
 clickalyzer.com
+clickcease.com
 clickclick.net
 clickcloud.info
 clickconversion.net
@@ -482,6 +483,7 @@ convertro.com
 cooladata.com
 copacast.net
 copperegg.com
+coralogix.com
 core-cen-54.com
 coremetrics.com
 coremotives.com
@@ -1472,6 +1474,7 @@ pntrac.com
 pntrs.com
 pointomatic.com
 popsample.com
+popt.in
 populr.me
 porngraph.com
 portfold.com
@@ -2263,6 +2266,7 @@ ztsrv.com
 .faith
 .fun
 .ga
+.gq
 .men
 .ml
 .party
@@ -2311,6 +2315,7 @@ bewaslac.com
 biberukalap.com
 bjorksta.men
 bowithow.com
+byebye.ml
 c0i8h8ac7e.bid
 candid.zone
 cdnfile.xyz
@@ -2343,6 +2348,7 @@ dle-news.pw
 dovinate.top
 fastcast.nz
 fge9vbrzwt.bid
+flare-analytics.com
 flu.cc
 g-content.bid
 goredirect.party
@@ -2410,6 +2416,7 @@ secumine.net
 siteverification.online
 siteverification.site
 smectapop12.pl
+sparechange.io
 sparnove.com
 static-cnt.bid
 statistic.date

@@ -299,3 +299,4 @@ address=/zedo.com
 address=/zenmxapps.com
 address=/behavioralengine.com
 address=/audienceinsights.net
+address=/beginads.com

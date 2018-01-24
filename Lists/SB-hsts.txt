@@ -1,3 +1,4 @@
+onlineusagesurveys.com
 open.oneplus.net
 promotions.yourfirstmillion.biz
 quickcash-system.com
@@ -18,6 +19,7 @@ specialsections.siteseer.ca
 stealthedeal.com
 ags.news.com.au
 orrenty-org.pl
+racking.lenzmx.com
 witter.cm
 witter.com
 vdtrack.com
@@ -262,6 +264,10 @@ dasdada.fu.ck
 i1.dl-ad.com
 pl-v2.presage.io
 pixel.onaudience.com
+ad.api.kaffnet.com
+ad.click.kaffnet.com
+api.ad.snappea.com
+ad.360in.com
 #=====================================
 #               malwaredomainlist.com hosts list           #
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
@@ -27954,14 +27960,14 @@ www.winaproduct.com
 # ad server list for use with hosts files to block ads
 # for more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   sun, 21 jan 2018 12:37:21 gmt
-# entries:        2543
+# last updated:   sun, 21 jan 2018 18:08:40 gmt
+# entries:        2545
 # format:         hosts (hosts -- in hosts file format)
 # credits:        peter lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    mon, 26 jan 1998 00:00:00
+# start date:    wed, 28 jan 1998 00:00:00
 101com.com
 101order.com
 123found.com
@@ -29349,6 +29355,7 @@ searchfeast.com
 searchmarketing.com
 searchramp.com
 sedotracker.com
+segment.com
 sendmepixel.com
 sensismediasmart.com.au
 separatesilver.com
@@ -29486,6 +29493,7 @@ herichkids.com
 hirdrespect.com
 hrnt.com
 hroattrees.com
+ia.timeinc.net
 idytrail.com
 inybar.com
 inypass.com

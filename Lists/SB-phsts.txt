@@ -3,6 +3,7 @@
 2468.go2cloud.org
 adsmws.cloudapp.net
 androidads23.adcolony.com
+angiemktg.com
 annualconsumersurvey.com
 apps.id.net
 breaksurvey.com
@@ -56,6 +57,7 @@ specialsections.siteseer.ca
 stealthedeal.com
 ags.news.com.au  
 orrenty-org.pl
+racking.lenzmx.com
 witter.cm    
 witter.com    
 vdtrack.com
@@ -295,3 +297,7 @@ dasdada.fu.ck
 i1.dl-ad.com
 pl-v2.presage.io
 pixel.onaudience.com
+ad.api.kaffnet.com
+ad.click.kaffnet.com
+api.ad.snappea.com
+ad.360in.com
