@@ -1,6 +1,5 @@
 0000mps.webpreview.dsl.net
 0001.2waky.com
-001wen.com
 009blog.com
 00game.net
 01cn.net
@@ -126,7 +125,6 @@
 5678uc.com
 567bbl.com
 5689.nl
-56clicks.com
 56hj.cn
 5808l.com
 5850777.ru
@@ -306,7 +304,6 @@ askdoctorz.com
 assistantbilling.in
 asstraffic18.net
 athomenetwork.hu
-auctionbowling.com
 augami.net
 aupvfp.com
 ausubelinstituto.edu.mx
@@ -592,7 +589,6 @@ dj-sx.com
 djcalvin.com
 djfsml.com
 djplazebo.com
-djxmmh.xinhua800.cn
 dl.bzgthg.com
 dl.yizhan123.com
 dlorganic.com
@@ -762,7 +758,6 @@ foxionserl.com
 fqsjzxyey.com
 frankfisherfamily.com
 freemasstraffic.com
-freewl.xinhua800.cn
 freightmatellc.com
 frigonare.com
 fromgoddesstogod.com
@@ -987,7 +982,6 @@ iwb.com.cn
 izlinix.com
 j0008.com
 jah.skateparkvr.com
-jameser.com
 januaryblessed.com
 jatukarm-30.com
 jdcartoon.com
@@ -1276,7 +1270,6 @@ ninjafy.com
 nje1.cn
 nminmobiliaria.com
 nonoknit.com
-nonrisem.com
 norton-scan-mobile.com
 noviasconglamourenparla.es
 nt002.cn
@@ -1337,7 +1330,6 @@ pear.dementiaadvocacy.com
 peguards.cc
 pennystock-picks.info
 peoria33884.cz.cc
-personalkapital.com
 perugemstones.com
 pham.duchieu.de
 phpoutsourcingindia.com
@@ -1428,7 +1420,6 @@ sam-sdelai.blogspot.com
 samwooind.co.kr
 sani-tryb.pl
 sarahcraig.org
-sarepta.com.ua
 saunaundbad.de
 savingnegociacoes.com.br
 school-bgd.ru
@@ -1491,7 +1482,6 @@ sowellness.be
 spanishfrompauley.com
 specialistups.com
 spotmarka.ap0x.com
-spunkyvids.com
 spyshredderscanner.com
 spywareshop.info
 spywaresite.info
@@ -1754,7 +1744,6 @@ www23.omrtw.com
 www23.qqmeise.com
 www230.dm599.com
 www230.kkvmaj.com
-www238.killevo.com
 www238.lzxsw100.com
 www24.177momo.com
 www24.31qqww.com
@@ -1940,13 +1929,11 @@ yuxiwine.com
 yxhlv.com
 yxshengda.com
 yxxzzt.com
-yyjgift.com
 yysscc.com
 yz-sl.cn
 yzunited.com
 zagga.in
 zango.com
-zara11.com
 zbjpsy.com
 zchon.net
 zdesestvareznezahodi.com
@@ -1962,7 +1949,6 @@ zhenzhongmuye.com
 zhidao.yxad.com
 zhiher.com
 zhizhishe.com
-zhongguociwang.com
 zhonghe-zg.com
 zhongpandz.com
 zhongyilunwen.com

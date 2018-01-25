@@ -381,6 +381,7 @@ account-update-center.online
 account-update-login.com
 account-update-new-terms-conf.enkaemlak.com
 account-update-v3secure.com
+account-update-verification.com
 account-update-your-info-account.com
 account-update.beverlysdesigns.com
 account-update.hoton.pl
@@ -629,6 +630,7 @@ adobe.secure-login-authenticate.voiphelponline.com
 adobe.tintacondutiva.com.br
 adobe10reader.com
 adobe10update.com
+adobe182727634-online232-pdf.000webhostapp.com
 adobea.ozeverything.com.au
 adobeacbots.com
 adobeacrobatupdate.site
@@ -920,6 +922,7 @@ alternativasanetflix.com
 alternativetopaypal.com
 aluminioyvidriosjimmy.com
 am-amazon.com
+amac.mx
 amacconcrete.co.uk
 amateurnetflix.com
 amaz0napple.com
@@ -1386,6 +1389,7 @@ apl-apple.com
 apleid-apleid-locked-icloud-update.com
 aplicativo-santander.com
 aplicativosantander.com
+aplkey-paypal.lodhost.com
 aplle-verify.com
 aplogin-icloud.com
 apmediastudios.com
@@ -2887,6 +2891,7 @@ apple-id-us.com
 apple-id-us.vip
 apple-id-verification-locked-valldation.com
 apple-id-verification.com
+apple-id-verify-login.com
 apple-id-verify.com
 apple-id-verifynow.com
 apple-id-vip.com
@@ -10565,6 +10570,7 @@ bankline-santander.ga
 bankline24horasi.96.lt
 banklogin.co.za
 banklogin.com
+bankmaluku.co.id
 bankoboya.com
 bankoclub.com
 bankofamenica.com
@@ -11299,6 +11305,7 @@ cgi-apple.com
 cgi-apple.net
 cgi-apple77298.info
 cgi-appleverification.com
+cgi-authorized-login.morethanlove.co.uk
 cgi-ebay-com.krovatka.su
 cgi-home-account-update.hotelcfk.com
 cgi-icloud.com
@@ -11811,6 +11818,7 @@ cloud-service-recovery.net
 cloud-supportid.com
 cloud.com.py
 cloud.pdf.sukunstays.com
+cloud.pisines.gr
 cloud.tickmein.com
 cloud1008.hostgator.com
 cloud27.hostingpalvelu.fi
@@ -12818,6 +12826,7 @@ ebayonlinesupport.com
 ebayorderpayment-paypal.com
 ebaysell.site
 ebaysupportcenter.com
+ebigoffice.com
 ebm.et.bankingpartneronline.com
 ebpaypal.com
 ec-paypol.uk
@@ -13263,6 +13272,7 @@ facebook1-001-site1.hostbuddy.com
 facebook1.visits.lt
 facebook11113227272.com
 facebook123456789.com
+facebook1614.webnode.com
 facebook1822.com
 facebook2014.net
 facebook2017.com
@@ -19404,6 +19414,7 @@ kwongyikbank.com
 kycpoliciesupdate.co.uk
 kyebay.com
 l-apple.com
+l-facebook.us.lt
 l4apple.men
 la-idapple.com
 laamazon.com
@@ -21456,6 +21467,7 @@ mobi-apple.ru
 mobicontasantander.com
 mobiilesantander.com
 mobiilesantanderbr.com
+mobil-isbank-tr.com
 mobile-app-login-to-all-store-update.com
 mobile-find-ios-icloud.com
 mobile-free.stylexlmail.com
@@ -22927,6 +22939,7 @@ office-shield.com
 office-support.site
 office-updates.com
 office-worldquota-verification-storeage.brazil1a.com
+office.ambitiongifts.com
 office.autoburj.com
 office.biblicalrapture.net
 office.gymcity.hu
@@ -23037,6 +23050,7 @@ online-santander.com
 online-sberbank.com
 online-service-bank.net
 online-sicherheit-paypal.info
+online-sube-ziraatbank.com
 online-support-apple.com
 online-support-bank-of-america.usa.cc
 online-trade-web-appleton.com
@@ -23283,6 +23297,7 @@ outlookcontactrecovery.com
 outlookcustomer-support.com
 outlookcustomerhelps.com
 outlookdatafilerepair.com
+outlookdemailowa.weebly.com
 outlookedu.com
 outlookemail.info
 outlookemailfile.com
@@ -24570,6 +24585,7 @@ paypal.com.support-verifed.info
 paypal.com.themiraclestudios.com
 paypal.com.ticket-case-ld-3651326.info
 paypal.com.token.2l1yrz9sac3jnxh60kov.update.padrejoao.com.br
+paypal.com.token.6408b7eba950e776623f651949a32a9393e30cb.festaeciamacae.com.br
 paypal.com.token.hxu1wvjbgked0p7r9zqt.ulyssesgomes.com.br
 paypal.com.token.nb13ouftgkp456ehl782.ulyssesgomes.com.br
 paypal.com.token.r680njh7vil4x1bkoa2f.ulyssesgomes.com.br
@@ -24875,6 +24891,7 @@ paypalbusinessinformationcustomersolvetld.com
 paypalbutton.com
 paypalbux.com
 paypalbuysale.com
+paypalc.de
 paypalcard.ru
 paypalcare.com
 paypalcares.com
@@ -25177,6 +25194,7 @@ paypalsecureinc.com
 paypalsecurepayment.com
 paypalsecuringlimituser.com
 paypalsecurities.org
+paypalsecurity-account-locked-information.tk
 paypalsecurity-automaticsystem-secure-server.turadiorv.com
 paypalsecurity.com.cgi-bin34343a4342yh33253293h5khk33325325h23523klhl2353525l.payhelping.com
 paypalsecuritycall.com
@@ -27152,6 +27170,7 @@ secure.bankofamerica.com.checking.account.digitalconsult.com.br
 secure.bankofamerica.com.login-sign-in-signonv2screen.go.onnalushgroup.com
 secure.bankofamerica.com.update.connect.login.tourloversbd.com
 secure.bankofamerica.com.validation.rimpol.cf
+secure.bankofamerica.comlogin.sign-in.signonv2screen.go.terraguinchos.com.br
 secure.bankofamerica.details.account.pesqueepaguedojailton.com.br
 secure.bankofamerica.haalcheronabondhu.org
 secure.bankofamerica.retailsolution.me
@@ -27305,6 +27324,7 @@ securelivelogin1.ddns.net
 securelogin-accountprotected.info
 securelogin-paypal.com
 securelogin-resulotionservice.info
+securelogin-verifypaypal.com
 securelogin.access-verification.click
 securelogin.posteinfo.co
 secureloginbankofamericas-com.tk
@@ -27686,6 +27706,7 @@ service.billing.updating.informations.costumer.number.cgi.bin.webscr.cmd.login.w
 service.info.payment-mailid878273823.id009853436485safety.com
 service.intl.secure.paypal.email.0nf1re2.info
 service.paypal.co.us.ds1dsad1saad5dasd7dsadgsq3asdp.emilianodelau.net
+service.paypal.com-id.form-1987187229.jcengines.com.au
 service.paypal.com-id.form-3404415883.inspireddesigns.com.au
 service.paypal.com-id.form-3415604000.simflight.com
 service.paypal.com-id.form-4826474544.ambrad.com.au
@@ -28090,6 +28111,7 @@ signin.updates-accounts-scrts77814.com
 signin064paypal.ml
 signin1.bt.com.login.emailloginform.beaverbricks.com.au
 signinappleidappleconfiguration.com
+signinauth-validpaypalwebapps.paypalid.com.sinasaboohi.ir
 signinebaydewsebayisapidllsignindominicksmith.net23.net
 signinebaydewsebayisapidllsigninrusselllogsdon.net23.net
 signing-appleid.com
@@ -29737,6 +29759,7 @@ unlocked-review-apple.com
 unlockedaccount-verifyid.com
 unlockedappleid.com
 unlockerandroid.com
+unlockerupdate-verifycation.com
 unlockicloud4u.com
 unlockid-verify.com
 unlocking-icloud.com
@@ -30238,6 +30261,7 @@ user-updates.online
 useraccountvalidation-apple.com
 useraccountverifications-appleid.com
 userauth.netlfix.com.userkey.confirmation.acc2-netupdate.com
+usercomverifysger.com
 userfacebook.com
 userfixnetflix.com
 userid-icloud.com
@@ -31078,6 +31102,7 @@ websube-halkbank.com
 websupport-paypal.com
 websupporticloudin.com
 webuyanyappleiphone.com
+webverification-wesappleid-jp.com
 wedairmail.com
 wedsitelogintoaccountnme.com
 weeb-icloud.top
@@ -46457,6 +46482,7 @@ www.icloud.com.21.0x7.pn.ci.fmip-12.in
 www.icloud.com.apple.login.assitance.i-cloud.gdn
 www.icloud.com.ht
 www.icloud.com.iphonc.win
+www.icloud.com.notify.today
 www.icloud.com.reported.me
 www.icloud.fasate.com.cn
 www.icloud.findmyiphone.1h6urbsd0pqz1cdncc4a9j2sjd1vh4sw6vgp0.verifylocations.com
@@ -49475,6 +49501,7 @@ www.l-apple.com
 www.l4apple.men
 www.la-idapple.com
 www.laamazon.com
+www.labanquepostale-bank-service.net
 www.laboratoriosanangel.mx
 www.laboratorioslissia.com
 www.lalcointeriors.com
@@ -51886,6 +51913,7 @@ www.newserv-apple.info
 www.newsheadlineupdates.com
 www.newsnetflix.com
 www.newsnetflixteam.com
+www.nexicartasibank.com
 www.nextgphone.com
 www.nextinstagramtechk.com
 www.nflpaypal.com
@@ -54204,6 +54232,7 @@ www.practicedepornichet.com
 www.pratimaconcept.com
 www.preciziosontode.hu
 www.premacanada.ca
+www.premacare.co.th
 www.premios-mastercard.com
 www.premios-visa.com
 www.premium--netflix.com
@@ -56947,6 +56976,7 @@ www.trueadobe.com
 www.truefacebook.net
 www.trustpasslogin.com
 www.trypaypal.com
+www.trziiraatbank.com
 www.tsunade-ngopinengkonokaroidapplecloudmiembro9878tgvjsa983a.com
 www.ttoken-santander.com
 www.ttoken-santander.net
@@ -58871,6 +58901,7 @@ www.your-apple-ld-has-disabled.com
 www.your-apple.com
 www.your-apple.net
 www.your-appleid.com
+www.your-guest-paypl.ga
 www.your-orders-amazon.com
 www.your-paypal.net
 www.your-system-needs-security-update.info
@@ -58984,6 +59015,7 @@ www.zenithbankdepositsection.com
 www.zenithbanksupport.com
 www.zfind-apple.com
 www.zhpg-apple.com
+www.ziiiraaatbank.com
 www.zios-apple.com
 www.zippyshareitunes.download
 www.zoekmachineoptimalisatietools.nl
@@ -59708,6 +59740,7 @@ yandex-logins.ru
 yandex-sberbank.ru
 yandexmail.vipcentr.ru
 yang.normacynthie.com
+yapikredionlinebankacilik.com
 yapple0.men
 yaqubhalifax.nessieconny.com
 yasayang-appleid.info
@@ -60497,6 +60530,7 @@ adobe-support.org
 adobe-tech-support.com
 adobe-updates.info
 adobe-wordkey439-info.win
+adobe.flashplayer.bx6tok.xyz
 adobe.kim
 adobe.supportnumberuk.co.uk
 adobe001.use.com
@@ -61173,6 +61207,7 @@ apple-itunes-support.org
 apple-itunesconnect.com
 apple-live-chat-support.org
 apple-lociek.space
+apple-mac-customer.com
 apple-mac-error0x33.xyz
 apple-mac-security-alert-911.info
 apple-mac-security-error-code0x9035-alert.info
@@ -61485,6 +61520,7 @@ appleoffices.com
 appleonlinechatsupport.com
 appleonlinehelps.com
 appleonlinesupport.co.uk
+appleonlinesupport.xyz
 applepark.land
 applepark.online
 applepark.technology
@@ -61645,6 +61681,7 @@ applesupprtservice.com
 applesystemerror-code09x7495alert.info
 applesystemsecuirtyalert-macviruswarningerror.xyz
 applesystemsecureserverwarning-cloudestoragevirusalert.info
+applesystemsecureserverwarning-cloudestoragevirusalert91.info
 applesystemsecureserverwarning91cloudestoragealert.info
 applesystemsecuritycloude-storagewarningalert0911.xyz
 applesystemsecuritywaningvirusalert.info
@@ -77626,6 +77663,7 @@ systemsadministrator.cloud
 systemscannerupdatesxxx012n.xyz
 systemsecureserver-cloudestoragewarningalert911.info
 systemsecureserverdata-cloudestoragewarningalert911.info
+systemsecureserverwarning-cloudestoragevirusalert911.info
 systemsecurity-cloudestoragealert.xyz
 systemsecurityapplewarningalert.info
 systemsecuritycloude-storagealert.xyz
@@ -100815,7 +100853,6 @@ cauterizzerete66.tubesmobile.com
 cavalier94.tubesmobile.com
 cavalla20.tubesmobile.com
 cavitavate74.tubesmobile.com
-ccpmacake.faith
 cdeamacnnf.cn
 cdn.cloud-lander.com
 cdn.cloudguard.me
@@ -101796,7 +101833,6 @@ courgette24.tubesmobile.com
 coursing92.tubesmobile.com
 covrendo10.tubesmobile.com
 cowardness32.tubesmobile.com
-cp53091.cloudhosting.lv
 cpm.flashplayertrack.com
 cpro41329.publiccloud.com.br
 cracchi91.tubesmobile.com
@@ -102344,7 +102380,6 @@ doddered34.tubesmobile.com
 dodecato.simulationmachine.com
 dogboat93.tubesmobile.com
 doggess88.tubesmobile.com
-dohabank-qa.com
 dolavamo39.tubesmobile.com
 dolcoranti66.tubesmobile.com
 dolgoporno.com
@@ -102483,6 +102518,7 @@ eidetics73.tubesmobile.com
 eighteenmo36.tubesmobile.com
 eimaagrimach.in
 ektexines84.tubesmobile.com
+el-paso-office-space.com
 el.secure-update-get.org
 el.vidupdate24.com
 ele.secure-update-get.org
@@ -102655,7 +102691,6 @@ esborsi29.tubesmobile.com
 escecassimo48.tubesmobile.com
 eschalot12.tubesmobile.com
 escolaemacao.com
-escortbayan.xelionphonesystem.com
 escrete27.tubesmobile.com
 esfiltro63.tubesmobile.com
 esiglio3.tubesmobile.com
@@ -102785,7 +102820,6 @@ facebook9app.info
 facebookapp66.info
 facebookappsconnect.tk
 facebookautolike.com
-facebookbaixar.tk
 facebookblog.tk
 facebookcom.today
 facebookcom.website
@@ -105096,7 +105130,6 @@ mailsniffer.ru
 mailsupport-number.com
 mailtest.gohip.com
 mailzips.com
-maintainpc.soft2update.xyz
 maioliche9.tubesmobile.com
 maiolicherai20.tubesmobile.com
 malacological86.tubesmobile.com
@@ -105516,7 +105549,6 @@ microsoft-online-information-error.xyz
 microsoft-online-information-errors.xyz
 microsoft-online-information.xyz
 microsoft-online-notice.xyz
-microsoft-online-reporting.website
 microsoft-online-scan.xyz
 microsoft-online-scanner.xyz
 microsoft-online-security.xyz
@@ -105528,7 +105560,6 @@ microsoft-online-support-error.xyz
 microsoft-online-support-help.info
 microsoft-online-support-tollfree.xyz
 microsoft-online-support-warning.xyz
-microsoft-online-support.us
 microsoft-online-tollfree.xyz
 microsoft-online.xyz
 microsoft-onlineerror1015.xyz
@@ -105543,7 +105574,6 @@ microsoft-openings-security-alert-page72.online
 microsoft-openings-security-alert39.online
 microsoft-pc-alert.s3-website-us-west-2.amazonaws.com
 microsoft-protection-from-malicious-infection.info
-microsoft-reporting-system.us
 microsoft-risk-alert.online
 microsoft-scanner.com-----------control.online
 microsoft-security-alert-pagecode160235.xyz
@@ -105908,8 +105938,6 @@ microsoft-warning83.xyz
 microsoft-warning84.xyz
 microsoft-warning85.xyz
 microsoft-warning9.xyz
-microsoft-web-reporting-server.us
-microsoft-web-server.website
 microsoft-website.ml
 microsoft-window-securityalert-page003.online
 microsoft-windows-alert.online
@@ -106133,8 +106161,6 @@ microsoft.com-tech282.info
 microsoft.com-updates.website
 microsoft.com-windows.info
 microsoft.com.cdn.pcsaver9.bid
-microsoft.com.usersupport.windowsfoundsomesuspiciousactivityfromyouripaddress.somespywaremayhavecausedasecuritybreachatyournetworklocation.pleasedonotshutdownorrestartyour.computerdoingthatmayleadtodatalosses.systemsecurity6.xyz
-microsoft.com.userwarning.windowsfoundsomesuspiciousactivityfromyouripaddress.somespywaremayhavecausedasecuritybreachatyournetworklocation.pleasedonotshutdownorrestartyour.computerdoingthatmayleadtodatalosses.systemsecurity6.xyz
 microsoft.com32.info
 microsoft.free-tech-support.top
 microsoft.pcsupport0122.online
@@ -106269,7 +106295,6 @@ microsoftsecuritypages000001.website
 microsoftsecurityserver.online
 microsoftsecurityserverblock000001.website
 microsoftsecurityservice.xyz
-microsoftsecuritysystems.com
 microsoftservicedesk-usa.online
 microsoftstore.sytes.net
 microsoftstorerror.com
@@ -106922,7 +106947,6 @@ orangetube.s161.coreserver.jp
 os-xv10-mac-error-code-538.info
 os-xv10-mac-error-code-890.info
 os-xv10-mac-error-code861.info
-ossupport.microsoftwindowsdetectedsomesuspiciousactivityfromyouripaddress.somespywaremayhavecausedasecuritybreachatyournetworklocation.pleasedonotshutdownorrestartyour.computerdoingthatmayleadtodatalossalerts.supportwindows3.xyz
 osx-applehelpdesk-ver64-02.online
 osx.apple.com-authorised.online
 ottawalinuxsymposium.org
@@ -109371,9 +109395,6 @@ support.microsoft-com2711.info
 support.microsoft-com2712.info
 support.microsoft-com2713.info
 support.microsoft-com2714.info
-support.microsoft.com.microsoftdetectedsomesuspiciousactivityfromyouripaddress.somespywaremayhavecausedasecuritybreachatyournetworklocation.pleasedonotshutdownorrestartyour.computerdoingthatmayleadtodatalossalerts.supportwindows3.xyz
-support.microsoft.com.windowsdetectedsomesuspiciousactivityfromyouripaddress.somespywaremayhavecausedasecuritybreachatyournetworklocation.pleasedonotshutdownorrestartyour.computerdoingthatmayleadtodatalossalertss.supportwindows3.xyz
-support.microsoftwindowsdetectedsomesuspiciousactivityfromyouripaddress.somespywaremayhavecausedasecuritybreachatyournetworklocation.pleasedonotshutdownorrestartyour.computerdoingthatmayleadtodatalossalertss.supportwindows3.xyz
 supportfirefox.perl.sh
 suppositional26.tubesmobile.com
 suppress60.tubesmobile.com
@@ -110834,20 +110855,14 @@ windows-os-system-update-scan-error.info
 windows-os-system-update.info
 windows-random-update-req-conform.info
 windows-update-server.com
-windows.microsoft.com.microsoftdetectedsomesuspiciousactivityfromyouripaddress.somespywaremayhavecausedasecuritybreachatyournetworklocation.pleasedonotshutdownorrestartyour.computerdoingthatmayleadtodatalossalerts.supportwindows3.xyz
 windows.onlineupdateweb.com
-windows.os.microsoft.com.microsoftdetectedsomesuspiciousactivityfromyouripaddress.somespywaremayhavecausedasecuritybreachatyournetworklocation.pleasedonotshutdownorrestartyour.computerdoingthatmayleadtodatalossalert.supportwindows3.xyz
 windowsalertmail.com
 windowserror3.s3.amazonaws.com
 windowserrormicrosoftstore.xyz
 windowsnetworksecurityforporn.com
-windowsos.microsoft.com.microsoftdetectedsomesuspiciousactivityfromyouripaddress.somespywaremayhavecausedasecuritybreachatyournetworklocation.pleasedonotshutdownorrestartyour.computerdoingthatmayleadtodatalossalerts.supportwindows3.xyz
-windowsos1.microsoft.com.microsoftdetectedsomesuspiciousactivityfromyouripaddress.somespywaremayhavecausedasecuritybreachatyournetworklocation.pleasedonotshutdownorrestartyour.computerdoingthatmayleadtodatalossalert.supportwindowsall.xyz
 windowsserversystemupdate.com
 windowsslive-mail.com
 windowsupdate.microsoft.com.ssl3.pop3.ru
-windowsupdate23.xyz
-windowsupdate25.xyz
 windowsupdatenow.info
 windowsupdates.xyz
 windowsupdatezeus.info

@@ -24,6 +24,7 @@ abc.pema.cl
 ad-miner.com
 ad.g-content.bid
 adbtc.top
+adless.io
 adminer.com
 aeon.hashvault.pro
 afminer.com
@@ -177,6 +178,7 @@ etnpool.minekitten.io
 eu.hatevery.info
 fbtc-uab.freebitco.in
 fge9vbrzwt.bid
+flare-analytics.com
 fr.cookiescript.info
 frankfurt-1.xmrpool.net
 frankfurt01.monero.hashvault.pro
@@ -288,6 +290,7 @@ mwnodes.viaxmr.com
 mxcdn1.now.sh
 mxcdn2.now.sh
 my-retrospace.sbhmn-miner.com
+myadstats.com
 myfhology.sbhmn-miner.com
 new.minr.pw
 newark01.monero.hashvault.pro

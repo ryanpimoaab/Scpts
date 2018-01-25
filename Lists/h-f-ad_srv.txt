@@ -289,8 +289,6 @@
 123.6.87.194.dynamic.dol.ru
 123.dominoad.com
 123.duba.net
-123456.center
-123456.click
 1239.9014.302br.net
 123ads.nl
 123advertising.nl
@@ -23471,7 +23469,6 @@ ca.akamai.startappservice.com
 ca.clickinc.com
 ca.cqcounter.com
 ca.livestat.com
-ca.origin.startappservice.com
 ca305656.luckyorange.com
 caartoonnetwork.com
 caasco.go2cloud.org
@@ -27176,6 +27173,7 @@ digital.datalabusa.com
 digitaladvisor.go2cloud.org
 digitaldsp.com
 digitalfernsehen.de.intellitxt.com
+digitalngo.com
 digitalone.go2cloud.org
 digitalsalesmedia.go2cloud.org
 digitrack.go2cloud.org
@@ -33553,27 +33551,14 @@ n51.adshostnet.com
 n52.adshostnet.com
 n6.adshostnet.com
 n60adserv.com
-n61adserv.com
-n62adserv.com
 n63adserv.com
 n64adserv.com
 n65adserv.com
-n66adserv.com
-n67adserv.com
-n68adserv.com
 n69.com
 n69adserv.com
 n7.adshostnet.com
-n70adserv.com
-n71adserv.com
 n72.adshostnet.com
 n72adserv.com
-n73adserv.com
-n74adserv.com
-n75adserv.com
-n76adserv.com
-n77adserv.com
-n78adserv.com
 n79adserv.com
 n7yk4.voluumtrk.com
 n8.adshostnet.com
@@ -37077,7 +37062,6 @@ sg.d.p.xpanama.net
 sg.eu-west-1.p.xpanama.net
 sg.eu.p.xpanama.net
 sg.geo.p.xpanama.net
-sg.origin.startappservice.com
 sg.p.xpanama.net
 sg.us-east-1.p.xpanama.net
 sg.us.p.xpanama.net
@@ -39012,7 +38996,6 @@ track.ashley-george.com
 track.atgstores.com
 track.ballerft.site
 track.bannerbridge.net
-track.bestoffertime.com
 track.bidtrk.com
 track.blamads.com
 track.bluecompany.cl
@@ -45459,6 +45442,7 @@ www.diana-buchheit.us
 www.dianomi.com
 www.did-it.com
 www.didit.com
+www.digitalngo.com
 www.digits.com
 www.dihitt.com
 www.dimpact.co.il
@@ -47815,4 +47799,4 @@ zz.cqcounter.com
 zz.zeroredirect1.com
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 47821
+# hosts: 47805
