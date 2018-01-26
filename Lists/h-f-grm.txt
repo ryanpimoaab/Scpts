@@ -719,6 +719,7 @@ www.xblog.in
 www.xseon.ru
 www.yesoptusbusinesscentre.com.au
 www.yeswearerich.com
+www.youzend.net
 www.zaimer.kz
 www.zappinfo.fr
 www.zaymer.ru
@@ -727,8 +728,9 @@ xblog.in
 xseon.ru
 yesoptusbusinesscentre.com.au
 yeswearerich.com
+youzend.net
 zaimer.kz
 zappinfo.fr
 zaymer.ru
 zendunet.fr
-# hosts: 733
+# hosts: 735
