@@ -2269,6 +2269,7 @@ ztsrv.com
 .gq
 .men
 .ml
+.ovh
 .party
 .pro
 .racing
@@ -2298,8 +2299,10 @@ ztsrv.com
 77.162.125.199
 abc.pema.cl
 ad-miner.com
+adless.io
 adminer.com
 afminer.com
+ajplugins.com
 aleinvest.xyz
 alemoney.xyz
 altpool.pro
@@ -2339,9 +2342,11 @@ coinpot.co
 cookiescript.info
 crypto-coins.club
 crypto-loot.com
+crypto-webminer.com
 cryptobara.com
 cryptoloot.pro
 cryptomine.pro
+cryptonoter.com
 csgocpu.com
 deepc.cc
 dle-news.pw
@@ -2350,7 +2355,9 @@ fastcast.nz
 fge9vbrzwt.bid
 flare-analytics.com
 flu.cc
+freecontent.bid
 g-content.bid
+github.io
 goredirect.party
 gridiogrid.com
 gus.host
@@ -2392,6 +2399,7 @@ mmpool.org
 monerominer.rocks
 moneroocean.stream
 morningdigit.com
+mutuza.win
 nahnoji.cz
 noblock.pro
 nut.cc

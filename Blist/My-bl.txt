@@ -96,6 +96,7 @@ video-edge-c6830c.lhr03.hls.ttvnw.net
 volantix.com
 wlp.cleanmypc.online
 wlp.cleanmypc.online.local
+woe21.ogamon.win
 wpnrtnmrewunrtok.xyz
 ws006.coin-hive.com
 yoredi.com
@@ -200,6 +201,7 @@ www.video-edge-c6830c.lhr03.hls.ttvnw.net
 www.volantix.com
 www.wlp.cleanmypc.online
 www.wlp.cleanmypc.online.local
+www.woe21.ogamon.win
 www.wpnrtnmrewunrtok.xyz
 www.ws006.coin-hive.com
 www.yoredi.com

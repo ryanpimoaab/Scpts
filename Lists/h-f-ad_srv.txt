@@ -226,7 +226,6 @@
 10.ptp22.com
 100.6.87.194.dynamic.dol.ru
 100023.live173.com
-100webads.com
 101.6.87.194.dynamic.dol.ru
 1016557.fls.doubleclick.net
 1017680.109mview.atdmt.com.1.6000.302br.net
@@ -1734,7 +1733,6 @@ a.thoughtleadr.com
 a.tijorari.com
 a.tikodala.com
 a.tikrailijorj.com
-a.trgt.eu
 a.tribalfusion.com
 a.triggit.com
 a.ttinline.com
@@ -16110,7 +16108,6 @@ adexit.com
 adexit.de
 adexm.com
 adexperts.com
-adexprts.com
 adext.inkclub.com
 adexten.com
 adextent.com
@@ -16632,14 +16629,12 @@ ads.aditor.com
 ads.adjalauto.com
 ads.adjet.de
 ads.adjust-net.jp
-ads.adk2.com
 ads.admarvel.com
 ads.admized.com
 ads.admoda.com
 ads.adnet-plus.com
 ads.adnet.de
 ads.adonion.com
-ads.adplxmd.com
 ads.adprofs.com
 ads.adpv.com
 ads.adrdgt.com
@@ -16656,7 +16651,6 @@ ads.adsoptimizer.net
 ads.adsready.com
 ads.adsrevenue.com
 ads.adsrig.com
-ads.adsrvmedia.net
 ads.adtarget.me
 ads.adtegrity.net
 ads.adtiger.de
@@ -16785,7 +16779,6 @@ ads.cbc.ca
 ads.cc-dt.com
 ads.cdfreaks.com
 ads.cdn.rovio.com
-ads.cdnrl.com
 ads.ce.cn
 ads.celtra.com
 ads.centraliprom.com
@@ -17181,7 +17174,6 @@ ads.mnium.org
 ads.mobclix.com
 ads.mobgold.com
 ads.mobidea.com
-ads.mobilecore.com
 ads.mobilefuse.net
 ads.mobilepad.co
 ads.mobilityware.com
@@ -17669,7 +17661,6 @@ ads.torrentco.com
 ads.torrpedo.net
 ads.totallyfreestuff.com
 ads.townhall.com
-ads.tpvl.co
 ads.track.net
 ads.traderonline.com
 ads.trafficaces.com
@@ -18356,7 +18347,6 @@ adserver.aol.fr
 adserver.aphrodite.tweakers.net
 adserver.asiafriendfinder.com
 adserver.banneradministration.com
-adserver.barrapunto.com
 adserver.bizland-inc.net
 adserver.bluewin.ch
 adserver.brandilitynetwork.de
@@ -18779,7 +18769,6 @@ adv.noblepoker.com
 adv.pconline.com.cn
 adv.quipo.it
 adv.researchnow.co.uk
-adv.securestudies.com
 adv.sexcounter.com
 adv.tre.it
 adv.virgilio.it
@@ -19590,7 +19579,6 @@ analytics.fusepowered.com
 analytics.google.com
 analytics.gorillanation.com
 analytics.gvim.mobi
-analytics.hosting24.com
 analytics.industriemagazin.net
 analytics.informationweek.com
 analytics.ladmedia.fr
@@ -20918,7 +20906,6 @@ banner.scasino.com
 banner.sealmedia.de
 banner.sextorrent.to
 banner.sunpalacecasino.com
-banner.supereva.it
 banner.surfree.com
 banner.svitonline.com
 banner.tanto.de
@@ -24121,7 +24108,6 @@ cg27e.voluumtrk.com
 cgi.hotstat.nl
 cgi.netscape.com
 cgi.zdnet.com
-cgi3.fxweb.com
 cgicounter.oneandone.co.uk
 cgicounter.onlinehome.de
 cgicounter.puretec.de
@@ -26346,7 +26332,6 @@ creative.ad128m.com
 creative.ad129m.com
 creative.ad130m.com
 creative.ad131m.com
-creative.ad132m.com
 creative.ad133m.com
 creative.ad134m.com
 creative.ad135m.com
@@ -29669,7 +29654,6 @@ go.oclaserver.com
 go.oclasrv.com
 go.onclasrv.com
 go.openx.com
-go.padsdel.com
 go.padsdelivery.com
 go.padstm.com
 go.pardot.com
@@ -31465,9 +31449,7 @@ junbi-tracker.com
 jupiter.appads.com
 jupiter.bravenet.com
 jupiter.us.intellitxt.com
-jupiter1.appads.com
 jupiter2.appads.com
-jupiter3.appads.com
 justad.mobi
 justcounter.com
 justgetitfaster.com
@@ -33633,10 +33615,8 @@ nei.hitbox.com
 neobux.com
 neocounter.neoworx-blog-tools.net
 neoseeker.us.intellitxt.com
-neptune.appads.com
 neptune1.appads.com
 neptune2.appads.com
-neptune3.appads.com
 nesql.voluumtrk.com
 net-france.com
 net.29193.9215.302br.net
@@ -34999,7 +34979,6 @@ pixel.moatads.com
 pixel.monitor1.returnpath.net
 pixel.monitor2.returnpath.net
 pixel.nbsp.de
-pixel.netster.com
 pixel.newsdata.com.au
 pixel.pcworld.com
 pixel.prfct.co
@@ -36070,13 +36049,10 @@ reports.pagesuite-professional.co.uk
 reports.wes.df.telemetry.microsoft.com
 reports.zedo.com
 republika.onet.pl
-req.appads.com
 req.mojiva.com
 req.startappexchange.com
 req.startappservice.com
 req1.appads.com
-req2.appads.com
-req3.appads.com
 reqpostanza.com
 request.issuu.com
 res-x.com
@@ -36361,7 +36337,6 @@ s.ad127m.com
 s.ad129m.com
 s.ad130m.com
 s.ad131m.com
-s.ad132m.com
 s.ad133m.com
 s.ad134m.com
 s.ad135m.com
@@ -39046,7 +39021,6 @@ track.jbtrax.net
 track.jerkednetwork.com
 track.juno.com
 track.justcloud.com
-track.justhookup.com
 track.leady.cz
 track.lfstmedia.com
 track.ligatus.com
@@ -39192,7 +39166,6 @@ tracker.roitesting.com
 tracker.scao.it
 tracker.seoboost.net
 tracker.smartcounter.de
-tracker.swfstats.com
 tracker.timesgroup.com
 tracker.trackerbox.com
 tracker.tradedoubler.com
@@ -40155,7 +40128,6 @@ usw.a.volvelle.tech
 utarget.co.uk
 utils.adadapter.netzathleten-media.de
 utils.mediageneral.net
-utils.swfstats.com
 utm.myfuncards.com
 utm.trk.myfuncards.com
 utm.trk.popularscreensavers.com
@@ -44444,6 +44416,7 @@ wlwonl.ivwbox.de
 wlwt01.opentext.com
 wm-space.youero.com
 wmadv.go2cloud.org
+wmedia.adk2x.com
 wmp-forumde.digidip.net
 wms-eu.amazon-adsystem.com
 wms-fe.amazon-adsystem.com
@@ -44865,7 +44838,6 @@ www.adspserving.com
 www.adsserving.net
 www.adstrx.com
 www.adsuperstar.com
-www.adsupplyads.com
 www.adsview.com
 www.adswithsalt.com
 www.adtech.com
@@ -47155,7 +47127,6 @@ www.zergnet.com
 www.zeroredirect1.com
 www.zetatrk.com
 www.zhanzhang.net
-www.zinzimo.info
 www.zoe-labat.us
 www.zombo.com
 www.ztrack.net
@@ -47731,7 +47702,6 @@ ziinga.go2cloud.org
 zillow.go2cloud.org
 zinovila.com
 zinturax.com
-zinzimo.info
 zipcity.com
 zipovoma.com
 zipropyl.com
@@ -47799,4 +47769,4 @@ zz.cqcounter.com
 zz.zeroredirect1.com
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 47805
+# hosts: 47775
