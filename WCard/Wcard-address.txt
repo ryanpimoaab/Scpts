@@ -300,3 +300,4 @@ address=/zenmxapps.com
 address=/behavioralengine.com
 address=/audienceinsights.net
 address=/beginads.com
+address=/bcnmonetize.com
