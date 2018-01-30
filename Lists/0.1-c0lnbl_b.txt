@@ -17,6 +17,7 @@
 64uq73u7ug.webcam
 6ow9rhxtolls.gq
 6tsbe1zs.me
+8000plus.si
 8jd2lfsq.me
 a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
@@ -47,6 +48,7 @@ api.aeon.hashvault.pro
 api.coinhive.com
 api.ethereum.hashvault.pro
 api.intense.hashvault.pro
+api.l33tsite.info
 api.minexmr.com
 api.monerise.com
 api.monero.hashvault.pro
@@ -89,6 +91,7 @@ captain.noblock.pro
 captchas.freebitco.in
 carrel.services
 cdjs.online
+cdn.adless.io
 cdn.cloudcoins.co
 cdn.cookiescript.info
 cdn.jquery-uim.download
@@ -134,6 +137,7 @@ coinive.com
 coinjive.com
 coinlab.biz
 coinnebula.com
+coinpirate.cf
 coinpot.co
 coinworker.com
 colnhive.com
@@ -141,13 +145,17 @@ conhive.com
 cookiescript.info
 cookiescriptcdn.pro
 cpanel.monerominer.rocks
+cpu2cash.link
 cqfnvznw.info
 crypto-loot.com
 crypto-pool.fr
+crypto-webminer.com
 crypto.csgocpu.com
 cryptobara.com
 cryptoloot.pro
 cryptonoter.com
+cryweb.github.io
+crywebber.github.io
 csgocpu.com
 ctrb.jscdndel.com
 cvp1.asvoxod.ru
@@ -165,6 +173,7 @@ db.xmrpool.net
 de.cookiescript.info
 de.moneroocean.stream
 deepc.cc
+demo.webxmr.com
 dev.coinlab.biz
 dev.cryptobara.com
 digger.cryptobara.com
@@ -197,11 +206,13 @@ fr.cookiescript.info
 frankfurt-1.xmrpool.net
 frankfurt01.monero.hashvault.pro
 freebitco.in
+freecontent.bid
 ftp.coinhive-manager.com
 ftp.coinlab.biz
 full.pr0gramm.com
 g-content.bid
 gemius.pl
+get.webxmr.com
 global.crypto.csgocpu.com
 go.megabanners.cf
 goldnova.crypto.csgocpu.com
@@ -231,6 +242,7 @@ hzsod71wov.me
 iisl7wpf.me
 img.pr0gramm.com
 infamylists.com
+insdrbot.com
 intense.hashvault.pro
 it.cookiescript.info
 jasmine.noblock.pro
@@ -251,8 +263,10 @@ kho3au7l4z.me
 kissdoujin.com
 kisshentai.net
 kiwifarms.net
+krb.devphp.org.ua
 kunay.nullrefexcep.com
 l-shop.nullrefexcep.com
+l33tsite.info
 lib.xmrm.pw
 light.browsermine.com
 lightminer.co
@@ -288,6 +302,7 @@ minero-proxy-02.now.sh
 minero-proxy-03.now.sh
 minero.pw
 minexmr.com
+mining.best
 mining.freebitco.in
 minr.browsermine.com
 minr.nullrefexcep.com
@@ -302,6 +317,7 @@ moneroocean.stream
 monkeyminer.net
 morningdigit.com
 moscow05.electroneum.hashvault.pro
+mutuza.win
 mwnodes.viaxmr.com
 mxcdn1.now.sh
 mxcdn2.now.sh
@@ -310,6 +326,7 @@ myadstats.com
 myfhology.sbhmn-miner.com
 new.minr.pw
 newark01.monero.hashvault.pro
+nfwebminer.com
 nitsche.top
 nl.cookiescript.info
 noblock.pro
@@ -384,16 +401,19 @@ singapore01.monero.hashvault.pro
 smectapop12.pl
 smurf.crypto.csgocpu.com
 spacepools.org
+sparechange.io
 sparnove.com
 sr.cookiescript.info
 srv01.bitcoiner.win
 srv02.bitcoiner.win
 st.kjli.fi
+staging.webxmr.com
 static-02.flu.cc
 static-cnt.bid
 static-net.nut.cc
 static.hk.rs
 static.reasedoper.pw
+static.sparechange.io
 static1.freebitco.in
 static2.freebitco.in
 static3.freebitco.in
@@ -421,6 +441,7 @@ tazm9p7tso.trade
 test.cryptonoter.com
 test.minr.pw
 testnet-api.xmrpool.net
+testnet.webxmr.com
 thumb.pr0gramm.com
 todogecoin.biz
 tokyodrift.ga
@@ -456,6 +477,7 @@ webminepool.tk
 webminer.pro
 webminerpool.com
 webmining.co
+webxmr.com
 wemine.pro
 whchsvlxch.site
 wijzeman.sbhmn-miner.com
@@ -475,6 +497,7 @@ ws-fr-01.rocks.io
 ws-fr-02.rocks.io
 ws-fr-03.rocks.io
 ws.freebitco.in
+ws.l33tsite.info
 ws.xmrm.pw
 ws.xmrpool.net
 ws000.coinhive.com
@@ -783,9 +806,11 @@ www7.2giga.link
 x.browsermine.com
 xbasfbno.info
 xgmc6lu8fs.me
+xml.mining.best
 xmr.coinlab.biz
 xmr.crypto-pool.fr
 xmr.cryptonoter.com
+xmr.mining.best
 xmr1.crypto-pool.fr
 xmr10.crypto-pool.fr
 xmr3.crypto-pool.fr

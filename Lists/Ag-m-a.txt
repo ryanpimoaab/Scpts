@@ -24,6 +24,7 @@ plugin.mobopay.baidu.com
 mo.freeindoapp.com
 recreativ.ru
 hqsjc.com
+aclickoooo.host
 api.ampiri.com
 httpkafka.unityads.unity3d.com
 amazonaws.com

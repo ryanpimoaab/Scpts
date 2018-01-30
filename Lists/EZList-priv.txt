@@ -2372,6 +2372,7 @@ hodling.party
 hodling.science
 host.d-ns.ga
 igg.biz
+igrid.org
 ingorob.com
 jquery-uim.download
 jroqvbvw.info
@@ -2403,6 +2404,7 @@ mutuza.win
 nahnoji.cz
 noblock.pro
 nut.cc
+ogrid.org
 okeyletsgo.ml
 onlinereserchstatistics.online
 papoto.com
@@ -2438,11 +2440,13 @@ ue696vbd9l.bid
 usa.cc
 vcfs6ip5h6.bid
 veritrol.com
+vzhjnorkudcxbiy.com
 webassembly.stream
 webmine.cz
 webmine.pro
 webminepool.com
 webminepool.tk
+whathyx.com
 wsp.marketgid.com
 wty46.com
 xbasfbno.info
