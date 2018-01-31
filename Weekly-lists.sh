@@ -7,9 +7,6 @@ for f in *.sh; do
 bash "$f" -H
 done
 
-cd /Users/rayyan/Github/mwd-id
-[ -s hsts.txt ] || /Users/rayyan/Github/Scrpts/Scrpts/mwd-id/hsts.sh
-
 echo -e "\033[1;31m SB \033[0m"
 
 cd /Users/rayyan/Github/Scrpts/Scrpts/SB/

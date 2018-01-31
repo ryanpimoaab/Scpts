@@ -927,7 +927,6 @@ hitwake.com
 hitwebcounter.com
 hlserve.com
 homechader.com
-honeybadger.io
 hopurl.org
 host-tracker.com
 hostip.info

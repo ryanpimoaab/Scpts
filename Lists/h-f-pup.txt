@@ -2932,6 +2932,7 @@ fishypuulg.website
 fitdmgeorgic.download
 fittlydb.top
 fixcleanerpc2017.com
+fixcomputererrorsforfree.com
 fixerror.org
 fixit-soft.net
 fixit-softhost.com
@@ -2946,6 +2947,8 @@ fixpcerrorsforfree.org
 fixpcerrorsforfree.site
 fixpcerrorsfree.org
 fixpcerrorsfree.tech
+fixpcerrorsnow.com
+fixpcerrorssoftware.com
 fixpcpro.com
 fixpczone.com
 fixregistry.xyz
@@ -4353,6 +4356,7 @@ howforfreevideos.win
 howforviewvideo-player.bid
 howforviewvideo.bid
 howtofixerror.com
+howtofixpcerrors.com
 howtoupdate.free4allupsafesystem4nowset.site
 howtoupdate.goodforyou4update.stream
 howtoupdate.goodforyou4update.win
@@ -6185,6 +6189,7 @@ newliveupdate.thebigandsafer4updates.win
 newliveupdate.thebigandsafer4updating.bid
 newliveupdate.thebigandsafer4updating.download
 newliveupdate.thebigandsafer4updating.win
+newliveupdate.yourbigbuddytocontentsafe.win
 newliveupdatefreshandforfree.bid
 newliveupdatefreshandforfree.club
 newliveupdatefreshandforfree.online
@@ -6749,8 +6754,10 @@ pccleaner.tips
 pccleanplus.com
 pcconvert.com
 pcerrorfixpro.com
+pcerrorfixsoftware.com
 pcfileinfo.com
 pcfixer.online
+pcfixerrors.com
 pcfixertools.biz
 pcfixertools.com
 pcfixertools.info
@@ -21791,4 +21798,4 @@ zyk.bratok.com
 zymosiszfkmthosm.download
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 21797
+# hosts: 21804

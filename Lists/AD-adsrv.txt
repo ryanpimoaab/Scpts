@@ -15371,7 +15371,7 @@ www2.criteo.com
 www2.crittercism.com
 www3.addthis.com
 www3.mopub.com
-www4.ipg-online.com
+www4.mopub.com
 www-9apps-com.cdn.ampproject.org
 www.9dot9.in
 www.a8.net
