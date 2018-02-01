@@ -34068,7 +34068,6 @@ onclkds.com
 one-time-offer.com
 one.123counters.com
 oneandonlynetwork.com
-oneclickcash.com
 onedrive-collection.device.mobileengagement.windows.net
 onedrive-onerm-events-primary-cus.servicebus.windows.net
 onefeed.co.uk
@@ -46919,6 +46918,7 @@ www.zhanzhang.net
 www.zoe-labat.us
 www.zombo.com
 www.ztrack.net
+www.ztrack.pw
 www.zxtrace.com
 www1.clickdownloader.com
 www1.counter.bloke.com
@@ -47535,6 +47535,7 @@ zs0s5xfe.com
 zt.1rx.io
 zt.zeroredirect1.com
 ztrack.net
+ztrack.pw
 zu.zeroredirect1.com
 zulu.go2cloud.org
 zulumob.go2cloud.org
@@ -47552,4 +47553,4 @@ zz.cqcounter.com
 zz.zeroredirect1.com
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 47558
+# hosts: 47559
