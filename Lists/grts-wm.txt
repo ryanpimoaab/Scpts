@@ -94,11 +94,13 @@ jsecoin.com
 jyhfuqoh.info
 kdowqlpt.info
 kickass.cd
+kinohabr.net
 kinoprofi.org
 kissdoujin.com
 kisshentai.net
 kiwifarms.net
 kjli.fi
+ledhenone.com
 lewd.ninja
 listat.biz
 lmodr.biz
@@ -110,6 +112,7 @@ minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
 minero.pw
+minescripts.info
 minr.pw
 monerise.com
 monero-miner.com

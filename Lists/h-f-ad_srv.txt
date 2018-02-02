@@ -45779,6 +45779,7 @@ www.kontera.com
 www.koocash.com
 www.kosoft-ads.com
 www.kpicentral.com
+www.kqzyfj.com
 www.kryptoads.com
 www.kryptobanners.com
 www.krysta-quinlan.us
@@ -47553,4 +47554,4 @@ zz.cqcounter.com
 zz.zeroredirect1.com
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 47559
+# hosts: 47560
