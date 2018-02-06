@@ -8,6 +8,7 @@ a-o.ninja
 ad-miner.com
 adless.io
 afminer.com
+ajplugins.com
 akvideo.stream
 analytics.blue
 anime.reactor.cc
@@ -27,6 +28,8 @@ c7e935.netlify.com
 candid.zone
 capodannoinversilia.com
 cdn.jquery-uim.download
+cfcdist.gdn
+cfceu.duckdns.org
 chainblock.science
 cieh.mx
 clod.pw
@@ -49,10 +52,14 @@ coinrail.io
 cookiescript.info
 cookiescriptcdn.pro
 cpu2cash.link
+cpufan.club
 crypto-loot.com
+crypto-webminer.com
 cryptobara.com
 cryptoloot.pro
 cryptonoter.com
+cryweb.github.io
+crywebber.github.io
 d1e1rbybdt265x.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
 devappgrant.space
@@ -126,6 +133,7 @@ openkatalog.com
 pan.whathyx.com
 papoto.com
 party-nngvitbizn.now.sh
+piti.bplaced.net
 playerassets.info
 ppoi.org
 pr0gramm.com

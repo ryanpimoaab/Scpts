@@ -929,6 +929,7 @@ ymcdn.ymtrack6.co
 static.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+m.yap.yahoo.com
 mobi.yanosik.pl:8080
 app.openstreamapp.com
 crosspromotion.weplayer.cc

@@ -3,7 +3,6 @@
 2468.go2cloud.org
 adsmws.cloudapp.net
 androidads23.adcolony.com
-angiemktg.com
 annualconsumersurvey.com
 apps.id.net
 breaksurvey.com
@@ -407,3 +406,5 @@ www.tradersbrokers.com
 www.us-east1.serve.elixmedia.com
 xml.plaimedia.com
 zamora.axiatraders.com
+angiemktg.com
+weconfirmyou.com

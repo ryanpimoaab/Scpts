@@ -101,6 +101,7 @@ uploadercheckerext.com
 uploadertoolext.com
 uptoolext.com
 webdefenderext.com
+windows.microsoft.com.msf-help.info
 www.05p.com
 www.100ksearches.com
 www.adblockerext.com
@@ -137,6 +138,7 @@ www.infoguardedff.com
 www.infohelperext.com
 www.infosaferext.com
 www.internet-browser.com
+www.lucky-prizes.info
 www.meetyourmessenger.co.uk
 www.moobor.com
 www.naked.com
@@ -174,4 +176,4 @@ www.www4search.net
 www4search.net
 youngteenporn.proboards89.com
 yyue.com
-# hosts: 176
+# hosts: 178

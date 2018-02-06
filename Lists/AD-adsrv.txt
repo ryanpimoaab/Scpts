@@ -4507,7 +4507,6 @@ cdnstatic.optimonk.com
 cdn-static-test.optimonk.com
 cdn.steepto.com
 cdn.switchadhub.com
-cdn.syndication.twimg.com
 cdn.taboola.com
 cdn.taplytics.com
 cdn.targetserving.com
@@ -4910,7 +4909,6 @@ content.rubiconproject.com
 content.taboola.com
 content.tubemogul.com
 controller-gateway.mmccint.com
-controller.intl.xiaomi.com
 convammp.taboola.com
 convdamp.taboola.com
 converse.co.uk.d1.sc.omtrdc.net
@@ -13630,7 +13628,6 @@ syndication.exoclick.com
 syndication.exosrv.com
 syndication.site.yahoo.net
 syndication.standard.co.uk
-syndication.twitter.com
 synergycu.ca.102.112.2o7.net
 syngenta.co1.qualtrics.com
 syn.torlock.com
@@ -23172,3 +23169,4 @@ rack.paytm.com
 api.bounceexchange.com
 srv-2018-01-29-13.pixel.parsely.com
 srv-2018-01-29-13.config.parsely.com
+syndication.twitter.com
