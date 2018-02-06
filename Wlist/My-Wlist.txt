@@ -272,6 +272,7 @@ t0.gstatic.com
 t1.gstatic.com
 t2.gstatic.com
 t3.gstatic.com
+tags.tiqcdn.com
 tedcdn.com
 themoviedb.com
 thepiratebay.org
@@ -583,6 +584,7 @@ www.t0.gstatic.com
 www.t1.gstatic.com
 www.t2.gstatic.com
 www.t3.gstatic.com
+www.tags.tiqcdn.com
 www.tedcdn.com
 www.themoviedb.com
 www.thepiratebay.org

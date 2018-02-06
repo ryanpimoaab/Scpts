@@ -12726,6 +12726,7 @@ icscards.nl.icslogin.abkhazia.su
 icscards.nl.icslogin.adygeya.ru
 icscards.nl.icslogin.adygeya.su
 icscards.nl.icslogin.bashkiria.ru
+icscards.service-klantenservice-inlogin.co
 ictios.cl
 icustomer-paypal.com
 id-apple-2016.com
@@ -57395,6 +57396,7 @@ cloudestoragesystem-securitywarningalert.xyz
 cloudestoragesystem-securitywarningerror.xyz
 cloudestoragesystemnotification.xyz
 cloudestoragesystemsafesoftwarewaningsecureserveralert.info
+cloudestoragesystemsafewaning-softwaresecureserveralert.xyz
 cloudestoragesystemsecuirty.xyz
 cloudestoragesystemsecurity-viruswarningalerterrorcode911.xyz
 cloudestoragesystemsecurity-viruswarningerroralert.xyz
@@ -63029,6 +63031,10 @@ macbrowseralerts.com
 maccare.site
 maccare.today
 maccare.world
+maccloudestoragesystem-internalviruswarningalertcode991.xyz
+maccloudestoragesysteminternal-softwaresecureserveralert.xyz
+maccloudestoragesystemsafewaning-softwaresecureserveralert.xyz
+maccloudesystemsecurity-internalviruswarningalertcode991.xyz
 macerror.xyz
 macerrorcode.xyz
 macerrorcodes.xyz

@@ -256,7 +256,6 @@ address=/tatacliq.com/192.168.1.79
 address=/tbccint.com/192.168.1.79
 address=/tclclouds.com/192.168.1.79
 address=/teads.tv/192.168.1.79
-address=/tiqcdn.com/192.168.1.79
 address=/topsuvspro.com/192.168.1.79
 address=/toptruck-autos.rocks/192.168.1.79
 address=/toptruckssite.com/192.168.1.79

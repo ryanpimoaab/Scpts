@@ -256,7 +256,6 @@ address=/tatacliq.com
 address=/tbccint.com
 address=/tclclouds.com
 address=/teads.tv
-address=/tiqcdn.com
 address=/topsuvspro.com
 address=/toptruck-autos.rocks
 address=/toptruckssite.com

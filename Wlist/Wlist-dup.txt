@@ -521,3 +521,4 @@ s3.tradingview.com
 widgetdata.tradingview.com
 facebook.com
 browser-update.org
+tags.tiqcdn.com
