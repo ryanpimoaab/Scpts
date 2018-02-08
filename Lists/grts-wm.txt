@@ -38,6 +38,7 @@ cloudcoins.co
 cnhv.co
 coin-have.com
 coin-hive.com
+coin-service.com
 coinblind.com
 coinerra.com
 coinhive-manager.com
@@ -111,6 +112,7 @@ ledhenone.com
 lewd.ninja
 listat.biz
 lmodr.biz
+marcycoin.org
 mataharirama.xyz
 mine.nahnoji.cz
 minecrunch.co
@@ -118,6 +120,7 @@ minemytraffic.com
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
+minero.cc
 minero.pw
 minescripts.info
 minr.pw
@@ -151,6 +154,7 @@ stackpathdns.com
 static-cnt.bid
 statistic.date
 sunhd.info
+techhome-js.github.io
 thevideo.ch
 thevideo.me
 thevideo.us
@@ -162,6 +166,7 @@ web.dle-news.pw
 webassembly.stream
 webmine.cz
 webmine.pro
+webminepool.com
 webminepool.tk
 webminerpool.com
 webmining.co

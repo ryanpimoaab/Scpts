@@ -142,3 +142,5 @@ ogrid.org
 igrid.org
 stat0808.info
 dekoder.ws
+leitor.net
+nablabee.com
