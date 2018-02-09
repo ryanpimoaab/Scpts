@@ -17697,7 +17697,6 @@ ads.veloxia.com
 ads.ventivmedia.com
 ads.videoaxs.com
 ads.videoslots.com
-ads.videostrip.com-prizes-giveaway.online
 ads.vintageporntubenet.com
 ads.vipmobile.co.za
 ads.visionads.de
@@ -18496,7 +18495,6 @@ adserving.uniquetrafficgroup.com
 adservinginternational.com
 adservingnetwork.com
 adservone.com
-adservpi.com
 adservr.net
 adsexpand.go2cloud.org
 adsfac.eu
@@ -29086,7 +29084,6 @@ freecameranow.com
 freecelebvideo.net
 freecodecs.us.intellitxt.com
 freecountersnow.com
-freedatarecharge.com
 freelogs.com
 freemyapps.com
 freepay.com
@@ -29515,6 +29512,7 @@ global.justclick.ru
 global.msads.net
 global.reporo.net
 global.ymtrack.com
+global.ymtracking.com
 globaltargets.go2cloud.org
 globaltrack.com
 globaltrack123.go2cloud.org
@@ -29579,6 +29577,7 @@ go.openx.com
 go.padsdelivery.com
 go.padstm.com
 go.pardot.com
+go.playmmogames.com
 go.promojet.ru
 go.pub2srv.com
 go.qb.by
@@ -29591,7 +29590,6 @@ go.tendatta.com
 go.theadsnet.com
 go.toutapp.com
 go.trackgold.net
-go.tracking222.site
 go.trafficshop.com
 go.underclick.ru
 go.voice2page.com
@@ -29603,6 +29601,8 @@ go.wsockd.com
 go.youlamedia.com
 go2.trekaklik.com
 go2cloud.org
+go2funz.com
+go2linkfast.com
 go2web20.net
 go3.trekaklik.com
 go34down.com
@@ -29659,6 +29659,7 @@ gostats.pl
 gostats.ru
 gostats.vn
 gotlaughs.com
+goto.myfunbreak.com
 gotoast.com
 gotoo.com
 goviralnetwork.com
@@ -30484,6 +30485,7 @@ ilbfk.voluumtrk.com
 ilead.itrack.it
 ilife.com
 iloopmobile.com
+ilovecookies.co
 ilu.troughtheend.com
 iluv.clickbooth.com
 ilzzf.voluumtrk.com
@@ -31883,7 +31885,6 @@ link.saisietachance.fr
 link.super-courriel.com
 link.sysmail.fr
 link.tonoffre.fr
-link.trackscity.com
 link.transibase.fr
 link.transiblue.fr
 link.transibox.fr
@@ -33693,6 +33694,7 @@ nonames.tk
 noowho.com
 norc.go2cloud.org
 norma-simental.us
+normalexchange.com
 northnetworks.go2cloud.org
 notebooksbilliger02.webtrekk.net
 nova.dice.net
@@ -34928,6 +34930,7 @@ playnow.guru
 playtomic.com
 plb27.voluumtrk.com
 pleasedontslaymy.download
+pleasewaitlonger.com
 plemedia.com
 plemx.com
 plenews.net
@@ -35587,6 +35590,7 @@ r.domob.cn
 r.edge.inmobicdn.net
 r.leadzu.com
 r.leadzuaf.com
+r.leadzupc.com
 r.letsw.com
 r.mail.ru
 r.migch.com
@@ -35787,7 +35791,6 @@ redirect.dealabs.com
 redirect.ero-advertising.com
 redirect.fairfax.com.au
 redirect.la.idealab.com
-redirect.leadstracker.net
 redirect.linksummary.com
 redirect.mobpartner.mobi
 redirect.searchignite.com
@@ -36864,6 +36867,7 @@ sfl.erw.downloadfilesnow.info
 sftp.barb.2cnt.net
 sftp.clickability.com
 sftrack.searchforce.net
+sftwrads.com
 sfw.adsafeprotected.com
 sg-ssl.effectivemeasure.net
 sg.adserver.yahoo.com
@@ -37330,7 +37334,6 @@ sscdn.banners.advidi.com
 ssdk.adkmob.com
 ssh.kissmetrics.com
 sshowads.pubmatic.com
-sshtunnel.at
 ssi.go2cloud.org
 ssl-default.2cnt.net
 ssl-error.2cnt.net
@@ -38869,7 +38872,6 @@ track.scanmyphones.com
 track.scorpiointeractive.com
 track.searchignite.com
 track.sexchangegirl.com
-track.sharktrkr.xyz
 track.shop2market.com
 track.slideshare.net
 track.smcnetwork.net
@@ -38908,6 +38910,7 @@ track.zappos.com
 track.zipalerts.com
 track.zomato.com
 track.zugo.com
+track112.com
 track2.dulingo.com
 track2.homestead.com
 track2.mycliplister.com
@@ -39787,7 +39790,6 @@ uk.intellitxt.com
 uk.nedstat.net
 uk.nedstatpro.net
 uk.sitestat.com
-uk.static.planet49.com
 uk.websearchnow.net
 uk1.siteimprove.com
 ukaffiliates2.com
@@ -44986,7 +44988,6 @@ www.cktagalongs.com
 www.cktrk.net
 www.claire-bonelli.us
 www.clck.ru
-www.clcktrough.com
 www.clddt.com
 www.clear-reports.com
 www.clearspring.com
@@ -45014,6 +45015,7 @@ www.clicksyndicatetracking.com
 www.clickterra.net
 www.clicktracksolutions.com
 www.clicktraffix.com
+www.clicktrough.com
 www.clickv.com
 www.clickwinks.com
 www.clickxchange.com
@@ -45613,6 +45615,7 @@ www.ignitad.com
 www.igogoshare.com
 www.iicdn.com
 www.ilgm-deals.com
+www.ilovecookies.co
 www.imads.ero-advertising.com
 www.image-map.com
 www.image.ft.com
@@ -45857,7 +45860,6 @@ www.livestat.com
 www.lizk.co
 www.ljteas.com
 www.lkqd.net
-www.llnwd.net
 www.lloogg.com
 www.lm-pk.com
 www.lmlttrack.com
@@ -46240,6 +46242,7 @@ www.pixeleze.com
 www.placehold.it
 www.platinscience.com
 www.pleasedontslaymy.download
+www.pleasewaitlonger.com
 www.plocia.com
 www.plug-media.com
 www.plus500.com
@@ -46538,7 +46541,6 @@ www.srv2trking.com
 www.srver110.xyz
 www.srvpub.com
 www.ssangyong.co.il
-www.ssl-cd.com
 www.stacia-jose.us
 www.stacia-ware.us
 www.stargamesaffiliate.com
@@ -46667,6 +46669,7 @@ www.totalping.com
 www.tracemyip.org
 www.traci-sirianni.us
 www.track.net
+www.track112.com
 www.track4.com
 www.trackalyzer.com
 www.trackbacksecure.com
@@ -47554,4 +47557,4 @@ zz.cqcounter.com
 zz.zeroredirect1.com
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 47560
+# hosts: 47563

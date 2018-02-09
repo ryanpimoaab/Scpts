@@ -1,7 +1,6 @@
 05p.com
 100ksearches.com
 17173.com
-404-not-found.bid
 51.net
 51115.com
 9p.cn
@@ -81,12 +80,10 @@ searchy.tools
 securetoolext.com
 securityext.com
 serch-direct.com
-shellscriptcorrupt023.review
 sitesure.com
 smouch.net
 spidtest.org
 spyass.com
-spyware-surf413-info.bid
 sweet-page.com
 t2cn.com
 toolcheckerext.com
@@ -104,6 +101,7 @@ webdefenderext.com
 windows.microsoft.com.msf-help.info
 www.05p.com
 www.100ksearches.com
+www.5uck.cf
 www.adblockerext.com
 www.adblockext.com
 www.adblocktoolext.com
@@ -176,4 +174,4 @@ www.www4search.net
 www4search.net
 youngteenporn.proboards89.com
 yyue.com
-# hosts: 178
+# hosts: 176

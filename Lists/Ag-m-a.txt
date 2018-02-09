@@ -930,6 +930,7 @@ ymcdn.ymtrack6.co
 static.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+api.ambelbet.com
 m.yap.yahoo.com
 mobi.yanosik.pl:8080
 app.openstreamapp.com
@@ -994,6 +995,8 @@ eviltracker.net
 spotify.com
 trackersimulator.org
 app.adjust.com
+parse-ppom-prod.herokuapp.com
+api.instabug.com
 sts.batmobi.net
 pps-log.op-mobile.opera.com
 event.allnews.uodoo.com
