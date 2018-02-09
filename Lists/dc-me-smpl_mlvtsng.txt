@@ -1,4 +1,3 @@
-0000mps.webpreview.dsl.net
 0001.2waky.com
 009blog.com
 00game.net
@@ -514,7 +513,6 @@ adnetworkperformance.com
 adnews.maddog2000.de
 adnotch.com
 adnxs.com
-adobe-update.com
 adocean.pl
 adongcomic.com
 adonspot.com
@@ -1477,6 +1475,7 @@ behave.nualias.com
 beikehongbei.com
 belstat.com
 belstat.nl
+benstock.free.fr
 benyuanbaina.com
 beroepsperformancescan.nl
 berp.com
@@ -1979,7 +1978,6 @@ divecatalina.com
 diwangjt.com
 dj-sx.com
 djcalvin.com
-djfsml.com
 djplazebo.com
 dl.bzgthg.com
 dl.yizhan123.com
@@ -2364,7 +2362,6 @@ goingplatinum.com
 gold.weborama.fr
 goldspotmedia.com
 goldstats.com
-goldyoung.com
 golfsource.us
 goog1eanalitics.pw
 googlanalytics.ws
@@ -2388,6 +2385,7 @@ grannys.com.au
 greatbookswap.net
 greystripe.com
 grk6mgehel1hfehn.ru
+gsimon.edu.free.fr
 gt-office.com
 gtop.ro
 gtop100.com
@@ -2902,13 +2900,11 @@ lpwangzhan.com
 lt3456.com
 ltktourssafaris.com
 lucidmedia.com
-luckys-fashion.com
 luckyson0660.com
 luguanmm.com
 luguanzhan.com
 lunarads.com
 lwyzzx.cn
-lxsg.net
 lysyp.com
 lzjl.com
 lztz.net

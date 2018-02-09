@@ -37089,6 +37089,7 @@ smartdirect.com
 smarterrorpage.com
 smarticon.geotrust.com
 smartmediamarketing.go2cloud.org
+smartoffer.site
 smarttracks2.smarttracks.net
 smarttrk.com
 smetrics.att.com
@@ -47557,4 +47558,4 @@ zz.cqcounter.com
 zz.zeroredirect1.com
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 47563
+# hosts: 47564
