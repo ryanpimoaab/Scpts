@@ -1,3 +1,5 @@
+mywot.net
+onlineusagesurveys.com
 open.oneplus.net
 promotions.yourfirstmillion.biz
 quickcash-system.com
@@ -35,6 +37,20 @@ www.urldelivery.com
 files.ctnet4.space
 apps3.cointraffic.io
 
+players.brightcove.net
+cfvod.kaltura.com
+metrics.brightcove.com
+ping.chartbeat.net
+www.tvpassport.com
+www.googletagservices.com
+www.googletagmanager.com
+connect.facebook.net
+postmediamontrealgazette2.files.wordpress.com
+edge.api.brightcove.com
+cdnapi.kaltura.com
+vmds.tvpassport.com
+stats.wp.com
+4436230.fls.doubleclick.net
 # analytics
 analysis.polarisoffice.com
 analytics-digit-in.cdn.ampproject.org
@@ -1714,7 +1730,7 @@ xyrjtq.misterjoy.ru
 # see below for acknowledgements.
 # please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
-# last updated: tue, 06 feb 2018 at 07:42:33 gmt
+# last updated: fri, 09 feb 2018 at 19:05:34 gmt
 # use this file to prevent your computer from connecting to selected
 # internet hosts. this is an easy and effective way to protect you from 
 # many types of spyware, reduces bandwidth use, blocks certain pop-up 
@@ -2601,6 +2617,7 @@ impit.tradedouble.com
 impit.tradedoubler.com
 impnl.tradedoubler.com
 impno.tradedoubler.com
+imprammp.taboola.com
 impse.tradedoubler.com
 impsnare.iesnare.com
 in.paycounter.com
@@ -3471,6 +3488,8 @@ valueclick.net
 velocecdn.com
 vertical-stats.huffpost.com
 video-stats.video.google.com
+vidstatb.taboola.com
+vidstat.taboola.com
 vip.clickzs.com
 virtualbartendertrack.beer.com
 visit.theglobeandmail.com
@@ -5711,6 +5730,7 @@ zfm.oewabox.at
 123plays.com
 123specialgifts.com
 #0.0.0.0 140cc.v.fwmrm.net	#interferes with comedy central videos
+15.basebanner.com
 17003124.xyz
 1.adbrite.com
 1.allyes.com.cn
@@ -10882,7 +10902,6 @@ pic.casee.cn
 pick-savings.com
 pickytime.com
 p.ic.tynt.com
-ping.chartbeat.net
 pingfore.qq.com
 pingfore.soso.com
 pink.habralab.ru
@@ -12336,6 +12355,7 @@ wegotmedia.co
 welcome.faptitans.com
 welcome.pussysaga.com
 werkenbijliones.nl
+wf.basebanner.com
 w.ic.tynt.com
 widespace.com
 widget3.linkwithin.com
@@ -17071,7 +17091,6 @@ wtsdc.worldnow.com
 ads.worthplaying.com
 beacon.thred.woven.com
 pixel.wp.com
-stats.wp.com
 badv.wp.pl
 rek.www.wp.pl
 wtvertnet.com
@@ -18168,7 +18187,6 @@ rev.adip.ly
 async01.admantx.com
 data.adsrvr.org
 avidtrak.com
-metrics.brightcove.com
 eue.collect-opnet.com
 intuit.sp1.convertro.com
 addshoppers.t.domdex.com
@@ -21062,7 +21080,6 @@ www.google-analytics.com
 pagead2.googleadservices.com
 partner.googleadservices.com
 domains.googlesyndication.com
-www.googletagservices.com
 www.linksalpha.com
 # [gossamer][as36483][172.255.48.0 - 172.255.63.255]
 # [gossamer][as36483][208.70.244.0 - 208.70.247.255]
@@ -27947,13 +27964,13 @@ www.winaproduct.com
 # for more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   sun, 04 feb 2018 20:50:56 gmt
-# entries:        2585
+# entries:        2583
 # format:         hosts (hosts -- in hosts file format)
 # credits:        peter lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    sat, 14 feb 1998 00:00:00
+# start date:    mon, 16 feb 1998 00:00:00
 101com.com
 101order.com
 123found.com

@@ -8,7 +8,6 @@
 0512px.net
 0538ly.cn
 0551fs.com
-0571jjw.com
 0632qyw.com
 071899.com
 0731csdn.com
@@ -20,7 +19,6 @@
 086pop.com
 0871ggw.net
 08819.com
-0932mls.com
 0971pkw.com
 0995114.net
 09zyy.com
@@ -95,7 +93,6 @@
 3dmv.net
 3e1.cn
 3e3ex8zr4.cnrdn.com
-3sixtyventure.com
 3xstuff.com
 3years.lethanon.net
 4006868488.cn
@@ -1704,13 +1701,11 @@ chestionar.ro
 chhmc.com
 china-hangyi.com
 china-jlt.com
-china-sxw.net
 china-zhenao.com
 china.c-zs.com
 chinabodagroup.com
 chinacxyy.com
 chinalve.com
-chinashadenet.com
 chinatlz.com
 chinese.ahzh-pv.com
 chitika.com
@@ -1790,7 +1785,6 @@ cnt1.pocitadlo.cz
 cnvljo.com
 co.at.vc
 co3corp.com
-coco-tech.net
 code-server.biz
 colonize.com
 comboapp.com
@@ -1810,7 +1804,6 @@ config.0551fs.com
 config.789wed.com
 congchuzs.com
 connextra.com
-constructiveopinions.com
 contaxe.de
 content.acc-hd.de
 content.ad
@@ -2234,7 +2227,6 @@ findyourcasino.com
 fineclicks.com
 fircecymbal.com
 fireflypeople.ru
-firehorny.com
 firoznadiadwala.com
 first-ware.com
 first.nova.cz
@@ -2670,10 +2662,10 @@ jbeet.cjt1.net
 jcount.com
 jdcartoon.com
 jedonkey.cjt1.net
+jefaerosol.free.fr
 jeikungjapani.com
 jewoosystem.co.kr
 jfdyw.com
-jhgy-led.com
 jiajimx.com
 jianyundc.com
 jidekanwang.com
@@ -2888,14 +2880,11 @@ lop.com
 losalseehijos.es
 lousecn.cn
 lpcloudsvr302.com
-lpmxp2017.com
 lpmxp2018.com
-lpmxp2022.com
 lpmxp2023.com
 lpmxp2024.com
 lpmxp2025.com
 lpmxp2026.com
-lpmxp2027.com
 lpwangzhan.com
 lt3456.com
 ltktourssafaris.com
@@ -3347,7 +3336,6 @@ pdk.lcn.cc
 pear.dementiaadvocacy.com
 peep-auktion.de
 peer39.com
-peguards.cc
 pennystock-picks.info
 pennyweb.com
 peoria33884.cz.cc
@@ -3537,6 +3525,8 @@ reduxmediagroup.com
 reedbusiness.com
 reefaquarium.biz
 referralware.com
+reflexonature.free.fr
+regis.foultier.free.fr
 reglasti.com
 regnow.com
 reinvigorate.net
@@ -4255,7 +4245,6 @@ www.china-jlt.com
 www.cibonline.org
 www.cn-server.com
 www.cnhdin.cn
-www.constructiveopinions.com
 www.defygravity.com
 www.dnps.com
 www.elisaart.it

@@ -57,7 +57,7 @@ spynetalt.microsoft.com
 statsfe2.update.microsoft.com
 statsfe2.ws.microsoft.com
 ele.trafficmanager.net
-win8.ipv6.microsoft.com### hosts win10 spy (24/01/2018 17:49)
+win8.ipv6.microsoft.com### hosts win10 spy (10/02/2018 22:45)
 a-0001.dc-msedge.net
 a.ads1.msn.com
 a.ads2.msads.net
@@ -457,7 +457,6 @@ survey.watson.microsoft.com
 0.ssl.ak.tiles.virtualearth.net
 elecommand.telemetry.microsoft.com.nsatc.net
 elemetry.appex.bing.net
-elemetry.appex.bing.net:443
 elemetry.microsoft.com
 elemetry.urs.microsoft.com
 est.activity.windows.com
