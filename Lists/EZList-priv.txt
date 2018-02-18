@@ -672,6 +672,7 @@ enhance.com
 enquisite.com
 ensighten.com
 enticelabs.com
+ep4p.com
 eperfectdata.com
 epilot.com
 epiodata.com
@@ -758,6 +759,7 @@ flash-stat.com
 flashadengine.com
 flashgamestats.com
 flcounter.com
+flix360.com
 flixfacts.co.uk
 flixsyndication.net
 flowstats.net
@@ -1262,6 +1264,7 @@ msgapp.com
 msgtag.com
 msparktrk.com
 mstracker.net
+mstrlytcs.com
 mtracking.com
 mtrics.cdc.gov
 mucocutaneousmyrmecophaga.com
@@ -1636,6 +1639,7 @@ rqtrk.eu
 rrimpl.com
 rs0.co.uk
 rs6.net
+rstg.io
 rsvpgenius.com
 rtb123.com
 rtbauction.com
@@ -2228,6 +2232,7 @@ xxxcounter.com
 xyztraffic.com
 y-track.com
 yamanoha.com
+yandex-metrica.ru
 yaudience.com
 ybotvisit.com
 ycctrk.co.uk
@@ -2333,6 +2338,7 @@ c0i8h8ac7e.bid
 candid.zone
 cdnfile.xyz
 chainblock.science
+chmproxy.bid
 clickwith.bid
 clod.pw
 cloudcoins.co
@@ -2371,13 +2377,14 @@ cryptonoter.com
 csgocpu.com
 deepc.cc
 devphp.org.ua
+didnkinrab.com
 dle-news.pw
 dovinate.top
+dronml.ml
 duckdns.org
 easyhash.io
 etnhashpool.tk
 evengparme.com
-fastcast.nz
 fge9vbrzwt.bid
 flare-analytics.com
 flu.cc
@@ -2385,6 +2392,7 @@ freecontent.bid
 freecontent.racing
 g-content.bid
 gasolina.ml
+giml.ml
 github.io
 github.io
 googleanalytcs.com
@@ -2425,8 +2433,10 @@ ledhenone.com
 ledinund.com
 listat.biz
 lmodr.biz
+losital.ru
 marcycoin.org
 mataharirama.xyz
+mebablo.com
 megabanners.cf
 mercy.ga
 mine.nahnoji.cz
@@ -2445,12 +2455,15 @@ mmpool.org
 monerise.com
 monerominer.rocks
 moneroocean.stream
+moonsade.com
 morningdigit.com
 mutuza.win
 nablabee.com
 nahnoji.cz
 nathetsof.com
+nebabrop.com
 nfwebminer.com
+niematego.tk
 noblock.pro
 nut.cc
 ogrid.org
@@ -2459,6 +2472,7 @@ onlinereserchstatistics.online
 p2poolmining.com
 p2poolmining.net
 papoto.com
+pearno.com
 playerassets.info
 podrltid.info
 pool.hws.ru
@@ -2474,6 +2488,7 @@ reservedoffers.club
 retadint.com
 rineventrec.com
 rintindown.com
+rintinwa.com
 rocks.io
 sbhmn-miner.com
 secumine.net
@@ -2483,13 +2498,12 @@ smectapop12.pl
 sparechange.io
 sparnove.com
 static-cnt.bid
+staticsfs.host
 statistic.date
 subloader.cf
 supportxmr.com
 thatresha.com
 tokyodrift.ga
-tracker.openwebtorrent.com
-tracker.webtorrent.io
 ue696vbd9l.bid
 ukp2pool.uk
 usa.cc
@@ -2504,6 +2518,7 @@ webminepool.com
 webminepool.tk
 webxmr.com
 whathyx.com
+willacrit.com
 witthethim.com
 wp-monero-miner.com
 wsp.marketgid.com

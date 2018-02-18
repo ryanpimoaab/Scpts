@@ -30,6 +30,8 @@ capodannoinversilia.com
 cdn.jquery-uim.download
 cfcdist.gdn
 cfceu.duckdns.org
+cfcnet.gdn
+cfcs1.duckdns.org
 chainblock.science
 cieh.mx
 clod.pw
@@ -40,6 +42,7 @@ coin-have.com
 coin-hive.com
 coin-service.com
 coinblind.com
+coiner.site
 coinerra.com
 coinhive-manager.com
 coinhive.com
@@ -75,6 +78,7 @@ filmgoo.org
 freecontent.bid
 freecontent.loan
 freecontent.racing
+freecontent.stream
 futeboltv.com
 g-content.bid
 gasolina.ml
@@ -82,6 +86,7 @@ goodkino.biz
 goodolddownloads.com
 googleanalytcs.com
 goredirect.party
+greenindex.dynamic-dns.net
 gridcash.net
 gridiogrid.com
 gus.host
@@ -156,6 +161,7 @@ safelinkconverter.com
 salamaleyum.com
 sen-to-zdrowie.ml
 shrink-service.it
+sighash.info
 sleazyneasy.com
 sparechange.io
 stackpathdns.com

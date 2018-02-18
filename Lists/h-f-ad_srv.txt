@@ -1683,6 +1683,7 @@ a.networkworld.com
 a.niholaev.com
 a.niklesrov.com
 a.nimdinb.com
+a.o.nf
 a.o333o.com
 a.oix.net
 a.optinmonster.com
@@ -1720,6 +1721,7 @@ a.sucksex.com
 a.t.webtracker.jp
 a.tantella.com
 a.targetingadvertiser.com
+a.teads.tv
 a.tellapart.com
 a.tenlokif.com
 a.tfag.de
@@ -16082,6 +16084,7 @@ addvaluemedia.go2cloud.org
 addynamics.eu
 addynamix.com
 addynamo.net
+ade.clmbtech.com
 adecn.adnxs.com
 adecn.com
 adedy.com
@@ -16244,6 +16247,8 @@ adgardener.com
 adgatemedia.com
 adgatemedia.go2cloud.org
 adgear.com
+adgebra.co.in
+adgebra.in
 adgenie.co.uk
 adgent007.com
 adgine.net
@@ -20100,6 +20105,7 @@ as.wkcr.cz
 as5000.com
 as5000.wunderground.com
 asa.brwavz.com
+ase.clmbtech.com
 ashely-felts.us
 ashleigh-shellenbarger.us
 ashly-legette.us
@@ -21759,7 +21765,6 @@ box30107.2cnt.net
 box30120.2cnt.net
 box32002.2cnt.net
 box32003.2cnt.net
-boxesists.com
 boxofficeprophets.us.intellitxt.com
 bp.ads.link4ads.com
 bp5xs.voluumtrk.com
@@ -23449,6 +23454,7 @@ cache03.bob.local.vmsn.de
 cache03.con.local.vmsn.de
 cache2.delvenetworks.com
 cachebanners.toteme.com
+cade.clmbtech.com
 cadreon.s3.amazonaws.com
 cads.ch
 cadvv.heraldm.com
@@ -23466,7 +23472,6 @@ calendrier.science
 call-tracking.co.uk
 callfire.com
 callloop.com
-callmd5map.com
 calme.science
 cameraboys.com
 cameron-wolter.us
@@ -23523,6 +23528,7 @@ casalemedia.com
 casalmedia.com
 casandra-zane.us
 cascade.madmimi.com
+case.clmbtech.com
 casey-fifer.us
 cash.atkcash.com
 cash.femjoy.com
@@ -24328,7 +24334,6 @@ click.loudgames.com
 click.mmosite.com
 click.mobtimizer.com
 click.monstracking.com
-click.mvc19.com
 click.mz.simba.taobao.com
 click.netpondcash.com
 click.news2.v3.email-publisher.com
@@ -29628,7 +29633,6 @@ golizoli.com
 gomobbi.go2cloud.org
 gomovies.track.clicksure.com
 gooal.herokuapp.com
-good.9downloadall.com
 goodbookbook.com
 gooddata.com
 goodiemob.com
@@ -30159,7 +30163,6 @@ house27.ch
 housead.umeng.com
 howaboutwe.go2cloud.org
 howardchui.us.intellitxt.com
-howrowthettof.com
 hoz01.voluumtrk.com
 hpglobal.112.2o7.net
 hphqglobal.112.2o7.net
@@ -30349,7 +30352,6 @@ i4.cmail1.com
 i4.createsend4.com
 i4.putags.com
 i46rz.voluumtrk.com
-i47-safebrowse.com
 i4927.voluumtrk.com
 i4c.go2cloud.org
 i5.cmail2.com
@@ -31022,6 +31024,7 @@ irpopup.ir
 irs01.net
 is.vinsight.de
 is9ip.voluumtrk.com
+ise.clmbtech.com
 isearch.shopathome.com
 isg01.casalemedia.com
 ishare.metric.rediff.com
@@ -31395,7 +31398,6 @@ k658t.voluumtrk.com
 k66fd.voluumtrk.com
 k6afu.voluumtrk.com
 k6pwy.voluumtrk.com
-k73me-mobile.com
 k7j6a.voluumtrk.com
 k9a8e.voluumtrk.com
 kaartenhuis.nl.site-id.nl
@@ -31433,7 +31435,6 @@ kathleen-bower.us
 kathryn-berens.us
 kathryn-scheele.us
 kati-birdsall.us
-katie.tnctrx.com
 katlyn-oday.us
 katrina-rumbaugh.us
 katrina-urias.us
@@ -31995,7 +31996,6 @@ livezila.namoroevangelicos.com
 liz-vassar.us
 liza-kyler.us
 lizette-stickler.us
-lizk.co
 ljostrade.go2cloud.org
 ljteas.com
 ljujm.voluumtrk.com
@@ -32561,7 +32561,6 @@ marketing.nyi.com
 marketing.nyi.net
 marketing.openoffice.org
 marketing.vistaprint.com
-marketingprofs.com
 marketingsecrets.com
 marketingtips.com
 marketingtools.facialabuse.tv
@@ -33119,7 +33118,6 @@ mobooka.go2cloud.org
 mobooka.hasoffers.com
 mobpartner.com
 mobpartner.mobi
-mobred.net
 mobstac.com
 mobvid.mobi
 mobvista.go2cloud.org
@@ -33602,6 +33600,7 @@ nexac.demdex.net
 nexage.com
 nextlevel.com
 nextmag.apx.appier.net
+nextmillennium.liqwid.net
 nextoptim.com
 nexus.adspirit.de
 nexus.ensighten.com
@@ -34212,6 +34211,8 @@ orf.oewabox.at
 orgibiz.com
 origin.privoy.doublepimp.com
 origin.zedo.com
+originade.clmbtech.com
+originadessl.clmbtech.com
 orion.bnex.com
 orlbh.voluumtrk.com
 ornacorn.com
@@ -35239,7 +35240,6 @@ ps2.interpolls.com
 ps2.ultraflawlesspop.com
 ps3.ign.us.intellitxt.com
 ps3.ultraflawlesspop.com
-ps4.ultraflawlesspop.com
 ps5.ultraflawlesspop.com
 ps6.ultraflawlesspop.com
 ps7.ultraflawlesspop.com
@@ -35692,7 +35692,6 @@ rates.insureship.com
 rating.openstat.com
 rating.openstat.ru
 ratkalol.com
-ratsparropret.ru
 ratx9.voluumtrk.com
 ravenstonedigital.go2cloud.org
 rawdinner.justclick.ru
@@ -35761,6 +35760,7 @@ realtracker.com
 rebecca-smythe.us
 rec.quartic.pl
 rec3.prosieben.de
+recade.clmbtech.com
 recipegoldmine.us.intellitxt.com
 reco.hardsextube.com
 recommendation.24.com
@@ -36158,7 +36158,6 @@ rydium.us.intellitxt.com
 ryerose.net
 rygpq.voluumtrk.com
 ryield.jmp9.com
-ryropthetsed.ru
 rytj3.voluumtrk.com
 rzr.tractionize.com
 s-adserver.cxad.cxense.com
@@ -37535,6 +37534,7 @@ static.chartbeat.com
 static.chartboost.com
 static.clickpapa.com
 static.clixsense.com
+static.clmbtech.com
 static.contactme.com
 static.crakbanner.com
 static.criteo.com
@@ -37578,11 +37578,9 @@ static.hotjar.com
 static.htmlhubing.xyz
 static.hubspot.com
 static.hupso.com
-static.i47-safebrowse.com
 static.ifa.camads.net
 static.it.groupon-content.net
 static.itrack.it
-static.k73me-mobile.com
 static.kameleoon.com
 static.kinghost.com
 static.kinley.com
@@ -37601,7 +37599,6 @@ static.ndoverdrive.net
 static.ngbn.net
 static.nirror.com
 static.nrelate.com
-static.o67-theguard.com
 static.parse.ly
 static.parsely.com
 static.pixazza.com
@@ -38539,7 +38536,6 @@ thisclickisforyou.com
 thisteddagblad.dk
 thogethoffic.co
 thor-cpa.com
-threivetrack.com
 thrgo.pro
 thruport.com
 ths9j89.com
@@ -38607,6 +38603,7 @@ tlvmedia.com
 tm.tradetracker.net
 tmarket.tripod.com
 tmgdigital.go2cloud.org
+tml.clmbtech.com
 tmobile-us.inq.com
 tmp.dt00.net
 tmscdn.coremetrics.com
@@ -38798,7 +38795,6 @@ track.cinestar.de
 track.clariad.com
 track.clickbooth.com
 track.clickcabintracker.com
-track.clicksbandit.com
 track.cliqrr.com
 track.cmllk1.info
 track.com-trckr.com
@@ -38885,7 +38881,6 @@ track.thewebgemnetwork.com
 track.tracking85.com
 track.trademail.fr
 track.trafficholder.com
-track.turboyourpc.com
 track.umeng.com
 track.untd.com
 track.v2.sslsecure1.com
@@ -39157,7 +39152,6 @@ trackingdev.nixxie.com
 trackingoffer.info
 trackingoffer.net
 trackingstatalytics.com
-trackinguk2.com
 trackit.skyhighctr.com
 tracklead.net
 tracknewsletter.com
@@ -39192,6 +39186,7 @@ traffic-hits.com
 traffic-supremacy.com
 traffic.acwebconnecting.com
 traffic.adxprts.com
+traffic.adxprtz.com
 traffic.alexa.com
 traffic.bannerator.com
 traffic.bokecc.com
@@ -39315,6 +39310,7 @@ trk.atdmt.com
 trk.bidtrk.com
 trk.blamads.com
 trk.bluetrackmedia.com
+trk.clmbtech.com
 trk.cpainfinity.com
 trk.cpcitrk.mobi
 trk.dsv2trk.com
@@ -44539,6 +44535,8 @@ www.adfusion.com
 www.adgalax.com
 www.adgatemedia.com
 www.adgear.com
+www.adgebra.co.in
+www.adgebra.in
 www.adgroups.com
 www.adgroups.net
 www.adhall.com
@@ -45593,7 +45591,6 @@ www.hyperlinksecure.com
 www.hyperspace-network.com
 www.hyperspacenetwork.com
 www.i-xzone.com
-www.i47-safebrowse.com
 www.iads.com.np
 www.iaspromotes.com
 www.ib.adnxs.com
@@ -45733,7 +45730,6 @@ www.jvz8.com
 www.jvz9.com
 www.jvzoo.com
 www.jwljj.adsb4track.com
-www.k73me-mobile.com
 www.kacey-sheilds.us
 www.kala-mazzariello.us
 www.kandace-fazio.us
@@ -45929,7 +45925,6 @@ www.marketbiz.com
 www.marketgid.com
 www.marketing-internet.com
 www.marketing.com.ar
-www.marketingprofs.com
 www.marketingsecrets.com
 www.marketingtips.com
 www.marketingwithpostcards.com
@@ -46551,10 +46546,7 @@ www.starterdir.ru
 www.statcount.com
 www.statcounter.com
 www.stateresolver.link
-www.static.i47-safebrowse.com
-www.static.k73me-mobile.com
 www.static.mb89-live.com
-www.static.o67-theguard.com
 www.statistik.biz
 www.stats4all.com
 www.stats4you.com
@@ -47558,4 +47550,4 @@ zz.cqcounter.com
 zz.zeroredirect1.com
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 47564
+# hosts: 47556
