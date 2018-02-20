@@ -2687,6 +2687,7 @@ appleeid-restriction.net
 appleeid-secur-refundpayment.com
 appleeid-unlock-bulkb.com
 appleeid-unlock-bulkc.com
+appleeid-webs.secure-cloud-online.info
 appleeid.net
 appleeito.com
 appleeld-acountpagesign.com
@@ -2939,6 +2940,7 @@ appleid-apple.com
 appleid-apple.com-index-homeregister91822.gq
 appleid-apple.net
 appleid-apple.org
+appleid-apple.services
 appleid-apple.site
 appleid-apple.su
 appleid-applech.date
@@ -3249,6 +3251,7 @@ appleid.apple.com.securitybillingservice.com
 appleid.apple.com.signin.gwcs.in
 appleid.apple.com.supportpages-policy.buzz
 appleid.apple.com.supportverificationbillinginformation.com
+appleid.apple.comll.org
 appleid.apple.glammamomma.com
 appleid.apple.icloud.dddvu.creditsspreads.com
 appleid.apple.verify-cloud.info
@@ -3627,6 +3630,7 @@ appleld-itnues.com
 appleld-kf.com
 appleld.info
 appleld.ru
+appleld.support-revision.com
 appleldcloud.com
 appleldl.com
 appleldprivasisupport.com
@@ -5603,7 +5607,14 @@ chase-banking-com6.xyz
 chase-banking0.world
 chase-banking5.world
 chase-com-verifycard.com
+chase-login10.xyz
+chase-login11.xyz
+chase-login12.xyz
+chase-login2.xyz
+chase-login5.xyz
+chase-login6.xyz
 chase-login7.xyz
+chase-login8.xyz
 chase-online-verify.com
 chase.chaseonline.banking.limkay.com
 chasebank-logon.xyz
@@ -7393,6 +7404,7 @@ gnarlyapple.com
 gnarlyapples.com
 go.facebook.view.herbalgalax.com
 go2paypal00msgx.info
+godaddy.cloud-protect.net
 gogle-email-support.com
 goldcoinhealthfoods.com
 goldplatedapplewatch.com
@@ -7555,6 +7567,7 @@ haroldlloydstore.com
 hd.pornvidzforyou.com
 headcomail.com
 headphonesessaleonline1.com
+healthandbeautykiosk.com
 healthcare-amazon.com
 heather.rubieandromache.com
 hebronstudios.com
@@ -13584,6 +13597,7 @@ remaake-servic3yourappleid.com
 remaakee-servic3yourappleid.com
 remaches-rocsa.com
 remember-update-info-access.com
+reminder-apple-security.info
 reminder-customerupdate.com
 reminder-updatesummary-customers-home.com
 remont-apple.center
@@ -14095,6 +14109,7 @@ secure-sture-apple.com
 secure-update-account.com
 secure-update-appleid.com
 secure-update-billing-payforpal.blogspot.com
+secure-update-data-information-of-myaccount.ga
 secure-update-information-preference-ssl.azurewebsites.net
 secure-update-term-policy.com
 secure-update.bslajkal.com
@@ -15945,6 +15960,7 @@ verifysecurebank.com
 verifysignin-apple.com
 verifysupportappl.com
 verifyupdates.com
+verifywe.xyz
 verifywells.com
 verifyyourbelling.com
 veriifikasi-facebook.webnode.com
@@ -22012,6 +22028,7 @@ www.appleid.apple.com.metropolecabeleireiros.com.br
 www.appleid.apple.com.signin.gwcs.in
 www.appleid.apple.com.supportpages-policy.buzz
 www.appleid.apple.com.ukausecure.net
+www.appleid.apple.comll.org
 www.appleid.apple.glammamomma.com
 www.appleid.apple.icloud.dddvu.creditsspreads.com
 www.appleid.apple.id.sign-in.b52c96bea30646abf8170f333bbd42b9.odontocardium.com.br
@@ -37665,6 +37682,7 @@ www.www5-applesecure.com
 www.www5.apple.ituness.info.aqqca.iamlgnd2.com
 www.www5.apple.ituness.info.ccpyj.iamlgnd2.com
 www.www5.icloud.apple.stores.icloud.ptndm.pre-launch-alert.com
+www.www5.secure.apple.verify.h5jlnmodp8.emf-mep.com
 www.www6-apple.info
 www.www7-apple.com
 www.www707.rpolite.normacynthie.com
@@ -38313,6 +38331,7 @@ www5-applesecure.com
 www5.apple.ituness.info.aqqca.iamlgnd2.com
 www5.apple.ituness.info.ccpyj.iamlgnd2.com
 www5.icloud.apple.stores.icloud.ptndm.pre-launch-alert.com
+www5.secure.apple.verify.h5jlnmodp8.emf-mep.com
 www513.betruetoyou.rubieandromache.com
 www513.catecate.rubieandromache.com
 www513.darthspliff.rubieandromache.com
@@ -69858,6 +69877,7 @@ kevinstube.com
 keyloggerformac.org
 keystroking54.tubesmobile.com
 kgwfrp.google.13900139000.com
+kharismacemerlangabadi.com
 khomeinista45.tubesmobile.com
 khotaiandroid.info
 khotmail.com
@@ -71235,6 +71255,7 @@ open.pornomature.info
 openoffice.gooofull.com
 openoffice.telecharsoft.com
 orangetube.s161.coreserver.jp
+osasmail.xyz
 ottawalinuxsymposium.org
 otvet-mail200-click.com
 ourbank.in
@@ -76174,6 +76195,7 @@ www.keepupdateofurls.info
 www.kerios-nuke-post-co.ru
 www.kevinstube.com
 www.keyloggerformac.org
+www.kharismacemerlangabadi.com
 www.khotaiandroid.info
 www.khotmail.com
 www.kiosk.gb7.ru
@@ -77628,6 +77650,7 @@ www.online-system-check-report-macos.info
 www.online-update.org
 www.onlinecrypter.com
 www.onotoriousx.blackapplehost.com
+www.osasmail.xyz
 www.ottwhatsapp.info
 www.otvet-mail200-click.com
 www.ourbank.in

@@ -16,8 +16,11 @@ appsforimacs.com
 arc-aws-cf-cloud-resources.tombola.com
 b.scorecardresearch.com
 badges-production-external-877820065.us-west-2.elb.amazonaws.com
+binaṇce.com
 bitcoin-code.co
 bittrex-support.com
+biṇance.com
+biṇaṇce.com
 candy.goodgame.ru
 cdn.ss.anno.channel4.com
 clicks.istripper.com
