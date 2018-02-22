@@ -26,6 +26,7 @@ cdn.ss.anno.channel4.com
 clicks.istripper.com
 client-event-reporter.twitch.tv
 cms-cdn.tombola.com
+coiṇbase.com
 content.cdn.viber.com
 ctg.hege.gdn
 cwcams.com

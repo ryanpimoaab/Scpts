@@ -1383,7 +1383,6 @@ jira.prohashing.com
 jmqapf3nflatei35.onion.link
 joincrypro.ml
 joinus.coinfirm.io
-joyreactor.cc
 jp-stratum.btcc.com
 jp.lapool.me
 jp.stratum.viaxmr.com
