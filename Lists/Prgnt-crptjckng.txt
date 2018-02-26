@@ -198,6 +198,7 @@
 91.121.167.111
 91.121.223.53
 91.121.87.10
+91pool.com
 92.222.10.59
 92.222.180.118
 92.222.180.119
@@ -227,6 +228,7 @@ adbtc.top
 adminer.com
 adobecc.com
 adolfcoin.camp
+adrive.com
 ads.locationforexpert.com
 adv.cryptopay.me
 afflow.18-plus.net
@@ -262,6 +264,7 @@ aservices.party
 assets.lydian.io
 au.ltcrabbit.com
 audioknigi.club
+aura.epool.io
 auroramine.com
 authedmine.com
 authedwebmine.cz
@@ -273,6 +276,7 @@ azvjudwr.info
 b.pool.gq
 bablace.com
 baiduccdn1.com
+bcd.uupool.cn
 bcmonster.com
 beagamer.club
 becanium.com
@@ -377,6 +381,7 @@ btc.poolbt.com
 btc.poolmining.eu
 btcchina.com
 btcprominer.life
+btg.uupool.cn
 btgmine.pro
 btgpool.pro
 burst.bitcoingamer.xyz
@@ -390,6 +395,7 @@ burstneon.ddns.net
 buskerudtracker.info
 butcalve.com
 buyandfun.review
+bw.com
 bxc.coinwire.eu
 c0i8h8ac7e.bid
 c7e935.netlify.com
@@ -416,6 +422,7 @@ cfcnet.gdn
 cfcnet.top
 cfcs1.duckdns.org
 chainblock.science
+chaintime.epool.io
 changelly.com
 chekazpools.com
 chimachinenow.com
@@ -423,10 +430,12 @@ chmproxy.bid
 ckpool.org
 clickandbuy.review
 clickandbuy.win
+clickgem.com
 clicktrackerfast.pro
 clickwith.bid
 clickwith.date
 cliggi.download
+clo.epool.io
 cloud-wp.org
 cloudcdn.gdn
 cloudcoins.co
@@ -434,6 +443,7 @@ cloudflare.solutions
 cloudmedia.gdn
 cloudmediacdn.com
 cloudzad.com
+clu.epool.io
 cn.ss.btc.com
 cndhit.xyz
 cnhv.co
@@ -442,6 +452,7 @@ cody.services
 coihive.com
 coin-have.com
 coin-hive.com
+coin-miners.info
 coin-service.com
 coinbase.com
 coinbin.org
@@ -557,6 +568,8 @@ dcy.coinwire.eu
 deals.hashflare.io
 deepbit.net
 deepc.cc
+delivery1class.download
+deliveryclub-6589.download
 deltapool.net
 dero.coinwire.eu
 dev.qp.si
@@ -594,21 +607,30 @@ eeme7j.win
 eeme7je.win
 egopastor.biz
 electroneum.ovh
+ella.epool.io
 elthamely.com
 email.bitaccess.co
 email.mail.faucethub.io
+emc.epool.io
 eminer.net
 enjoyableoffers.club
 equihash.eu1.coinmine.pl
 errantshed.co.uk
 etacontent.com
+etc-chart1.epool.io
+etc-poolcrypto.org
+etc.clona.ru
+etc.epool.io
 etcmine.pro
+etcstats.epool.io
+etf-tools.uupool.cn
 eth-as.coinmine.pl
 eth-eu.coinmine.pl
 eth-us.coinmine.pl
 eth.coinmine.pl
 eth.cryptokitties.co
 eth.poolmining.eu
+ethc.epool.io
 etherdelta.biz
 etherdelta.click
 etherdelta.express
@@ -620,8 +642,10 @@ ethereumpool.co
 ethermine.org
 ethpool.org
 ethpool.utocat.com
+ethteam.com
 etnhash.net
 etnpool.minekitten.io
+etp.uupool.cn
 eu-stratum.btcguild.com
 eu.centralcavern.uk
 eu.ltcrabbit.com
@@ -636,6 +660,8 @@ exdynsrv.com
 exmio.biz
 exmuo.com
 exmuo.org
+exp.clona.ru
+exp.epool.io
 explorersconvayencing.com.au
 expmine.pro
 exrno.biz
@@ -650,6 +676,7 @@ f2pool.com
 f4e8j36h8572a.com
 fabulouspanda.com
 fairpool.cloud
+faucet.epool.io
 fblaster.com
 ffjk.space
 fge9vbrzwt.bid
@@ -681,6 +708,7 @@ futeboltv.com
 futurocoinpool.com
 g-content.bid
 games.qp.si
+gamestoredownload.download
 gbminers.com
 gdax.click
 gdax.deals
@@ -703,6 +731,8 @@ gidowns.icejuice.xyz
 gigarho.com
 git.qp.si
 give-me-coins.com
+globalthlinkalgounsi.win
+gmc.epool.io
 go.megabanners.cf
 go2.mercy.ga
 goldoffer.online
@@ -719,6 +749,7 @@ greengaming.de
 greenindex.dynamic-dns.net
 gridcash.net
 gridiogrid.com
+gtg02.bestsecurepractice.com
 guest-stat.com
 gus.host
 gustaver.ddns.ne
@@ -741,6 +772,7 @@ hashunited.com
 hashvault.pro
 hatcalter.com
 hatevery.info
+hcash.uupool.cn
 hegrinhar.com
 help.cryptopay.me
 helperprotectionext.biz
@@ -756,6 +788,7 @@ hk.ltcrabbit.com
 hodl.blockquarry.com
 hodlers.party
 hodling.faith
+hsr.uupool.cn
 hushmine.pro
 hushpool.cloud
 i.zsw8.cc
@@ -875,7 +908,9 @@ mdwnte.com
 mebablo.com
 mediatrackerfast.pro
 meganfoxloveyou.com
+mergemining.com
 metrika.ron.si
+mewapi.epool.io
 mine-for.us
 mine.cc.st
 mine.mine.bz
@@ -899,6 +934,7 @@ minero.cc
 minero.pw
 miners.pro
 minersisland.com
+minertopia.org
 minescripts.info
 mineshaft1.cryptopia.co.nz
 minexmr.com
@@ -910,6 +946,7 @@ mining.usa.hypernova.pw
 miningpool.africa
 miningpool.thruhere.net
 miningpoolhub.com
+miningrigrentals.com
 miningspeed.com
 minzpool.ml
 mixpools.org
@@ -1017,6 +1054,7 @@ nkxdyorwbt.com
 nl1.ghash.io
 nnyetlherwallet.com
 noblock.pro
+nocroom.com
 nord.adr.com.ua
 now.sh
 ns2.webcoin.us
@@ -1026,6 +1064,7 @@ offerreality.com
 ogrid.org
 ohac.github.io
 oinerra.com
+old.uupool.cn
 oload.info
 onion.top
 online-game-18.xyz
@@ -1038,11 +1077,14 @@ openkatalog.com
 orb.dnb.io
 p.estream.to
 p.sunnyjuly.gq
+p1.interestingz.pw
+p2.interestingz.pw
 p2pool.in
 p2pool.info
 p2pool.org
 p2poolmining.com
 p2poolmining.net
+p3.interestingz.pw
 panelsave.com
 papoto.com
 pascal3.science
@@ -1053,6 +1095,7 @@ perfectmine.io
 pertholin.com
 phoenixcoin.org
 pickaxe.online
+pirl.epool.io
 piti.bplaced.net
 pivx.cryptopool.io
 player.h-cdn.com
@@ -1091,6 +1134,7 @@ pool.ipominer.com
 pool.mn
 pool.paycoinalt.com
 pool.qp.si
+pool.ski
 pool.stalwartbucks.com
 pool.webcoin.us
 pool.zeropool.org
@@ -1162,10 +1206,13 @@ rufflet-api.cryptokitties.co
 rufflet.cryptokitties.co
 s.m.eligius.st
 s.sunnyjuly.gq
+s3.gasolina.ml
 safelinkconverter.com
 sakthikaa.com
 salamaleyum.com
 sbhmn-miner.com
+scrypt.ispace.co.uk
+scryptpool.com
 sdgndsfajfsdf.info
 sea.wafflepool.com
 search.bitaccess.co
@@ -1176,6 +1223,7 @@ secure.qp.si
 serenity.hiddenjadestone.com
 serie-vostfr.com
 serv0100.blacktds.com
+server.adless.io
 server.com
 sha.eobot.com
 sheepman.mine.bz
@@ -1214,11 +1262,9 @@ statistic.date
 status.hashflare.io
 steamoctanepool.com
 stonecalcom.com
-stratum-eu.coin-miners.info
 stratum.1ex.trade
 stratum.asicpool.info
 stratum.btcc.com
-stratum.bw.com
 stratum.chainworksindustries.com
 stratum.f2xtpool.com
 stratum.mybtccoin.com
@@ -1248,6 +1294,8 @@ test.coinfirm.io
 test.copay.io
 test.minr.pw
 testbcc.bitconnect.co
+testnet.epool.io
+teststats.epool.io
 thatresha.com
 theappguruz.com
 thebetteroptions.win
@@ -1284,6 +1332,8 @@ trudatum.coinfirm.io
 tubetitties.com
 tugae2.com
 tulip18.com
+turnsocial.com
+ubq.epool.io
 ucrypto.net
 uk-etn-pool.hashparty.io
 uk1.ghash.io
@@ -1319,6 +1369,7 @@ verresof.com
 versiliaguide.com
 vestfoldtracker.pro
 viaxmr.com
+vidfile.net
 viewyng.com
 virtuallakshmi.com
 vpn.coinfirm.io
@@ -1441,6 +1492,7 @@ zec-eu.coinmine.pl
 zec-us.coinmine.pl
 zec.coinmine.pl
 zec.poolmining.eu
+zec.uupool.cn
 zenmine.pro
 zergpool.com
 zlx.com.br

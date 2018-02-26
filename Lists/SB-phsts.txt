@@ -24,7 +24,6 @@ login.dotomi.com
 login.dotomi.net
 external.stealthedeal.com
 goodblock.gladly.io
-help.evernote.com  
 jackbootedroom.com 
 mackeeperapp.zeobit.com
 montrealgazette.stats.com

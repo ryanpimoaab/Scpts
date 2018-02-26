@@ -577,142 +577,8 @@ a-ads.com
 a-ssl.ligatus.com
 a-static.com
 a.adroll.com
-a.ajkelra.com
-a.akailoparzapi.com
-a.alabardak.com
-a.atarshaboor.com
-a.avalhukof.com
-a.badokal.com
-a.bahaimlo.com
-a.bapalolo.com
-a.bapaquac.com
-a.beglorena.com
-a.bobarilla.com
-a.bokilora.com
-a.bondinra.com
-a.bonjikoa.com
-a.botiviga.com
-a.bulbazoa.com
-a.camtinolc.com
-a.carutinv.com
-a.chukalapopi.com
-a.chukalorqa.com
-a.ciridola.com
-a.civitik.com
-a.d.mojigaga.com
-a.dagasaka.com
-a.daghashmal.com
-a.dbvault.net
-a.dontibar.com
-a.dorapodorasham.com
-a.drogomet.com
-a.dulderbulder.com
-a.durazopa.com
-a.egolina.com
-a.ekolamis.com
-a.erogaliv.com
-a.farfarida.com
-a.filtonay.com
-a.foditgoz.com
-a.forkitz.com
-a.fulhudhoo.com
-a.godibarl.com
-a.golizoli.com
-a.haklopar.com
-a.hariqavi.com
-a.hirovivi.com
-a.horheloopo.com
-a.humuseliyahu.com
-a.jadizayo.com
-a.jandolav.com
-a.jingavot.com
-a.jojilabola.com
-a.joribobo.com
-a.jorjodika.com
-a.jquerycdn.co.il
-a.jquerymin.co.il
-a.kalmloda.com
-a.kdoraraq.com
-a.kilomansa.com
-a.kilorama.com
-a.krakeshlaja.com
-a.kuchebraska.com
-a.kulkaridoopi.com
-a.kulkerbolda.com
-a.kullalabulla.com
 a.ligatus.com
-a.liktirov.com
-a.lokipodi.com
-a.maokdata.com
-a.measurementaz.com
-a.milparota.com
-a.mojigaga.com
-a.monijorb.com
-a.morbitempus.com
-a.moritava.com
-a.mozefakt.com
-a.mujilora.com
-a.muligov.com
-a.namitol.com
-a.nanuyalailai.com
-a.niholaev.com
-a.niklesrov.com
-a.nimdinb.com
-a.nitigoly.com
-a.oddomane.com
-a.opjalajamak.com
-a.pipilida.com
-a.pitatagata.com
-a.pompazilla.com
-a.poratav.com
-a.prikolizdesa.com
-a.qawiman.com
-a.quavomi.com
 a.raasnet.com
-a.rapizoda.com
-a.ratkalol.com
-a.reqpostanza.com
-a.rolkakuksa.com
-a.roritabo.com
-a.rotibald.com
-a.scrappykoko.com
-a.senolati.com
-a.shmonekisot.com
-a.shokala.com
-a.shoxyloxi.com
-a.shulhanafuh.com
-a.tantella.com
-a.tenlokif.com
-a.tijorari.com
-a.tikodala.com
-a.tikrailijorj.com
-a.udorik.com
-a.ufraton.com
-a.ukatoe.com
-a.upnorma.com
-a.uralap.com
-a.utazwa.com
-a.utorido.com
-a.uzekrs.com
-a.uzotarak.com
-a.venonita.com
-a.vkafirac.com
-a.volimole.com
-a.wakapita.com
-a.wodizapt.com
-a.xeozir.com
-a.yaboshadi.com
-a.yallboen.com
-a.yeshhaod.com
-a.yorilada.com
-a.yuituityula.com
-a.zepozipo.com
-a.zinovila.com
-a.zipovoma.com
-a.zirobata.com
-a.zonolali.com
-a.zorbikala.com
-a.zortinah.com
 a02d0adbca0.com
 a0675c1160de6c6.com
 a06bbd98194c252.com
@@ -812,6 +678,7 @@ acloudimages.com
 aclsqdpgeaik.com
 acnsavlosahs.com
 acpxgmzozlxtbj.bid
+acrabakasaka.com
 acrididae.com
 acronym.com
 acrossiblel.info
@@ -1561,6 +1428,7 @@ ajansreklam.net
 ajfziqehnwvz.com
 ajgffcat.com
 ajillionmax.com
+ajkelra.com
 ajkjnofeqrra.bid
 ajmggjgrardn.com
 ajmyrtdiwvg.bid
@@ -1569,6 +1437,7 @@ ajtoxed.info
 ajxftwwmlinv.com
 ajxwyowuylhos.bid
 ajzxdeslpbnhp.bid
+akailoparzapi.com
 akamhd.com
 akavita.com
 akmota.info
@@ -1581,6 +1450,7 @@ akviqfqbwqqj.com
 akvtmvoolwlm.bid
 akxsrsdbursfpx.bid
 akzqosxbzl.bid
+alabardak.com
 aladbvddjsxf.com
 aladfar.xyz
 alamak.xyz
@@ -1797,6 +1667,7 @@ asssdfjh.net
 asterpix.com
 astree.be
 atadserver.com
+atarshaboor.com
 atas.io
 ataufekxogxr.com
 atcyboopajyp.com
@@ -1842,6 +1713,7 @@ automoc.net
 avads.co.uk
 avajo.men
 avalanchers.com
+avalhukof.com
 avalopaly.com
 avazu.net
 avazutracking.net
@@ -1905,6 +1777,7 @@ azditojzcdkc.com
 azeozrjk.com
 azfmulmqcz.bid
 azgyzdjexcxg.com
+azhdgruuvllzxg.com
 azjmp.com
 azkvcgzjsrmk.com
 azlbmpidrvnoi.bid
@@ -1957,9 +1830,11 @@ backlogtop.xyz
 backlogtop.xyz
 badgmvhtvryg.bid
 badjocks.com
+badokal.com
 badtopwitch.work
 baf3667dbc6a0bc21e0.com
 bagoojzsqygg.com
+bahaimlo.com
 baiaclwdpztd.com
 bajofdblygev.com
 bakjtxvku.bid
@@ -1999,8 +1874,11 @@ bannertgt.com
 bannertracker-script.com
 bannerweb.com
 banniere.reussissonsensemble.fr
+banomago.com
 baommitouduxo.bid
 baordrid.com
+bapalolo.com
+bapaquac.com
 bargainpricedude.com
 baronsoffers.com
 basebanner.com
@@ -2057,6 +1935,7 @@ beforescence.com
 befxqicnz.bid
 begbkbqywd.bid
 beghfkrygvxp.com
+beglorena.com
 begun.ru
 begxhuqfrx.bid
 behjgnhniasz.com
@@ -2166,6 +2045,7 @@ binlayer.de
 bip-bip-blip.com
 bipwrite.com
 bircgizd.com
+birpidnl.com
 biskerando.com
 bit-bork-boodle.com
 bitads.net
@@ -2202,6 +2082,7 @@ bkggsumw.bid
 bkmmlcbertdbselmdxpzcuyuilaolxqfhtyukmjkklxphbwsae.com
 bkmtspywevsk.com
 bkqksceiw.bid
+bkscqpflg.com
 bkshpuspj.bid
 bktrlzpxcft.bid
 bkuzcrcdh.bid
@@ -2243,6 +2124,7 @@ bmalhekpohve.bid
 bmanpn.com
 bmirhdkborr.bid
 bmjccqfxlabturkmpzzokhsahleqqrysudwpuzqjbxbqeakgnf.com
+bmmqsdyud.com
 bmnccwprdrszpj.bid
 bmqnguru.com
 bmsmhlpkdvajeo.bid
@@ -2265,6 +2147,7 @@ bnserving.com
 bnwjoqkudmh.bid
 boafernd.com
 bob-bob-bobble.com
+bobarilla.com
 bobblewrite.com
 bocksnabswdq.com
 boevznvrllm.bid
@@ -2272,10 +2155,12 @@ bogads.com
 bogkmogzrvzf.com
 boguaokxhdsa.com
 boiukzfgrp.bid
+bokilora.com
 bokroet.com
 bolgooltxygp.com
 bomjrcum.bid
 bondinra.com
+bonjikoa.com
 bonusfapturbo.com
 bonzai.ad
 boo-box.com
@@ -2298,6 +2183,7 @@ borotango.com
 bostonparadise.com
 bostonwall.com
 boteko.work
+botiviga.com
 boudja.com
 bounce.bar
 bowells.com
@@ -2414,6 +2300,7 @@ buhxsaifjxupaj.com
 buildtrafficx.com
 buitxcrnucyi.com
 bujntrmh.com
+bulbazoa.com
 buletproofserving.com
 bulgarine.com
 bulletproofserving.com
@@ -2533,6 +2420,7 @@ cafvzpusl.com
 callmd5map.com
 camleyads.info
 campanja.com
+camtinolc.com
 canaanita.com
 canadasungam.net
 canoeklix.com
@@ -2549,6 +2437,7 @@ carsxardivaf.com
 cartorkins.com
 cartstick.com
 cartstick.com
+carutinv.com
 casalemedia.com
 cash-duck.com
 cash4members.com
@@ -2562,6 +2451,7 @@ cashworld.biz
 casino-zilla.com
 casiours.com
 caspion.com
+casterist.info
 casterpretic.com
 castplatform.com
 categy.co
@@ -2688,6 +2578,8 @@ chqulqxfghdz.com
 chronicads.com
 chtpcjezorlo.com
 chualangry.com
+chukalapopi.com
+chukalorqa.com
 chuvzwxbpf.bid
 chvjfriqlvnt.com
 chxfeymgmwbo.com
@@ -2704,11 +2596,13 @@ cijfsxtsjpx.bid
 cikzhemgwchl.com
 cimpmvccrg.bid
 cineqkifrlxsep.bid
+ciridola.com
 cisgbirj.website
 cistcrrhqfm.bid
 city-ads.de
 cityadspix.com
 citysite.net
+civitik.com
 cixjiydrsyq.bid
 cixjmaxkemzknxxuyvkbzlhvvgeqmzgopppvefpfkqdraonoez.com
 cjbaeegayainxl.bid
@@ -2725,6 +2619,7 @@ ckfctuaga.com
 ckivxgxgqknk.com
 ckjdnyvcop.bid
 ckjflngcqcfl.bid
+ckjjcarzu.com
 ckqfackpj.bid
 ckqjezikww.bid
 ckqkwhampiyb.com
@@ -3155,6 +3050,8 @@ dacqmkmsjajm.com
 dadegid.ru
 dadllrpazourna.com
 daede5b1821.review
+dagasaka.com
+daghashmal.com
 dagqnyapwql.bid
 dah0ooy4doe.info
 dahakbkwgvwzb.bid
@@ -3202,6 +3099,7 @@ dbmoviesunlimitedx.com
 dbojgaxhxalh.com
 dbtaclpoahri.com
 dbusiki.info
+dbvault.net
 dbwawnzkjniz.com
 dbwohmscsgkhvz.bid
 dbysmkeerpzo.com
@@ -3404,6 +3302,7 @@ dobgfkflsnmpaeetycphmcloiijxbvxeyfxgjdlczcuuaxmdzz.com
 dobjgpqzygow.com
 dochyedu.info
 document4u.info
+dodahirwudrhv.com
 dodegomxh.bid
 dodwnkpzaned.com
 dogwrite.com
@@ -3425,9 +3324,11 @@ domdtvbhgg.com
 dominoad.com
 domri.net
 donecooler.com
+dontibar.com
 dooc.info
 doogleonduty.com
 doomail.org
+dorapodorasham.com
 dorenga.com
 dotandad.com
 dotandads.com
@@ -3575,6 +3476,7 @@ dreamsearch.or.kr
 drfflt.info
 drndi.net
 drnxs.com
+drogomet.com
 dromorama.xyz
 dropzenad.com
 dropzenad.com
@@ -3624,10 +3526,12 @@ duggiads.com
 duhqtjmftpxrmn.bid
 duidsdvdbecg.bid
 dulcetcgvcxr.com
+dulderbulder.com
 dulpsxaznlwr.com
 dumedia.ru
 dumoyqzxluou.com
 duncanny.com
+durazopa.com
 durnowar.com
 durokuro.com
 durtz.com
@@ -3658,6 +3562,7 @@ dxigubtmyllj.com
 dxiixnrumvni.com
 dxkhboqrrimy.bid
 dxokxbrfl.bid
+dxtveuux.com
 dxurtngzawwe.com
 dyazeqpeoykf.com
 dyerbegytfkj.com
@@ -3759,6 +3664,7 @@ ecsexyp.info
 ectbduztanog.com
 ectensian.net
 ecto-ecto-uno.com
+ecvladelayk.com
 ecxtuyttpfe.bid
 ed451bb0796e6b9a.com
 edabl.net
@@ -3803,6 +3709,7 @@ efsjxinbtzirs.bid
 efukznkfmrck.com
 egamingonline.com
 egkkeahdzjqy.com
+egolina.com
 egouyziyto.bid
 egqvfdht.bid
 egszpylvmclvf.bid
@@ -3838,14 +3745,17 @@ ejjrckrhigez.com
 ejkoolhhepojeu.com
 ejwmxjttljbe.com
 ejwocojjv.bid
+ek8k5dst5c.com
 ekansovi.com
 ekdamsibldrg.bid
 ekdjdrmqqlc.bid
 ekgmjxjyfzzd.com
 ekhgvpsfrwqm.com
 ekiickqfxqtp.bid
+ekiytcllwboe.com
 ekmas.com
 ekmunhjbh.bid
+ekolamis.com
 ektezis.ru
 ekzstfriawl.bid
 elanatality.info
@@ -3902,6 +3812,7 @@ enheqjtrvkn.bid
 enhovesepdhxph.bid
 enhwftpkwvnb.com
 eniaypwywduf.com
+enlarget.com
 enlnks.com
 ennwwuxijwjgdm.bid
 enterads.com
@@ -3949,6 +3860,7 @@ erht5jhy.com
 erkwkjfompvt.com
 erniphiq.com
 ero-advertising.com
+erogaliv.com
 eroterest.net
 erovation.com
 erovinmo.com
@@ -3983,6 +3895,7 @@ etbrjgpsadke.com
 etcodes.com
 etgdta.com
 etggiddfdaqd.com
+etglnloj.com
 etmanly.ru
 etology.com
 etprpfuw.bid
@@ -4064,6 +3977,7 @@ eyewond.hs.llnwd.net
 eyewonder.com
 eylyitpslpqu.com
 ezadserver.net
+ezbbxqocxnto.com
 ezbtpdjeimlv.com
 ezemyudhkzvx.com
 ezhkfxskimqnqk.com
@@ -4117,6 +4031,7 @@ fanaticalfly.com
 fandelcot.com
 faoxietqwbmu.com
 far-far-star.com
+farfarida.com
 farkkbndawtxczozilrrrunxflspkyowishacdueiqzeddsnuu.com
 fast2earn.com
 fastapi.net
@@ -4128,6 +4043,7 @@ fathern.info
 faunsts.me
 fb-plus.com
 fb0c32d2f28c.com
+fbafbbujy.com
 fbb8a7d231b1867a.com
 fbbjlubvwmwd.com
 fbcdn2.com
@@ -4201,6 +4117,7 @@ filadmir.site
 filetarget.com
 filetarget.net
 filtermomosearch.com
+filtonay.com
 fimserve.com
 finalanypar.link
 fincastavancessetti.info
@@ -4288,6 +4205,7 @@ foamybox.com
 fobjoccwkrkv.com
 focalex.com
 focre.info
+foditgoz.com
 foguumjql.com
 fogzyads.com
 fokisduu.com
@@ -4305,6 +4223,7 @@ forex-affiliate.com
 forex-affiliate.net
 forexyard.com
 forifiha.com
+forkitz.com
 forkizata.com
 forpyke.com
 forrestersurveys.com
@@ -4367,6 +4286,7 @@ ftytssqazcqx.com
 fuandarst.com
 fugggk3i.accountant
 fugggk3i.accountant
+fulhudhoo.com
 fulltraffic.net
 fungoiddempseyimpasse.info
 fungus.online
@@ -4535,6 +4455,7 @@ gk25qeyc.xyz
 gkblyvnioxpd.com
 gkeahnmvduys.com
 gkgdqahkcbmykurmngzrrolrecfqvsjgqdyujvgdrgoezkcobq.com
+gkiqlocbirh.com
 gkiryieltcbg.com
 gklmedia.com
 gkol15n1.stream
@@ -4572,6 +4493,7 @@ go2media.org
 go2speed.org
 goacestnzgrd.com
 goclickon.us
+godibarl.com
 godspeaks.net
 goember.com
 gofgfsvnfnfw.com
@@ -4582,6 +4504,7 @@ gojoingscnow.com
 gojwyansqmcl.com
 gold-file.com
 gold-good4u.com
+golizoli.com
 gonomy.info
 goodadvert.ru
 goodadvertising.info
@@ -4704,6 +4627,7 @@ h8vzwpv.com
 hafbezbemwwd.com
 haggilder.com
 hajcehcnodio.com
+haklopar.com
 halfpriceozarks.com
 hallucius.com
 halogennetwork.com
@@ -4714,6 +4638,7 @@ hapnr.net
 happer.info
 happilyswitching.net
 haqlmmii.com
+hariqavi.com
 harrenmedianetwork.com
 hash-hash-tag.com
 hasingham.com
@@ -4771,9 +4696,11 @@ hgbmwkklwittcdkjapnpeikxojivfhgszbxmrjfrvajzhzhuks.com
 hgcgfxjkvjch.com
 hgcgfxjkvjch.com
 hgdat.com
+hgdovdnd.com
 hgjywrorlbn.com
 hgzopbyhidre.com
 hgztvnjbsrki.com
+hhfgemuvmyq.com
 hhwqfmqyqoks.com
 hiadone.com
 hicaptivided.com
@@ -4789,6 +4716,7 @@ himediadx.com
 himselves.com
 hipersushiads.com
 hiplair.com
+hirovivi.com
 histians.com
 histock.info
 historest.com
@@ -4840,6 +4768,7 @@ hopafrmwpckj.com
 hopfeed.com
 hopinionse.com
 hoppr.co
+horheloopo.com
 horse-racing-affiliate-program.co.uk
 horsered.com
 hortestoz.com
@@ -4897,6 +4826,7 @@ htllanmhrnjrbestmyabzhyweaccazvuslvadtvutfiqnjyavg.com
 htmlhubing.xyz
 htmonster.com
 htonrwegnifw.com
+htpkxpgbprpklc.com
 htrprrrtrwrc.com
 httftlckaxj.com
 httpool.com
@@ -4911,6 +4841,7 @@ huejizictcgd.com
 huewmezzodzdv.com
 hufaymllqce.club
 hulahooprect.com
+humuseliyahu.com
 hutfora.info
 hutkuzwropgf.com
 huynrscfbulr.com
@@ -5029,6 +4960,7 @@ ikvltjooosqh.com
 ikvuvztmvvro.bid
 ikzikistheking.com
 ilakffljjdpwb.com
+illizuqkdqjobt.com
 illustriousoatmeal.com
 ilrxikdjozlk.com
 ilsivrexvpyv.com
@@ -5240,6 +5172,7 @@ ixtuseq.info
 ixzhwyuxxvxb.com
 ixznwuxokydz.com
 iydghotpzofn.com
+iygdvith.com
 iywexwhxwaczugu4qpjgbpcfkwebeawuef88wiz989.com
 iz319xlstbsqs34623cb.com
 izbarin.info
@@ -5265,9 +5198,11 @@ j8w4xqtu.racing
 jabcdkwmwnek.com
 jacquarter.com
 jadcenter.com
+jadizayo.com
 jahsrhlp.com
 jakzxxzrymhz.com
 jamkkydyiyhx.com
+jandolav.com
 jandolav.com
 jango.com
 jangonetwork.com
@@ -5321,6 +5256,7 @@ jffwwuyychxw.com
 jfribvstvcqy.com
 jfx61qca.site
 jfx61qca.site
+jfxjpswhcwwq.com
 jgophcykrckik.com
 jgqkrvjtuapt.com
 jgrcggutsilp.com
@@ -5330,6 +5266,8 @@ jhupypvmcsqfqpbxbvumiaatlilzjrzbembarnhyoochsedzvi.com
 jianscoat.com
 jiawen88.com
 jijcetagjfzo.com
+jingavot.com
+jiruygrsl.com
 jivox.com
 jiwire.com
 jiyairvjgfqk.com
@@ -5344,6 +5282,7 @@ jjxsdkphpcwu.com
 jjyovwimoydq.com
 jkfg4hfdss.com
 jkiicqewzn.com
+jkiwvfgrsythrw.com
 jkjoxlhkwnxd.com
 jkjwifmep.com
 jkkernvkrwdr.com
@@ -5378,7 +5317,10 @@ jobtarget.com
 jobveibsozms.com
 jogpsoiyngua.com
 johays.co
+jojilabola.com
 joqpatxugyug.com
+joribobo.com
+jorjodika.com
 jorndvyzchaq.com
 jovepjufhmmw.com
 joxocqrbxe.bid
@@ -5396,6 +5338,8 @@ jqqrcwwd.com
 jqtsknmobyw.com
 jqtwygdajic.com
 jque.net
+jquerycdn.co.il
+jquerymin.co.il
 jqueryserve.com
 jqueryserver.com
 jrlsithadutpm.com
@@ -5474,6 +5418,8 @@ k9anf8bc.webcam
 k9pdlefk.website
 k9pdlefk.website
 kadjwdpzxdxd.com
+kaidop.com
+kalmloda.com
 kamnebo.info
 kanoodle.com
 kantarmedia.com
@@ -5492,6 +5438,7 @@ kbzrszspknla.com
 kcchjeoufbqu.com
 kceikbfhsnet.com
 kdaskxrcgxhp.com
+kdoraraq.com
 kdtictjmofbl.com
 kdtstmiptmvk.com
 kdvcvkwwtbwn.com
@@ -5513,6 +5460,7 @@ keywordblocks.com
 keywordlink.co.kr
 keywordpop.com
 keywordsconnect.com
+kfdqqqmorlt.com
 kfdwywhuissy.com
 kflimllvanjv.com
 kfpwayrztgjj.com
@@ -5533,7 +5481,9 @@ kidasfid.com
 kihhgldtpuho.com
 kiinvgntnnw.com
 kikuzip.com
+kilomansa.com
 kilomonj.net
+kilorama.com
 kilorama.com
 kinley.com
 kintokup.com
@@ -5610,6 +5560,7 @@ kqsipdhvcejx.com
 kqzyfj.com
 kqzyfj.com
 kr3vinsx.com
+krakeshlaja.com
 kriaspuy.net
 krilxjkgttmp.com
 krmuxxubtkrg.com
@@ -5632,11 +5583,17 @@ kuamanan.com
 kuangard.net
 kuavzcushxyd.com
 kuaygqohsbeg.com
+kuchebraska.com
 kujkgfzzyeol.com
+kulkaridoopi.com
+kulkerbolda.com
+kullalabulla.com
 kumekqeccmob.com
 kumpulblogger.com
+kurlikburlik.com
 kurtgcwrdakv.com
 kutlvuitevgw.com
+kuwogsiplp.com
 kvadaiwjwxdp.com
 kvcymnoxr.com
 kvdskjbjkbdfsv.com
@@ -5657,6 +5614,7 @@ kxareafqwjop.com
 kxdprqrrfhhn.com
 kxounmvfkmvv.com
 kxtepdregiuo.com
+kxwkbkfespyh.com
 kyhkyreweusn.com
 kyieflmhiekvrr.bid
 kylqpeevrkgh.com
@@ -5763,6 +5721,7 @@ licantrum.com
 lie8oong.com
 lifepipenewsdaily.com
 liftdna.com
+ligabklr.com
 ligadx.com
 ligational.com
 lightad.co.kr
@@ -5770,6 +5729,7 @@ lightningcast.net
 lightspeedtop.com
 likecontrol.com
 liksuad.com
+liktirov.com
 limenewsonedailyn.com
 linicom.co.il
 linicom.co.uk
@@ -5843,6 +5803,7 @@ lockhosts.com
 lockscalecompare.com
 lodnare.ru
 logo-net.co.uk
+lokipodi.com
 lonedol.info
 loodyas.com
 lookit-quick.com
@@ -5969,6 +5930,7 @@ mamydirect.com
 mangoforex.com
 maningrs.com
 mansiontheologysoon.xyz
+maokdata.com
 marbil24.co.za
 mardjxrw.club
 marfeel.com
@@ -6031,6 +5993,7 @@ mdrkqbsirbry.com
 meadigital.com
 meagjivconqt.com
 measurelyapp.com
+measurementaz.com
 media-general.com
 media-ks.net
 media-networks.ru
@@ -6137,6 +6100,7 @@ mikdvucquacd.com
 milabra.com
 milaly.info
 millennialmedia.com
+milparota.com
 milyeda.info
 mindlytix.com
 minimumpay.info
@@ -6232,6 +6196,7 @@ moevideo.net
 moffsets.com
 mogointeractive.com
 mohcafpwpldi.com
+mojigaga.com
 mojiva.com
 mojoaffiliates.com
 mokonocdn.com
@@ -6242,6 +6207,7 @@ money4ads.com
 moneycosmos.com
 moneymakercdn.com
 moneywhisper.com
+monijorb.com
 monkeybroker.net
 monova.site
 monsoonads.com
@@ -6252,9 +6218,11 @@ mootermedia.com
 mooxar.com
 mopvkjodhcwscyudzfqtjuwvpzpgzuwndtofzftbtpdfszeido.com
 moquxotvyuoo.com
+morbitempus.com
 moregamers.com
 moreplayerz.com
 morgdm.ru
+moritava.com
 moritava.com
 mosaicolor.website
 mosaiq.io
@@ -6268,6 +6236,7 @@ movad.net
 movlaba.info
 moydato.info
 mozcloud.net
+mozefakt.com
 mp3toavi.xyz
 mphqfyhswko.bid
 mpifsodagy.com
@@ -6302,14 +6271,17 @@ mtagmonetizationb.com
 mtagmonetizationc.com
 mtbnqoixmb.com
 mtbsdhzpikjt.com
+mtklywkg.com
 mtlieuvyoikf.com
 mtrcss.com
 mttyfwtvyumc.com
 muatrasec.com
 mueqzsdabscd.com
 mujap.com
+mujilora.com
 mukwonagoacampo.com
 mukxblrkoaaa.com
+muligov.com
 multiadserv.com
 multimater.com
 multiview.com
@@ -6376,8 +6348,10 @@ naganaga.lol
 nagrande.com
 nahvyfyfpffm.com
 nameads.com
+namitol.com
 namjixxurjam.com
 nanigans.com
+nanuyalailai.com
 nasdak.in
 native-adserver.com
 nativead.co
@@ -6421,6 +6395,7 @@ ndpxcdodtjhfv.bid
 ndqwtlseuqjbc.com
 ndtlcaudedxz.com
 ndxidnvvyvwx.com
+neaozrrjd.com
 neblotech.com
 neddwrmmced.bid
 nedmppiilnld.com
@@ -6509,8 +6484,12 @@ nicucircvp.bid
 nidjppokmlcx.com
 nifyalnngdhb.com
 nighter.club
+niholaev.com
 nijksigqjzalcf.com
+niklesrov.com
 nimatey.info
+nimdinb.com
+nitigoly.com
 nitmus.com
 niviemwsmiaq.com
 niydbkjpz.bid
@@ -6526,6 +6505,7 @@ njvpulnxjzhhf.bid
 nkbvvlhdnagkd.bid
 nkcyhqvzmzlnh.bid
 nkfqetvgeytp.bid
+nkgvtmwdb.com
 nkhxzhnwr.bid
 nkjmaymezfhlf.bid
 nkjqgapglbbkux.bid
@@ -6760,6 +6740,7 @@ oczqdwqnvhzz.bid
 oczvtbskwbmj.com
 odbabo.info
 oddkqxakmuky.bid
+oddomane.com
 odkawksnmbg.bid
 odkpdbvdzwjsgb.bid
 odldyhreg.bid
@@ -6779,6 +6760,7 @@ ofajzowbwzzi.com
 ofbqjpaamioq.com
 ofdybheqahjamq.bid
 offeradvertising.biz
+offerenced.com
 offerforge.com
 offerpalads.com
 offerserve.com
@@ -6802,6 +6784,7 @@ oggifinogi.com
 ogkmakmofd.bid
 ogonhsbjxrxnv.bid
 ogqeedybsojr.com
+oguiftmya.com
 ogulzxfxrmow.com
 oguorftbvegb.com
 ohecnqpldvuw.com
@@ -6868,6 +6851,7 @@ olpcbzhvduha.bid
 olpvmzxadjwgk.com
 olthlikechgq.com
 olwopczjfkng.com
+olxeziuke.com
 omatri.info
 omatri.info
 omclick.com
@@ -6957,6 +6941,7 @@ openxmarket.asia
 operatedelivery.com
 operatical.com
 ophpbseelohv.com
+opjalajamak.com
 opknogsela.bid
 oplo.org
 opner.co
@@ -6976,6 +6961,7 @@ optinemailpro.com
 optinmonster.com
 opyisszzoyhc.com
 opzdgga2kkw6yh.com
+oqfoiwjwysbffe.com
 oqmjxcqgdghq.com
 oqxwefyi.bid
 or3f3xmk.xyz
@@ -7036,6 +7022,7 @@ ouvhowyqhacec.bid
 ouvtjehb.bid
 ov8pc.tv
 ovalpigs.com
+ovchjqpdh.com
 ovcksawwem.com
 oveld.com
 overhaps.com
@@ -7256,10 +7243,12 @@ pingoli.info
 pioneeringad.com
 pip-pip-pop.com
 pipeaota.com
+pipilida.com
 pipsol.net
 pistoma.info
 pistraving.co
 pitally.info
+pitatagata.com
 piticlik.com
 pitics.co
 pivotalmedialabs.com
@@ -7363,6 +7352,7 @@ polluxnetwork.com
 polmontventures.com
 polyad.net
 polydarth.com
+pompazilla.com
 pontypriddcrick.com
 poolnoodle.tech
 poorybdbh.bid
@@ -7401,6 +7391,7 @@ popuptraffic.com
 popupvia.com
 popwin.net
 popzkvfimbox.com
+poratav.com
 pornv.org
 porojo.net
 portkingric.net
@@ -7463,6 +7454,7 @@ prfffc.info
 prggimadscvm.com
 prickac.com
 prigmaperf.me
+prikolizdesa.com
 primaryads.com
 prime535.com
 printelly.co
@@ -7532,6 +7524,7 @@ psrbrytujuxv.com
 psvdblzcgnjj.com
 pswlvlauz.bid
 psxnwzksttygfs.com
+psygnjvrd.com
 ptblqwjz.com
 ptgiweiu.com
 ptiqsfrnkmmtvtpucwzsaqonmvaprjafeerwlyhabobuvuazun.com
@@ -7575,6 +7568,7 @@ pugpwrqsk.bid
 puhtml.com
 pullapi.site
 pullcdn.top
+pulpix.com
 pulpyads.com
 pulse360.com
 pulsemgr.com
@@ -7693,6 +7687,7 @@ qarqyhfwient.com
 qaulinf.com
 qavqnwwlxh.bid
 qawaqcurthru.com
+qawiman.com
 qazzzxwynmot.com
 qbdgnjwaknl.bid
 qbfvwovkuewm.com
@@ -7750,6 +7745,7 @@ qgiumuzmxj.com
 qgjllgijf.bid
 qgmrchjuqro.bid
 qgraprebabxo.com
+qgtbxtex.com
 qguirbzulwmdm.bid
 qhiupkza.bid
 qhlwqzntlwvbf.bid
@@ -7763,6 +7759,7 @@ qiktwikahncl.com
 qinsmmxvacuh.com
 qiqrguvdhcux.com
 qiremmtynkae.com
+qitumxisyt.com
 qiurgfxexsmp.com
 qixlpaaeaspr.com
 qiytksjydjmt.bid
@@ -7864,6 +7861,7 @@ quaizzywzluk.com
 qualitypageviews.com
 quandrer.link
 quantumads.com
+quavomi.com
 quckoemdypxoiq.bid
 qudpdpkxffzt.com
 qued9yae1ai.info
@@ -7908,6 +7906,7 @@ qxdmmuwiz.bid
 qxgoedqwr.bid
 qxnniyuuaxhv.com
 qxqtejyqkypfz.bid
+qxvnvbkcm.com
 qxxyzmukttyp.com
 qydpcilzljej.bid
 qyghwcrjaw.bid
@@ -7944,10 +7943,12 @@ ralyqgglrbgrd.bid
 raossycpodtr.bid
 rapidyl.net
 rapidyl.net
+rapizoda.com
 rapt.com
 raqueocznwden.bid
 rastafi.info
 rateaccept.net
+ratkalol.com
 rawasy.com
 rawybznxrp.bid
 raz-raz-mataz.com
@@ -8054,6 +8055,7 @@ replase.ml
 replase.tk
 repressina.com
 republer.com
+reqpostanza.com
 requiredcollectfilm.info
 rertazmgduxp.com
 resideral.com
@@ -8191,10 +8193,14 @@ roicharger.com
 roirocket.com
 roksnfmaydlo.com
 rolinda.work
+rolkakuksa.com
 romance-net.com
 rometroit.com
+ronrmbrrhqdwh.com
+roritabo.com
 rotaban.ru
 rotatingad.com
+rotibald.com
 rotorads.com
 roughted.com
 rovarti.info
@@ -8303,6 +8309,7 @@ saple.net
 sapvummffiay.com
 sascdn.com
 satgreera.com
+satjrvwtaertn.com
 saturalist.com
 sauispjbeisl.com
 saveads.net
@@ -8331,6 +8338,7 @@ scmffjmashzc.com
 scofnjymyym.bid
 scootloor.com
 scrap.me
+scrappykoko.com
 scratchaffs.com
 scriptall.cf
 scriptall.ga
@@ -8377,6 +8385,7 @@ selsin.net
 semanticrep.com
 semvdooatmd.bid
 sendptp.com
+senolati.com
 senzapudore.net
 seotpqntjukhg.bid
 septimus-kyr.com
@@ -8431,17 +8440,21 @@ shinasi.info
 shipthankrecognizing.info
 shjuivapg.bid
 shmential.co
+shmonekisot.com
 shnmhrlcredd.com
 shnoadlvpylf.com
 shoapinh.com
+shokala.com
 shokala.com
 shoogloonetwork.com
 shopalyst.com
 shoppingads.com
 shopzyapp.com
 showyoursite.com
+shoxyloxi.com
 shqads.com
 shthbopqoz.bid
+shulhanafuh.com
 shustona.info
 shvdvzydgryx.com
 shxbqzirzonks.bid
@@ -8869,6 +8882,7 @@ tacastas.com
 tacoda.net
 tacrater.com
 tacticalrepublic.com
+tadkozdgbyw.com
 taeadsnmbbkvpw.bid
 taelsfdgtmka.com
 tafmaster.com
@@ -8883,6 +8897,7 @@ talaropa.com
 tammfmhtfhut.com
 tamqqjgbvbps.com
 tangozebra.com
+tantella.com
 taodggarfrmd.com
 tapad.com
 tapihmxemcksuvleuzpodsdfubceomxfqayamnsoswxzkijjmw.com
@@ -8949,6 +8964,7 @@ telllwrite.com
 telwrite.com
 temphilltop.com
 temphilltop.net
+tenlokif.com
 tennerlist.com
 teosredic.com
 tepdfg5fhss.com
@@ -9046,7 +9062,10 @@ tienribwjswv.com
 tightexact.net
 tigzuaivmtgo.com
 tihjxcxutox.bid
+tijorari.com
 tijosnqojfmv.com
+tikodala.com
+tikrailijorj.com
 tikwglketskr.com
 tiller.co
 timonnbfad.bid
@@ -9182,6 +9201,7 @@ tpp1ede2.accountant
 tpueomljcrvy.com
 tpvprtdclnym.com
 tpzukfqaqyxn.bid
+tqcxtxglt.com
 tqdarrhactqc.com
 tqlkg.com
 tqlkg.net
@@ -9190,8 +9210,6 @@ tqtoeonkw.bid
 tqwfafmh.bid
 tqwuasyvwebt.bid
 tqzvjmgftvtj.bid
-tr.kaidop.com
-tr.zozolilla.com
 tr563.com
 traceadmanager.com
 trackadvertising.net
@@ -9336,6 +9354,7 @@ turn.com
 turyvfzreolc.com
 tusno.com
 tutvp.com
+tuxzictbrqietq.com
 tuzutvisi.com
 tuzyaezlaoju.bid
 tvammzkprvuv.com
@@ -9429,6 +9448,7 @@ uczxsaxdlpedxl.bid
 udbmqqkl.bid
 udbwpgvnalth.com
 udmserve.net
+udorik.com
 udrwyjpwjfeg.com
 udvbtgkxwnap.com
 uebavnacbjbr.bid
@@ -9448,6 +9468,7 @@ uewejiuqwqx.com
 ufmnicckqyru.com
 ufnzapqvrbyx.com
 ufraton.com
+ufraton.com
 ufrzvzpympib.com
 ufyvdps3.webcam
 ufyvdps3.webcam
@@ -9462,6 +9483,7 @@ ugxqfkslreop.bid
 ugxyemavfvlolypdqcksmqzorlphjycckszifyknwlfcvxxihx.com
 ugyymqcxyoi.bid
 uhappine.com
+uharded.com
 uhavijwye.bid
 uhbhfwqtbr.bid
 uhccvnxi.com
@@ -9487,6 +9509,7 @@ ujqafhcsrhyz.com
 ujqbxbcqtbqt.com
 ujtyosgemtnx.com
 ujyyciaedxqr.com
+ukatoe.com
 ukbanners.com
 ukbxppjxfgna.com
 ukffjaqtxhor.com
@@ -9535,6 +9558,7 @@ uonj2o6i.loan
 upads.info
 upliftsearch.com
 upnorma.com
+upnorma.com
 uppo.co
 uqgloylf.com
 uqhtuahgfmcx.com
@@ -9542,6 +9566,7 @@ uqoboyvqsqpy.com
 uqpotqld.com
 uqqgyniatjtf.com
 urahor9u.com
+uralap.com
 urbation.net
 ureace.com
 urijswfbgh.com
@@ -9566,10 +9591,13 @@ usymycvrilyt.com
 uszpxpcoflkl.com
 utarget.co.uk
 utarget.ru
+utazwa.com
 utfffrxmzuvy.com
 utokapa.com
+utorido.com
 utubeconverter.com
 utzpjbrtyjuj.com
+uukqjcucva.com
 uupqrsjbxrstncicwcdlzrcgoycrgurvfbuiraklyimzzyimrq.com
 uuproxhcbcsl.com
 uuvwcjtppeonfq.com
@@ -9609,8 +9637,11 @@ uyqzlnmdtfpnqskyyvidmllmzauitvaijcgqjldwcwvewjgwfj.com
 uyusewjlkadj.com
 uzbboiydfzog.com
 uzbciwrwzzhs.com
+uzekrs.com
 uzesptwcwwmt.com
 uzkkocgdasr.bid
+uzmmpskwon.com
+uzotarak.com
 uzqtaxiorsev.com
 uzreuvnlizlz.com
 uzsywcdthqplzv.bid
@@ -9708,6 +9739,7 @@ velocitycdn.com
 velti.com
 vemba.com
 vendexo.com
+venonita.com
 venturead.com
 venusbux.com
 veoxa.com
@@ -9829,6 +9861,7 @@ vjwmtavlnvjdu.bid
 vjzqadxswfb.bid
 vjzqmbcx.com
 vjzttumdetao.com
+vkafirac.com
 vkarvfrrlhmv.com
 vkdbvgcawubn.com
 vkoad.com
@@ -9865,6 +9898,7 @@ vogosita.com
 vogozaw.ru
 voksuksb.bid
 vokvlthjzt.bid
+volimole.com
 volleqgoafcb.com
 volyncftzhw.bid
 vomhhsovuu.bid
@@ -9960,6 +9994,7 @@ vxbtrsqjnjpq.com
 vxlpefsjnmws.com
 vxqhchlyijwu.com
 vxuhavco.com
+vxumimuhg.com
 vxuradoiwrwqga.bid
 vxvxsgut.com
 vybsiseapra.bid
@@ -10005,6 +10040,7 @@ waframedia8.com
 wafrszmnbshq.com
 wagershare.com
 wahoha.com
+wakapita.com
 wallacemaloneymindanao.info
 walternsa.com
 walternse.com
@@ -10076,6 +10112,7 @@ webwagssicx.bid
 weckosoew.bid
 weekwkbulvsy.com
 wefbjdsbvksdbvkv.com
+wegbgideb.com
 wegetpaid.net
 wegotmedia.com
 wehtkuhlwsxy.com
@@ -10120,6 +10157,7 @@ whsjufifuwkw.com
 whsldqctrvuk.com
 whtsrv9.com
 whuvrlmzyvzy.com
+whxhegjrqlddko.com
 why-outsource.net
 whyawcjjcoexo.bid
 whzbmdeypkrb.com
@@ -10154,6 +10192,7 @@ wizejdnlqwcb.com
 wjdjovjrxsqx.com
 wjefwuiioe123f.com
 wjkbcjkwb32.com
+wjkwjcmeymu.com
 wjnkvhlgvixx.com
 wkexsfmw.com
 wkfcadtuljnesp.bid
@@ -10199,6 +10238,7 @@ wnfogxdrwoaa.bid
 wnhwpkiaozow.bid
 wnzxwgatxjuf.com
 woaoqgpq.bid
+wodizapt.com
 woetwakv.bid
 wohuuwfektlppp.bid
 wolhopys.bid
@@ -10384,6 +10424,7 @@ xeeyzkylhgprgx.bid
 xegavyzkxowj.com
 xegvnhpwytev.com
 xeontopa.com
+xeozir.com
 xewzazxkmzpc.com
 xfgpmvlacsojy.bid
 xfgqvqoyzeiu.com
@@ -10568,10 +10609,12 @@ y1xjgfhp.racing
 y5wflt0xibmoufuvsayg1efy80yq0ystkjncf76cqm.com
 ya88s1yk.com
 yaboshadi.com
+yaboshadi.com
 yabuka.com
 yadomedia.com
 yaifxxudxyns.com
 yaizwjvnxctz.com
+yallboen.com
 yalyuzvlr.bid
 yambotan.ru
 yamrxfbkpirt.com
@@ -10633,6 +10676,7 @@ yepoints.net
 yerstrd.net
 yes-messenger.com
 yesadsrv.com
+yeshhaod.com
 yesnexus.com
 yesobe.work
 yesubqwrfvepm.bid
@@ -10742,6 +10786,7 @@ yomri.net
 yoorjlleqtquez.bid
 yopdi.com
 yoqvnnkdmqfk.com
+yorilada.com
 yottacash.com
 youcandoitwithroi.com
 youlamedia.com
@@ -10808,6 +10853,7 @@ yuarth.com
 yuasaghn.com
 yucce.com
 yuhuads.com
+yuituityula.com
 yulkafed.ru
 yumenetworks.com
 yunshipei.com
@@ -10923,6 +10969,7 @@ zehwjplnopevjt.bid
 zenoviaexchange.com
 zenoviagroup.com
 zenpmagn.bid
+zepozipo.com
 zercstas.com
 zerezas.com
 zeropark.com
@@ -10961,8 +11008,11 @@ ziglpcxcxetsi.com
 zijkalirgmyzj.bid
 zijnobynjmcs.com
 zim-zim-zam.com
+zinovila.com
 zip-zip-swan.com
+zipovoma.com
 zipropyl.com
+zirobata.com
 zisboombah.net
 zitbvxrbai.bid
 ziumnfnltbu.bid
@@ -11003,12 +11053,17 @@ zoileyozfexv.com
 zompmedia.com
 zomri.net
 zonealta.com
+zonolali.com
 zonplug.com
 zoomdirect.com.au
 zoowknbw.com
+zorbikala.com
+zortinah.com
 zorwrite.com
 zowhxkwzjpta.com
+zozolilla.com
 zpctncydojjh.com
+zpfjfwbij.com
 zpkebyxabtsh.com
 zpkobplsfnxf.com
 zpmbsivi.com
@@ -11018,6 +11073,7 @@ zprrfpczfpnh.com
 zptncsir.com
 zpxbdukjmcft.com
 zpznbracwdai.com
+zpzsdmpvqudhsz.com
 zqaxaqqqutrx.com
 zqjfpxcgivkv.com
 zrbhyvkpgeyn.com

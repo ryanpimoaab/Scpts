@@ -16875,7 +16875,6 @@ ads.dfiles.eu
 ads.dfiles.ru
 ads.dgonn.com
 ads.dhakatribune.com
-ads.diamonds
 ads.digital-digest.com
 ads.digitalhealthcare.com
 ads.digitalmedianet.com
@@ -18978,6 +18977,7 @@ advm10.com
 advmania.com
 advmedia.go2cloud.org
 advmedialtd.com
+advnet.xyz
 advnstrdm541231c0esprod.122.2o7.net
 advnt01.com
 advnt03.com
@@ -19013,7 +19013,6 @@ adx.infomed.co.il
 adx.kat.ph
 adx.metanetwork.com
 adx.panet.co.il
-adx1.com
 adx2.chip.de
 adxite.com
 adxmarket.com
@@ -21501,6 +21500,7 @@ bcast.pw
 bcfads.com
 bcm.itv.com
 bcmediagroup.com
+bcnmonetize.go2affise.com
 bcp.crwdcntrl.net
 bcsrciccspermatic.review
 bd.moatads.com
@@ -28144,6 +28144,7 @@ enigma.kissmetrics.com
 enio.justclick.ru
 eniro.d3.sc.omtrdc.net
 enlacedpwcuphe.download
+enlarget.com
 enlightenment.secureshoppingbasket.com
 enliven.org
 enlnks.com
@@ -28575,6 +28576,7 @@ feclo.voluumtrk.com
 fedex.demdex.net
 fedex.tt.omtrdc.net
 fedsit.com
+feed.2makeyourday.press
 feed.bizzclick.com
 feed.peakclick.com
 feed.snap.do
@@ -28801,6 +28803,7 @@ fossilisedboxbkshj.download
 fossilisesgcjrfazlr.download
 fotocommunity.digidip.net
 fourthgearmedia.go2cloud.org
+foxarmedia.com
 foxcom.112.2o7.net
 foxgloveslyukq.download
 foxnet.demdex.net
@@ -32059,6 +32062,7 @@ latency-pixel.ic-live.com
 latest-369538.ahtamsu.ru
 latest-460050.ebeda.info
 latest-461069.dochyedu.info
+latest-470741.takyake.ru
 latinoreview.us.intellitxt.com
 lau1.slot.union.ucweb.com
 launch1.co
@@ -36222,6 +36226,7 @@ raquel-freda.us
 rareru.ru
 ras.doubleclick.net
 rasedbdhczr.download
+rasius.pro
 rasml.voluumtrk.com
 rata.ero-advertising.com
 rates.insureship.com
@@ -38167,7 +38172,6 @@ static.crowdscience.com
 static.csbew.com
 static.dcoengine.com
 static.digidip.net
-static.directrev.com
 static.doubleclick.com
 static.doubleclick.net
 static.doubleclick.net.12022.9038.302br.net
@@ -38910,6 +38914,7 @@ tags.transportdirect.info
 tagx.nytimes.com
 tajs.qq.com
 take5.real.com
+takyake.ru
 talesoftheslayer.bravejournal.com
 talkcity.realtracker.com
 talkingdata.com
@@ -45425,6 +45430,7 @@ www.advido.com
 www.adview.cn
 www.adviews-sponsor.de
 www.advm10.com
+www.advnet.xyz
 www.advolution.de
 www.advombat.ru
 www.advserver.xyz
@@ -46422,6 +46428,7 @@ www.forelook.com
 www.foreseeresults.com
 www.fossilisedboxbkshj.download
 www.fossilisesgcjrfazlr.download
+www.foxarmedia.com
 www.foxgloveslyukq.download
 www.foy4a.trackvoluum.com
 www.fpcplugs.com
@@ -47672,6 +47679,7 @@ www.rankseller.de
 www.ranksider.com
 www.rapleaf.com
 www.rasedbdhczr.download
+www.rasius.pro
 www.raygun.io
 www.rbmut.science
 www.rddywd.com
@@ -48036,6 +48044,7 @@ www.tackledoyuzsfx.download
 www.tag4arm.com
 www.taggstar.com
 www.tagjunction.com
+www.takyake.ru
 www.talia-mettler.us
 www.talkingdata.com
 www.talkingdata.net
@@ -48857,6 +48866,7 @@ xml.adservme.com
 xml.adtech.fr
 xml.clickredirection.com
 xml.explorads.com
+xml.ezmob.com
 xml.fusionxml.com
 xml.ioam.de
 xml.online-adnetwork.com
@@ -49160,4 +49170,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 49166
+# hosts: 49176

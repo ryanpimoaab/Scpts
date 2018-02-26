@@ -340,6 +340,7 @@ btstatic.com
 btttag.com
 bubblestat.com
 bugherd.com
+bunchbox.co
 burstbeacon.com
 burt.io
 bux1le001.com
@@ -1005,6 +1006,7 @@ insigit.com
 insitemetrics.com
 inspectlet.com
 instadia.net
+instana.io
 instapage.com
 instore.biz
 integritystat.com
@@ -1100,6 +1102,7 @@ kopsil.com
 kqzyfj.com
 krxd.net
 ksyrium0014.com
+ktxtr.com
 l2.visiblemeasures.com
 landingpg.com
 lansrv030.com
@@ -1153,6 +1156,7 @@ lognormal.net
 logrocket.com
 logsss.com
 lookery.com
+loop11.com
 loopfuse.net
 lopley.com
 losstrack.com
@@ -1306,6 +1310,7 @@ navilytics.com
 naytev.com
 ndf81.com
 ndg.io
+neads.delivery
 neatstats.com
 nedstat.com
 nedstat.net
@@ -1394,6 +1399,7 @@ openstat.net
 opentracker.net
 openvenue.com
 openxtracker.com
+opinary.com
 oproi.com
 optify.net
 optimahub.com
@@ -1790,7 +1796,6 @@ sometrics.com
 sophus3.com
 soska.us
 spamanalyst.com
-spanglefish.com
 spectate.com
 speed-trap.com
 speedcurve.com
@@ -2147,6 +2152,7 @@ w55c.net
 waframedia9.com
 waplog.net
 waudit.cz
+waust.at
 wbtrk.net
 web-boosting.net
 web-counter.net
@@ -2283,6 +2289,7 @@ ztsrv.com
 .ovh
 .party
 .pro
+.pw
 .racing
 .review
 .rocks
@@ -2293,6 +2300,7 @@ ztsrv.com
 .top
 .trade
 .webcam
+.website
 .win
 .xyz
 .zone
@@ -2324,6 +2332,7 @@ andlache.com
 api.inwemo.com
 aqqgli3vle.bid
 authedmine.com
+averoconnector.com
 axoncoho.tk
 azvjudwr.info
 bablace.com
@@ -2382,6 +2391,7 @@ cryptomine.pro
 cryptonoter.com
 csgocpu.com
 deepc.cc
+depttake.ga
 devphp.org.ua
 didnkinrab.com
 dle-news.pw
@@ -2391,8 +2401,10 @@ duckdns.org
 easyhash.io
 etnhashpool.tk
 evengparme.com
+ewtuyytdf45.com
 fge9vbrzwt.bid
 flare-analytics.com
+flophous.cf
 flu.cc
 freecontent.bid
 freecontent.racing
@@ -2420,20 +2432,24 @@ hodling.faith
 hodling.party
 hodling.science
 host.d-ns.ga
+hydesolo.tk
 igg.biz
 igrid.org
 ingorob.com
 insdrbot.com
+interestingz.pw
 investhash.com
 jquery-uim.download
 jroqvbvw.info
 jsccnn.com
 jscdndel.com
 jsecoin.com
+junopink.ml
 jyhfuqoh.info
 kdowqlpt.info
 kedtise.com
 kinoprofi.org
+kippbeak.cf
 l33tsite.info
 ledhenone.com
 ledinund.com
@@ -2485,6 +2501,7 @@ pool.hws.ru
 poolmining.eu
 poolmining.net
 ppoi.org
+presjots.ga
 projectpoi.com
 reasedoper.pw
 refunevent.com
@@ -2514,6 +2531,7 @@ ue696vbd9l.bid
 ukp2pool.uk
 usa.cc
 vcfs6ip5h6.bid
+veerebbs.ml
 veritrol.com
 verresof.com
 vzhjnorkudcxbiy.com
