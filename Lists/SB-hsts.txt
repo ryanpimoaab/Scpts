@@ -1,3 +1,4 @@
+mywot.net
 onlineusagesurveys.com
 open.oneplus.net
 promotions.yourfirstmillion.biz
@@ -15,6 +16,7 @@ www.pussysaga.com
 promotion.com-rewards.club
 rereddit.com
 s.zkcdn.net
+sixstitch.win
 specialsections.siteseer.ca
 stealthedeal.com
 ags.news.com.au
@@ -50,6 +52,18 @@ cdnapi.kaltura.com
 vmds.tvpassport.com
 stats.wp.com
 4436230.fls.doubleclick.net
+aoredi.com
+imysurvey.com
+gamblerush.com
+security-check-551.com
+www.cpm20.com
+btds.artplay.info
+www.aoredi.com
+www.imysurvey.com
+www.gamblerush.com
+www.security-check-551.com
+www.www.cpm20.com
+www.btds.artplay.info
 # analytics
 analysis.polarisoffice.com
 analytics-digit-in.cdn.ampproject.org
@@ -1678,7 +1692,7 @@ xyrjtq.misterjoy.ru
 # see below for acknowledgements.
 # please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
-# last updated: fri, 23 feb 2018 at 16:01:08 gmt
+# last updated: mon, 26 feb 2018 at 03:52:47 gmt
 # use this file to prevent your computer from connecting to selected
 # internet hosts. this is an easy and effective way to protect you from 
 # many types of spyware, reduces bandwidth use, blocks certain pop-up 
@@ -9147,6 +9161,7 @@ dev.adforum.com
 devart.adbureau.net
 devlp1.linkpulse.com
 dev.sfbg.com
+dev.visualwebsiteoptimizer.com
 dgm2.com
 dgmaustralia.com
 dg.specificclick.net
@@ -9864,6 +9879,7 @@ im.of.pl
 impact.cossette-webpact.com
 imp.adsmogo.com
 impbe.tradedoubler.com
+impl.onscroll.com
 import.globalsources.com
 imp.partner2profit.com
 imppl.tradedoubler.com
@@ -11786,6 +11802,7 @@ ag.regieci.com
 ags.bluekai.com
 ags.expo9.exponential.com
 ags.hypeads.org
+ags.onscroll.com
 ags.rllcll.com
 ags.tagcade.com
 ags.toroadvertising.com
@@ -12494,6 +12511,7 @@ www.adquest3d.com
 www.adreporting.com
 www.ads2srv.com
 www.adscience.nl
+www.adsensecustomsearchads.com
 www.adsentnetwork.com
 www.adserver.co.il
 www.adserver.com
@@ -13297,6 +13315,7 @@ www.videomediagroep.nl
 www.view4cash.de
 www.vipromoffers.com
 www.virtumundo.com
+www.visualwebsiteoptimizer.com
 www.vmcsatellite.com
 www.voucher-for-you.online
 wwww.8cr.purredheanb.online
@@ -18490,7 +18509,6 @@ dbg52463.moatads.com
 files.native.ad
 ps.ns-cdn.com
 ap.octopuspop.com
-ags.onscroll.com
 analytics.ooyala.com
 match.rundsp.com
 ag.mtrcs.samba.tv
@@ -20950,7 +20968,6 @@ dp.g.doubleclick.net
 # [google / doubleclick][as15169][209.85.128.0 - 209.85.255.255]
 analytics-api-samples.googlecode.com
 # [google][as15169][216.58.192.0 - 216.58.223.255]
-www.adsensecustomsearchads.com
 1435575.fls.doubleclick.net
 2542116.fls.doubleclick.net
 4053494.fls.doubleclick.net
@@ -21863,7 +21880,6 @@ ads2.vasmg.com
 # [ispsystem][as29182][37.230.114.0 - 37.230.115.255]
 flash4promo.ru
 # [ispsystem at nac][as8001][66.228.32.0 - 66.228.63.255]
-dev.visualwebsiteoptimizer.com
 # [iswest / trade news][as5033][207.178.151.0 - 207.178.151.255]
 actvtrack.com
 fb.cashtraffic.com
@@ -27926,7 +27942,7 @@ www.winaproduct.com
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    mon, 02 mar 1998 00:00:00
+# start date:    tue, 03 mar 1998 00:00:00
 101com.com
 101order.com
 123found.com

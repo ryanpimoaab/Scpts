@@ -28,6 +28,7 @@ client-event-reporter.twitch.tv
 cms-cdn.tombola.com
 coiṇbase.com
 content.cdn.viber.com
+cqyirsc.com
 ctg.hege.gdn
 cwcams.com
 d1xfwwbc8v6bav.cloudfront.net
@@ -52,11 +53,13 @@ imasdk.googleapis.com
 inscname.net
 insnw.net
 instartlogic.com
+ionsoftware.info
 istripper.com
 legalsoft.safeupdatesforpcandmac.review
 login-coinbase.com
 macaheadapps.com
 main.dynsrvaba.com
+media.adca.st
 offer.tqeew.com
 offermediaservices.world
 one-sol.in
@@ -81,6 +84,7 @@ rsrc.bitcoin-code.co
 sb.scorecard
 sb.scorecardresearch.com
 sdad.guru
+security-alert.yrobt4kw.top
 sof008.site
 spade.twitch.com
 spade.twitch.tv
@@ -141,6 +145,7 @@ www.client-event-reporter.twitch.tv
 www.cms-cdn.tombola.com
 www.coiṇbase.com
 www.content.cdn.viber.com
+www.cqyirsc.com
 www.ctg.hege.gdn
 www.cwcams.com
 www.d1xfwwbc8v6bav.cloudfront.net
@@ -165,11 +170,13 @@ www.imasdk.googleapis.com
 www.inscname.net
 www.insnw.net
 www.instartlogic.com
+www.ionsoftware.info
 www.istripper.com
 www.legalsoft.safeupdatesforpcandmac.review
 www.login-coinbase.com
 www.macaheadapps.com
 www.main.dynsrvaba.com
+www.media.adca.st
 www.offer.tqeew.com
 www.offermediaservices.world
 www.one-sol.in
@@ -194,6 +201,7 @@ www.rsrc.bitcoin-code.co
 www.sb.scorecard
 www.sb.scorecardresearch.com
 www.sdad.guru
+www.security-alert.yrobt4kw.top
 www.sof008.site
 www.spade.twitch.com
 www.spade.twitch.tv

@@ -990,6 +990,7 @@
 3grs6.voluumtrk.com
 3hfag.voluumtrk.com
 3m56h.voluumtrk.com
+3point14.go2affise.com
 3rdeye.go2cloud.org
 3rih9.voluumtrk.com
 3ukg5.voluumtrk.com
@@ -1061,6 +1062,7 @@
 4mads.com
 4n7i8.voluumtrk.com
 4necp.voluumtrk.com
+4online.go2affise.com
 4q.iperceptions.com
 4qinvite.4q.iperceptions.com
 4qsurvey.com
@@ -1080,6 +1082,7 @@
 5.thumbs.hexagram.com
 50.6.87.194.dynamic.dol.ru
 507222872.go2cloud.org
+50mango.go2affise.com
 51.6.87.194.dynamic.dol.ru
 51yes.com
 52.6.87.194.dynamic.dol.ru
@@ -1975,6 +1978,7 @@ activity.serving-sys.com
 actonsoftware.com
 actualdeals.com
 actvtrack.com
+actwebmedia.go2affise.com
 acvs.mediaonenetwork.net
 acvsrv.mediaonenetwork.net
 acxiom.com
@@ -15989,6 +15993,7 @@ adbazaar.go2cloud.org
 adbenefit.go2cloud.org
 adbest.com
 adbest.net
+adbird.go2affise.com
 adbit.co
 adbl.spieletipps.de
 adblade.com
@@ -16069,6 +16074,7 @@ adcron.com
 adcycle.com
 adcycle.everyone.net
 adcycle.standard.net
+add3.go2affise.com
 addapptr.com
 addash.co
 addbtest.timesink.com
@@ -16087,6 +16093,7 @@ addstats.com
 addthis.com
 addtosite.netster.com
 addupp.com
+addvaluemedia.go2affise.com
 addvaluemedia.go2cloud.org
 addynamics.eu
 addynamix.com
@@ -16322,6 +16329,7 @@ adistas.go2cloud.org
 aditic.net
 adition.com
 adition.net
+aditmedia.go2affise.com
 aditor.go2cloud.org
 adjal.com
 adjal.go2cloud.org
@@ -16366,6 +16374,7 @@ adlog.com.com
 adlog.flurry.com
 adlogix.net
 adlooxtracking.com
+adluminious.go2affise.com
 adm.fwmrm.net
 adm.leju.sina.com.cn
 adm.shinobi.jp
@@ -16458,6 +16467,7 @@ admonkey.dapper.net
 admontest1.2cnt.net
 admontestbalt.2cnt.net
 admotion.com.ar
+admoustache.go2affise.com
 admp.sanoma.fi
 admperformance.go2cloud.org
 admtpmp127.adsk2.co
@@ -16524,6 +16534,7 @@ adperium.com
 adperiun.com
 adpetizer.go2cloud.org
 adpick.switchboard.com
+adpile.go2affise.com
 adpionier.de
 adplace.adsame.com
 adplace.i.adsame.com
@@ -16567,6 +16578,7 @@ adrewards.com
 adrianna-brumbelow.us
 adrienne-atkin.us
 adrienne-neihoff.us
+adright.go2affise.com
 adrise.de
 adriver.ru
 adroar.com
@@ -18583,6 +18595,7 @@ adspaces.ero-ades.ero-advertising.com
 adspaces.ero-advertising.com
 adspaces.ero-apaces.ero-advertising.com
 adspaces2.ero-advertising.com
+adspade.go2affise.com
 adspaes.ero-advertising.com
 adspages.ero-advertising.com
 adspaper.org
@@ -18632,6 +18645,7 @@ adssl02.adtech.fr
 adsspaces.ero-advertising.com
 adstaces.ero-advertising.com
 adstage-analytics.herokuapp.com
+adstartmedia.go2affise.com
 adstats.adviva.net
 adstil.indiatimes.com
 adstoclick.com
@@ -18791,6 +18805,7 @@ advancedadapters.com
 advancedmedia.go2cloud.org
 advancedsoftwaresupport.com
 advancedtracker.appspot.com
+advancemobile.go2affise.com
 advancets.org
 advantageglobalmarketing.com
 advantech.vo.llnwd.net
@@ -18955,6 +18970,7 @@ advertmarketing.com
 advertmedia.de
 advertpay.net
 advertpro.sitepoint.com
+advertraf.go2affise.com
 adverts.adam4adam.com
 adverts.archant.co.uk
 adverts.creativemark.co.uk
@@ -19274,6 +19290,7 @@ affina.com
 affinitytracking.go2cloud.org
 affirmedzwvnkh.download
 affirmer.science
+affise.com
 affl.sucuri.net
 affscout.go2cloud.org
 affsharkoffer.com
@@ -19343,6 +19360,7 @@ aimtoday.aol.com
 aio.lp.mydas.mobi
 airbrake.io
 airpush.com
+airpush.go2affise.com
 airpushmarketing.s3.amazonaws.com
 ais.abacast.com
 aj.600z.com
@@ -19934,6 +19952,7 @@ app-abq.marketo.com
 app-authority.com
 app-creatives.cdn.admobile.me
 app-promo.com
+app-ratings.com
 app-sj01.marketo.com
 app-sj09.marketo.com
 app-sjg.marketo.com
@@ -19988,6 +20007,7 @@ appflood.go2cloud.org
 appfly.mobi
 appia.com
 appintop.com
+appitate.go2affise.com
 applab-sdk.amazon.com
 applebarq.com
 appledaily.apx.appier.net
@@ -20003,6 +20023,7 @@ applift-a.apptornado.com
 applift.com
 appload.ingest.crittercism.com
 applovin.com
+appmpire.go2affise.com
 appnexus.download.akamai.com
 appodeal.com
 appolicious.com
@@ -20032,11 +20053,14 @@ appsfire.com
 appsfire.net
 appsflyer.com
 appsnack.com
+apptenpro.com
 apptera.com
 apptest.2cnt.net
 apptornado.com
+apptrafficmedia.go2affise.com
 apptv.com
 appular.com
+appxigo.go2affise.com
 appzzzarehere.com
 apqixzxxgoverstayed.review
 april-blackburn.us
@@ -20048,6 +20072,7 @@ apromoweb.com
 aps.hearstnp.com
 apsalar.com
 aptrk.com
+aptrk5.com
 apture.com
 apu04c0.audientia.net
 apu0640.audientia.net
@@ -21739,6 +21764,7 @@ blushing.justclick.ru
 blutrumpet.com
 bm.annonce.cz
 bm.hbtronix.de
+bm5150.com
 bm7dc.voluumtrk.com
 bmcp5.voluumtrk.com
 bmetrack.com
@@ -21902,6 +21928,7 @@ bridgette-laura.us
 bright.bncnt.com
 brightshare.com
 brigitte-burtch.us
+briskads.go2affise.com
 britany-timothy.us
 british-banners.com
 britishtelecom.112.2o7.net
@@ -23312,6 +23339,7 @@ c.bing.com
 c.bizjournals.com
 c.c.appier.net
 c.casalemedia.com
+c.cblevt.com
 c.chango.com
 c.chartboost.com
 c.cldlr.com
@@ -23574,6 +23602,7 @@ calfxvpqle.download
 call-tracking.co.uk
 callfire.com
 callloop.com
+calltoadagency.go2affise.com
 calme.science
 cameraboys.com
 cameron-wolter.us
@@ -23595,6 +23624,7 @@ can.you.shut.the.fuck.up.at.bnex.com
 candi-nolen.us
 candidclicks.com
 candlingbploxcq.download
+candyadz.go2affise.com
 cantatricekrwutrlj.download
 cantedmxcndjhm.download
 canvas-advert.ru
@@ -23607,6 +23637,7 @@ canwestdose.112.2o7.net
 cap1ss.xp1.ru4.com
 caprewards.go2cloud.org
 capsizalsoxdxke.download
+captivau.go2affise.com
 capture.trackjs.com
 carambo.la
 carbonads.com
@@ -23625,6 +23656,7 @@ carolina-breeze.us
 carolina-fullwood.us
 caroline-beckman.us
 carolyn-deckard.us
+carrierapptraffic.go2affise.com
 cars.ign.us.intellitxt.com
 carte.science
 cartonetwork.com
@@ -23701,6 +23733,7 @@ cbird4.sextracker.com
 cbird6.sextracker.com
 cbjs.baidu.com
 cbjslog.baidu.com
+cblevt.com
 cbm02.webtrekk.net
 cbmsn.112.2o7.net
 cbn.tbn.ru
@@ -24249,6 +24282,7 @@ cherie-mutchler.us
 cherish-wehr.us
 cherryaffiliates.omarsys.com
 cheryl-edelstein.us
+chessmob.go2affise.com
 chestionar.ro
 chgqm.voluumtrk.com
 chi-only.outbrain.com
@@ -24581,6 +24615,7 @@ clicks.walla.co.il
 clicks.whatifoffers.com
 clicks2.oxcash.com
 clicks2count.com
+clicks2install.go2affise.com
 clicks2you.com
 clicksaddiction.go2cloud.org
 clicksales.com
@@ -24681,6 +24716,7 @@ clktag.com
 clkuk.tradedoubler.com
 clmbtrk.com
 clnk.me
+clobucks.com
 clog.go.com
 clottingsuoxiz.download
 clou.ovh
@@ -24898,6 +24934,7 @@ commonwealth.riddler.com
 compagnie.science
 compagnon.science
 companiedhhplrdpp.download
+companydeep.go2affise.com
 compareyourclicks.com
 compatdb.us.intellitxt.com
 compete.com
@@ -25068,6 +25105,7 @@ core.asuum.com
 core.banner.t-online.de
 core.naturalmotion.com
 core.yorkvillemarketing.com
+core2digital.go2affise.com
 coreads.net
 coreclickhoo.com
 coreg-feed.fr
@@ -26398,8 +26436,16 @@ cpm.tz4.com
 cpm.wargaming.net
 cpm.worldofwarplanes.com
 cpm10.com
+cpmcity.com
 cpmfun.com
+cpmland.com
 cpmleader.com
+cpmlove.com
+cpmmaster.com
+cpmstatsart.com
+cpmtips.com
+cpmtown.com
+cpmtrip.com
 cpolixyndenisles.review
 cpro.baidu.com
 cpro.baidustatic.com
@@ -26925,6 +26971,7 @@ daphne-jared.us
 dara-tolliver.us
 darangi.ru
 darla-rumfelt.us
+darriens.go2affise.com
 dart.l.doubleclick.net
 das5ku9q.com
 dash.scorpiointeractive.com
@@ -27468,6 +27515,7 @@ donkeymails.com
 donna-borst.us
 dontblockme.modaco.com
 donval.112.2o7.net
+doozymob.go2affise.com
 doqby.voluumtrk.com
 dorapodorasham.com
 dorothy-carrero.us
@@ -27604,6 +27652,7 @@ dsmreports.doubleclick.net
 dsms0mj1bbhn4.cloudfront.net
 dsnr.net
 dsnrmg.com
+dsnrmg.go2affise.com
 dsosvbpuhw.download
 dsp.adfarm1.adition.com
 dsp.adkernel.com
@@ -27666,6 +27715,7 @@ dynamic.aol.com
 dynamic.fmpub.net
 dynamic.mediaadserver.com
 dynamic.woolik.com
+dynamyn.go2affise.com
 dync.c.appier.net
 dyntraq.mtree.com
 dypbo.voluumtrk.com
@@ -28268,6 +28318,7 @@ et.nytimes.com
 et.twyn-group.com
 et.w.inmobi.com
 etahub.com
+eternalmobi.go2affise.com
 ethicalads.net
 ethn.io
 etl.tindersparks.com
@@ -28356,6 +28407,7 @@ ex.joyjasp.com
 ex.mobmore.com
 ex.puata.info
 ex.umengcloud.com
+exactinstall.com
 exactly0r.com
 exactseek.com
 exacttarget.com
@@ -28543,6 +28595,7 @@ fastsexnow.net
 fasttrack.nu
 fata.ero-advertising.com
 fatads.toldya.com
+faunus.go2affise.com
 favoritismkwaqmz.download
 faz.ivwbox.de
 faz.met.vgwort.de
@@ -28560,6 +28613,7 @@ fcd3-8570-6529-d8b7.reporo.net
 fcds.affiliatetracking.net
 fcgadgets.blogspot.com
 fcged.voluumtrk.com
+fcmads.go2affise.com
 fcstats.altervista.org
 fctdi.voluumtrk.com
 fcvjhuzdcached.review
@@ -28638,6 +28692,7 @@ fileserver.glam.com
 filestorage52.xyz
 filestore.adition.com
 filetarget.net
+fillymedia.go2affise.com
 filmboxlive.go2cloud.org
 filmforcedvd.ign.us.intellitxt.com
 filter.online-adnetwork.com
@@ -29451,6 +29506,7 @@ fusionpmg.go2cloud.org
 futurebazaar.go2cloud.org
 futurenet.com
 futurepay.globway.eu
+futurex.go2affise.com
 fvglt.voluumtrk.com
 fw.adsafeprotected.com
 fw.moatads.com
@@ -29844,6 +29900,7 @@ gnaur.voluumtrk.com
 gnftr.voluumtrk.com
 gniho.voluumtrk.com
 gnnzz.gaming.bannernumber.eu
+go-rilla.go2affise.com
 go.activengage.com
 go.ad2up.com
 go.ad2upapp.com
@@ -29906,6 +29963,7 @@ go.wellhello.com
 go.wsockd.com
 go.youlamedia.com
 go2.trekaklik.com
+go2affise.com
 go2cloud.org
 go2funz.com
 go2linkfast.com
@@ -30085,6 +30143,7 @@ gr1innovations.com
 gr2hk6ze.com
 gr8.com
 gr8nk.voluumtrk.com
+grabanapptrk.com
 grabify.link
 grace-hansley.us
 graffix.adition.com
@@ -30120,6 +30179,7 @@ grippedownloads.co
 grosskjlkwccna.download
 grouchiestopszo.download
 groupe.go2cloud.org
+groupritm.go2affise.com
 groupware.adition.com
 grousingkvjtblhj.download
 grow.kissmetrics.com
@@ -30211,6 +30271,7 @@ hardcoretraffic.com
 hardsextube-bud.gravityrd-services.com
 hardwarezone.us.intellitxt.com
 hariqavi.com
+harrenmedia.go2affise.com
 harrenmedianetwork.com
 harvardbp.vo.llnwd.net
 harvestadsdepot.com
@@ -30312,6 +30373,7 @@ hig.com
 highcpms.com
 highdefforum.us.intellitxt.com
 higheurest.com
+highflyer.go2affise.com
 highspeedtesting.com
 hightrafficads.com
 hijackedzdupdb.download
@@ -30776,6 +30838,7 @@ icptrack.com
 ics.hitbox.com
 icthl.voluumtrk.com
 icubes.go2cloud.org
+icubeswire.go2affise.com
 icvdm.vo.llnwd.net
 id.allegisgroup.com
 id.google.com
@@ -30996,6 +31059,7 @@ imagine-inc.com
 imaginemedia.net
 imap.linkshare.com
 imatmobile.com
+imbof.com
 imedia.co.il
 imeds.ero-advertising.com
 imeseonetwork.go2cloud.org
@@ -31154,6 +31218,7 @@ imserv006.adtech.fr
 imserv00x.adtech.fr
 imssl01.adtech.fr
 imstore.bet365affiliates.com
+imtrck.com
 imtrk.trktoo.com
 imu.com.cn
 imupdate.3g.cn
@@ -31196,8 +31261,10 @@ inetlog.ru
 inf.marketgid.com
 infinio.go2cloud.org
 infinite-ads.com
+infinite-mobility.go2affise.com
 infinity.adsupply.com
 infinityads.com
+influens.go2affise.com
 influentialads.go2cloud.org
 info-mail.codeguard.com
 info.anmedia.co.uk
@@ -31490,6 +31557,7 @@ jalbum.net
 james.adbutler.de
 jamii.2cnt.net
 jaminfinity.tk
+jammyads.go2affise.com
 janae-galentine.us
 jandolav.com
 janel-payan.us
@@ -31639,6 +31707,7 @@ joy-westgate.us
 joyourself.com
 jp-u.openx.net
 jp8yh.voluumtrk.com
+jpgolimited.go2affise.com
 jpmedia.go2cloud.org
 jppcj.voluumtrk.com
 jpvoj.voluumtrk.com
@@ -31746,6 +31815,7 @@ jump.omnitarget.com
 jump.youmobistein.com
 jumptap.com
 junbi-tracker.com
+junggglex.go2affise.com
 jupiter.appads.com
 jupiter.bravenet.com
 jupiter.us.intellitxt.com
@@ -31901,6 +31971,7 @@ kimberley-chin.us
 kimberley-mackinnon.us
 kimberly-worsham.us
 kimia.monetizerlink.com
+kinesiz.go2affise.com
 kinkycards.com
 kinocash.com
 kinoprogramm.bild.de
@@ -31913,6 +31984,7 @@ kintris.adspirit.net.52337.9351.302br.net
 kintris.adspirit.net.52340.9351.302br.net
 kintrisaffiliates.go2cloud.org
 kiomi-com01.webtrekk.net
+kismia.go2affise.com
 kissfm.ivwbox.de
 kissmetrics.com
 kissmyads.com
@@ -32036,6 +32108,7 @@ la-chi.outbrain.com
 la1w1.salesforceliveagent.com
 lab.atdmt.com
 labelfind01.webtrekk.net
+laboutique.go2affise.com
 lacie-heberling.us
 lacodeworks.com
 lacquerersdfnkejwkz.download
@@ -33047,6 +33120,7 @@ maximumcash.com
 maxspeedcdn.com
 maxtrust.ru
 maxvr.112.2o7.net
+mayrondigital.go2affise.com
 mazda-com-tw.b.appier.net
 mazetin.ru
 mb.datingadzone.com
@@ -33222,6 +33296,7 @@ mediauk.247realmedia.com
 mediavisor.doubleclick.com
 mediavisor.doubleclick.net
 mediawhirl.net
+mediaxds.go2affise.com
 mediciinternet.go2cloud.org
 medicinenet.us.intellitxt.com
 medleyads.com
@@ -33493,10 +33568,13 @@ mob.adwhirl.com
 mob.tictacti.com
 moba8.net
 mobad.ijinshan.com
+mobadoo.go2affise.com
 mobads.baidu.com
 mobaloo.go2cloud.org
+mobavenue.go2affise.com
 mobbridge.mobpartner.mobi
 mobcdn.com
+mobco.go2affise.com
 mobday.com
 mobfox.com
 mobhero.com
@@ -33505,9 +33583,11 @@ mobi.mobijo.tv
 mobi.pornhubpremium.com
 mobi.yanosik.pl
 mobiads.ru
+mobiadtrk.com
 mobiaffiliatenetwork.go2cloud.org
 mobiappsclub.com
 mobidia.com
+mobidiscover.go2affise.com
 mobilda.com
 mobile-abc.com
 mobile-ads.wifog.com
@@ -33546,6 +33626,11 @@ mobiletheory.com
 mobileweb.api.airpush.com
 mobilewithsms.net
 mobilitysite.us.intellitxt.com
+mobilogia.go2affise.com
+mobiplay.go2affise.com
+mobireckon.go2affise.com
+mobirushhour.com
+mobisense.go2affise.com
 mobisystems.com
 mobitracker.info
 mobivity.com
@@ -33556,7 +33641,9 @@ mobooka.go2cloud.org
 mobooka.hasoffers.com
 mobpartner.com
 mobpartner.mobi
+mobsonic.go2affise.com
 mobstac.com
+mobtions.go2affise.com
 mobvid.mobi
 mobvista.go2cloud.org
 mobwall.mobpartner.com
@@ -33568,6 +33655,7 @@ modemspeedbooster.com
 moderninstalls.go2cloud.org
 moe.jlist.com
 mofox.com
+mogofinance.go2affise.com
 mogreet.com
 mojiva.com
 mojiva2-13fc.kxcdn.com
@@ -33596,6 +33684,7 @@ monetisetrk6.co.uk
 monetisevideo.com
 monetize.applift.com
 monetizemore.com
+monetizeplus.go2affise.com
 money--bux2013.justclick.ru
 money.2cnt.net
 money4exit.de
@@ -33628,9 +33717,11 @@ mostcash.com
 motifcdn2.doubleclick.net
 motionhits.com
 motor-talk.digidip.net
+motorads.go2affise.com
 motormarket.com
 motorsport-total.de.intellitxt.com
 motorward.us.intellitxt.com
+mottcp.go2affise.com
 mottnow.adk2x.com
 mountainbike.digidip.net
 mousselinehkhnrrnlq.download
@@ -33818,6 +33909,7 @@ mytrannycams.com
 myvacationguide.com
 mywebstats.com.au
 mz28ismn.com
+mzadx.go2affise.com
 mzqtm.voluumtrk.com
 mzrvi.voluumtrk.com
 m_graph.vidpark.com
@@ -33961,6 +34053,7 @@ net.e-viral.com
 netadsloc.com
 netbanner.com
 netcomm.spinbox.net
+netcore.go2affise.com
 netcounter.de
 netdirect.nl
 netdna.cedexis.com
@@ -34492,6 +34585,7 @@ oknplm.website
 okohp.voluumtrk.com
 okpgn.voluumtrk.com
 okrg0.voluumtrk.com
+okstrade.go2affise.com
 ol14x.voluumtrk.com
 olddata.radarurl.com
 oleg71d.justclick.ru
@@ -35001,6 +35095,7 @@ pagevisit.net
 pagvl.voluumtrk.com
 paid-work-at-home.com
 paid.outbrain.com
+paid2mobi.com
 paid4clicks.de
 paige-weigand.us
 pajpv.voluumtrk.com
@@ -35639,6 +35734,7 @@ premiumtrack03.webtrekk.net
 premiumtrack04.webtrekk.net
 prepareriblef.download
 preplannedpbxggguv.download
+preply.go2affise.com
 prerelease.rts.doublepimp.com
 prerelease.rts.phn.doublepimp.com
 prerelease.streamate.doublepimp.com
@@ -35748,6 +35844,7 @@ proxypage.msn.com
 prpops.com
 prscripts.com
 prstatics.com
+prunemedia.go2affise.com
 prv3h.voluumtrk.com
 prwidgets.com
 prx.freecj.com
@@ -35941,6 +36038,7 @@ puggareeslshty.download
 puhtml.com
 pulharktheherald.112.2o7.net
 pulpantagraph.112.2o7.net
+pulsarads.go2affise.com
 pulsepoint.com
 pulsetv.com
 puma.vizu.com.51275.9332.302br.net
@@ -35997,6 +36095,7 @@ pyzou.voluumtrk.com
 pztqt.voluumtrk.com
 pzxld.voluumtrk.com
 p_en.popunder.net
+q-mobi.go2affise.com
 q.addthis.com
 q.azcentral.com
 q.jmp9.com
@@ -36207,8 +36306,10 @@ rainbow-de.mythings.com
 rainbow.mythings.com
 rainmaker.digitalbrandsinc.netdna-cdn.com
 rainoffers.afftrack.com
+rainydaymarketing.go2affise.com
 raiss.voluumtrk.com
 ramctrlgate.com
+ramongroup.go2affise.com
 rampidads.com
 randall-mccabe.us
 raneso.com
@@ -36382,6 +36483,7 @@ reichelt02.webtrekk.net
 reina-petty.us
 rejectclick.com
 rek.mobi
+rekket.go2affise.com
 reklam.rfsl.se
 reklama.internet.cz
 reklama.reflektor.cz
@@ -36576,6 +36678,7 @@ rnd.yxo.ru
 rnyp9.voluumtrk.com
 ro.adocean.pl
 roadcatalogs.us.intellitxt.com
+roadmappdigital.go2affise.com
 roar.com
 roars.com
 robotreplay.com
@@ -36605,6 +36708,7 @@ rosettastone.tt.omtrdc.net
 rotabanner.kulichki.net
 rotate.fncnet1.com
 rotatingbannerads.com
+rotatix.go2affise.com
 rotator.adjuggler.com
 rotator.nbjmp.com
 rotator.offpageads.com
@@ -36627,6 +36731,7 @@ roxio.112.2o7.net
 roxionewroxio2006.112.2o7.net
 royal-cannabis-seeds-nirvanashop.netdna-ssl.com
 royalmial.112.207.net
+royalmobi.go2affise.com
 rp.alcoholsoftcdn.com
 rp.filefactscdn.com
 rp.hit.gemius.pl
@@ -36896,6 +37001,7 @@ s26.topstat.com
 s290.meetrics.net
 s290.mxcdn.net
 s2hd-plugincom-maynemyltf.netdna-ssl.com
+s2s.go2affise.com
 s2wrw.voluumtrk.com
 s3-tracking.synthasite.net.s3.amazonaws.com
 s3.buysellads.com
@@ -37523,6 +37629,7 @@ shirley-rivet.us
 shmonekisot.com
 shokala.com
 shonda-nowicki.us
+shoogloomobile.go2affise.com
 shop.adition.com
 shop.gnezdo.ru
 shop.zedo.com
@@ -37593,6 +37700,7 @@ signpost.go2cloud.org
 signup.clicksor.com
 siliconaction.com
 silverpush.com
+silversol.go2affise.com
 silvia-maffei.us
 sim.thetrafficstat.net
 simg.sinajs.cn
@@ -37739,6 +37847,7 @@ smtp.mobpartner.mobi
 smtp.performancerevenues.com
 smtp.yeahmobi.com
 smtp.zedo.com
+smtrack.go2affise.com
 smurringdimmv.download
 smwww.112.2o7.net
 snapabug.appspot.com
@@ -37832,6 +37941,7 @@ spdeliverp.i-mobile.co.jp
 spe.atdmt.com
 specialoffers.aol.com
 specific-match.dotomi.com
+specificads.go2affise.com
 specificmedia.com
 specificpop.com
 spectato.com
@@ -37846,6 +37956,7 @@ speedtrap.shopdirect.com
 speeuclicks.ero-advertising.com
 sperse.com
 spezialreporte.de
+spicymobile.go2affise.com
 spiegel.met.vgwort.de
 spiegel.rce.veeseo.com
 spin.spinbox.net
@@ -37897,6 +38008,7 @@ sql.doublepimp.com
 sqm.df.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
 sqm.telemetry.microsoft.com.nsatc.net
+squareandcircle.go2affise.com
 squarenessqyecvdn.download
 squarespace.evyy.net
 squashyrsewa.download
@@ -38943,6 +39055,7 @@ tapjoy.go2cloud.org
 tapjoyads.com
 taplytics.com
 tapone.jp
+tappx.go2affise.com
 tapsense.com
 tara-kyser.us
 tarah-kohn.us
@@ -38960,6 +39073,7 @@ targetspot.com
 tarifliste.com
 tarkita.ru
 tarrinc.go2cloud.org
+tarsan.go2affise.com
 tasha-tatro.us
 tasks.kissmetrics.com
 tasseledalcktk.download
@@ -39137,6 +39251,7 @@ theaffiliate.us
 theaffiliatepeople.com
 theaffiliateprogram.com
 theanswerto.com
+theappwarrior.com
 thebugs.ws
 theclickmagnets.go2cloud.org
 thecounter.com
@@ -39271,6 +39386,7 @@ tlvmedia.com
 tm.tradetracker.net
 tmarket.tripod.com
 tmgdigital.go2cloud.org
+tminainc.go2affise.com
 tml.clmbtech.com
 tmobile-us.inq.com
 tmp.dt00.net
@@ -39547,6 +39663,7 @@ track.smcnetwork.net
 track.spiceworks.com
 track.strife.com
 track.tagesanzeiger.ch
+track.tastyfoodcombos.com
 track.td3x.com
 track.tesiteca.it
 track.thewebgemnetwork.com
@@ -39969,6 +40086,7 @@ tribuneinteractive.com
 trickys.com
 triggeredmail.appspot.com
 triggertag.gorillanation.com
+triolit.go2affise.com
 tripod.postaffiliatepro.com
 trista-ostby.us
 trivia2mobile.com
@@ -40519,6 +40637,7 @@ uniquesurf.com
 unisonsas.bravejournal.com
 universal-traffic.com
 unlck.net
+unlimitads.go2affise.com
 unlimitedtextads.com
 uno.wbrotator.biz
 unpacifiedeaecmq.download
@@ -40538,6 +40657,7 @@ uol-i3.servedbyopenx.com
 up.cm.ksmobile.com
 up.nytimes.com
 upads.info
+upahco.go2affise.com
 upapps.go2cloud.org
 upcnl.tt.omtrdc.net
 upcuushogunates.review
@@ -40752,6 +40872,8 @@ vermifugalvacqsw.download
 vernalizesdoanrm.download
 veronica-moore.us
 vertical-leap.co.uk
+vertoz.go2affise.com
+verumm.go2affise.com
 vervemobile.com
 vf1.soundsecuredredir.com
 vf2.soundsecuredredir.com
@@ -44365,6 +44487,7 @@ vitrade02.webtrekk.net
 viziomothersday.brandmovers.net
 vizisense.komli.net
 vjnehfcprozymite.review
+vk.cblevt.com
 vladtv.us.intellitxt.com
 vlbalash.justclick.ru
 vlexokrako.com
@@ -44815,6 +44938,7 @@ weedoit.fr
 weeklyad.target.com
 weeklyprizewinner.com-net.info
 weesh.co.uk
+weevermedia.go2affise.com
 wehasoffers.go2cloud.org
 welcome.openx.com
 welcomeworld.justclick.ru
@@ -44930,6 +45054,7 @@ window.nixnet.cz
 windowslive.tt.omtrdc.net
 winfaq.de.intellitxt.com
 wingatemedia.go2cloud.org
+wingoads.com
 wingowin.com
 winmpmain.112.2o7.net
 winneronline.com
@@ -45461,6 +45586,7 @@ www.affiliatewindow.com
 www.affiliatezone.com
 www.affilitracker.biz
 www.affirmedzwvnkh.download
+www.affise.com
 www.affsharkoffer.com
 www.afftrack.com
 www.afftracker.info
@@ -45536,6 +45662,7 @@ www.apmebf.com
 www.apodemjyoqhwc.download
 www.apophygeneafuk.download
 www.app-authority.com
+www.app-ratings.com
 www.apparitorvlipqjiz.download
 www.appflood.com
 www.appfoxes.com
@@ -45553,6 +45680,8 @@ www.apqixzxxgoverstayed.review
 www.april-blackburn.us
 www.april-tindell.us
 www.april-wilcoxon.us
+www.aptrk.com
+www.aptrk5.com
 www.apture.com
 www.apxadtracking.net
 www.areasnap.com
@@ -46041,7 +46170,10 @@ www.cpm.biz
 www.cpm10.com
 www.cpmaffiliation.com
 www.cpmfun.com
+www.cpmland.com
 www.cpmleader.com
+www.cpmtips.com
+www.cpmtown.com
 www.cpolixyndenisles.review
 www.cpv2tracking.com
 www.cpxcenter.com
@@ -46317,6 +46449,7 @@ www.everythinghsrpple.download
 www.evisitcs2.com
 www.ewordofmouth.com
 www.exactadvertising.com
+www.exactinstall.com
 www.exacttarget.com
 www.excelqjmtypxbd.download
 www.exchange-it.com
@@ -46562,6 +46695,7 @@ www.gpkjxgsginfallible.review
 www.gprapps.com
 www.gqfysspiracles.review
 www.gqsrirsleazes.review
+www.grabanapptrk.com
 www.grace-hansley.us
 www.gramashgbbjqbzy.download
 www.graptolitezcmxrfe.download
@@ -46746,10 +46880,12 @@ www.image.ft.com
 www.imageers.com
 www.imagenes.de
 www.imagine-inc.com
+www.imbof.com
 www.imgclck.com
 www.imiclk.com
 www.impluviawtqydlbbi.download
 www.imptestrm.com
+www.imtrck.com
 www.inbeingsfmjfup.download
 www.inboxpounds.co.uk
 www.inboxpounds.com
@@ -47273,6 +47409,7 @@ www.mnetads.net
 www.moatads.com
 www.mobfox.com
 www.mobi-mobi.info
+www.mobiadtrk.com
 www.mobile-abc.com
 www.mobile.adnxs.com
 www.mobileandinternetadvertising.com
@@ -47500,6 +47637,7 @@ www.p.de
 www.p3marketing.com
 www.padv.co.il
 www.paid-work-at-home.com
+www.paid2mobi.com
 www.paidclick.ro
 www.paidsurveysfree.com
 www.paige-weigand.us
@@ -48085,6 +48223,7 @@ www.thalliformxaujqbsq.website
 www.thanksforinstalling.com
 www.theaffiliate.us
 www.theaffiliatepeople.com
+www.theappwarrior.com
 www.thecounter.com
 www.thehitsusa.com
 www.theoads.com
@@ -48417,6 +48556,7 @@ www.wildrhino.com
 www.wiliestmbpgakdno.download
 www.win7affiliates.com
 www.windgallsxsnxcqt.download
+www.wingoads.com
 www.witchlab.com
 www.wmfqmxqwsurgeries.review
 www.wondrousvalue.com
@@ -48982,6 +49122,7 @@ younglingsbcjzvozva.download
 your.365advert.com
 youradexchange.com
 youradslab.com
+yourappmarket.com
 yourcartoons.com
 yourhitstats.com
 yourlondonbridge.go2cloud.org
@@ -49081,6 +49222,7 @@ zeroredirect.com
 zeroredirect1.com
 zetatrk.com
 zeus.timesink.com
+zeuscpa.go2affise.com
 zeuscpa.go2cloud.org
 zf.zeroredirect1.com
 zg.zeroredirect1.com
@@ -49170,4 +49312,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 49176
+# hosts: 49318

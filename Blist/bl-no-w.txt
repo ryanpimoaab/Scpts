@@ -28,6 +28,7 @@ client-event-reporter.twitch.tv
 cms-cdn.tombola.com
 coiṇbase.com
 content.cdn.viber.com
+cqyirsc.com
 ctg.hege.gdn
 cwcams.com
 d1xfwwbc8v6bav.cloudfront.net
@@ -52,11 +53,13 @@ imasdk.googleapis.com
 inscname.net
 insnw.net
 instartlogic.com
+ionsoftware.info
 istripper.com
 legalsoft.safeupdatesforpcandmac.review
 login-coinbase.com
 macaheadapps.com
 main.dynsrvaba.com
+media.adca.st
 offer.tqeew.com
 offermediaservices.world
 one-sol.in
@@ -81,6 +84,7 @@ rsrc.bitcoin-code.co
 sb.scorecard
 sb.scorecardresearch.com
 sdad.guru
+security-alert.yrobt4kw.top
 sof008.site
 spade.twitch.com
 spade.twitch.tv
