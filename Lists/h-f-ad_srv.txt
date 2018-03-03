@@ -24669,7 +24669,6 @@ client.cobrowser.net
 client.download-sponsor.de
 client.everlinks.net
 client.tahono.com
-clientconfig.passport.net
 clients.adventmedia.net
 clients.advertising.com
 clients.bluecava.com
@@ -26869,7 +26868,6 @@ d39xqloz8t5a6x.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
 d3aa0ztdn3oibi.cloudfront.net
 d3aq14vri881or.cloudfront.net
-d3c3cq33003psk.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3dc2aopftfkeo.cloudfront.net
 d3dphmosjk9rot.cloudfront.net
@@ -49312,4 +49310,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 49318
+# hosts: 49316
