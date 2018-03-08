@@ -4,6 +4,7 @@
 1q2w3.fun
 1q2w3.me
 1q2w3.top
+1q2w3.website
 2giga.link
 300ca0d0.space
 310ca263.space
@@ -204,6 +205,7 @@ coinhiveproxy.com
 coinhiver.com
 coinhives.com
 coinhove.com
+coinhub.win
 coinimp.com
 coinive.com
 coinjive.com
@@ -283,6 +285,7 @@ doubleclick4.xyz
 doubleclick5.xyz
 doubleclick6.xyz
 dronml.ml
+dzizsih.ru
 earncoins.club
 easyhash.io
 ebd.cda.pl
@@ -304,6 +307,7 @@ etacontent.com
 etn.cpufan.club
 etn.spacepools.org
 etnpool.minekitten.io
+etzbnfuigipwvs.ru
 eu.cfcdist.loan
 eu.cfcnet.top
 eu.hatevery.info
@@ -535,6 +539,7 @@ na.monerise.com
 nablabee.com
 nametraff.com
 nathetsof.com
+nddmcconmqsy.ru
 nebabrop.com
 never.ovh
 new.minr.pw
@@ -564,9 +569,11 @@ nunu-001.now.sh
 ny7f6goy.bid
 oc.monerise.com
 ocean.cryptoloot.pro
+ocean.webmine.pro
 offerreality.com
 ogrid.org
 ohac.github.io
+okexysylgzo.ru
 okeyletsgo.ml
 oload.info
 onion.top
@@ -644,6 +651,7 @@ retadint.com
 rineventrec.com
 rintindown.com
 rintinwa.com
+rock.webmine.pro
 rocks.io
 ron.si
 rot.ron.si
@@ -661,10 +669,13 @@ s3.analytics.blue
 s3.gasolina.ml
 s3.minexmr.com
 sa.monerise.com
+saas.webmine.pro
 safelinkconverter.com
 salamaleyum.com
+sass.webmine.pro
 sbhmn-miner.com
 sea.cryptoloot.pro
+sea.webmine.pro
 seasonaloffers.club
 seattle01.monero.hashvault.pro
 secumine.net
@@ -715,6 +726,7 @@ statistic.date
 stats.cryptotab.net
 stats.minexmr.com
 status.minexmr.com
+stone.webmine.pro
 stonecalcom.com
 stream.nullrefexcep.com
 streamplay.top
@@ -743,6 +755,7 @@ test.cryptonoter.com
 test.minr.pw
 testnet-api.xmrpool.net
 testnet.webxmr.com
+tgtvbngp.ru
 thathislitt.ru
 thatresha.com
 theappguruz.com
@@ -764,6 +777,7 @@ turnsocial.com
 turnsocial.now.sh
 uebawtz7.me
 ullnot.download
+unrummaged.com
 us-stratum.viaxmr.com
 us.cfcdist.loan
 us.cfcnet.gdn
@@ -948,6 +962,7 @@ ws019.coinhive.com
 ws019.hemnes.win
 ws019.ws.tidafors.xyz
 ws02.1q2w3.me
+ws02.1q2w3.website
 ws02.coinnebula.com
 ws02.crypto-loot.com
 ws02.ppoi.org
@@ -1000,6 +1015,7 @@ ws029.coinhive.com
 ws029.hemnes.win
 ws029.ws.tidafors.xyz
 ws03.1q2w3.me
+ws03.1q2w3.website
 ws03.coinnebula.com
 ws03.crypto-loot.com
 ws030.authedmine.com
@@ -1200,6 +1216,7 @@ www.adless.io
 www.adminer.com
 www.analytics.blue
 www.authedmine.com
+www.bablace.com
 www.baiduccdn1.com
 www.biberukalap.com
 www.bitcoiner.win
@@ -1212,6 +1229,7 @@ www.coinblind.com
 www.coinerra.com
 www.coinhive-manager.com
 www.coinhive.com
+www.coinhub.win
 www.coinimp.com
 www.coinlab.biz
 www.coinpot.co
@@ -1240,6 +1258,7 @@ www.minero.cc
 www.minexmr.com
 www.minr.pw
 www.monerise.com
+www.monero-miner.com
 www.monero.crypto-pool.fr
 www.monerominer.rocks
 www.moneroocean.stream
@@ -1257,6 +1276,7 @@ www.sbhmn-miner.com
 www.sparechange.io
 www.test.cryptonoter.com
 www.viaxmr.com
+www.webmine.pro
 www.ws.freebitco.in
 www.wsnew.freebitco.in
 www.wty46.com

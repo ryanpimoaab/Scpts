@@ -39,6 +39,7 @@ cdn-code.host
 cdn.jquery-uim.download
 cfcd.duckdns.org
 cfcdist.gdn
+cfcdist.loan
 cfceu.duckdns.org
 cfcnet.gdn
 cfcs1.duckdns.org
@@ -88,6 +89,7 @@ doubleclick3.xyz
 doubleclick4.xyz
 doubleclick5.xyz
 doubleclick6.xyz
+dzizsih.ru
 edgeno.de
 elthamely.com
 estream.to
@@ -104,6 +106,7 @@ freecontent.loan
 freecontent.racing
 freecontent.stream
 fresh-js.bitbucket.io
+fruitice.realnetwrk.com
 futeboltv.com
 g-content.bid
 gasolina.ml
@@ -181,7 +184,9 @@ moonsade.com
 morningdigit.com
 msg-2.me
 mutuza.win
+nablabee.com
 nametraff.com
+nddmcconmqsy.ru
 nebabrop.com
 never.ovh
 nexttime.ovh
@@ -189,6 +194,7 @@ ningtoldrop.ru
 noblock.pro
 norespar.ru
 nullrefexcep.com
+nunu-001.now.sh
 oload.info
 openkatalog.com
 pan.whathyx.com
@@ -227,14 +233,15 @@ sen-to-zdrowie.ml
 serie-vostfr.com
 shrink-service.it
 sighash.info
+silimbompom.com
 sleazyneasy.com
 smartoffer.site
 sparechange.io
-stackpathdns.com
 static-cnt.bid
 staticsfs.host
 statistic.date
 sunhd.info
+synconnector.com
 techhome-js.github.io
 terethat.ru
 thathislitt.ru
@@ -245,11 +252,13 @@ thevideo.us
 toftofcal.com
 tokyodrift.ga
 torrent.pw
+traffic-optical-service.info
 traffic.tc-clicks.com
 tubetitties.com
 tulip18.com
 turnsocial.com
 turnsocial.now.sh
+unrummaged.com
 vcfs6ip5h6.bid
 veritrol.com
 verresof.com

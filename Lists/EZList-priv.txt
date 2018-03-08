@@ -95,6 +95,7 @@ adclickstats.net
 addfreestats.com
 addlvr.com
 adelixir.com
+adform.net
 adfox.ru
 adgreed.com
 adheart.de
@@ -117,6 +118,7 @@ adrizer.com
 adrta.com
 adsensedetective.com
 adspsp.com
+adswizz.com
 adsymptotic.com
 adtarget.me
 adtelligence.de
@@ -176,7 +178,6 @@ analoganalytics.com
 analysistools.net
 analytics-egain.com
 analytics-engine.net
-analytics.blue
 analyticschecker.com
 analyticswizard.com
 analytk.com
@@ -2261,6 +2262,7 @@ yieldbot.com
 yieldify.com
 yieldsoftware.com
 yjtag.jp
+ymetrica1.com
 youmetrix.co.uk
 your-counter.be
 youramigo.com
@@ -2295,6 +2297,7 @@ ztsrv.com
 .ga
 .gdn
 .gq
+.loan
 .men
 .ml
 .ovh
@@ -2343,6 +2346,7 @@ andlache.com
 api.inwemo.com
 aqqgli3vle.bid
 authedmine.com
+authedmine.eu
 averoconnector.com
 axoncoho.tk
 azvjudwr.info
@@ -2352,6 +2356,7 @@ befirstcdn.com
 berserkpl.net.pl
 bewaslac.com
 bewhoyouare.gq
+bhzejltg.info
 biberukalap.com
 bitclub.network
 bitclubnetwork.com
@@ -2395,7 +2400,6 @@ crypto-coins.com
 crypto-coins.info
 crypto-loot.com
 crypto-webminer.com
-crypto.csgocpu.com
 cryptobara.com
 cryptoloot.pro
 cryptomine.pro
@@ -2406,11 +2410,14 @@ depttake.ga
 devphp.org.ua
 didnkinrab.com
 dle-news.pw
+dogrose18.com
 dovinate.top
 dronml.ml
 duckdns.org
+dzizsih.ru
 easyhash.io
 etnhashpool.tk
+etzbnfuigipwvs.ru
 evengparme.com
 ewtuyytdf45.com
 fge9vbrzwt.bid
@@ -2418,7 +2425,9 @@ flare-analytics.com
 flophous.cf
 flu.cc
 freecontent.bid
+freecontent.loan
 freecontent.racing
+freecontent.win
 g-content.bid
 gasolina.ml
 giml.ml
@@ -2487,6 +2496,7 @@ minr.pw
 mmpool.org
 monerise.com
 monerominer.rocks
+moneromining.online
 moneroocean.stream
 moonsade.com
 morningdigit.com
@@ -2494,6 +2504,7 @@ mutuza.win
 nablabee.com
 nahnoji.cz
 nathetsof.com
+nddmcconmqsy.ru
 nebabrop.com
 nfwebminer.com
 niematego.tk
@@ -2512,8 +2523,11 @@ pool.hws.ru
 poolmining.eu
 poolmining.net
 ppoi.org
+pr0gram.org
 presjots.ga
 projectpoi.com
+pzoifaum.info
+realnetwrk.com
 reasedoper.pw
 refunevent.com
 rencohep.com
@@ -2526,6 +2540,7 @@ rintinwa.com
 rocks.io
 sbhmn-miner.com
 secumine.net
+silimbompom.com
 siteverification.online
 siteverification.site
 smectapop12.pl
@@ -2536,10 +2551,14 @@ staticsfs.host
 statistic.date
 subloader.cf
 supportxmr.com
+synconnector.com
+terethat.ru
 thatresha.com
 tokyodrift.ga
+tulip18.com
 ue696vbd9l.bid
 ukp2pool.uk
+unrummaged.com
 usa.cc
 vcfs6ip5h6.bid
 veerebbs.ml
@@ -2555,7 +2574,6 @@ webxmr.com
 whathyx.com
 willacrit.com
 witthethim.com
-wp-monero-miner.com
 wsp.marketgid.com
 wty46.com
 xbasfbno.info
