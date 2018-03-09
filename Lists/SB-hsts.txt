@@ -369,7 +369,7 @@ weconfirmyou.com
 #=====================================
 #               malwaredomainlist.com hosts list           #
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
-#         last updated: tue, 06 mar 18 23:06:48 +0000      #
+#         last updated: wed, 07 mar 18 15:29:21 +0000      #
 0koryu0.easter.ne.jp
 109-204-26-16.netconnexion.managedbroadband.co.uk
 1866809.securefastserver.com
@@ -468,7 +468,6 @@ borat.elticket.com.ar
 boschetto-hotel.gr
 bracbetul.com
 bracewellfamily.com
-bravetools.net
 bride1.com
 broadtech.co
 buffalogoesout.com
@@ -1121,7 +1120,6 @@ sunlux.net
 sunny99.cholerik.cz
 svetyivanrilski.com
 svision-online.de
-sweettalk.co
 sysconcalibration.com
 systemscheckusa.com
 szinhaz.hu
@@ -1348,7 +1346,6 @@ www.del-marine.com
 www.dezuiderwaard.nl
 www.doctor-alex.com
 www.donneuropa.it
-www.dowdenphotography.com
 www.downloaddirect.com
 www.drteachme.com
 www.eivamos.com
@@ -1652,7 +1649,7 @@ xyrjtq.misterjoy.ru
 # see below for acknowledgements.
 # please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
-# last updated: tue, 06 mar 2018 at 07:57:06 gmt
+# last updated: thu, 08 mar 2018 at 06:42:52 gmt
 # use this file to prevent your computer from connecting to selected
 # internet hosts. this is an easy and effective way to protect you from 
 # many types of spyware, reduces bandwidth use, blocks certain pop-up 
@@ -11318,6 +11315,7 @@ sayfabulunamadi.com
 s.baidu.com
 sb.freeskreen.com
 s.boom.ro
+sb.scorecardresearch.com
 sc1.admob.com
 sc9.admob.com
 scdown.qq.com
@@ -19914,7 +19912,6 @@ adv.all-free-download.com
 siterecruit.comscore.com
 oss-content.securestudies.com
 b.scorecardresearch.com
-sb.scorecardresearch.com
 www2.survey-poll.com
 # [comscore network][as3561][165.193.78.128 - 165.193.78.255]
 www.premieropinion.com
@@ -27738,7 +27735,7 @@ www.winaproduct.com
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    thu, 12 mar 1998 00:00:00
+# start date:    fri, 13 mar 1998 00:00:00
 101com.com
 101order.com
 123found.com
@@ -53110,9 +53107,6 @@ zrizvtrnpale.tk
 zrus.org
 zryydi.com
 zs2vm.top
-zscaler.net
-zscalerone.net
-zscalertwo.net
 zssdi.it
 zuigendesletten.nl
 zulmitv.xyz
@@ -57371,6 +57365,7 @@ www.domainfwd.com
 www.domainfwding.com
 www.dotzup.com
 www.dougmlee.com
+www.dowdenphotography.com
 www.downloads-whatsapp.com
 www.downloadupload.com
 www.downloadwarez.org
