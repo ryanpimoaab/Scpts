@@ -16463,6 +16463,7 @@ ads.adsready.com
 ads.adsrevenue.com
 ads.adtarget.me
 ads.adtegrity.net
+ads.adthrive.com
 ads.adtiger.de
 ads.adultfriendfinder.com
 ads.adultplex.com
@@ -23967,6 +23968,7 @@ content.bitsontherun.com
 content.complex.com
 content.cpxinteractive.com
 content.directadvert.ru
+content.jwplatform.com
 content.livesportmedia.eu
 content.liveuniverse.com
 content.pop6.com
@@ -35626,6 +35628,7 @@ ssl.clickbank.net
 ssl.google-analytics.com
 ssl.linksynergy.com
 ssl.luckyorange.com
+ssl.p.jwpcdn.com
 ssl.safepoollink.com
 ssl.webserviceaward.com
 ssl.xplosion.de
@@ -46429,4 +46432,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 46434
+# hosts: 46437

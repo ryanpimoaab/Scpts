@@ -3224,7 +3224,6 @@ api.qualtrics.com
 api.quantumgraph.com
 api.reachads.com
 api.recorder.duapps.com
-api.recsys.opera.com
 api.reporo.net
 api.revcontent.com
 api-rewarded-video.fyber.com
@@ -7974,9 +7973,7 @@ image5.pubmatic.com
 image6.pubmatic.com
 image7.pubmatic.com
 image.adsbing.com
-image.baidu.com
 imagecache.crowdynews.com
-image.i.360overseas.com
 image.pubmatic.com
 imagepusher01-ext.fwmrm.net
 imagepusher02-ext.fwmrm.net
@@ -7992,7 +7989,6 @@ images.kameleoon.com
 images.mopub.com
 images.mxpnl.com
 images-na.ssl-images-mi-sale.free-offer
-images.shazam.com
 images.skimresources.com
 images.startappservice.com
 images.taboola.com
@@ -8008,7 +8004,6 @@ imedia-d.openx.net
 imf.cnzz.com
 imf.org.102.112.2o7.net
 img-1.3lift.com
-img1.gadgetsnow.com
 img-2.3lift.com
 img2.imgtn.bdimg.com
 img-3.3lift.com
@@ -8026,9 +8021,6 @@ img.applovin.com
 img-cd.mmtcdn.com
 img-cdn.steepto.com
 img.cm.ksmobile.com
-imgd1.aeplcdn.com
-imgd2.aeplcdn.com
-imgd.aeplcdn.com
 img-dc2.adtech.de
 imgg1.mgid.com
 imgg-cdn.mgid.com
@@ -9283,8 +9275,6 @@ mindbodygreen-d.openx.net
 mindtank-d.openx.net
 mine.nahnoji.cz
 minexmr.pooldd.com
-mini5-7.opera-mini.net
-mini5.opera-mini.net
 minutemedia-d.openx.net
 mirrordigital-d.openx.net
 mis2.vserv.mobi
@@ -28658,3 +28648,12 @@ settings.data.microsoft.com
 settings-win-ppe.data.microsoft.com
 6261791.fls.doubleclick.net
 5118230.fls.doubleclick.net
+srv-2018-02-11-05.config.parsely.com
+srv-2018-02-11-05.pixel.parsely.com
+srv-2018-02-11-11.config.parsely.com
+srv-2018-02-11-11.pixel.parsely.com
+srv-2018-02-12-16.pixel.parsely.com
+srv-2018-02-13-18.config.parsely.com
+srv-2018-02-13-18.pixel.parsely.com
+srv-2018-03-01-13.config.parsely.com
+srv-2018-03-01-13.pixel.parsely.com

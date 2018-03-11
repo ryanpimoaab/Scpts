@@ -154,3 +154,5 @@ thevideo.*
 interestingz.pw
 onlinevideoconverter.com
 freecontent.*.
+datasecu.download
+jquery-cdn.download

@@ -1,6 +1,4 @@
 05p.com
-100ksearches.com
-17173.com
 51.net
 51115.com
 9p.cn
@@ -23,7 +21,6 @@ defenderguardext.com
 defenderinfoext.com
 easypic.com
 elephantlist.com
-emptyitfs.com
 encrypt541-info.ml
 femalesex.com
 ffantivir.com
@@ -44,7 +41,6 @@ helpertoolext.com
 hlatomer.net
 homepage.emachines.com
 homepagle.com
-iblockpopups.com
 infoguardedext.com
 infoguardedff.com
 infohelperext.com
@@ -58,19 +54,15 @@ liflingren.info
 lycos.com.org
 meetyourmessenger.co.uk
 microsoft.com.org
-moobor.com
 naked.com
 notice-85xi5.stream
 orgy.com
 pcspeedbooster.com
 planetinformatweb6.club
-plunderthesecurity.in
 polgrand.net
-poser-magic.de
 protecterext.com
 protecttoolext.com
 psn.cn
-qqwz.com
 qu123.com
 quickquacksearch.com
 raunchy.com
@@ -105,7 +97,6 @@ uptoolext.com
 webdefenderext.com
 windows.microsoft.com.msf-help.info
 www.05p.com
-www.100ksearches.com
 www.5uck.cf
 www.adblockerext.com
 www.adblockext.com
@@ -162,6 +153,7 @@ www.sitesure.com
 www.smouch.net
 www.spidtest.org
 www.sweet-page.com
+www.thereadysystemscontentsafeprepared.bid
 www.toolcheckerext.com
 www.toolupdatext.com
 www.transport-preservers.com
@@ -179,4 +171,4 @@ www.www4search.net
 www4search.net
 youngteenporn.proboards89.com
 yyue.com
-# hosts: 181
+# hosts: 173
