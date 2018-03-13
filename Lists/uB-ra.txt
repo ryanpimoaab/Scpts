@@ -156,3 +156,5 @@ onlinevideoconverter.com
 freecontent.*.
 datasecu.download
 jquery-cdn.download
+bigspeeds.com
+gustaver.ddns.net
