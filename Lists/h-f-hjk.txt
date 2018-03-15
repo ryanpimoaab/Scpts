@@ -96,9 +96,9 @@ uploadercheckerext.com
 uploadertoolext.com
 uptoolext.com
 webdefenderext.com
+webdesignmissionviejo.com
 windows.microsoft.com.msf-help.info
 www.05p.com
-www.5uck.cf
 www.adblockerext.com
 www.adblockext.com
 www.adblocktoolext.com
@@ -110,11 +110,9 @@ www.checkvirusext.com
 www.defenderff.com
 www.defenderguardext.com
 www.defenderinfoext.com
-www.emptyitfs.com
 www.femalesex.com
 www.ffantivir.com
 www.ffdefend.com
-www.ffupdaterstatus.com
 www.find.fm
 www.freetube.com
 www.getupdateff.com
@@ -172,4 +170,4 @@ www.www4search.net
 www4search.net
 youngteenporn.proboards89.com
 yyue.com
-# hosts: 174
+# hosts: 172

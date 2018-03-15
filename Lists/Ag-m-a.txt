@@ -2,6 +2,7 @@ banners-slb.mobile.yandex.net
 banners.mobile.yandex.net
 coinhive.com
 coin-hive.com
+mblapi.ssl2.duapps.com
 api.mobula.ds.duapps.com
 noxagile.duapp.com
 common.duapps.com
@@ -24,6 +25,7 @@ plugin.mobopay.baidu.com
 mo.freeindoapp.com
 recreativ.ru
 hqsjc.com
+adbetnet.advertserve.com
 chartboosts.com
 mobpowertech.com
 ap.smardroid.com
@@ -867,6 +869,9 @@ youtube.com
 mobimagic.com
 turner.com
 images-*.ssl-images-amazon.com
+zaytung.com
+cdn.mob-api.net
+rad.mob-api.net
 61saat.com
 giga.de
 andro-news.com
@@ -932,6 +937,9 @@ ymcdn.ymtrack6.co
 static.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+behacdn.ksmobile.net
+cmdts.ksmobile.com
+p-behacdn.ksmobile.net
 api.ambelbet.com
 m.yap.yahoo.com
 mobi.yanosik.pl:8080
@@ -1081,7 +1089,6 @@ resolver.gslb.mi-idc.com
 o2o.api.xiaomi.com
 auth.be.sec.miui.com
 thm.market.xiaomi.com
-behacdn.ksmobile.net
 geoip.ifunny.co
 alogs.umeng.com
 alogs.umengcloud.com
