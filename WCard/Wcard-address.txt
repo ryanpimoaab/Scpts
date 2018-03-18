@@ -236,7 +236,6 @@ address=/smartlook.com
 address=/snapads.com
 address=/sociomantic.com
 address=/soflopxl.com
-address=/solvemedia.com
 address=/spot.im
 address=/springer.com
 address=/springserve.com

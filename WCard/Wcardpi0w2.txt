@@ -236,7 +236,6 @@ address=/smartlook.com/192.168.1.79
 address=/snapads.com/192.168.1.79
 address=/sociomantic.com/192.168.1.79
 address=/soflopxl.com/192.168.1.79
-address=/solvemedia.com/192.168.1.79
 address=/spot.im/192.168.1.79
 address=/springer.com/192.168.1.79
 address=/springserve.com/192.168.1.79
