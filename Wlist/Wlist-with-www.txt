@@ -15,6 +15,7 @@ www.alt5-mtalk.google.com
 www.alt6-mtalk.google.com
 www.alt7-mtalk.google.com
 www.alt8-mtalk.google.com
+www.analytics.faw.sky.com
 www.analytics.twitter.com
 www.android.clients.google.com
 www.android.googleapis.com
@@ -179,6 +180,7 @@ www.maps.googleapis.com
 www.meta-db-worker02.pop.ric.plex.bz
 www.meta.plex.bz
 www.meta.plex.tv
+www.metrics.sky.com
 www.mirror.cedia.org.ec
 www.mirror1.malwaredomains.com
 www.mobiledataplan-pa.googleapis.com

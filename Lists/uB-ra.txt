@@ -108,6 +108,7 @@ static-net.nut.cc
 static-02.flu.cc
 cdn.static-cnt.bid
 web.dle-news.pw
+vidzi.si
 cryptobara.com
 myfeed4u.net
 reservedoffers.club

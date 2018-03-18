@@ -522,3 +522,5 @@ widgetdata.tradingview.com
 facebook.com
 browser-update.org
 tags.tiqcdn.com
+metrics.sky.com
+analytics.faw.sky.com

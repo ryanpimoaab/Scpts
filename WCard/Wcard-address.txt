@@ -187,7 +187,6 @@ address=/o5o4o6.com
 address=/oceanbys.com
 address=/offersdelivery.com
 address=/olivesoftware.com
-address=/omtrdc.net
 address=/onelink.me
 address=/onesignal.com
 address=/onscroll.com

@@ -25,6 +25,9 @@ plugin.mobopay.baidu.com
 mo.freeindoapp.com
 recreativ.ru
 hqsjc.com
+adsmogo.net
+adsmogo.org
+adsmogo.mobi
 adbetnet.advertserve.com
 chartboosts.com
 mobpowertech.com
@@ -1005,6 +1008,7 @@ eviltracker.net
 spotify.com
 trackersimulator.org
 app.adjust.com
+m.vpadn.com
 parse-ppom-prod.herokuapp.com
 api.instabug.com
 sts.batmobi.net

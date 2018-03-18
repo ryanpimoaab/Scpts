@@ -28728,3 +28728,5 @@ soma-transition.smaato.net
 soma-us-east-1.smaato.net
 soma-useast.smaato.net
 spx.smaato.net
+6482510.fls.doubleclick.net
+8316694.fls.doubleclick.net

@@ -187,7 +187,6 @@ address=/o5o4o6.com/192.168.1.80
 address=/oceanbys.com/192.168.1.80
 address=/offersdelivery.com/192.168.1.80
 address=/olivesoftware.com/192.168.1.80
-address=/omtrdc.net/192.168.1.80
 address=/onelink.me/192.168.1.80
 address=/onesignal.com/192.168.1.80
 address=/onscroll.com/192.168.1.80

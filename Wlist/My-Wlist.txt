@@ -15,6 +15,7 @@ alt5-mtalk.google.com
 alt6-mtalk.google.com
 alt7-mtalk.google.com
 alt8-mtalk.google.com
+analytics.faw.sky.com
 analytics.twitter.com
 android.clients.google.com
 android.googleapis.com
@@ -179,6 +180,7 @@ maps.googleapis.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 meta.plex.tv
+metrics.sky.com
 mirror.cedia.org.ec
 mirror1.malwaredomains.com
 mobiledataplan-pa.googleapis.com
@@ -327,6 +329,7 @@ www.alt5-mtalk.google.com
 www.alt6-mtalk.google.com
 www.alt7-mtalk.google.com
 www.alt8-mtalk.google.com
+www.analytics.faw.sky.com
 www.analytics.twitter.com
 www.android.clients.google.com
 www.android.googleapis.com
@@ -491,6 +494,7 @@ www.maps.googleapis.com
 www.meta-db-worker02.pop.ric.plex.bz
 www.meta.plex.bz
 www.meta.plex.tv
+www.metrics.sky.com
 www.mirror.cedia.org.ec
 www.mirror1.malwaredomains.com
 www.mobiledataplan-pa.googleapis.com
