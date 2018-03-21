@@ -394,5 +394,13 @@ www.us-east1.serve.elixmedia.com
 xml.plaimedia.com
 zamora.axiatraders.com
 ads.proc.cc
+15.taboola.com
+convlatbmp.taboola.com
+imprlatbmp.taboola.com
+match.taboola.com
+opps.taboola.com
+aboola-d.openx.net
+vidutils.taboola.com
+wf.taboola.com
 angiemktg.com
 weconfirmyou.com
