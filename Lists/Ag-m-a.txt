@@ -948,6 +948,7 @@ ymcdn.ymtrack6.co
 static.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+varravgames.com
 behacdn.ksmobile.net
 cmdts.ksmobile.com
 p-behacdn.ksmobile.net
