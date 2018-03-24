@@ -25,6 +25,9 @@ plugin.mobopay.baidu.com
 mo.freeindoapp.com
 recreativ.ru
 hqsjc.com
+agent.tamedia.com.tw
+www.adbert.com.tw
+tw.api.vpon.com
 sdk.adtiming.com
 adsmogo.net
 adsmogo.org
@@ -873,6 +876,10 @@ youtube.com
 mobimagic.com
 turner.com
 images-*.ssl-images-amazon.com
+m.nihaogood.com
+ddreminder.appspot.com
+twrailpolice.appspot.com
+54.169.80.245
 zaytung.com
 cdn.mob-api.net
 rad.mob-api.net
@@ -1009,6 +1016,8 @@ eviltracker.net
 spotify.com
 trackersimulator.org
 app.adjust.com
+alog.umeng.co
+oc.umeng.co
 m.vpadn.com
 parse-ppom-prod.herokuapp.com
 api.instabug.com
@@ -1264,7 +1273,6 @@ yadro.ru
 yikyakapi.net
 ymtracking.com
 zdbb.net
-alog.umeng.co
 localytics.com
 upoll.umengcloud.com
 utop.umengcloud.com

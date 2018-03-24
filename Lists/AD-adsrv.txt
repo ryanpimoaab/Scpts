@@ -3233,7 +3233,6 @@ api-s2s-apac.taboola.com
 api-s2s-emea.taboola.com
 api-s2s.taboola.com
 api.safegraph.com
-api.salemove.com
 api.sec.miui.com
 api.segment.io
 api.selfserve.rubiconproject.com
@@ -3263,9 +3262,9 @@ apiv3.moengage.com
 api.vanilla.futurecdn.net
 api.videoder.net
 api.videometrics.ted.com
+20774675p.rfihub.com
 api.viglink.com
 api-visit.kameleoon.com
-api.weather.comapps.itunes.combs.serving-sys.comcdn.taboola.comcdn2.teads.tv
 api.w.inmobi.com
 api.wp.haokan.mobi
 api.wsq.umeng.com
@@ -16173,7 +16172,6 @@ cdn.fancybar.net
 cdn.buysellads.com
 cdn.static.zdbb.net
 content.adriver.ru
-delivery.vidible.tv
 imgg-cdn.adskeeper.co.uk
 jsc.adskeeper.co.uk
 load.sumome.com
@@ -18647,7 +18645,6 @@ beon.vidible.tv
 bsf.vidible.tv
 bsf-stage.vidible.tv
 captions.vidible.tv
-cdn.vidible.tv
 cdn-ssi.vidible.tv
 cdn-ycs.vidible.tv
 cdn2.vidible.tv
@@ -18657,7 +18654,6 @@ cns.vidible.tv
 exchange.commercialize.vidible.tv
 common.vidible.tv
 static.decalgirl.comtrk.vidible.tv
-pc.googlesyndication.comtps30.doubleverify.comtrk.vidible.tv
 ps30.doubleverify.comtrk.vidible.tv
 ools.google.comtrk.vidible.tv
 ranslate.google.comtrk.vidible.tv
@@ -18823,8 +18819,6 @@ rk-vpc-us-east-1-a.vidible.tv
 rk-vpc-us-east-1-b.vidible.tv
 rk-vpc-us-west-1-a.vidible.tv
 rk-vpc-us-west-1-b.vidible.tv
-cdn-ssl.vidible.tvcdn-ssl.vidible.tv
-delivery.vidible.tvdelivery.vidible.tv
 rk.vidible.tvtrk.vidible.tv
 acds.prod.us-east-1.vidible.tv
 acds-b.prod.us-east-1.vidible.tv
@@ -18833,7 +18827,6 @@ rk-a.prod.us-east-1.vidible.tv
 uspstudios.vidible.tv
 vcdelivery.vidible.tv
 vdm-apiservice.vidible.tv
-videos.vidible.tv
 videos2.vidible.tv
 vidibledemo.vidible.tv
 vss.vidible.tv

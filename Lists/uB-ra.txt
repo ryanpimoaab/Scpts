@@ -159,3 +159,4 @@ datasecu.download
 jquery-cdn.download
 bigspeeds.com
 gustaver.ddns.net
+cryptaloot.pro

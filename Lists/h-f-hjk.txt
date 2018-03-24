@@ -13,6 +13,7 @@ checkertoolext.com
 checkupdaterext.com
 checkvirusext.com
 click.xmlmonetize.com
+comptugnaw.mobi
 core.insightexpressai.com
 curationservices.com
 datanotary.com
@@ -70,6 +71,7 @@ quickquacksearch.com
 raunchy.com
 ruserv.com
 saveprotecterext.com
+schoolrun.zone
 search.myidentitydefender.com
 search.ruserv.com
 searchdf.biz
@@ -81,6 +83,7 @@ securityext.com
 serch-direct.com
 sitesure.com
 smouch.net
+spiderjump.site
 spidtest.org
 spyass.com
 sweet-page.com
@@ -108,6 +111,7 @@ www.apiurl.org
 www.checkertoolext.com
 www.checkupdaterext.com
 www.checkvirusext.com
+www.comptugnaw.mobi
 www.defenderff.com
 www.defenderguardext.com
 www.defenderinfoext.com
@@ -166,4 +170,4 @@ www.webdefenderext.com
 www.www4search.net
 www4search.net
 youngteenporn.proboards89.com
-# hosts: 168
+# hosts: 172
