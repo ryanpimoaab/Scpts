@@ -1,6 +1,5 @@
 www.0.docs.google.com
 www.2.android.pool.ntp.org
-www.604fc.v.fwmrm.net
 www.accounts.google.com
 www.adaway.org
 www.adf.ly

@@ -110,7 +110,6 @@ address=/exosrv.com
 address=/firebaseio.com
 address=/flurry.com
 address=/fullstory.com
-address=/fwmrm.net
 address=/fyber.com
 address=/geenapptrack.com
 address=/getsitecontrol.com

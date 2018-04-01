@@ -1,6 +1,5 @@
 0.docs.google.com
 2.android.pool.ntp.org
-604fc.v.fwmrm.net
 accounts.google.com
 adaway.org
 adf.ly
@@ -315,7 +314,6 @@ ytimg.com
 zeustracker.abuse.ch
 www.0.docs.google.com
 www.2.android.pool.ntp.org
-www.604fc.v.fwmrm.net
 www.accounts.google.com
 www.adaway.org
 www.adf.ly
