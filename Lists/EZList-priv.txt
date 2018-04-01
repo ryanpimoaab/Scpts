@@ -2304,6 +2304,7 @@ ztsrv.com
 .ga
 .gdn
 .gq
+.host
 .loan
 .men
 .ml
@@ -2615,6 +2616,7 @@ witthethim.com
 wsp.marketgid.com
 wty46.com
 xbasfbno.info
+xfast.host
 xmrpool.net
 yuebofa.cc
 ywtjdckysve.com
