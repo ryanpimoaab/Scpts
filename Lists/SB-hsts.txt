@@ -379,7 +379,7 @@ weconfirmyou.com
 #=====================================
 #               malwaredomainlist.com hosts list           #
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
-#         last updated: wed, 07 mar 18 15:29:21 +0000      #
+#         last updated: fri, 30 mar 18 12:00:07 +0000      #
 0koryu0.easter.ne.jp
 109-204-26-16.netconnexion.managedbroadband.co.uk
 1866809.securefastserver.com
@@ -713,7 +713,6 @@ iybasketball.info
 izzy-cars.nl
 japanesevehicles.us
 jdfabrication.com
-jeanlesigne.com
 jeansvixens.com
 jessisjewels.com
 josip-stadler.org
@@ -745,7 +744,6 @@ kyrsu.frost-electric-supply.com
 landisbaptist.com
 lay.elticket.com.ar
 lcbcad.co.uk
-leagleconsulting.com
 lefos.net
 legendsdtv.com
 lexu.goggendorf.at
@@ -774,7 +772,6 @@ luggagecast.com
 luggagepreview.com
 lunaticjazz.com
 luwyou.com
-lydwood.co.uk
 m2132.ehgaugysd.net
 mahindrainsurance.com
 mailboto.com
@@ -985,7 +982,6 @@ scaner-tgame.tk
 scanty.colormark.cl
 scdsfdfgdr12.tk
 scream.garudamp3.com
-sdg-translations.com
 securitywebservices.com
 seet10.jino.ru
 semengineers.com
@@ -1158,7 +1154,6 @@ hewinesteward.com
 imothycopus.aimoo.com
 iton.info
 k-gregoric.si
-oddscarwash.com
 omalinoalambres.com.ar
 ophostbg.net
 raff1.com
@@ -1460,7 +1455,6 @@ www.sieltre.it
 www.sitepalace.com
 www.sj88.com
 www.slivki.com.ua
-www.smartgvcfunding.com
 www.smartscan.ro
 www.sonnoli.com
 www.spris.com
@@ -1523,9 +1517,6 @@ zkic.com
 zous.szm.sk
 zt.tim-taxi.com
 zyrdu.cruisingsmallship.com
-### extra rules for @stevenblack 's hosts project 
-### https://github.com/fademind/hosts.extras
-### dead sites based on http://www.hostsfile.org/hosts.html content.
 analytic-google.com
 blacksnake.com
 europcareer.com
@@ -1547,9 +1538,6 @@ www.iphonegames3g.com
 www.jmp2click.com
 www.microsoft-update.name
 wwwfacebook.com
-### spam sites based on http://www.hostsfile.org/hosts.html content.
-# file generated with https://github.com/funilrys/pyfunceble
-# date of generation: mon 12 feb 14:02:56 utc 2018 
 100.1qingdao.com
 7minuteworkout.com
 addshoppers.com
@@ -1659,7 +1647,7 @@ xyrjtq.misterjoy.ru
 # see below for acknowledgements.
 # please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
-# last updated: thu, 22 mar 2018 at 08:13:33 gmt
+# last updated: thu, 29 mar 2018 at 04:49:25 gmt
 # use this file to prevent your computer from connecting to selected
 # internet hosts. this is an easy and effective way to protect you from 
 # many types of spyware, reduces bandwidth use, blocks certain pop-up 
@@ -2009,6 +1997,7 @@ analytics.msnbc.msn.com
 analytics.prx.org
 a-nj.1rx.io
 anm.intelli-direct.com
+an.mlb.com
 anonymousdemographics.com
 ant.conversive.nl
 antivirus-message.com
@@ -2474,7 +2463,6 @@ gbr-mbww-tracking.adalyser.com
 gbr-smv-tracking.adalyser.com
 gbr-tbh-tracking.adalyser.com
 gcounter.hosting4u.net
-gd.mlb.com
 geocounter.net
 gj.mmstat.com
 gkkzngresullts.com
@@ -2819,6 +2807,7 @@ s28.sitemeter.com
 s290.mxcdn.net
 s29.sitemeter.com
 s2.statcounter.com
+s2trade.mtxcapital.com
 s2.youtube.com
 s30.sitemeter.com
 s31.sitemeter.com
@@ -3055,6 +3044,7 @@ st.sageanalyst.net
 sugoicounter.com
 superstats.com
 sync.bfmio.com
+sync.clickonometrics.pl
 s.youtube.com
 systweak.com
 #0.0.0.0 t2.hulu.com		# uncomment to block hulu.
@@ -3158,6 +3148,7 @@ racking.eforceworld.com
 racking.engagedigitalmedia.com
 racking.experience.com
 racking.fanbridge.com
+racking-financial-review.net
 racking.fitprosperity.net
 racking.foxnews.com
 racking.gajmp.com
@@ -3548,6 +3539,7 @@ www.marketscore.com
 www.megacounter.de
 www.metareward.com
 www.mmstat.com
+www.mnbasd77.com
 www.mpsnare.iesnare.com
 www.mpsnare.iesnare.co.uk
 www.naturalgrowthstore.biz
@@ -3585,6 +3577,7 @@ www.the-counter.net
 www.toolbarcounter.com
 www.tradedoubler.com
 www.tradedoubler.com.ar
+www.tradingtactics.win
 www.trafficmagnet.net
 www.trafic.ro
 www.trendcounter.com
@@ -3714,6 +3707,7 @@ bopstermedia56.com
 brightonclick.com
 br.phorm.com
 brunga.at
+btlsurvey.com
 bt.phorm.com
 bt.webwise.com
 bt.webwise.net
@@ -4039,6 +4033,7 @@ nextbestgame.org
 no1.unternehemen.com
 no3.unternehmen.org
 novemberrainx.com
+nowgetsoft.pushingnewforcontentsafeload.download
 nowinstallupgrade.goodcentralupdatesall.bid
 ns1.2911.net
 ns1.multi.net.pk
@@ -4266,6 +4261,7 @@ anieaukcje.com
 aniezakupy.pl
 attooshaha.info
 axi-petr.by
+eamdzsn.beget.tech
 ech9638514.ru
 echnicalconsumerreports.com
 echnology-revealed.com
@@ -4315,6 +4311,7 @@ utenti.lycos.it
 vast.btrll.com
 vcipo.info
 venturead.com
+versionsupport.thebig-centeralplacecontentgreat.date
 videoamp.com
 videos.dskjkiuw.com
 videos.twitter.secure-logins01.com
@@ -4546,6 +4543,7 @@ ad.ve.doubleclick.net
 ad-yt-bfp.doubleclick.net
 ad.za.doubleclick.net
 amn.doubleclick.net
+cm.g.doubleclick.net
 creative.cc-dt.com
 doubleclick.com
 doubleclick.de
@@ -8514,6 +8512,7 @@ brokertraffic.com
 browserbreckalarm.info
 browserprotecter.com
 browsesafemac.com
+brxfinance.com
 bsads.looksmart.com
 #0.0.0.0 b.scorecardresearch.com	# interferes with huffington post slideshows
 bs.israelinfo.ru
@@ -9059,6 +9058,7 @@ d1.zedo.com
 d2.zedo.com
 d3.zedo.com
 d4.zedo.com
+d5p.de17a.com
 d5.zedo.com
 d6.c5.b0.a2.top.mail.ru
 d6.zedo.com
@@ -9586,6 +9586,7 @@ gimg.baidu.com
 gimmethatreward.com
 gingert.net
 giu9aab.bid
+glenm.mtxcapital.com
 global.msmtrakk03a.com
 globalnetworkanalys.com
 global-promotions.internationalredirects.com
@@ -9605,6 +9606,7 @@ go.arbopl.bbelements.com
 go.arboru.bbelements.com
 goautofinance.com
 go.bb007.bbelements.com
+go.conversionmasters.com
 go.cz.bbelements.com
 go.data1rtb.com
 go.eu.bbelements.com
@@ -10258,6 +10260,7 @@ match.ads.betweendigital.com
 match.adsrvr.org
 matomy.adk2.co
 matrix.mediavantage.de
+ma.wp.pl
 maxadserver.corusradionetwork.com
 maxads.ruralpress.com
 maxbounty.com
@@ -11481,6 +11484,7 @@ servserv.generals.ea.com
 serv.tooplay.com
 setupdate24.updateworkfreshandnew.space
 setupdate24.updateworkfreshandnew.website
+setupnow.amazinglysafeistallsforeveryonethisweek.review
 sex-now5.com
 sexpartnerx.com
 sex-sex-sex5.com
@@ -12023,6 +12027,7 @@ woj-macbook.pl
 wojszczesliwydzien.com
 woj-typ.pl
 woj-voucher.com
+z284.com
 u85foldero.com
 ua2.admixer.net
 uac.advertising.com
@@ -13481,6 +13486,7 @@ z-na.amazon-adsystem.com
 zu1.november-lax.com
 zuzzer5.com
 zytpirwai.net
+zzzrtrcm2.com
 # https://securehomes.esat.kuleuven.be/~gacar/persistent/index.html
 admicro1.vcmedia.vn
 ct1.addthis.com
@@ -20982,7 +20988,6 @@ gae.caspion.com
 ad-ace.doubleclick.net
 ad.bg.doubleclick.net
 bid.g.doubleclick.net
-cm.g.doubleclick.net
 4360661.fls.doubleclick.net
 4488352.fls.doubleclick.net
 4684100.fls.doubleclick.net
@@ -24017,7 +24022,6 @@ metrics.mcafee.com
 racking.medpagetoday.com
 metrics.mercola.com
 report.mitsubishicars.com
-an.mlb.com
 metric.modcloth.com
 metrics.moneymart.ca
 metrics.more.com
@@ -27759,14 +27763,14 @@ www.winaproduct.com
 # ad server list for use with hosts files to block ads
 # for more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   sat, 24 mar 2018 14:06:14 gmt
-# entries:        2618
+# last updated:   thu, 29 mar 2018 08:49:56 gmt
+# entries:        2647
 # format:         hosts (hosts -- in hosts file format)
 # credits:        peter lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    sun, 29 mar 1998 00:00:00
+# start date:    sat, 04 apr 1998 00:00:00
 101com.com
 101order.com
 123found.com
@@ -27780,6 +27784,7 @@ www.winaproduct.com
 24log.de
 24pm-affiliation.com
 2mdn.net
+33across.com
 360yield.com
 3lift.com
 4affiliate.net
@@ -27869,6 +27874,8 @@ ad2flash.com
 ad3.iinfo.cz
 ad3.pamedia.com.au
 ad3.xrea.com
+ad4mat.com
+ad4mat.net
 adaction.de
 adapt.tv
 adboost.de.vu
@@ -27882,7 +27889,6 @@ adbutler.com
 adbuyer.com
 adbuyer3.lycos.com
 adcell.de
-adcenter.mdf.se
 adcenter.net
 adcept.net
 adclick.com
@@ -28055,6 +28061,7 @@ ads.planet.nl
 ads.powweb.com
 ads.primissima.it
 ads.printscr.com
+ads.programattik.com
 ads.psd2html.com
 ads.pushplay.com
 ads.quoka.de
@@ -28067,6 +28074,7 @@ ads.silverdisc.co.uk
 ads.slim.com
 ads.t-online.de
 ads.themovienation.com
+ads.thrillsaffiliates.com
 ads.totallyfreestuff.com
 ads.tripod.lycos.it
 ads.tripod.lycos.nl
@@ -28125,6 +28133,7 @@ adserver01.de
 adserver1.mindshare.de
 adserver2.mindshare.de
 adserverplus.com
+adserverpub.com
 adservinginternational.com
 adside.com
 adsk2.co
@@ -28205,6 +28214,7 @@ adzerk.s3.amazonaws.com
 adzones.com
 af-ad.co.uk
 affbuzzads.com
+affec.tv
 affili.net
 affiliate.1800flowers.com
 affiliate.doubleyourdating.com
@@ -28257,6 +28267,7 @@ api.intensifier.de
 app.adblockhyper.us
 app.pendo.io
 appsflyer.com
+aps.hearstnp.com
 apture.com
 apusx.com
 arc1.msn.com
@@ -28429,7 +28440,6 @@ cjbmanagement.com
 cjlog.com
 claria.com
 class-act-clicks.com
-clearbit.com
 click.absoluteagency.com
 click.fool.com
 click2freemoney.com
@@ -28554,6 +28564,7 @@ domainsteam.de
 doubtfulrainstorm.com
 dragzebra.com
 drumcash.com
+dsp.io
 dyntrk.com
 e-adimages.scrippsnetworks.com
 e-bannerx.com
@@ -28568,6 +28579,7 @@ ebuzzing.com
 ecircle-ag.com
 eclick.vn
 ecoupons.com
+edaa.eu
 edgeio.com
 effectivemeasure.com
 effectivemeasure.net
@@ -28579,6 +28591,7 @@ elthamely.com
 emarketer.com
 emediate.dk
 emediate.eu
+emerse.com
 enginenetwork.com
 enlarget.com
 enquisite.com
@@ -28769,6 +28782,8 @@ inspectlet.com
 inspectorclick.com
 instantmadness.com
 instinctiveads.com
+intentmedia.com
+intentmedia.net
 interactive.forthnet.gr
 intergi.com
 internetfuel.com
@@ -28814,6 +28829,7 @@ lbn.ru
 leadboltads.net
 leadclick.com
 leadingedgecash.com
+leadplace.fr
 leadzupc.com
 levelrate.de
 lfstmedia.com
@@ -28918,6 +28934,7 @@ mocean.mobi
 moggattice.com
 moneyexpert.com
 monsterpops.com
+mookie1.com
 mopub.com
 mousestats.com
 mowfruit.com
@@ -28932,6 +28949,7 @@ myaffiliateprogram.com
 mybloglog.com
 mybuys.com
 mycounter.ua
+mydas.mobi
 mymoneymakingapp.com
 mypagerank.net
 mypagerank.ru
@@ -29112,6 +29130,7 @@ pub.club-internet.fr
 pub.hardware.fr
 pub.realmedia.fr
 publicidad.elmundo.es
+publicidees.com
 pubmatic.com
 pushcrew.com
 pushengage.com
@@ -29178,6 +29197,7 @@ rlcdn.com
 rle.ru
 roar.com
 robotreplay.com
+rockabox.co
 rok.com.com
 rose.ixbt.com
 rotabanner.com
@@ -29247,6 +29267,7 @@ slopeaota.com
 smart.brvaffs.com
 smart4ads.com
 smartlook.com
+smetrics.ctv.ca
 smetrics.walgreens.com
 smowtion.com
 snakesort.com
@@ -29341,10 +29362,12 @@ ealeaf.com
 echclicks.net
 eenrevenue.com
 eliad.de
+emelio.com
 erribleturkey.com
 extads.biz
 extlinks.com
 fag.de
+headex.com
 headhost.com
 hebugs.ws
 herapistla.com
@@ -29353,6 +29376,7 @@ hirdrespect.com
 hrnt.com
 hroattrees.com
 ia.timeinc.net
+idaltv.com
 inybar.com
 izers.net
 lvmedia.com
@@ -29428,14 +29452,17 @@ ruehits.net
 ruehits2.gits.net.th
 syndicate.com
 ubemogul.com
+urboadv.com
 vmtracker.com
 wittad.com
+wyn.com
 yroo.com
 uarating.com
 ukbanners.com
 ultimateclixx.com
 ultramercial.com
 unarmedindustry.com
+undertone.com
 unknowntray.com
 unrulymedia.com
 untd.com
@@ -29471,6 +29498,7 @@ visitbox.de
 visitpath.com
 visual-pagerank.fr
 visualrevenue.com
+vmmpxl.com
 voicefive.com
 voicevegetable.com
 vpon.com
@@ -29518,6 +29546,7 @@ woopra.com
 worldwide-cash.net
 wpnrtnmrewunrtok.xyz
 ws-gateway.com
+wt-eu02.net
 wtlive.com
 www-banner.chat.ru
 www-google-analytics.l.google.com
@@ -53177,7 +53206,8 @@ zzsyw.com
 # contribute: https://github.com/zerodot1/coinblockerlists/issues/new
 # description: this list disables browser based miners such as coin-hive
 # donate: if you like the coinblockerlists please support me, https://goo.gl/rropcu every donation helps me to continue the work on the coinblockerlists.
-# last modified: 21 03 2018 22:39
+# homepage: https://github.com/zerodot1/coinblockerlists
+# last modified: 27 03 2018 04:41
 # [coinblocker hosts list browser by zerodot1]
 0aqpqdju.me
 0x1f4b0.com
@@ -53210,6 +53240,18 @@ a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
 aba.ae
 abc.pema.cl
+ablen01.tk
+ablen02.tk
+ablen03.tk
+ablen04.tk
+ablen05.tk
+ablen06.tk
+ablen07.tk
+ablen08.tk
+ablen09.tk
+ablen10.tk
+ablen11.tk
+ablen12.tk
 adbtc.top
 adfreetv.ch
 adless.io
@@ -53218,6 +53260,18 @@ adminer.com
 adrenali.gq
 adzjzewsma.cf
 aeon.hashvault.pro
+aeros01.tk
+aeros02.tk
+aeros03.tk
+aeros04.tk
+aeros05.tk
+aeros06.tk
+aeros07.tk
+aeros08.tk
+aeros09.tk
+aeros10.tk
+aeros11.tk
+aeros12.tk
 afflow.18-plus.net
 afminer.com
 ait7ee.win
@@ -53243,6 +53297,7 @@ api.360caa42.space
 api.370cabd5.space
 api.3c0cb3b4.space
 api.3d0cb547.space
+api.aalbbh84.info
 api.aeon.hashvault.pro
 api.bhzejltg.info
 api.coinerra.com
@@ -53287,9 +53342,11 @@ averoconnector.com
 avualrhg9p.bid
 avualrhg9p0.bid
 axoncoho.tk
+aymcsx.ru
 b.proxy4.nullrefexcep.com
 bablace.com
 back4.2giga.link
+bauersagtnein.myeffect.net
 bcn.cpufan.club
 becanium.com
 befirstcdn.com
@@ -53327,6 +53384,7 @@ capodannoinversilia.com
 captain.noblock.pro
 captchas.freebitco.in
 carrel.services
+carry.myeffect.net
 cdjs.online
 cdn-analytics.pl
 cdn-code.host
@@ -53525,6 +53583,7 @@ frankfurt-1.xmrpool.net
 frankfurt01.monero.hashvault.pro
 freebitco.in
 freecontent.com
+freecontent.date
 freecontent.info
 freecontent.loan
 freecontent.net
@@ -53540,6 +53599,7 @@ futeboltv.com
 fxnow.ru
 g-content.bid
 gasolina.ml
+gate.hws.ru
 get.webxmr.com
 getcryptotab.com
 global.crypto.csgocpu.com
@@ -53597,6 +53657,7 @@ itns.cpufan.club
 itsmyturn.nablabee.com
 jasmine.noblock.pro
 jhondi33.duckdns.org
+jqcdn.download
 jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
@@ -53682,6 +53743,14 @@ mining.best
 mining.freebitco.in
 minr.browsermine.com
 minr.nullrefexcep.com
+miscws002.coinhive.com
+miscws005.coinhive.com
+miscws009.coinhive.com
+miscws013.coinhive.com
+miscws016.coinhive.com
+miscws018.coinhive.com
+miscws027.coinhive.com
+miscws029.coinhive.com
 mjija.github.io
 mmpool.org
 monad.network
@@ -53739,6 +53808,7 @@ norespar.ru
 novaminers.tk
 npcdn1.now.sh
 npdaqy6x1j.me
+ns.hws.ru
 ns1.mutuza.win
 ns2.cryptosearch.site
 ns2.cryptotab.net
@@ -53829,6 +53899,7 @@ rapidvideo.com
 ratingtoplist.com
 realnetwrk.com
 reasedoper.pw
+red-js.github.io
 refresh-js.bitbucket.io
 refunevent.com
 rencohep.com
@@ -53863,6 +53934,7 @@ salamaleyum.com
 sass.cryptaloot.pro
 sass.webmine.pro
 sbhmn-miner.com
+scaleway.ovh
 sea.cryptaloot.pro
 sea.cryptoloot.pro
 sea.webmine.pro
@@ -53932,6 +54004,7 @@ supportxmr.com
 swanson.ron.si
 sxcdn02.now.sh
 sxcdn1.herokuapp.com
+sxcdn3.now.sh
 sxcdn4.now.sh
 sxcdn5.herokuapp.com
 sxcdn6.now.sh
@@ -55066,8 +55139,6 @@ www.bingads.microsoft.com
 www.go.microsoft.akadns.net
 www.msedge.net
 www.msftncsi.com
-### uncheckyads
-cdn.appround.biz
 cdn.download.sweetpacks.com
 cdn.insta.playbryte.com
 cdn.msdwnld.com
@@ -55077,9 +55148,6 @@ inno.bisrv.com
 installer.betterinstaller.com
 installer.filebulldog.com
 nsis.bisrv.com
-### 2o7net tracking sites based on http://www.hostsfile.org/hosts.html content.
-### http://www.makeuseof.com/tag/that-mysterious-2o7-net-tracking-cookie-all-you-need-to-know/
-### https://en.wikipedia.org/wiki/omniture
 aarp.122.2o7.net
 aclu.tt.omtrdc.net
 affargenus.112.2o7.net
@@ -56426,6 +56494,40 @@ programyfb.blogspot.com
 narzedzia-fb.blogspot.com
 generatorfreegames.blogspot.com
 najprzydatniejsze.blogspot.com
+adclick.g.doublecklick.net
+adeventtracker.spotify.com
+adnxs.comadplexmedia.adk2x.com
+ads-fa.spotify.com
+ads.spotify.com
+analytics.spotify.com
+audio-sp-sto.spotify.com
+audio2.spotify.com
+cdn.amplitude.com
+content.bitsontherun.com
+crashdump.spotify.com
+cs126.wpc.edgecastcdn.net
+d2gi7ultltnc2u.cloudfront.net
+d3rt1990lpmkn.cloudfront.net
+desktop.spotify.com
+gew1.ap.spotify.com
+googletagmanager.com
+gtssl2-ocsp.geotrust.com
+log.spotify.com
+lon6-accesspoint-a33.lon6.spotify.com
+omaze.com
+redirector.gvt1.com
+s0.2mdn.net
+seen-on-screen.thewhizmarketing.com
+server-54-230-216-203.mrs50.r.cloudfront.net
+spclient.wg.spotify.com
+racking.tidalhifi.com
+u.scdn.co
+upgrade.scdn.co
+upgrade.spotify.com
+v.jwpcdn.com
+vt.myvisualiq.net
+weblb-wg.gslb.spotify.com
+www.omaze.com
 # adaway default blocklist
 # blocking mobile ad providers and some analytics providers
 # contribute:
@@ -56469,7 +56571,6 @@ ads.xxxad.net
 img.ads.mojiva.com
 adcontent.saymedia.com
 ftpcontent.worldnow.com
-s0.2mdn.net
 bigmobileads.com
 banners.bigmobileads.com
 images.mpression.net
@@ -56820,8 +56921,6 @@ applift.com
 rackersimulator.org
 eviltracker.net
 do-not-tracker.org
-### risk: malware, adware and tracking sites based on http://www.hostsfile.org/hosts.html content.
-# date of generation: mon 12 feb 15:02:09 utc 2018 
 050003.voodoo.com
 050005.voodoo.com
 1.hidemyass.com
@@ -57004,6 +57103,7 @@ caue971.org
 cbtopsites.com
 ccbilleu.com
 cdiabetes.com
+cdn.onesignal.com
 centerfind.com
 centertrk.com
 certified-toolbar.com
@@ -57460,6 +57560,7 @@ onwardclick.com
 onwey.com
 oofun.com
 oovqsvi.angelcities.com
+orange.salesmanago.pl
 orbiyz.com
 oreware.com
 oriceline.com
@@ -57508,6 +57609,7 @@ poppers-rush.ru
 portalangels-1.pop3.ru
 portalangels.pop3.ru
 power.info.com
+pp.lp4.io
 praceline.com
 premiumpedia.com
 priiceline.com
@@ -58621,6 +58723,7 @@ wwwuproar.com
 wwwwal-mart.com
 x-park.net
 x-pronet.com
+x.onaudience.com
 x.zeroredirect.com
 xml.revenuehits.com
 xporontube.tripod.com

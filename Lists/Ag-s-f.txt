@@ -33,8 +33,6 @@ goo.gl
 st.kp.yandex.net
 entry.baidu.com
 ads*.opensubtitles.org
-login.wi-fi.ru
-static.wi-fi.ru
 static0.wi-fi.ru
 gamer.ru
 sports.ru

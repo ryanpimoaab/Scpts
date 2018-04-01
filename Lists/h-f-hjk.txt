@@ -51,6 +51,7 @@ informatwebpost3.club
 infosaferext.com
 internet-browser.com
 js.kolmic.com
+knowyoush.mobi
 ldkiekxc.rr.nu
 liflingren.info
 lycos.com.org
@@ -81,6 +82,7 @@ securetoolext.com
 security-acb22.stream
 securityext.com
 serch-direct.com
+server4.convertsrvr.com
 sitesure.com
 smouch.net
 spiderjump.site
@@ -88,6 +90,7 @@ spidtest.org
 spyass.com
 sweet-page.com
 t2cn.com
+th1nk-d1ff3r3nt.co
 toolcheckerext.com
 toolupdatext.com
 ublockerext.com
@@ -170,4 +173,4 @@ www.webdefenderext.com
 www.www4search.net
 www4search.net
 youngteenporn.proboards89.com
-# hosts: 172
+# hosts: 175

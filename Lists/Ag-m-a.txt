@@ -1017,6 +1017,11 @@ eviltracker.net
 spotify.com
 trackersimulator.org
 app.adjust.com
+analytics.any.do
+data.mistat.intl.xiaomi.com
+zeus.ad.intl.xiaomi.com
+api.ad.intl.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
 alog.umeng.co
 oc.umeng.co
 m.vpadn.com
@@ -1280,3 +1285,4 @@ utop.umengcloud.com
 analy.qq.com
 appsupport.qq.com
 monitor.uu.qq.com
+ads.adfox.ru
