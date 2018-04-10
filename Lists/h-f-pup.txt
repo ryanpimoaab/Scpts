@@ -2716,6 +2716,7 @@ efixmypc.com
 efixpchelp.com
 efixpcutils.com
 efixsupport.com
+efixsystemutils.com
 efixtechsupport.com
 efixyourcomputer.com
 efixyourmac.com
@@ -3535,6 +3536,8 @@ gfeahrynphonemes.review
 gfyrjmxunwindgalls.review
 ggnxcgoghelcoid.review
 ggoitknyqgloomier.club
+ggz.esecurepctools.com
+ggz.gargizer.com
 ghmqxkangha.download
 ghmytblocker.review
 ghostingpfuokcok.download
@@ -11867,6 +11870,7 @@ winassist.org
 winaudit.org
 winboost.org
 winboostertools.com
+winboosterutils.com
 windows-fixer.com
 windows-refresh.com
 windows-tips-tricks.com
@@ -14582,6 +14586,7 @@ www.efixmypc.com
 www.efixpchelp.com
 www.efixpcutils.com
 www.efixsupport.com
+www.efixsystemutils.com
 www.efixtechsupport.com
 www.efixyourcomputer.com
 www.efixyourmac.com
@@ -23687,6 +23692,7 @@ www.winassist.org
 www.winaudit.org
 www.winboost.org
 www.winboostertools.com
+www.winboosterutils.com
 www.windows-fixer.com
 www.windows-refresh.com
 www.windowsdoctor.com
@@ -25664,4 +25670,4 @@ zyk.bratok.com
 zymosiszfkmthosm.download
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 25669
+# hosts: 25675
