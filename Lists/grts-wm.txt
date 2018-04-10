@@ -49,6 +49,8 @@ capodannoinversilia.com
 carry.myeffect.net
 cdn-analytics.pl
 cdn-code.host
+cdn-jquery.host
+cdn.akubebas.com
 cdn.jquery-uim.download
 cfcd.duckdns.org
 cfcdist.gdn

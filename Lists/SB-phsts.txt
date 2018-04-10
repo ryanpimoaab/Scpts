@@ -350,7 +350,7 @@ sf-3.east.kobenetwork.com
 sf-3.st.adtekmedia.com
 sf3.east.kobenetwork.com
 sionicmedia.com
-.spiegel-de.spiegel.de
+spiegel-de.spiegel.de
 ssp.face2trade.com
 static.elixmedia.com
 racker.clickopon.com
@@ -403,6 +403,11 @@ opps.taboola.com
 aboola-d.openx.net
 vidutils.taboola.com
 wf.taboola.com
+graph.accountkit.com
+ma312-r.analytics.edgesuite.net
+wzrkt.com
+www.wzrkt.com
+cdn5.userzoom.com
 app-measurement.com
 agl.hotstar.com
 adserver.adtech.de
@@ -422,3 +427,8 @@ ag.hockeycurve.com
 agl-intl.hotstar.com
 angiemktg.com
 weconfirmyou.com
+beap-bc.yahoo.com
+secure.footprint.net
+oken.rubiconproject.com
+fc.yahoo.com
+pr-bh.ybp.yahoo.com

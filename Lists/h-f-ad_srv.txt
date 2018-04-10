@@ -35614,7 +35614,6 @@ ssl.clickbank.net
 ssl.google-analytics.com
 ssl.linksynergy.com
 ssl.luckyorange.com
-ssl.p.jwpcdn.com
 ssl.safepoollink.com
 ssl.webserviceaward.com
 ssl.xplosion.de
@@ -45723,4 +45722,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45728
+# hosts: 45727
