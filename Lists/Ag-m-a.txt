@@ -1018,6 +1018,7 @@ eviltracker.net
 spotify.com
 trackersimulator.org
 app.adjust.com
+urbanairship.com
 ploy.batmobi.net
 an.batmobi.net
 ustat.batmobi.net

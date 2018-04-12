@@ -5019,6 +5019,7 @@ jungianconversationalist.pw
 junkcleaner.net
 jupuxbmavoguish.review
 jusjuwasigleefully.review
+justmineit.com
 juston.top
 juuru.club
 jvhvfhooting.download
@@ -11889,6 +11890,7 @@ winfixtablet.com
 winfixvista.com
 winfixxp.com
 winklinc.com
+winoptimizerutils.com
 winrefresh.com
 winrepairpro.com
 winsgfbuigzi.site
@@ -16983,6 +16985,7 @@ www.juggledhusker.pw
 www.jungianconversationalist.pw
 www.junkcleaner.net
 www.jusjuwasigleefully.review
+www.justmineit.com
 www.juuru.club
 www.jvhvfhooting.download
 www.jvxjqglowering.review
@@ -23705,6 +23708,7 @@ www.winfixtablet.com
 www.winfixvista.com
 www.winfixxp.com
 www.winklinc.com
+www.winoptimizerutils.com
 www.winrefresh.com
 www.winrepairpro.com
 www.winsgfbuigzi.site
@@ -25670,4 +25674,4 @@ zyk.bratok.com
 zymosiszfkmthosm.download
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 25675
+# hosts: 25679
