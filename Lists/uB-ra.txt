@@ -181,5 +181,7 @@ jquery-cdn.download
 bigspeeds.com
 gustaver.ddns.net
 cryptaloot.pro
-rand.com.ru
 potomy.ru
+rand.com.ru
+ianimes.co
+eth-pocket.de

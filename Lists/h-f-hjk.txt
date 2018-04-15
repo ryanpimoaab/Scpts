@@ -80,6 +80,7 @@ raunchy.com
 ruserv.com
 saveprotecterext.com
 schoolrun.zone
+scrollingtool.com
 search.myidentitydefender.com
 search.ruserv.com
 searchdf.biz
@@ -182,4 +183,4 @@ www.webdefenderext.com
 www.www4search.net
 www4search.net
 youngteenporn.proboards89.com
-# hosts: 184
+# hosts: 185
