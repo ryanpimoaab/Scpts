@@ -23434,6 +23434,7 @@ clck.yandex.ua
 clckme.com
 cld.edg.startappservice.com
 clddt.com
+cldsecure.info
 cleangamemedia.go2cloud.org
 clear-reports.com
 clearlinkmedia.go2cloud.org
@@ -26396,6 +26397,7 @@ dtf.goyavelab.com
 dtkm4pd19nw6z.cloudfront.net
 dtlilztwypawv.cloudfront.net
 dtm.advertising.com
+dtrck.xyz
 dts.akamai.startappexchange.com
 dtta.ero-advertising.com
 dtym7iokkjlif.cloudfront.net
@@ -42986,6 +42988,7 @@ www.clarinetsfulrjwphb.download
 www.claspedhjkyehhf.download
 www.classroomchvpagg.download
 www.clck.ru
+www.cldsecure.info
 www.clear-reports.com
 www.clearspring.com
 www.clearwebstats.com
@@ -43261,6 +43264,7 @@ www.dsnr.net
 www.dsnrmg.com
 www.dsosvbpuhw.download
 www.dsply.com
+www.dtrck.xyz
 www.duba.net
 www.dumbfoundrurjldk.download
 www.dumedia.ru
@@ -45728,4 +45732,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45733
+# hosts: 45737

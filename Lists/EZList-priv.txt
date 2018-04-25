@@ -371,8 +371,10 @@ callingjustified.com
 callisto.fm
 callmeasurement.com
 callrail.com
+callreports.com
 calltrackingmetrics.com
 calltracks.com
+calltrk.com
 campaigncog.com
 canddi.com
 canopylabs.com
@@ -380,6 +382,7 @@ caphyon-analytics.com
 captify.co.uk
 captivate.ai
 captora.com
+capturemedia.network
 capturly.com
 cashburners.com
 cashcount.com
@@ -744,6 +747,7 @@ extreme-dm.com
 eyein.com
 ezec.co.uk
 ezytrack.com
+f92j5.com
 fabricww.com
 factortg.com
 fallingfalcon.com
@@ -828,7 +832,6 @@ fshka.com
 ftbpro.com
 fueldeck.com
 fugetech.com
-fullstory.com
 funneld.com
 funstage.com
 fuse-data.com
@@ -841,6 +844,7 @@ gear5.me
 geistm.com
 gemius.pl
 gemtrackers.com
+geni.us
 genieesspv.jp
 geobytes.com
 geoplugin.net
@@ -1554,6 +1558,7 @@ pulsemaps.com
 pureairhits.com
 purevideo.com
 putags.com
+pxf.io
 pxi.pub
 pzkysq.pink
 q-counter.com
@@ -1892,6 +1897,7 @@ stellaservice.com
 stippleit.com
 stormcontainertag.com
 stormiq.com
+streamsend.com
 streem.com.au
 stripedcollar.net
 stroeerdigitalmedia.de
@@ -2345,6 +2351,7 @@ ztsrv.com
 1q2w3.me
 1q2w3.top
 1q2w3.website
+2giga.download
 300ca0d0.space
 310ca263.space
 320ca3f6.space
@@ -2359,11 +2366,13 @@ abc.pema.cl
 ad-miner.com
 adless.io
 adminer.com
+adplusplus.fr
 adzjzewsma.cf
 afminer.com
 ajplugins.com
 aleinvest.xyz
 alemoney.xyz
+altavista.ovh
 altpool.pro
 analytics.blue
 andlache.com
@@ -2383,6 +2392,7 @@ bablace.com
 baiduccdn1.com
 befirstcdn.com
 berserkpl.net.pl
+bestcoinsignals.com
 bestsecurepractice.com
 bewaslac.com
 bewhoyouare.gq
@@ -2406,6 +2416,7 @@ chmproxy.bid
 clickwith.bid
 clod.pw
 cloudcoins.co
+cloudflane.com
 cndhit.xyz
 cnhv.co
 coin-have.com
@@ -2453,8 +2464,10 @@ dronml.ml
 duckdns.org
 dzizsih.ru
 easyhash.io
+encoding.ovh
 etnhashpool.tk
 etzbnfuigipwvs.ru
+eucsoft.com
 evengparme.com
 ewtuyytdf45.com
 ffinwwfpqi.gq
@@ -2472,6 +2485,7 @@ gasolina.ml
 giml.ml
 googleanalytcs.com
 goredirect.party
+graftpool.ovh
 greengaming.de
 gridiogrid.com
 gus.host
@@ -2486,6 +2500,7 @@ hashzone.io
 hatcalter.com
 hegrinhar.com
 hemnes.win
+hide.ovh
 hodlers.party
 hodling.faith
 hodling.party
@@ -2533,6 +2548,7 @@ mine.torrent.pw
 minecrunch.co
 minemytraffic.com
 miner.pr0gramm.com
+minercry.pt
 minero-proxy-*.sh
 minero.cc
 minero.pw
@@ -2553,6 +2569,8 @@ nahnoji.cz
 nathetsof.com
 nddmcconmqsy.ru
 nebabrop.com
+never.ovh
+nexttime.ovh
 nfwebminer.com
 niematego.tk
 noblock.pro
@@ -2588,6 +2606,7 @@ rintindown.com
 rintinwa.com
 rocks.io
 sbhmn-miner.com
+scaleway.ovh
 secumine.net
 silimbompom.com
 siteverification.online
@@ -2606,6 +2625,7 @@ synconnector.com
 terethat.ru
 thatresha.com
 tokyodrift.ga
+traviilo.com
 tulip18.com
 turnsocial.com
 ue696vbd9l.bid
@@ -2617,11 +2637,13 @@ veerebbs.ml
 veritrol.com
 verresof.com
 vzhjnorkudcxbiy.com
+wasm24.ru
 webassembly.stream
 webmine.cz
 webmine.pro
 webminepool.com
 webminepool.tk
+webminerpool.com
 webxmr.com
 whathyx.com
 willacrit.com
@@ -2630,7 +2652,9 @@ wsp.marketgid.com
 wty46.com
 xbasfbno.info
 xfast.host
+xmr.cool
 xmrpool.net
+xvideosharing.site
 yuebofa.cc
 ywtjdckysve.com
 zlx.com.br

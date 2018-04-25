@@ -43,6 +43,9 @@ plugin.mobopay.baidu.com
 mo.freeindoapp.com
 recreativ.ru
 hqsjc.com
+valshara.com
+theship.club
+ads.jianchiapp.com
 abroad-ad.kingsoft-office-service.com
 cdn.adbert.info
 agent.tamedia.com.tw
@@ -896,6 +899,9 @@ youtube.com
 mobimagic.com
 turner.com
 images-*.ssl-images-amazon.com
+dlbooks.to
+storage.googleapis.com
+deutsche-mittelstands-nachrichten.de
 m.nihaogood.com
 ddreminder.appspot.com
 twrailpolice.appspot.com

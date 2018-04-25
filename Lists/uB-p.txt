@@ -32,3 +32,4 @@ b-ssl.grvcdn.com
 pubexchange.com
 salemove.com
 logrocket.com
+callreports.com
