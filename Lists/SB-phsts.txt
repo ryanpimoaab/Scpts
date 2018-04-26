@@ -452,8 +452,6 @@ cdn.auditude.com
 ibeat.indiatimes.com
 static.clmbtech.com
 api.branch.io
-camsoda.com
-www.camsoda.com
 msmetrics.ws.sonos.com
 in-viacom18.videoplaza.tv
 dev.appboy.com

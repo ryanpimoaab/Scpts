@@ -427,8 +427,6 @@ cdn.auditude.com
 ibeat.indiatimes.com
 static.clmbtech.com
 api.branch.io
-camsoda.com
-www.camsoda.com
 msmetrics.ws.sonos.com
 # block ads on voot streaming app @anudeepnd
 in-viacom18.videoplaza.tv
@@ -25954,7 +25952,6 @@ promo.twistyscash.com
 adhealers.com
 ab.advertiserurl.com
 s.advertiserurl.com
-promos.camsoda.com
 syndication.cntrafficpro.com
 syndication.trafficreps.com
 # [swiftwill][as30361][64.88.240.0 - 64.88.255.255]
