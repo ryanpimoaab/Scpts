@@ -1024,6 +1024,8 @@ eviltracker.net
 spotify.com
 trackersimulator.org
 app.adjust.com
+tracking.intl.miui.com
+storeconfig.mistat.intl.xiaomi.com
 urbanairship.com
 ploy.batmobi.net
 an.batmobi.net
@@ -1202,7 +1204,6 @@ dsg.sc.omtrdc.net
 ep.xone.com
 etl.xlmc.sandai.net
 events.lbesecapi.com
-fcanr.tracking.miui.com
 gate.hockeyapp.net
 geoip.fotoable.net
 google-analytics.com

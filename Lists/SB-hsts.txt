@@ -197,6 +197,54 @@ villa.alphonso.tv
 web2.alphonso.tv
 yashin.alphonso.tv
 zico.alphonso.tv
+alog.umengcloud.com
+alog.umeng.co
+alog.umeng.com
+ampmetrics.techcrunch.com
+analytics.pokki.com
+analytics-static.ugc.bazaarvoice.com
+analytics.rayjump.com
+batchlogging4.truecaller.com
+client-analytics.braintreegateway.com
+device-api.urbanairship.com
+device-metrics-us-2.amazon.com
+gjapplog.uc.cn
+insight.ucweb.com
+log.snapdeal.com
+log.getdropbox.com
+log.apk.v-mate.mobi
+logger.cloudmobi.net
+logx.optimizely.com
+logitechlogitechglobal.112.2o7.net
+ma1310-r.analytics.edgekey.net
+ovc2-ustokyyneikyfasnm.stackpathdns.com
+securemetrics.apple.com
+smetrics.bestbuy.com
+srv.pixel.parsely.com
+sdkupgrade.insight.ucweb.com
+vrl.m.conviva.com
+zee.cws.conviva.com
+uop.umeng.com
+wc-tracking.lavasoft.com
+api.cloudmobi.net
+api.quantumgraph.com
+app.adjust.com
+dev.appboy.com
+go.ad1data.com
+manifest.localytics.com
+c2i-cdn.startappnetwork.com
+events.startappservice.com
+dts.startappservice.com
+imp.startappservice.com
+init.startappservice.com
+h-sdk.online-metrix.net
+profile.localytics.com
+req.startappservice.com
+ptrack.betaout.com
+www.hitcpm.com
+users.quantumgraph.com
+racking.i2w.io
+racking-thirdparty.i2w.io
 # ads and tracking on xiaomi devices
 api.ad.xiaomi.com
 api.admob.xiaomi.com
@@ -430,7 +478,6 @@ api.branch.io
 msmetrics.ws.sonos.com
 # block ads on voot streaming app @anudeepnd
 in-viacom18.videoplaza.tv
-dev.appboy.com
 register.appsflyer.com
 # windows 10 'connected user experience' telemetry
 # connected user experience and diagnostic component endpoint for windows 10, version 1709 or earlier
@@ -1788,7 +1835,7 @@ www.vydoxtrial.com
 # see below for acknowledgements.
 # please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
-# last updated: tue, 24 apr 2018 at 15:24:47 gmt
+# last updated: thu, 26 apr 2018 at 06:01:38 gmt
 # use this file to prevent your computer from connecting to selected
 # internet hosts. this is an easy and effective way to protect you from 
 # many types of spyware, reduces bandwidth use, blocks certain pop-up 
@@ -27893,13 +27940,13 @@ www.winaproduct.com
 # for more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   thu, 19 apr 2018 15:23:21 gmt
-# entries:        2658
+# entries:        2651
 # format:         hosts (hosts -- in hosts file format)
 # credits:        peter lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    fri, 01 may 1998 00:00:00
+# start date:    wed, 06 may 1998 00:00:00
 101com.com
 101order.com
 123found.com
@@ -28181,7 +28228,6 @@ ads.massinfra.nl
 ads.medienhaus.de
 ads.mmania.com
 ads.mobilautomaten.com
-ads.moceanads.com
 ads.motor-forum.nl
 ads.motormedia.nl
 ads.nationalgeographic.com
@@ -28652,7 +28698,6 @@ crazypopups.com
 creafi-online-media.com
 creatives.as4x.tmcs.net
 credishe.com
-crispads.com
 criteo.com
 critictruck.com
 croissed.info
@@ -28700,7 +28745,6 @@ dmtracking.alibaba.com
 dmtracking2.alibaba.com
 docksalmon.com
 domaining.in
-domainsteam.de
 doubtfulrainstorm.com
 dragzebra.com
 drumcash.com
@@ -28833,7 +28877,6 @@ googleadservices.com
 googlesyndication.com
 gorgeousground.com
 gp.dejanews.com
-gpr.hu
 grafstat.ro
 grahamdigital.com
 grapeshot.co.uk
@@ -29070,7 +29113,6 @@ mmtro.com
 moatads.com
 mobclix.com
 mobileiconnect.com
-mocean.mobi
 moggattice.com
 moneyexpert.com
 monsterpops.com
@@ -29218,7 +29260,6 @@ pietexture.com
 pillscash.com
 pimproll.com
 pixel.digitru.st
-pixel.jumptap.com
 play4traffic.com
 playhaven.com
 playmobileads.com
@@ -51420,7 +51461,7 @@ zzsyw.com
 # description: this list disables browser based miners such as coin-hive
 # donate: if you like the coinblockerlists please support me, https://vk.cc/7tl5h2 every donation helps me to continue the work on the coinblockerlists.
 # homepage: https://github.com/zerodot1/coinblockerlists
-# last modified: 26 04 2018 04:57
+# last modified: 27 04 2018 19:36
 # [coinblocker hosts list browser by zerodot1]
 0aqpqdju.me
 0x1f4b0.com
@@ -51810,6 +51851,7 @@ ffinwwfpqi.gq
 ffjk.space
 fge9vbrzwt.bid
 files.fortrader.ru
+fili.cc
 fili.tv
 financeforum.ru
 firmware.center
@@ -51872,6 +51914,7 @@ hatcalter.com
 hatevery.info
 hegrinhar.com
 hemnes.win
+herphemiste.com
 hhb123.tk
 hide.ovh
 hive.tubetitties.com
@@ -51888,6 +51931,7 @@ igrid.org
 ihdvilappuxpgiv.ru
 iisl7wpf.me
 img.jsecoin.com
+imhvlhaelvvbrq.ru
 infamylists.com
 ingorob.com
 ininmacerad.pro
@@ -52001,6 +52045,7 @@ miner.cryptobara.com
 miner.nablabee.com
 minerclaim.net
 minercry.pt
+minergate.com
 minero.cc
 minescripts.info
 minexmr.com
@@ -52099,6 +52144,7 @@ ohac.github.io
 oinkinns.tk
 okexysylgzo.ru
 okeyletsgo.ml
+one-jj.github.io
 onlinereserchstatistics.online
 open-hive-server-1.pp.ua
 openkatalog.com
@@ -52284,6 +52330,9 @@ stone.cryptaloot.pro
 stone.webmine.pro
 stonecalcom.com
 stream.nullrefexcep.com
+streamdream.ws
+streamplay.me
+streamplay.to
 subloader.cf
 sumo.cpufan.club
 sumo.cryptonoter.com
@@ -52323,6 +52372,7 @@ hepiratebay.cr
 hewhizmarketing.com
 hewhizproducts.com
 hewise.com
+hree-jj.github.io
 idafors.xyz
 odogecoin.biz
 oftofcal.com
@@ -52341,10 +52391,12 @@ ubetitties.com
 ulip18.com
 urnsocial.com
 urnsocial.now.sh
+wo-jj.github.io
 uebawtz7.me
 ullnot.download
 ulnawoyyzbljc.ru
 unrummaged.com
+uoldid.ru
 us-stratum.viaxmr.com
 us.cfcdist.loan
 us.cfcnet.gdn
@@ -52392,6 +52444,7 @@ webmine.cz
 webmine.pro
 webminepool.com
 webminepool.tk
+webminer.minergate.com
 webminer.pro
 webminerpool.com
 webmining.co
@@ -52445,6 +52498,7 @@ ws.freebitco.in
 ws.l33tsite.info
 ws.pzoifaum.info
 ws.tidafors.xyz
+ws.webcaster.pro
 ws.xmrm.pw
 ws.xmrpool.net
 ws000.coinhive.com
