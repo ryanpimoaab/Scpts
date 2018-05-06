@@ -43,6 +43,7 @@ plugin.mobopay.baidu.com
 mo.freeindoapp.com
 recreativ.ru
 hqsjc.com
+init.startappservice.com
 valshara.com
 theship.club
 ads.jianchiapp.com
@@ -899,6 +900,7 @@ youtube.com
 mobimagic.com
 turner.com
 images-*.ssl-images-amazon.com
+cartoon-sex.tv
 dlbooks.to
 storage.googleapis.com
 deutsche-mittelstands-nachrichten.de
@@ -1024,6 +1026,7 @@ eviltracker.net
 spotify.com
 trackersimulator.org
 app.adjust.com
+imp.startappservice.com
 tracking.intl.miui.com
 storeconfig.mistat.intl.xiaomi.com
 urbanairship.com
