@@ -84,6 +84,7 @@
 3pornhub.com
 4-netflix.info
 4applesindltd.com
+4bancosantander.cloud
 4gpaypal.com
 4k-netflix.info
 4k-netflix.net
@@ -140,6 +141,8 @@ abuse-applereport.support
 ac-ccount-publicsher-apple-invoice.com
 acc-apple.com
 acc-applemusic-securitypayment.com
+acc-login-apps.com
+acc-ount-help-to-login-online.com
 acc-updateinform.com
 acces-locked-apple.com
 access-account-apple-appleid.com
@@ -250,6 +253,7 @@ accounts-fixed-appleds.com
 accounts-google-com.com
 accounts-login-org.online
 accounts-login-secure.com
+accounts-microsoft.com
 accounts-netflixcustomers.com
 accounts-preiupdater.igg.biz
 accounts-santander.com
@@ -323,6 +327,7 @@ addictxdtonetflix.com
 addnegocios.com
 addpaypalmoney.com
 adfs.uky.edu.adfs.ls.client.request.id.984b9da9.79f04e2b82b3cec190911989.usernamewawsignin1.0wtrealmurn3afederation.3amicrosoftonline.wctxestsredirect3d226estsrequest.longbridgesocial.com
+adm-replyonedrivepagenotificationinputwebformaccess.000webhostapp.com
 adm1nkyjapple.com
 admin-apple-appleid.com
 admin-office.czweb.org
@@ -331,6 +336,7 @@ admin-update-admin-update-admin-update.lifeinsurance-newcastle.com.au
 adminmailer0832.000webhostapp.com
 adminmailer0936.000webhostapp.com
 adminmailer2091.000webhostapp.com
+adminmailer2309.000webhostapp.com
 adminmailer3475.000webhostapp.com
 adminmailer48076.000webhostapp.com
 adminmailer60853.000webhostapp.com
@@ -396,6 +402,7 @@ adobe-xentra.download
 adobe.engineer
 adobe.live
 adobe.online.allbaba1.com
+adobe.orgpro.us
 adobe.pink
 adobe10reader.com
 adobe10update.com
@@ -464,6 +471,7 @@ adobeillustratorbasics.com
 adobeillustratorforbloggers.com
 adobeinstall.com
 adobekey.com
+adobekeys-download.com
 adobelive.net
 adobemacromedia.com
 adobemail-com.000webhostapp.com
@@ -478,6 +486,7 @@ adobeonlinereader.mypressonline.com
 adobepay.com
 adobepdf55.000webhostapp.com
 adobepdfonline.22glx.com
+adobepdfremmit.000webhostapp.com
 adobephonenumber.com
 adobephotoshopcs5.com
 adobeplugin.download
@@ -770,12 +779,14 @@ amazon-prime.online
 amazon-private-label.com
 amazon-private.com
 amazon-product-shipping.com
+amazon-promocode.com
 amazon-promote.com
 amazon-promotions.info
 amazon-quiz.com
 amazon-rainforest.com
 amazon-reactive.com
 amazon-rechnung.net
+amazon-recruiting.com
 amazon-reisen.com
 amazon-reply.com
 amazon-rescue.com
@@ -888,6 +899,7 @@ amazonverifyapp.com
 amazonverifyer.com
 amcoutlook.com
 ameli-assurance-fr.verify.domaine.informatique.determine.infooacw.beget.tech
+americanemailproject.com
 amksoutlook.com
 amlinux.cloudapp.net
 amomacplus.com.br
@@ -1063,6 +1075,22 @@ apple-account-0842.com
 apple-account-0867.com
 apple-account-0912.com
 apple-account-0923.com
+apple-account-1920.com
+apple-account-1930.com
+apple-account-1940.com
+apple-account-1950.com
+apple-account-1960.com
+apple-account-1970.com
+apple-account-1980.com
+apple-account-1990.com
+apple-account-1991.com
+apple-account-1992.com
+apple-account-1993.com
+apple-account-1994.com
+apple-account-1995.com
+apple-account-1996.com
+apple-account-1997.com
+apple-account-1999.com
 apple-account-4409.com
 apple-account-4704.com
 apple-account-9765.com
@@ -1083,6 +1111,7 @@ apple-accountcenter.com
 apple-accountdeviceupdate.com
 apple-accounts.com
 apple-accountservice.com
+apple-accountserviceonline.com
 apple-accountservices.com
 apple-accountslocked-fraudprevention.com
 apple-accountupdate-syscenter.com
@@ -1196,6 +1225,7 @@ apple-check.info
 apple-chel.ru
 apple-china-id.com
 apple-ci.com
+apple-cioud.com
 apple-claim.com
 apple-closet.com
 apple-cloud-ex-error78600.online
@@ -1332,6 +1362,7 @@ apple-healthcare.biz
 apple-healthcare.info
 apple-healthcare.net
 apple-healthcare.org
+apple-help.com
 apple-help.info
 apple-help.xyz
 apple-helpdesksupport.xyz
@@ -1371,6 +1402,7 @@ apple-icloud-info.com
 apple-icloud-iphone.com
 apple-icloud-is.com
 apple-icloud-isupport.com
+apple-icloud-japan.com
 apple-icloud-located.com
 apple-icloud-location.com
 apple-icloud-official.com
@@ -1700,6 +1732,7 @@ apple-maildelivery.stream
 apple-maildelivery.win
 apple-mails.com
 apple-manage-alerte.com
+apple-manage-appleid.com
 apple-manage-verify.com
 apple-managemicuenta.com
 apple-map.com
@@ -1725,6 +1758,7 @@ apple-nd.com
 apple-needs.com
 apple-neighbour.top
 apple-net.ru
+apple-netcenter.com
 apple-nl.com
 apple-nl.info
 apple-no-reply.info
@@ -1745,6 +1779,7 @@ apple-om.com
 apple-online-account.com
 apple-online-verification.com
 apple-online24.com
+apple-onlinecenter.com
 apple-onlineinquiry.top
 apple-onlineshop.com
 apple-onlineshop.ru
@@ -1777,6 +1812,7 @@ apple-pencil.top
 apple-perform.com
 apple-perupdateds.igg.biz
 apple-phone-id.com
+apple-phone-number.com
 apple-phone.com
 apple-phone.store
 apple-phone134.ru
@@ -1837,6 +1873,7 @@ apple-resloves.com
 apple-resolve-info.com
 apple-resolve-intl.com
 apple-resource.ru
+apple-response-appleid.com
 apple-responsible.com
 apple-restore.com
 apple-restore.info
@@ -1872,6 +1909,7 @@ apple-secure.com
 apple-secure.team
 apple-secure3d-required.com
 apple-secure3d-verification.com
+apple-secured.com
 apple-securedauthentication.com
 apple-secureid.company
 apple-secureid.info
@@ -1936,6 +1974,7 @@ apple-shop18.ru
 apple-sib.com
 apple-sign.com
 apple-signature.com
+apple-signonline.com
 apple-sim.info
 apple-sing-in.com
 apple-singin-costumer.com
@@ -2084,6 +2123,7 @@ apple-updateinformations.com
 apple-updateonline.com
 apple-updatez.com
 apple-upgradeonline.com
+apple-url.com
 apple-us.com
 apple-usado.com
 apple-used-store.com
@@ -2198,6 +2238,7 @@ apple08.com
 apple0912.com
 apple1-id.com
 apple1001.ru
+apple108.com
 apple10global.com
 apple11st.com
 apple128.com
@@ -2812,6 +2853,7 @@ appleid-applesoporte.com
 appleid-applestoer.com
 appleid-application.com
 appleid-applle-support.com
+appleid-applle.com
 appleid-apps-login-index.com
 appleid-apps-purchase-index.com
 appleid-apps-signin-aspx.com
@@ -3007,6 +3049,7 @@ appleid-servicepayment.com
 appleid-services-center.com
 appleid-services-locked-account-authenticated.com
 appleid-services.com
+appleid-setting.com
 appleid-sign-your-account.com
 appleid-singin.com
 appleid-sms-apple.com
@@ -3025,6 +3068,7 @@ appleid-support-contact-manage-account-webapps-disable.com
 appleid-support-contact-manage-account-webapps-invoice.com
 appleid-support-contact-manage-account-webapps-locked.com
 appleid-support-contact-manage-account-webapps-update.com
+appleid-support-customer.com
 appleid-support-manage.com
 appleid-support-validation-restoreaccount.com
 appleid-support.com
@@ -3095,10 +3139,12 @@ appleid.apple.com.028a.co
 appleid.apple.com.allcookerrepairs.co.uk
 appleid.apple.com.ogival.com.my
 appleid.apple.com.securitybillingservice.com
+appleid.apple.com.service-updates-session-actionid14440.gq
 appleid.apple.com.signin.gwcs.in
 appleid.apple.com.support-apple-service.me
 appleid.apple.com.supportpages-policy.buzz
 appleid.apple.com.supportverificationbillinginformation.com
+appleid.apple.com.thenicholls.net
 appleid.apple.comll.org
 appleid.apple.glammamomma.com
 appleid.com-appletracker.com
@@ -3167,6 +3213,7 @@ appleidmechanicalsys.com
 appleidmob.com
 appleido-securz.com
 appleidonline.info
+appleidorder-paymentieddenied.com
 appleidpasswordreset.com
 appleidpay.business
 appleidpay.center
@@ -3194,6 +3241,7 @@ appleidsecurity.com
 appleidsecurtyupdate.com
 appleidservice-eu.com
 appleidservices.com
+appleidservicesstu.business
 appleidsgn.com
 appleidshop.com
 appleidshop.net
@@ -3543,6 +3591,7 @@ applemedicalbilling.info
 applemedicalbilling.net
 applemedicalbilling.org
 applemedicaltx.com
+applemember.com
 applememberjp-idserv9u8132heqojn.com
 applememorycard.site
 applemessage2017.win
@@ -3726,6 +3775,7 @@ applequicktips.com
 applequote.com
 applerap.com
 applerc.com
+applerc.top
 applerealtor.com
 applerecals.com
 applereceipt.com
@@ -3744,6 +3794,7 @@ applerehberi.com
 applerejects.org
 applerelated.com
 applereleases.com
+applerem.com
 appleremote.online
 applerenew.com
 applerenew.org
@@ -3777,6 +3828,7 @@ appleringtone.store
 applerink.com
 applerinquest.com
 applerm.com
+applero.top
 applerom.info
 appleroom56.ru
 applerrt.com
@@ -3827,6 +3879,7 @@ applesecure-intl.com
 applesecure-serviceinc.com
 applesecure-verification.com
 applesecure052.com
+applesecureaccount.com
 applesecurecenter.com
 applesecurecgiclient.com
 applesecured.com
@@ -3999,6 +4052,8 @@ applestore-russia.ru
 applestore-shop.ru
 applestore-subscriptions.com
 applestore124.ru
+applestore22.com
+applestore235.com
 applestore24.com
 applestore66.ru
 applestorecustomers.com
@@ -4101,6 +4156,7 @@ appletech.mobi
 appletech.repair
 appletech.solutions
 appletech752.com
+appletechexperts.online
 appletechforum.com
 appletechgenius.com
 appletechguys.info
@@ -4169,6 +4225,7 @@ appleuas.com
 appleud-icloud.com
 appleukinc.com
 appleukon.com
+appleukwarranty.com
 appleunit.com
 appleunlimited.com
 appleunlock.pro
@@ -4412,11 +4469,13 @@ arvrpornhub.com
 asantanderbank.com
 asapnegocios.com
 asb.banking.changes-terms-conditions.gdn
+asdl-apple.com
 asesoriasgapple.cl
 ashmaconnerie.com
 askinstagram.com
 aspgitalnetflix.com
 assinar-netflix.com
+assine-netflix.com
 assine-netflix.net
 assinenetflix.com
 assinetflix.com
@@ -4497,6 +4556,7 @@ autoresecuremypaypl.myvnc.com
 autoshoppingmaceio.com.br
 autossantander.com
 autotwitterleads.com
+autoupdateinfoapple.com
 avfacebook.info
 awscloudapple.com
 awss-amazon.com
@@ -4573,6 +4633,7 @@ bank.all4exam.com
 bank.barclays.co.uk.id3432534641f6a850a564167e47e1fdd0fdacef8342d42f0ad67769616399.vipporno.info
 bank.barclays.co.uk.olb.auth.loginlink.action.loginlink.action.loginlink.action.loginlink.action.galatamp.com
 bank.online-barclays.co.uk.cx9.vn
+bank.tianxia-1.com
 bank.wellsbankingsecurelogin.com
 bank0famerica.aba.ae
 bankaciligi-halkbank.com
@@ -4655,9 +4716,11 @@ bankofamerica.myaccount.update.jonesrecruitment.com.au
 bankofamerica.npoexpo.org
 bankofamerica.online.orthosradiologia.com
 bankofamerica.personal578.com
+bankofamerica.santajicollege.ac.in
 bankofamerica.secure.online.viacaoariranha.com.br
 bankofamerica.verify478.com
 bankofamerica24.com
+bankofamericabankingonline.hol.es
 bankofamericalocationsandhours.com
 bankofamericapaymentalert.com
 bankofamericaroutingnumber.us
@@ -4788,6 +4851,7 @@ barclaysplusroyceintl.realty
 barclayspremierus.com
 barclaysprivateoffshore.online
 barclayspro.com
+barclaysrealestategroup.net
 barclaysroyceintl.realty
 barclaysscorp.com
 barclayssecure.com
@@ -4809,6 +4873,7 @@ bbt-com-login-my-account.com
 bbwxxxpornhub.com
 bcnsantander.online
 bcol.barclaycard.co.uk.ecom.as2.initiallogon.do.x.49.y.35tc.qxbca23302.y.35tc.qxbca23302.y.35tc.qxbca23302.y.35tc.qxbca23302.hoovesnall.com
+bdo-online-banking.xyz
 bdo-onlinebanking.com
 bdpaypal.net
 beaconsafaris.com
@@ -4864,6 +4929,7 @@ bioskopxxx.com
 biosmile.uy
 biosteam.com.au
 biostream.ind.br
+birdemailbusiness.com
 bireysel-banka-giris-tr.com
 bireysel-banka-giris-trr.com
 bireysel-bankam.com
@@ -4877,6 +4943,7 @@ bireysel-ziraatbankfirsatlarim.com
 bireysel-ziraatbankmobilesube.com
 bireyselfinansbankhesabim.com
 bireyselislem-ziraatbank.com
+bireysell--qnbfinansbank.com
 bireysell-ziraatbank-online-tr.com
 bireyslislem-ziraatbank.com
 bit-coinmall.com
@@ -5416,6 +5483,7 @@ chasebanks-com.xyz
 chasebanksusa.com
 chasecom-amazon.com
 chaseinternationalbankpaymentalert.com
+chaseonlinebanking.doorex.sa
 chaseonlinebankingupdate.michaelneale.com
 chaseonlineverify.chase.com-user.accountupdate.logon.bangladeshclothing.com
 chasesbanks.com
@@ -5492,6 +5560,7 @@ claimaccsecures3242.000webhostapp.com
 claimapplewatch.win
 claimfreeapplewatch.com
 classyapple.com
+cleanmyapplemac.com
 click.travel.ibemail.com
 clickestudios.com
 clickoffice.com.mx
@@ -5597,6 +5666,7 @@ coincheck.click
 coincollectingexpert.com
 coindips.com
 coindropbox.com
+coinfisio.com.br
 coinfunder.net
 coinone.click
 coinone.deals
@@ -5612,6 +5682,7 @@ colegiosanfranciscodeasis.cl
 colegiosantadorotea.edu.co
 colegiosantajoaquina.webescuela.cl
 collabogramsadobe.com
+com-app-update.info
 com-apple-id.info
 com-apple-lnc.site
 com-apple-lost.com
@@ -5712,6 +5783,7 @@ confirmaccountnow.com
 confirmappleid.com
 confirmarnetflix.online
 confirmation-appleid.com
+confirmation-apples.com
 confirmation-cancel-order-paypal.info
 confirmation-logindata.com
 confirmation-paypal.center.com.arblack.id
@@ -5725,6 +5797,7 @@ confrimation-cancel-ordered-paypal.info
 congressnetflix.com
 conicloud-studio.com
 connect-apple.com
+connect-twitterverified.com
 connect.id.weilesfargios.certificatiez.com
 connect.secure.wellsfargo.com.auth.login.present.origin.cob.cabe110.com.ar
 connectapple.online
@@ -5822,6 +5895,7 @@ cuantass-appssy-itunes.com
 cuenta-applemiembros.com
 cuentadeapple-idn05632.com
 cuentaidpapple-ar.com
+cuentas-appsssy-itunes.com
 cuentas-appssyapple-itunes.com
 cuentas-seguraactividastr-informacionsvtftrs.com
 cuentas-seguraactivityasctr-informaciontstr.com
@@ -6041,6 +6115,7 @@ drapple.pl
 drappleid.com
 dreamachievers.co.id
 dreamcloud.com.br
+drive-mails-account.com
 drive.google.com.arablatrade.com
 drive.google.com.henrysbakery.com.au
 drive.google.com.verify.signin.normandeassociation.com
@@ -6251,6 +6326,7 @@ emailsrvrexch.com
 emailsupgrade.com
 emailsvalidation.sitey.me
 emailsvalidity.com
+emailupgrade.xyz
 emailvalidation.ecubeapps.com
 emailverifylookingup.com
 emailverifyy.xyz
@@ -6262,6 +6338,7 @@ emeraldappleresourcesllc.com
 emiliosalazar.org
 emirates-mail-we394w204slo3-3burn30personal.000webhostapp.com
 emojiapple.com
+emultinetflix.com
 en-amazon.com
 en-us-apple.com
 en-verifyaccounts.com
@@ -6332,6 +6409,7 @@ esubeziraatbankmobilgiris.com
 etacloud.net
 ethereumpaypal.com
 ethio-outlook.org
+ethmywallts-login.com
 ethoscondominios.com.br
 etnetflix.com
 eu-central-amazon.com
@@ -6448,12 +6526,14 @@ facebook-secure.com
 facebook-secureupdate.com
 facebook-securite.com
 facebook-security-accounts.com
+facebook-security-cdn.com
 facebook-security-com5.webnode.com
 facebook-security-issues.com
 facebook-security.net
 facebook-serve.com
 facebook-sex.xyz
 facebook-shop.com
+facebook-signin.com
 facebook-spaces.com
 facebook-spy.com
 facebook-support-online.xyz
@@ -6886,6 +6966,7 @@ find-ios-apple.com
 find-ios10.com
 find-ios10.online
 find-iphone-app-ios.com
+find-iphone-br.com
 find-iphone-inc.com
 find-iphone24.com
 find-itunes-id.com
@@ -7162,6 +7243,7 @@ gentotloe-appleid.info
 genuineappleservice.com
 georgiagreen-paypal.com
 geotwittermarketing.com
+germanycrypto.date
 gest.appleid-apple.aliance.otpob.traintohunt.com
 gestformacion.com
 gestionaidapple.webcindario.com
@@ -7249,6 +7331,7 @@ go.facebook.view.herbalgalax.com
 gocloudway.com
 gogle-email-support.com
 goldcoinhealthfoods.com
+goldenapplehotelgroup.com
 goldplatedapplewatch.com
 goldsodamachine.com
 gologicloud.com
@@ -7425,6 +7508,7 @@ halklbankasi.com
 hamrahbankiran.com
 handknittingmachines.com
 handlung-mailsupport-pp.net
+hannamac.com
 hardoffice.rs
 haroldlloydstore.com
 hd.pornvidzforyou.com
@@ -7459,6 +7543,32 @@ helpdeskemailtechnicalserdsk.tripod.com
 helpful-id-icloud.online
 helpingpaypalcostumers.com
 helpmanageappleid.com
+helpmpaypalah.com
+helpmpaypalahmexico.com
+helpmpaypalbt.com
+helpmpaypalbtmexico.com
+helpmpaypalci.com
+helpmpaypalcimexico.com
+helpmpaypaler.com
+helpmpaypalermexico.com
+helpmpaypaleu.com
+helpmpaypaleumexico.com
+helpmpaypaleumexico.net
+helpmpaypalfg.com
+helpmpaypalfgmexico.com
+helpmpaypalfgmexico.net
+helpmpaypaljh.com
+helpmpaypaljhmexico.com
+helpmpaypalko.com
+helpmpaypalmu.com
+helpmpaypalmumexico.com
+helpmpaypalne.com
+helpmpaypalnemexico.com
+helpmpaypalnemexico.net
+helpmpaypalsf.com
+helpmpaypalsfmexico.com
+helpmpaypalsl.com
+helpmpaypalslmexico.com
 helpoffices.online
 helps-instagramm.com
 helpsecure-suspiciouslogin.com
@@ -7588,6 +7698,7 @@ https-certificadosantandernet2018.conexaoestelarblog.com.br
 https-danskebank-fmywog.casulodigital.com
 https-danskebank-njkcay.casulodigital.com
 https-danskebank-xeecnp.casulodigital.com
+https-linkedln-corn-verified-contacts.indiancargomachinery.com
 https-localbitcoins.net
 https-othabank3194.jelastic.regruhosting.ru
 https-paypal-servicelogin-redirectinbound-webapps-mpp-flow.yis.edu.bd
@@ -8199,6 +8310,7 @@ hujumaki-appleid.info
 hulunetflix.site
 hungary-myappleidstore.com
 hunt-coin.com
+huntington.ibanks.club
 hupdates.yolasite.com
 i-applestore.com
 i-applezonestore.ru
@@ -8259,9 +8371,13 @@ ibuscar-applesupport.com
 ibuscar-iphone.com
 icantfindmypineapple.com
 ice-machines-australia.com
+icebdenizbank.com
+icebhalkbankasi.com
+icepdenizbank.com
 iceyouroffice.com
 icharger-apple.com
 icicibank.support
+icioud-appleid.info
 icioud-ios-id.com
 icioudincdex-ios.com
 iclient-helpinfoupdate-billing.com
@@ -8286,6 +8402,7 @@ icloud-app-sir-id.com
 icloud-apple-appleid-service-sms.com
 icloud-apple-appleid.com
 icloud-apple-i.com
+icloud-apple-id-security-information-restore-onlineprocess.steroidfiyatlari.com
 icloud-apple-id.com
 icloud-apple-info.com
 icloud-apple-information.com
@@ -8490,11 +8607,14 @@ icloudapple.services
 icloudapple.support
 icloudappleanc.com
 icloudappleapp.com
+icloudappleid.com
 icloudappleitunes.com
 icloudapplesupport.com
+icloudbun.top
 icloudbuyback.com
 icloudbypass.top
 icloudcom-mex.us
+icloudcun.top
 icloudd-apple.com
 iclouddata.org
 iclouddentistry.com
@@ -8505,8 +8625,10 @@ icloudfind-support.com
 icloudfindmyiphones.com
 icloudfirm.com
 icloudgoods.com
+icloudhc.top
 icloudhint.com
 icloudhistory.com
+icloudht.top
 icloudid-account-blocked-resolution-center.com
 icloudid-account-blocked-resolve-center.com
 icloudid-account-limited-access-resolution-center-cgi1.com
@@ -8535,6 +8657,7 @@ icloudpre-k.net
 icloudremove.store
 icloudrenewal.com
 icloudreportabuse.support
+icloudrun.top
 iclouds-accountreject.com
 iclouds-apple.com
 iclouds.support
@@ -8559,6 +8682,7 @@ icloudsupports.com
 icloudsupportservices.com
 icloudsync.net
 icloudtechnicalsupportnumber.com
+icloudtun.top
 icloudtv.biz
 icloudtv.info
 icloudtv.net
@@ -8589,6 +8713,7 @@ id-apple-i.cloud
 id-apple-ios.com
 id-apple-localize.com
 id-apple-location.com
+id-apple-logins.com
 id-apple-online.com
 id-apple-suporte.com
 id-apple-update.com
@@ -8919,6 +9044,7 @@ info.appleid.apple.store.luudl.elvoceador.net
 infoaccountlockedappleids.com
 infoapple.info
 infoappled-locked.com
+infoappledisable.com
 infoapplehome.com
 infoapplesecure.com
 infobarclays.co.uk
@@ -8989,6 +9115,7 @@ instagram-certified.com
 instagram-check.com
 instagram-computer.com
 instagram-delivery.com
+instagram-help-support.com
 instagram-instant.com
 instagram-interested.info
 instagram-m.ru
@@ -9002,6 +9129,7 @@ instagram-server.xyz
 instagram-shop.ru
 instagram-sign-up.com
 instagram-support.org
+instagram-supported.com
 instagram-takipcim.com
 instagram-verification.com
 instagram-verified-badge.com
@@ -9072,12 +9200,14 @@ instagrampostscheduler.com
 instagrampro.info
 instagramrecovery.com
 instagramscore.com
+instagramsecurity.info
 instagramsecurityservice.com
 instagramsecurityteam.com
 instagramseritakipci.com
 instagramstaff.com
 instagramstatus.com
 instagramsupport.org
+instagramsupportconfirm.com
 instagramsupporter.com
 instagramsupports.site
 instagramtakiipciniz.com
@@ -9526,6 +9656,7 @@ itunes-url.com
 itunes-valid.com
 itunes-verifactiondata.info
 itunes-verificaction-nedded-support-client.puridewisri.com
+itunes-webstore.net
 itunes.cat
 itunes.extafiles.com
 itunes.press
@@ -9821,6 +9952,7 @@ kopsnij.pl
 koripaypal.com
 kpornhub.com
 kreditnaya-karta-sberbank.com
+kripikkapi-appleid.info
 krpornhub.com
 kumarserupdate.org
 kunde-paypa.l-centerguard.info
@@ -9883,6 +10015,7 @@ lcloud-location-support.com
 lcloud-loginsupport.info
 lcloud-loginsupport.ltd
 lcloud-loginsupport.site
+lcloud-sum.com
 lcloud-support.com
 lcloud-supporte.com
 lcloud.cn.com
@@ -9905,6 +10038,7 @@ ldlocked-apple.com
 lecoindesfashionistas.com
 leda-login.com
 legacy-paypal.com
+lemetdslogin.com
 lemonandlacestudios.com
 leniostreck.com.br
 les-avis-amazon.com
@@ -9954,6 +10088,8 @@ linkmail.000webhostapp.com
 linknetflix.com
 linux.esfelgueiras.org
 linuxhelps.com
+linuxmore.net
+linuxmoreservices.co.uk
 linuxprosupport.com
 linuxted.com
 linuxwebhostingdeals.com
@@ -9989,6 +10125,7 @@ localfacebookwiz.com
 localiza-apple.com
 localiza-id-apple.com
 localizador-icloud.com
+localize-apple.com
 localize-iphone.xyz
 locate-access-apple.com
 locate-apple.com
@@ -10031,6 +10168,7 @@ login-account.information-confirmed.work
 login-account.site
 login-accountcustomers-disputetransaction-ebaypaypal-payment.com
 login-accounts-apple-appleid.com
+login-activity.pay.pal-acc.com
 login-appiid.com
 login-apple-accounts.com
 login-apple-location.com
@@ -10101,7 +10239,9 @@ login-support-apple.com
 login-support-us.com
 login-suspend.com
 login-suspended.com
+login-swisscom-verificationcompte.godaddysites.com
 login-to-update-your-account-info-management-page-online.chemsolsac.com
+login-to-update-your-account-info-management-page-online.micrositiosweb.net
 login-to-update-your-account-info-management-page-online.offsetperusac.com
 login-to-update-your-account-info-management-page-online.sitecsistemas.com
 login-to-update-your-account-info-management-page-online.tecnologiasmgldelperu.com
@@ -10144,6 +10284,7 @@ login.microsoftonline.georgeskayaks.com
 login.microsoftonllne.com
 login.microsofts.support
 login.micrrosoftonlline.com
+login.netflix-activate.com
 login.netflix-report.com
 login.orlandotrucksales.com
 login.pageswarning.cf
@@ -10154,6 +10295,7 @@ login.pleasecekthis.ga
 login.secuirty-problems.com
 login.securely-helpcenter.com.haitiministries.com
 login.servise.adminpawmaid.log.snappinturtle.com
+login.sharepoint.cn.com
 login.ucfprogrammingteam.org
 login.voda-phone.co.uk
 login.yahoo.com.mail.login.com.session-signin.mailannounceservice.com
@@ -10177,6 +10319,7 @@ loginapple.com
 loginappleid.com
 loginappleidreviewpay.com
 loginb.bbestiloacesso.com
+loginc.bbestiloacesso.com
 logindetails.superweb.ws
 logindhelp.com
 logindropaccountonlinedocumentsecure.com.sshcarp.com
@@ -10228,6 +10371,7 @@ logisticadelosrios.com
 logisticoffice.com
 lojadobebe.com.br
 london-apple.com
+losapple.com
 lost-device-apple.com
 lost-icloud.co
 losteventidestudios.com
@@ -10544,6 +10688,7 @@ mail.google.auth-login-id1224984562.ru
 mail.grupobrayco.com.ar
 mail.gstservidor.info
 mail.hakanyildizphd.com
+mail.hashtagindia.in
 mail.haydenharper.com
 mail.hdsn-iepluren.com
 mail.health-corp.com
@@ -10646,6 +10791,7 @@ mail.seimitsu.com
 mail.service.action.maltin.pw
 mail.sewhoitytoity.com.au
 mail.sfgh-poct.org
+mail.sharepoint.cn.com
 mail.silkline-int.com
 mail.simonspics.info
 mail.simpelet.com
@@ -10770,6 +10916,7 @@ maliaccesorios.com
 malldeservicios.com
 malwarebytes.webaccess-email.com
 manage-account-apple.com
+manage-account-settings-appleid-apple.support
 manage-account-verify.com
 manage-apple-account-id.com
 manage-apple-account-locked.com
@@ -10780,6 +10927,7 @@ manage-appleid.link
 manage-appleidcontrol-invalidorder0912.com
 manage-appleidorder-canceled.com
 manage-appleidsucuenta.com
+manage-appleidunlocked-protectid.com
 manage-client-appleid-apple.com
 manage-facebook.com
 manage-lockedapp-icloud.com
@@ -10788,6 +10936,7 @@ manage-paypal-service.com
 manage-paypalservice-resolutioncenter.com
 manage-secure-service-appleid.com
 manage-settings-appleid.com
+manage-verify-account-apple-id.com
 manage-verify-updateinformationappleid.com
 manage-your-apple1d.com
 manage-your-apple1donline.com
@@ -10955,6 +11104,9 @@ microsoftoffice365login.com
 microsoftofficeoutlook.org
 microsoftoniline-sharepoint.com
 microsoftonline-secured.000webhostapp.com
+microsoftonline-veri-records-secureddd.000webhostapp.com
+microsoftonlineservice4h1s3.org
+microsoftonlineservice4h1t2.org
 microsoftoutlook5.webnode.com
 microsoftoutlookoffice.com
 microsoftoutlooksupports.com
@@ -11065,6 +11217,7 @@ mrcrypto.se
 mrcrypto.site
 mrmarios.com.br
 mrsapplebee.com
+mrxtubes.com
 msantanderbanking.online
 msantanderconta.com
 msantandermob.com
@@ -11079,6 +11232,7 @@ mssgoffices.000webhostapp.com
 mt-apple.com
 mtoffice.com.br
 mu-facebook.com
+muabanlitecoin.com
 multiserviciossantander.com
 mundonetflix.com
 musicloud.online
@@ -11093,6 +11247,7 @@ my-account-register-update-com.usa.cc
 my-amazon-products.com
 my-apple-assistance.com
 my-apple-bd.com
+my-apple-help.com
 my-apple-online.info
 my-apple-services.com
 my-apple-solution.com
@@ -11248,6 +11403,7 @@ mydeviceappleidnews.com
 myebay-com.5345efe65456uliuyfwghkiudjytxvi.vemacore.com
 myemailapple.com
 myemailoutlook.com
+myethwallogin.com
 myfacebook.email
 myfacebook.news
 myfacebook.online
@@ -11325,6 +11481,7 @@ mysecure-update-icloud.com
 mysecure-updatesupports.com
 mysecurity-sercure2store-apple.com
 myserviceappleid.com
+mysethlogin.com
 mysolvedapple.com
 mysupport-apple-centre-cevice.com
 mysupport-paypal-secure.com
@@ -11342,6 +11499,7 @@ myworkspacebarclays.com
 myyoutubehub.com
 myyoutubers.com
 myyoutubeshop.com
+nab.netbank-security.com
 nab.personal.banking.user-auth.com
 nabcom.cloud
 nabdefence-au-securesession-accountrestore.login9-secure.com
@@ -11385,6 +11543,7 @@ netflix-acesso.net
 netflix-acessocliente.com
 netflix-acount.com
 netflix-act.com
+netflix-activate.com
 netflix-admin.online
 netflix-adult.tokyo
 netflix-alert.com
@@ -11491,6 +11650,7 @@ netflix-rez.com
 netflix-security.email
 netflix-seriesevideosonline.com
 netflix-setup.com
+netflix-singup.com
 netflix-solutions.com
 netflix-streaming.com
 netflix-studio.com
@@ -11508,6 +11668,7 @@ netflix-tv.download
 netflix-uci.com
 netflix-update.online
 netflix-updates.com
+netflix-us.com
 netflix-user-bill.com
 netflix-userlogin.com
 netflix-uservalidate.com
@@ -11517,6 +11678,7 @@ netflix-validator.com
 netflix-ver.com
 netflix-videoload.com
 netflix-vir.com
+netflix-web.com
 netflix.auction
 netflix.earth
 netflix.fit
@@ -11528,6 +11690,7 @@ netflix.store
 netflix.stream
 netflix.tube
 netflix01.com
+netflix1-payment-declined.depakirtasiye.com
 netflix10best.com
 netflix11.com
 netflix12.com
@@ -11593,6 +11756,7 @@ netflixboom.com
 netflixbr.com
 netflixbr.net
 netflixbr.website
+netflixbrasii.com
 netflixbrasil-promo.com
 netflixbrasil.net
 netflixbrasilpromo.com
@@ -11617,6 +11781,7 @@ netflixcoma.com
 netflixcomedyspecials.com
 netflixcommunity.com
 netflixcomposer.com
+netflixconsumer.com
 netflixconvites.com
 netflixcoorp.com
 netflixcprem.com
@@ -11841,6 +12006,7 @@ netflixsupports.net
 netflixtalk.com
 netflixteamsid.com
 netflixteamsupport.com
+netflixtechnicalsupport.com
 netflixthis.com
 netflixtmob.info
 netflixtop10.com
@@ -11861,6 +12027,7 @@ netflixuserpolocy.com
 netflixusersupport.sysvalidate.safeguard.29df73d34-billing.com
 netflixusersupport.sysvalidate.safeguard.account-membership9.com
 netflixusersupport.sysvalidate.safeguard.audit-membership916.com
+netflixusersupport.sysvalidate.safeguard.billing-46d83mf93.com
 netflixusersupport.sysvalidate.safeguard.billing-customer738.com
 netflixusersupport.sysvalidate.safeguard.billing-internet3.com
 netflixusersupport.sysvalidate.safeguard.billing0customer273.com
@@ -12023,6 +12190,7 @@ odnokluz39.hotmail.ru
 oeasafari.net
 oferta-netflix.com
 ofertanetflix.org
+offeritunes.com
 offers-amazon.com
 offerte-apple.com
 office-365.nut.cc
@@ -12383,6 +12551,7 @@ page-myicloud-appleid.com
 page-verifysuspicious.com
 page.paypal.com.webapps.redirecting.to-secure.wildcard.review-limitedaccount.cherrywoodartfair.org
 pagefacebook.com
+pageidupdate.ga
 pages-problems-verify.ga
 pages.ebay.com.zedataro.com
 pagina-appleiciudseidar8723.com
@@ -12500,6 +12669,7 @@ paypai-supportactiveyour-account.com
 paypai.com-access.resolvee.lmitied-access.234552345234asw.1987.nexusoilandgas.com
 paypai.receiptorder.com
 paypaiiyl.com
+paypaillog3nmyacc0unt.com
 paypainc-summary.com
 paypaiobject-secure.com
 paypaiteam-secure.com
@@ -12507,6 +12677,7 @@ paypal--help.com
 paypal--italy.www1.biz
 paypal--payment.com
 paypal--recoverysystemsecuritysafety.com
+paypal-365.biz
 paypal-acc-login.com
 paypal-accesinfo-signin-com-canc8ah751jd8918h27h5712h7g1.contascsup.com
 paypal-account-alert.com
@@ -12584,6 +12755,7 @@ paypal-ebay.com
 paypal-emailverification.com
 paypal-fowz.com
 paypal-fr.com
+paypal-gb.net
 paypal-gestisci.site
 paypal-gift.stokdomengan.com
 paypal-gift.webappswadminlogin.com
@@ -12649,7 +12821,9 @@ paypal-limited.myonlineappsupdates.com
 paypal-limitiedsecures.com
 paypal-lnfo.com
 paypal-login-com.cloverdigitalmarketing.com
+paypal-login-fr.com
 paypal-login-help.com
+paypal-login-new.com
 paypal-login-support.com
 paypal-login-support.net
 paypal-login-your-account.conavcation.com
@@ -12668,6 +12842,8 @@ paypal-msanti75gmail.com
 paypal-myaccount.com
 paypal-myaccounts.com
 paypal-mysummery.com
+paypal-national.com
+paypal-no-reply.c1280067.ferozo.com
 paypal-notic-com-ajca8wy57agca56f5a8hcabt5a.h2obawang.com
 paypal-notificationfraud.com
 paypal-on.com
@@ -12697,17 +12873,21 @@ paypal-resolution.support
 paypal-resolutioncenter-policyagreement.info
 paypal-resolutioncenter-unusualactivity.com
 paypal-resolutions.support
+paypal-resolve-limited.com
 paypal-resolve.tips
 paypal-resolvecenter.com
 paypal-resolving.team
 paypal-restore-data.com
 paypal-revlews.com
+paypal-rfund.com
 paypal-ripple.com
 paypal-safejapan.com
+paypal-safer.com
 paypal-secsignin-com-acna951bn82df1b28r1b.acslimsignin.com
 paypal-secure-payments.com
 paypal-secure-solution.com
 paypal-secure-verification.com
+paypal-secure-verify.com
 paypal-secure.team
 paypal-secure.xyz
 paypal-secured.com
@@ -12721,6 +12901,7 @@ paypal-security-upload.net
 paypal-security.email
 paypal-security.network
 paypal-securityreport.com
+paypal-securrty.herokuapp.com
 paypal-servce.com
 paypal-service-automatic-pay-ment-centralserver-paypal.com.automaticsentcveriv.com
 paypal-service-automatic-pay-ment-centralserver-paypal.com.automaticsfdsent.com
@@ -12833,6 +13014,7 @@ paypal-webss-service-account.com
 paypal-xrp.com
 paypal-zahlung.com.de
 paypal-zahlung.de
+paypal-zhuce.com
 paypal.anamezing.com
 paypal.apply.verifications-identity.co.nz
 paypal.bengkulutriathlon.com
@@ -12843,6 +13025,7 @@ paypal.cgi-binwebapps.com
 paypal.cgi-intl-customer.com
 paypal.ch-pypal-2018-mng-accss0user9128310.info
 paypal.co.uk.088c.pw
+paypal.co.uk.1nqf.pw
 paypal.co.uk.1ulj.pw
 paypal.co.uk.6g1x.pw
 paypal.co.uk.6z0r.pw
@@ -12910,6 +13093,7 @@ paypal.com.https.s2.gvirabi.com
 paypal.com.login.cgi.submit.confirm.information.com.tzleszek.webd.pl
 paypal.com.mushasconsult.com
 paypal.com.myaccount.validation.der.iatxmjzqhibe81zwertghuhjfdeessdffghhjjjkk.bufrtgdsfggrwwssrr.fzzy7nidicadefnalea-center.com.metrofunders.com
+paypal.com.open-case-id-4512-5521-4586-9965.com
 paypal.com.restore-myaccount-access.com
 paypal.com.schooler.net
 paypal.com.service-accountverified.com
@@ -13060,6 +13244,7 @@ paypalcom88gibinebscrcmdhomegeneraldispatch0db1f3842.voldrotan.com
 paypalcommysummary.com
 paypalcommysummaryaccount.com
 paypalconfiramationaccount.com
+paypalconfirmations.com
 paypalconsulting.com
 paypalcradit.com
 paypalcred.com
@@ -13153,6 +13338,7 @@ paypalmanger.com
 paypalmatrix.com
 paypalme.link
 paypalme.maliku-baru.id
+paypalmobile.com
 paypalmobilemoney.com
 paypalmoney.com
 paypalmoney.info
@@ -13219,12 +13405,14 @@ paypalsecure.center
 paypalsecureconnet.blogspot.com
 paypalsecuredlogin.com
 paypalsecurepayment.com
+paypalsecurities.com
 paypalsecurity-automaticsystem-secure-server.turadiorv.com
 paypalsecurity.com.cgi-bin34343a4342yh33253293h5khk33325325h23523klhl2353525l.payhelping.com
 paypalsecurity.team
 paypalsecuritysystem.com
 paypalservice.info
 paypalservice.payment-reviewed.com
+paypalservice.services
 paypalservicelogin.com
 paypalservices-updateyouraccount.com
 paypalserviceslimited.com
@@ -13353,6 +13541,7 @@ paysnetflix.com
 paysummarry.payemail-business.info
 paytmbankindia.com
 payviapaypal.com
+pbeneficios.com.ar
 pccentralservicios.com
 pcuhapple.info
 pcwyoutube.com
@@ -13408,6 +13597,7 @@ piraterfacebook.net
 piraterun-comptefacebook.com
 piscomacchupichu.com
 pl-facebook.grupki.com
+planos-netflix.com
 plataformacongres.com
 playoffice.es
 please-update-your-accountid.com
@@ -13587,6 +13777,7 @@ premacanada.ca
 premieraccount-netflix.com
 premieroffice.com.vn
 premio-netflix.com
+premium--netflix.com
 premium-iapple.ru
 premium-spotify.com
 premium-ultrahd-netflix.com
@@ -13754,6 +13945,7 @@ rcb-bank.com
 rcbconlineupdate.com
 rdiphone.com.br
 re-activate-user-mail.000webhostapp.com
+re-activeitunes.com
 re-mac.org
 re-store-apple.com
 re-view-accountupdatepayment.com
@@ -13897,6 +14089,7 @@ resoluttion-center-paypal.com
 resolve-accounts-paypals.com
 resolve-caseid-apple.com
 resolve-locked-apple-account.com
+resolve-paypal-com.signin.homesupprt.com
 resolveaccounpaypal.com
 resolveapp-logino.com
 resolved-apple.com
@@ -13906,6 +14099,8 @@ resolving-apple.com
 resource-apple.ru
 ressources-apple.com
 restartapple.ru
+restore-access-appleid-665.com
+restore-access-appleid-665.info
 restore-account-amazon.com
 restore-apple.com
 restore-paypal-account-accsess.acmagency.ru
@@ -13914,6 +14109,7 @@ restoreappleid-apple.com
 restoredes-appleid.info
 restricted-apples.com
 retail-santander.com
+retail-santander.org
 retail.santander.co.uk.logsuknsens.btochanneldriver.ssobtodse.operationname.logondse.processorstate.initialredirects.bconservices.com.au
 reunlock-services-accountapple.com
 revelationfilmsstudios.com
@@ -13947,6 +14143,7 @@ roservicios.com.mx
 rovar-ebay.com
 royalbank.com.cgi.bin.rbaccess.rbunxcgi3ff6126f7.ib26f21.ib26f22ib26request.clientsignin.inventis.com.au
 royalbank.com.elpeetha.com.au
+royalbank.gcplibrary.com
 royalbank.securityauditssl.com
 royalbankpacific.com
 rpkfece-amazonqyh.biz
@@ -14052,6 +14249,7 @@ santander-desbloqueio.online
 santander-digital-services.com
 santander-digital-technology.com
 santander-digital.com
+santander-es.cloud
 santander-free.com
 santander-id-registre.tk
 santander-innovation.com
@@ -14302,6 +14500,7 @@ sec7.appmailsid-jpservid.jp-maaccapplesrv.com
 secondhand-mobilephones.co.uk
 secur-pages-update.tk
 secur1-apple-i.cloud
+secur3e-appleaccount-shopsigninapp.com
 securappleincmail.com
 secure-2-store-apple-service-log-in.com
 secure-acc0ntitunes-bussiness.com
@@ -14344,9 +14543,11 @@ secure-my-apple-icloud.com
 secure-onlineappleid-applewebapps8286372.com
 secure-paypage.com
 secure-paypal-account-verification.support
+secure-paypal-info-id.c1230208.ferozo.com
 secure-paypal-login-iyunesapple.c9users.io
 secure-paypal-service.com
 secure-paypal-update.co.uk
+secure-paypal-verification.com
 secure-paypal.account.page.update.togasmillenium.com
 secure-paypal.com-account.reloginphp-idconfirmation.com
 secure-paypal.com.identified-customer-support.net
@@ -14400,11 +14601,13 @@ secure.square-enix.com.login-account-mxet.usa.cc
 secure.update-your-acconts.radiolike.gr
 secure.usaa.account.update.studioglobalfashion.com
 secure000-webpaypal.com
+secure01-icloud-unlock-account.com
 secure01-store-apple.com
 secure01b.chase.com-auth-reverify.mgiealutes.com
 secure01bankofamerica.birdslisten.com
 secure1-apple.cloud
 secure1-store-apple.info
+secure1.apple.com.authorized-certified.eu
 secure1.safelink-paypal.404eror.se-rve-r.com
 secure1.store.apple.com.it-shop-sign-in-c.ahr0cdovl3d3dy5hchbszs5jb20vaxqvfdfhb3nknjaymzriow.sfimo.org
 secure1.store.login.cloudstorage-helpdesk.com
@@ -14458,6 +14661,7 @@ securelogin-verifypaypal.com
 securelogin.bp.poste.it-login.account-secure-id-928172992.aggiornamento.clienti2018.giadoc.com
 securemail-servicecu.org
 securemailservise.ml-agency.net
+secureone-bankofthephiliipinesaccessonline.com
 secureonlinemetrologin.com
 secureonlinepaypal-verify.co.uk
 securepageverify-cancelpayment.com
@@ -14466,6 +14670,7 @@ securepaymentverifyszvalidate.com
 securepaypal-intl.com
 securepaypal-signin.com
 securepaypal.com
+securepaypalverification.co.uk
 secureportal-netflix-contact.net
 securepurchase-verifyappid.com
 secures-appleid.com
@@ -14607,6 +14812,7 @@ servcemail-update.com
 servciosbecpe.com
 server-update-mail-us.website
 serverapple.com
+serverlmailserv8986b3601f8serverlmailserv8986b3601f8.gladysv.com
 servers-icloud.com
 serves.paypall.bellezayalegria.com
 serveur-icloud.com
@@ -14634,15 +14840,18 @@ service-apps-apple.com
 service-bestellung-amazon.com
 service-ebay.com
 service-gzt2aennk9-amazon-qhf1w2w2xm.ru
+service-instagramhelp.com
 service-intl-paypal.com
 service-investigation-paypal.com
 service-investigations-paypal.com
+service-japan-apple.com
 service-ld-apple.com
 service-locked-appleid.com
 service-locked-authenticated-verify-id11.com
 service-locked-cloud-id-verify-id11-tls.com
 service-login-center.com
 service-login-managed-case-id-0129398.uk
+service-mail.biz
 service-manage-appleid.com
 service-manageapple.com
 service-managpaypal.com
@@ -14659,6 +14868,7 @@ service-paypal.center
 service-paypal.com-support-serviceaccontreminder.co.uk
 service-paypal.com.recovery-support-solution.net
 service-paypal.email
+service-paypal.provab.com
 service-paypal.signalwarrior.com
 service-paypal.srv-info.club
 service-perconel-instagram.com
@@ -14725,6 +14935,7 @@ servicesoffices.weebly.com
 serviceunlockeds-accountphoness.com
 serviceupdatepaypal.com
 serviceverification-appleid.com
+serviceverifycenter.com
 serviceyourpaypal.com
 servicio-appleidspanish.com
 servicio-tecnico-apple-alicante.com
@@ -14789,6 +15000,7 @@ sigei-apple.com
 sigfa-apple.com
 sigid-apple.com
 sigin-apple-ip.com
+sigin-appleid-intl-aoth.com
 sigmacooltech.com
 sign-applei.com
 sign-appleid.com
@@ -14844,6 +15056,7 @@ signin.amazon.co.uk-prime.form-unsuscribe.id-5560.naturalsoap.com.au
 signin.amazon.co.uk-prime.form-unsuscribe.id-6554.naturalsoap.com.au
 signin.amazon.co.uk-prime.form-unsuscribe.id-6758.naturalsoap.com.au
 signin.amazon.co.uk-prime.form-unsuscribe.id-9661.steservices.com.au
+signin.bank.of.america.gwbenji.com
 signin.ebay-offer.id6576572.en-up.me
 signin.ebay.co.uk.canfra.com
 signin.ebay.co.uk.forum-discussion.bugs3.com
@@ -14949,6 +15162,7 @@ soporte-apple.services
 soporte-depago-confirmacion.com
 soporte-netflix.com
 soporteapple.services
+soporteapplemx.com
 soporteid-iphone.com
 soporteoficialapple.com
 sopport-apple-maps.com
@@ -14981,6 +15195,7 @@ spotifitunes.com
 spotify-competition.com
 spotify-download.com
 spotify-giris.com
+spotify-girisyap.com
 spotify-irlanda.com
 spotify-memberships.com
 spotify-validations.com
@@ -15049,6 +15264,7 @@ store-appleid-applied.com
 store-apples.com
 store-apps-appleidh-idbegu.com
 store-apps-appleidh-idsy6.com
+store-itunes.online
 store-youtube.ru
 store.apple.com-invoices.com
 store.ebay.es.yougarage.net
@@ -15080,6 +15296,7 @@ sube-halkbank-80yilozel.com
 sube-halkbank-parafpara.com
 sube-halkbankasi-paraf.com
 sube-halkbankasi-tr.com
+sube-sekerbankasi-tr.com
 sube-ziraat-bank.com
 sube.cepte-halkbank.com
 sube.online-halkbankasi-tr.com
@@ -15185,6 +15402,7 @@ support-appleid-account-information-apple.com
 support-appleid-accounts.com
 support-appleid-apple-account.com
 support-appleid-apple-secure-identity.com
+support-appleid-secureaccount.com
 support-appleid.online
 support-appleid.tech
 support-appleidiunlockaccountrecoverydatacenter.com
@@ -15237,6 +15455,7 @@ support-mail-pp.net
 support-mail-warn.com
 support-mailupgrade.ngrok.io
 support-manage-appleid.com
+support-manageappleid-chekingorder.com
 support-management-apple.com
 support-my-apple.com
 support-paypal-inc.com
@@ -15256,6 +15475,7 @@ support-service-apple.cloud
 support-service404-appleid-resolutioncenter.cf
 support-serviceappleid-verify-identityfrom.com
 support-servicemyappleid-verify-identityform.com
+support-settings-manage-appleid-apple.com
 support-sign.appl-id.apple.unauthorizdactvty.com
 support-subscription-apple.com
 support-subscriptions-apple.com
@@ -15308,12 +15528,15 @@ supportmanageraccount-appleid.com
 supportnetflixpremium.com
 supportnetflixteam.net
 supportnumberapple.com
+supportoffice365.net
+supportorder-security-appleiddenied.com
 supportpaypal.org
 supportrenewal-subscriptions-apple.com
 supports-apple.info
 supports-apple.net
 supports-icloud.com
 supports-id-apple.com
+supports-softbank.com
 supports-westernunion-baybybank.com
 supports-westernunion-baybybank.org
 supportsecurity-apple.com
@@ -15360,6 +15583,7 @@ sys-appleservices.com
 sysapplecenter.com
 system-0coin1.stream
 system-mail-ku-dk.cba.pl
+system-service-appleidunlocked.com
 system-updateds.com
 system-verify.com
 system.apple-appleid.online.ddvqy.costsegadvocate.com
@@ -15395,6 +15619,7 @@ tc-ziraattbank.com
 td-bankcanada.com
 td1-acc-login.com
 td1-login-acc1.com
+team-apple-id.com
 team-apple-lost.com
 team-recovery-facebook.com
 teamace.org
@@ -15501,6 +15726,16 @@ tinder-login.com
 tinnitunes.org
 tkfbankatin.com
 tmacplace.000webhostapp.com
+to-ruleta-apple.accountant
+to-ruleta-apple.cricket
+to-ruleta-apple.date
+to-ruleta-apple.download
+to-ruleta-apple.faith
+to-ruleta-apple.loan
+to-ruleta-apple.men
+to-ruleta-apple.party
+to-ruleta-apple.science
+to-ruleta-apple.win
 tochka-apple.ru
 todaimail.com
 token-update-manage-accounts-apple.com
@@ -15515,6 +15750,7 @@ toppaypal.com
 toppornhub.com
 topup-paypal.com
 torrentapple.com
+tosecurecode-appleid.info
 totalfacebooksuccess.com
 tourismhimachal.net
 tr-acikdeniz-denizbanki.com
@@ -15669,6 +15905,7 @@ unlockaccountverify.systems
 unlockappleid.net
 unlocked-iphones.com
 unlockiphonepro.com
+unlockitunes.com
 unlocklivevideofacebook.lifecares.info
 unlockmyapple.com
 unlockuserclient-appleid.com
@@ -15761,6 +15998,7 @@ update-linkedin.com
 update-linkpaypa.andersonmtnrentals.com
 update-my-information.onsitehydrogen.com
 update-myappleid-account.com
+update-netflix.online
 update-now-account-limataccount.com
 update-onlinepayppal.com
 update-outlook.online
@@ -15779,6 +16017,7 @@ update-your-account-active-accounfull.com
 update-your-account-info-full-account.com
 update-your-account-info.local-law-87.com
 update-your-account-information-paypal.artisantrust.in
+update-your-account-now-now.aba.ae
 update-your-account-securty.realbeautyagency.com
 update-your-account.globalbconsulting.com
 update-your-account.rccgcanada.org
@@ -15798,6 +16037,7 @@ update.paypal.com.zaz-com.com
 update.reviews-activities-summary.com
 update.shashlyk-ryazan.ru
 update.sunnsand.biz
+update.your-full-account-informations.easywider.co.uk
 update17978.top
 update17980.top
 update17981.top
@@ -15844,6 +16084,7 @@ updateinfo.iglff.dxdznbjrynwnxmsd6.xyz
 updateinfo.titvk.q2ffck4uqrdb5svt9.xyz
 updateinfo.xipiv.3bsclwvaeyzm4cfga.xyz
 updateinformationpaymen.com
+updateir.ml
 updatelimited.org
 updately-informatioccount.com
 updatememberinfo.huvfn.76v2snn2pgd6.net.ve
@@ -15873,6 +16114,7 @@ updatesinfo.net
 updatesite.xyz
 updatesiystem-fbmmss.ga
 updatespaypal.com
+updatesregularrecovery.ml
 updateswitzapple.com
 updatet.info
 updatet.io
@@ -16055,6 +16297,7 @@ verify-id.link
 verify-identity-locked-cloud-id-tls-cgi-id9.com
 verify-itunes-news-account.com
 verify-m-facebook.com
+verify-my-account-apple-id.com
 verify-my-account-info.vitruvio.com.co
 verify-natwest-nwlobservice-custo.com
 verify-ordeer-payment.com
@@ -16126,6 +16369,7 @@ verifypaypal-limited.com
 verifypaypal.com
 verifypaypal.online
 verifypaypalaccounts.com
+verifypaypalgateway.com
 verifypaypalonline.com
 verifypaypalsecure.com
 verifyprotectaccountlimited.com
@@ -16296,7 +16540,9 @@ webapps-verify-account-information-caseid131513-apple.com
 webapps-verify-account-information-caseid131514-apple.com
 webapps-verify-account-information-caseid131515-apple.com
 webapps.paypal.com.secure.authflow-account.management
+webappss09.paypls-manage-accounts.com
 webauthverify-webappid.com
+webcsr-appleid.com
 webdisk.2faverify.com
 webdisk.ibuscar-iphone.com
 webdisk.lcloudfound.us.com
@@ -16721,6 +16967,7 @@ www.3netflix.net
 www.3pornhub.com
 www.4-netflix.info
 www.4applesindltd.com
+www.4bancosantander.cloud
 www.4gpaypal.com
 www.4k-netflix.info
 www.4k-netflix.net
@@ -16874,6 +17121,7 @@ www.addictxdtonetflix.com
 www.addpaypal.com
 www.addpaypalmoney.com
 www.adfs.uky.edu.adfs.ls.client.request.id.984b9da9.79f04e2b82b3cec190911989.usernamewawsignin1.0wtrealmurn3afederation.3amicrosoftonline.wctxestsredirect3d226estsrequest.longbridgesocial.com
+www.adm-replyonedrivepagenotificationinputwebformaccess.000webhostapp.com
 www.admin-apple-appleid.com
 www.admin-office.czweb.org
 www.admin-office.us
@@ -16881,6 +17129,7 @@ www.admin-update-admin-update-admin-update.lifeinsurance-newcastle.com.au
 www.adminmailer0832.000webhostapp.com
 www.adminmailer0936.000webhostapp.com
 www.adminmailer2091.000webhostapp.com
+www.adminmailer2309.000webhostapp.com
 www.adminmailer48076.000webhostapp.com
 www.adminmailer60853.000webhostapp.com
 www.adminmailer9344.000webhostapp.com
@@ -16999,6 +17248,7 @@ www.adobeillustratorbasics.com
 www.adobeillustratorforbloggers.com
 www.adobeinstall.com
 www.adobekey.com
+www.adobekeys-download.com
 www.adobelive.net
 www.adobemacromedia.com
 www.adobemail-com.000webhostapp.com
@@ -17011,6 +17261,7 @@ www.adobeonlinepdf-smfr.000webhostapp.com
 www.adobeonlinereader.000webhostapp.com
 www.adobepay.com
 www.adobepdf55.000webhostapp.com
+www.adobepdfremmit.000webhostapp.com
 www.adobephonenumber.com
 www.adobephotoshopcs5.com
 www.adobepremiereprocs6serialnumberfreedownload.com
@@ -17280,12 +17531,14 @@ www.amazon-prime.online
 www.amazon-private-label.com
 www.amazon-private.com
 www.amazon-product-shipping.com
+www.amazon-promocode.com
 www.amazon-promote.com
 www.amazon-promotions.info
 www.amazon-quiz.com
 www.amazon-rainforest.com
 www.amazon-reactive.com
 www.amazon-rechnung.net
+www.amazon-recruiting.com
 www.amazon-reisen.com
 www.amazon-reply.com
 www.amazon-rescue.com
@@ -17512,6 +17765,22 @@ www.apple-account-0842.com
 www.apple-account-0867.com
 www.apple-account-0912.com
 www.apple-account-0923.com
+www.apple-account-1920.com
+www.apple-account-1930.com
+www.apple-account-1940.com
+www.apple-account-1950.com
+www.apple-account-1960.com
+www.apple-account-1970.com
+www.apple-account-1980.com
+www.apple-account-1990.com
+www.apple-account-1991.com
+www.apple-account-1992.com
+www.apple-account-1993.com
+www.apple-account-1994.com
+www.apple-account-1995.com
+www.apple-account-1996.com
+www.apple-account-1997.com
+www.apple-account-1999.com
 www.apple-account-4409.com
 www.apple-account-4704.com
 www.apple-account-9765.com
@@ -17532,6 +17801,7 @@ www.apple-accountcenter.com
 www.apple-accountdeviceupdate.com
 www.apple-accounts.com
 www.apple-accountservice.com
+www.apple-accountserviceonline.com
 www.apple-accountservices.com
 www.apple-accountslocked-fraudprevention.com
 www.apple-accountupdate-syscenter.com
@@ -17634,6 +17904,7 @@ www.apple-check.info
 www.apple-chel.ru
 www.apple-china.ru
 www.apple-ci.com
+www.apple-cioud.com
 www.apple-claim.com
 www.apple-closet.com
 www.apple-cloud-ex-error78600.online
@@ -17754,6 +18025,7 @@ www.apple-healthcare.biz
 www.apple-healthcare.info
 www.apple-healthcare.net
 www.apple-healthcare.org
+www.apple-help.com
 www.apple-help.info
 www.apple-helpinformation.com
 www.apple-helponline.net
@@ -17871,6 +18143,7 @@ www.apple-idso.com
 www.apple-idverify.com
 www.apple-idweb.com
 www.apple-idwz.com
+www.apple-ifoeiphone.com
 www.apple-ifoniphone.com
 www.apple-iforget.info
 www.apple-iforgot.date
@@ -18049,6 +18322,7 @@ www.apple-maildelivery.stream
 www.apple-maildelivery.win
 www.apple-mails.com
 www.apple-manage-alerte.com
+www.apple-manage-appleid.com
 www.apple-map.site
 www.apple-maps.com
 www.apple-maps.ru
@@ -18070,6 +18344,7 @@ www.apple-nc.org
 www.apple-nd.com
 www.apple-needs.com
 www.apple-net.ru
+www.apple-netcenter.com
 www.apple-nl.info
 www.apple-no-reply.info
 www.apple-not-founded-account.com
@@ -18086,6 +18361,7 @@ www.apple-om.com
 www.apple-online-account.com
 www.apple-online-verification.com
 www.apple-online24.com
+www.apple-onlinecenter.com
 www.apple-onlineshop.com
 www.apple-onlineshop.ru
 www.apple-optika.ru
@@ -18109,6 +18385,7 @@ www.apple-pccustoms.com
 www.apple-peel.com
 www.apple-pen.info
 www.apple-phone-id.com
+www.apple-phone-number.com
 www.apple-phone.com
 www.apple-phone.store
 www.apple-phone134.ru
@@ -18162,6 +18439,7 @@ www.apple-resloves.com
 www.apple-resolve-info.com
 www.apple-resolve-intl.com
 www.apple-resource.ru
+www.apple-response-appleid.com
 www.apple-responsible.com
 www.apple-restore.com
 www.apple-restore.info
@@ -18196,6 +18474,7 @@ www.apple-secure.com
 www.apple-secure.team
 www.apple-secure3d-required.com
 www.apple-secure3d-verification.com
+www.apple-secured.com
 www.apple-secureid.company
 www.apple-secureid.info
 www.apple-secureiid.com
@@ -18251,6 +18530,7 @@ www.apple-shop-sale.com
 www.apple-shop18.ru
 www.apple-sib.com
 www.apple-signature.com
+www.apple-signonline.com
 www.apple-sing-in.com
 www.apple-singin-costumer.com
 www.apple-sizhuang.com
@@ -18377,6 +18657,7 @@ www.apple-updatecustomeraccounthelpcenteraccess.com
 www.apple-updateonline.com
 www.apple-updatez.com
 www.apple-upgradeonline.com
+www.apple-url.com
 www.apple-usado.com
 www.apple-used-store.com
 www.apple-users.com
@@ -18452,6 +18733,7 @@ www.apple0631.com
 www.apple08.com
 www.apple0912.com
 www.apple1001.ru
+www.apple108.com
 www.apple10global.com
 www.apple11st.com
 www.apple128.com
@@ -18988,6 +19270,7 @@ www.appleid-applesoporte.com
 www.appleid-applestoer.com
 www.appleid-application.com
 www.appleid-applle-support.com
+www.appleid-applle.com
 www.appleid-appsonline.com
 www.appleid-appstore-account.com
 www.appleid-appstore-aspx.com
@@ -19156,6 +19439,7 @@ www.appleid-serviceaccount-information.com
 www.appleid-serviceaccount-information.org
 www.appleid-servicemyaccount.com
 www.appleid-services-locked-account-authenticated.com
+www.appleid-setting.com
 www.appleid-sevice.com
 www.appleid-sevice.top
 www.appleid-sevicelnfo.com
@@ -19173,6 +19457,7 @@ www.appleid-suport.com
 www.appleid-suporte.com
 www.appleid-supp.com
 www.appleid-support-account.com
+www.appleid-support-customer.com
 www.appleid-support-manage.com
 www.appleid-support.store
 www.appleid-support.us
@@ -19223,6 +19508,7 @@ www.appleid.apple.com.allcookerrepairs.co.uk
 www.appleid.apple.com.id3432534641f6a850a564167e47e1fdd0fdacef8342d42f0ad67752425109.nwgawomensexpo.com
 www.appleid.apple.com.signin.gwcs.in
 www.appleid.apple.com.supportpages-policy.buzz
+www.appleid.apple.com.thenicholls.net
 www.appleid.apple.comll.org
 www.appleid.apple.glammamomma.com
 www.appleid.com-signin-update.verificationx8489nc7ns7693j376d.gpt.vn
@@ -19295,6 +19581,7 @@ www.appleidsecure-support.com
 www.appleidsecure.net
 www.appleidsecurity.com
 www.appleidservice-eu.com
+www.appleidservicesstu.business
 www.appleidsgn.com
 www.appleidshop.com
 www.appleidshop.net
@@ -19370,6 +19657,7 @@ www.appleintel.org
 www.appleintelfaq.com
 www.appleiobers.com
 www.appleios-ios.com
+www.appleios-iphone.com
 www.appleios-iphoneid.com
 www.appleios.info
 www.appleios11.com
@@ -19817,6 +20105,7 @@ www.appleregard.ru
 www.applerehberi.com
 www.applerelated.com
 www.applereleases.com
+www.applerem.com
 www.appleremote.online
 www.applerenew.com
 www.applerenew.org
@@ -19896,6 +20185,7 @@ www.applesdv.com
 www.applesecure-intl.com
 www.applesecure-serviceinc.com
 www.applesecure052.com
+www.applesecureaccount.com
 www.applesecurecenter.com
 www.applesecured.com
 www.applesecureinformation.com
@@ -20155,6 +20445,7 @@ www.appletech.mobi
 www.appletech.repair
 www.appletech.solutions
 www.appletech752.com
+www.appletechexperts.online
 www.appletechforum.com
 www.appletechgenius.com
 www.appletechguys.info
@@ -20219,6 +20510,7 @@ www.appleuas.com
 www.appleud-icloud.com
 www.appleukinc.com
 www.appleukon.com
+www.appleukwarranty.com
 www.appleunit.com
 www.appleunlimited.com
 www.appleunlockcodes.com
@@ -20429,11 +20721,13 @@ www.arvrpornhub.com
 www.asantanderbank.com
 www.asapnegocios.com
 www.asb.banking.changes-terms-conditions.gdn
+www.asdl-apple.com
 www.asesoriasgapple.cl
 www.ashmaconnerie.com
 www.askinstagram.com
 www.aspgitalnetflix.com
 www.assinar-netflix.com
+www.assine-netflix.com
 www.assine-netflix.net
 www.assinenetflix.com
 www.assinetflix.com
@@ -20496,6 +20790,7 @@ www.autoappleid.com
 www.autoshoppingmaceio.com.br
 www.autossantander.com
 www.autotwitterleads.com
+www.autoupdateinfoapple.com
 www.avfacebook.info
 www.awscloudapple.com
 www.awss-amazon.com
@@ -20619,6 +20914,7 @@ www.bankofamerica.myaccount.update.jonesrecruitment.com.au
 www.bankofamerica.npoexpo.org
 www.bankofamerica.online.orthosradiologia.com
 www.bankofamerica.personal578.com
+www.bankofamerica.santajicollege.ac.in
 www.bankofamerica.secure.online.viacaoariranha.com.br
 www.bankofamerica.verify478.com
 www.bankofamericapaymentalert.com
@@ -20742,6 +21038,7 @@ www.barclaysplusroyceintl.realty
 www.barclayspremierus.com
 www.barclaysprivateoffshore.online
 www.barclayspro.com
+www.barclaysrealestategroup.net
 www.barclaysroyceintl.realty
 www.barclaysscorp.com
 www.barclayssecure.com
@@ -20802,6 +21099,7 @@ www.biosmile.uy
 www.biosteam.com.au
 www.biostevia.com
 www.biostream.ind.br
+www.birdemailbusiness.com
 www.bit-coinmall.com
 www.bit-ebay.com
 www.bitcoin-2-paypal.com
@@ -21060,6 +21358,7 @@ www.chase-verify.com
 www.chasebank.scotibanks.com
 www.chasecom-amazon.com
 www.chaseinternationalbankpaymentalert.com
+www.chaseonlinebanking.doorex.sa
 www.chasesbanks.com
 www.chaseserver.com.validation.security.login.chass.get-valves.com
 www.chatbotwhatsapp.com
@@ -21128,6 +21427,7 @@ www.claim-icloud-apple.com
 www.claimapplewatch.win
 www.claimfreeapplewatch.com
 www.classyapple.com
+www.cleanmyapplemac.com
 www.clickestudios.com
 www.clickoffice.com.mx
 www.client-applestore.com
@@ -21196,6 +21496,7 @@ www.coinbitcoinyoutube.world
 www.coincheck.click
 www.coincollectingexpert.com
 www.coindropbox.com
+www.coinfisio.com.br
 www.coinfunder.net
 www.coinone.click
 www.coinone.deals
@@ -21268,6 +21569,7 @@ www.confirmacchelp.info
 www.confirmappleid.com
 www.confirmarnetflix.online
 www.confirmation-appleid.com
+www.confirmation-apples.com
 www.confirmation-cancel-order-paypal.info
 www.confirmation-purchase-apple.com
 www.confirmation-update-account-apple.com
@@ -21669,6 +21971,7 @@ www.emeraldappleresources.com
 www.emeraldappleresourcesllc.com
 www.emiliosalazar.org
 www.emojiapple.com
+www.emultinetflix.com
 www.en-amazon.com
 www.en-us-apple.com
 www.encrypteddr1ves.000webhostapp.com
@@ -22407,6 +22710,7 @@ www.gentotloe-appleid.info
 www.genuineappleservice.com
 www.geotwittermarketing.com
 www.geriose.com
+www.germanycrypto.date
 www.gest.appleid-apple.aliance.otpob.traintohunt.com
 www.gestformacion.com
 www.gestionaidapple.webcindario.com
@@ -22482,6 +22786,7 @@ www.go.facebook.view.herbalgalax.com
 www.gocloudway.com
 www.gogle-email-support.com
 www.golden-appleplus.com
+www.goldenapplehotelgroup.com
 www.goldplatedapplewatch.com
 www.goldsodamachine.com
 www.gologicloud.com
@@ -22526,6 +22831,7 @@ www.googleplaycodes.extafiles.com
 www.googleplaysto.red
 www.googlepourlesnuls.com
 www.googlerankmysite.com
+www.googletowork.com
 www.googletrnslate.com
 www.googlevideositemap.com
 www.googlfacebooke.com
@@ -22598,6 +22904,32 @@ www.helpcenter-netflix.com
 www.helpdesk-apple.cloud
 www.helpdeskemailtechnicalserdsk.tripod.com
 www.helpingpaypalcostumers.com
+www.helpmpaypalah.com
+www.helpmpaypalahmexico.com
+www.helpmpaypalbt.com
+www.helpmpaypalbtmexico.com
+www.helpmpaypalci.com
+www.helpmpaypalcimexico.com
+www.helpmpaypaler.com
+www.helpmpaypalermexico.com
+www.helpmpaypaleu.com
+www.helpmpaypaleumexico.com
+www.helpmpaypaleumexico.net
+www.helpmpaypalfg.com
+www.helpmpaypalfgmexico.com
+www.helpmpaypalfgmexico.net
+www.helpmpaypaljh.com
+www.helpmpaypaljhmexico.com
+www.helpmpaypalko.com
+www.helpmpaypalmu.com
+www.helpmpaypalmumexico.com
+www.helpmpaypalne.com
+www.helpmpaypalnemexico.com
+www.helpmpaypalnemexico.net
+www.helpmpaypalsf.com
+www.helpmpaypalsfmexico.com
+www.helpmpaypalsl.com
+www.helpmpaypalslmexico.com
 www.helpoffices.online
 www.helpsupport-iclouds.com
 www.helpwithpaypal.com
@@ -23339,6 +23671,7 @@ www.ice-machines-australia.com
 www.iceyouroffice.com
 www.icharger-apple.com
 www.icicibank.support
+www.icioud-appleid.info
 www.icioud-ios-id.com
 www.icioudincdex-ios.com
 www.iclient-helpinfoupdate-billing.com
@@ -23350,6 +23683,7 @@ www.icloud-apple-appleid-service-sms.com
 www.icloud-apple-appleid.com
 www.icloud-apple-i.com
 www.icloud-apple-id-110.com
+www.icloud-apple-id-security-information-restore-onlineprocess.steroidfiyatlari.com
 www.icloud-apple-idios.com
 www.icloud-apple-ies.com
 www.icloud-apple-info.com
@@ -23491,6 +23825,7 @@ www.icloudapple.services
 www.icloudapple.support
 www.icloudappleanc.com
 www.icloudappleapp.com
+www.icloudappleid.com
 www.icloudbuyback.com
 www.icloudbypass.pro
 www.icloudbypass.top
@@ -23840,6 +24175,7 @@ www.info-summary-account-paypal-acces-center.com
 www.info-supportapple.com
 www.info-usa-account-updates.com
 www.info.appleid.apple.store.luudl.elvoceador.net
+www.infoappledisable.com
 www.infoapplehome.com
 www.infoapplesecure.com
 www.infobarclays.co.uk
@@ -24068,6 +24404,7 @@ www.ios-info.online
 www.ios-kka1.com
 www.ios-losn.com
 www.ios-losst.com
+www.ios-maganari.com
 www.ios-notification.online
 www.ios-now.com
 www.ios-online.xyz
@@ -24337,6 +24674,7 @@ www.itunes-url.com
 www.itunes-valid.com
 www.itunes-verifactiondata.info
 www.itunes-verificaction-nedded-support-client.puridewisri.com
+www.itunes-webstore.net
 www.itunes.cat
 www.itunes.extafiles.com
 www.itunes.press
@@ -24614,6 +24952,7 @@ www.kopsnij.pl
 www.koripaypal.com
 www.kpornhub.com
 www.kreditnaya-karta-sberbank.com
+www.kripikkapi-appleid.info
 www.krpornhub.com
 www.kundenkonto-amazon-8zuykqqbsu-amazon.ru
 www.kundenkonto-amazon-9xkmev1v8z-amazon.ru
@@ -24712,6 +25051,8 @@ www.linkedincoins.com
 www.linkmail.000webhostapp.com
 www.linknetflix.com
 www.linuxhelps.com
+www.linuxmore.net
+www.linuxmoreservices.co.uk
 www.linuxprosupport.com
 www.linuxted.com
 www.linuxwebhostingdeals.com
@@ -24739,6 +25080,7 @@ www.localehelp-update-paypal.com
 www.localfacebookwiz.com
 www.localiza-apple.com
 www.localiza-id-apple.com
+www.localize-apple.com
 www.locate-access-apple.com
 www.locate-apple.com
 www.locateapple.net
@@ -24832,7 +25174,9 @@ www.login.microsoftonline.com.common.oauth2.authorize.clientid4345a7b99a634910a4
 www.login.microsoftonline.georgeskayaks.com
 www.login.orlandotrucksales.com
 www.login.paypal.com.webapps.redirecting.to-secure.wildcard.review-limitedaccount.cherrywoodartfair.org
+www.login.secure.bankofamerica.com.lafabricadeeventos.com
 www.login.securely-helpcenter.com.haitiministries.com
+www.login.sharepoint.cn.com
 www.login.yahoo.com.mail.login.com.session-signin.mailannounceservice.com
 www.login2view.com
 www.login464hr.online
@@ -24869,6 +25213,7 @@ www.logisticadelosrios.com
 www.logisticoffice.com
 www.lojadobebe.com.br
 www.london-apple.com
+www.losapple.com
 www.lost-apple.ru
 www.lost-device-apple.com
 www.losteventidestudios.com
@@ -25073,6 +25418,7 @@ www.maliaccesorios.com
 www.malldeservicios.com
 www.malwarebytes.webaccess-email.com
 www.manage-account-apple.com
+www.manage-account-settings-appleid-apple.support
 www.manage-apple-account-id.com
 www.manage-apple-inc.com
 www.manage-apple.com
@@ -25529,6 +25875,7 @@ www.myworkspacebarclays.com
 www.myyoutubehub.com
 www.myyoutubers.com
 www.myyoutubeshop.com
+www.nab.netbank-security.com
 www.nabcom.cloud
 www.nabdefence-au-securesession-accountrestore.login9-secure.com
 www.nablogin-com.com
@@ -25663,12 +26010,14 @@ www.netflix-promocoes.com
 www.netflix-promotion.com
 www.netflix-register.com
 www.netflix-renew.com
+www.netflix-report.com
 www.netflix-required.com
 www.netflix-reviews.com
 www.netflix-rez.com
 www.netflix-security.email
 www.netflix-seriesevideosonline.com
 www.netflix-setup.com
+www.netflix-singup.com
 www.netflix-solutions.com
 www.netflix-streaming.com
 www.netflix-studio.com
@@ -25686,13 +26035,16 @@ www.netflix-tv.download
 www.netflix-uci.com
 www.netflix-update.online
 www.netflix-updates.com
+www.netflix-us.com
 www.netflix-user-bill.com
 www.netflix-uservalidate.com
 www.netflix-validation.co.uk
 www.netflix-validation.com
+www.netflix-validator.com
 www.netflix-ver.com
 www.netflix-videoload.com
 www.netflix-vir.com
+www.netflix-web.com
 www.netflix.auction
 www.netflix.earth
 www.netflix.fit
@@ -25766,6 +26118,7 @@ www.netflixboom.com
 www.netflixbr.com
 www.netflixbr.net
 www.netflixbr.website
+www.netflixbrasii.com
 www.netflixbrasil-promo.com
 www.netflixbrasil.net
 www.netflixbrasilpromo.com
@@ -25790,6 +26143,7 @@ www.netflixcoma.com
 www.netflixcomedyspecials.com
 www.netflixcommunity.com
 www.netflixcomposer.com
+www.netflixconsumer.com
 www.netflixconvites.com
 www.netflixcoorp.com
 www.netflixcprem.com
@@ -26007,6 +26361,7 @@ www.netflixsupports.net
 www.netflixtalk.com
 www.netflixteamsid.com
 www.netflixteamsupport.com
+www.netflixtechnicalsupport.com
 www.netflixthis.com
 www.netflixtmob.info
 www.netflixtop10.com
@@ -26150,6 +26505,7 @@ www.objectsappleweb.com
 www.oclouds.ir
 www.oferta-netflix.com
 www.ofertanetflix.org
+www.offeritunes.com
 www.offers-amazon.com
 www.offerte-apple.com
 www.office-apple.com
@@ -26217,6 +26573,7 @@ www.onedrivesecurelogin.com
 www.onemillioninstagrams.com
 www.onenote-updates.com
 www.onjitunes.com
+www.online--qnbfinansbank.com
 www.online-adobe-filereader-pdf-format-document.000webhostapp.com
 www.online-apple.info
 www.online-applesecure-verification.co.uk
@@ -26494,6 +26851,7 @@ www.paypal--help.com
 www.paypal--italy.www1.biz
 www.paypal--payment.com
 www.paypal--recoverysystemsecuritysafety.com
+www.paypal-365.biz
 www.paypal-account-confirm.com
 www.paypal-account-has-been.limited
 www.paypal-account-limiteds.com
@@ -26547,6 +26905,7 @@ www.paypal-data-verification.com
 www.paypal-europe.dolawgroup.com
 www.paypal-fowz.com
 www.paypal-fr.com
+www.paypal-gb.net
 www.paypal-gestisci.site
 www.paypal-gifts.co.uk
 www.paypal-go.com
@@ -26612,6 +26971,8 @@ www.paypal-msanti75gmail.com
 www.paypal-myaccount.com
 www.paypal-myaccounts.com
 www.paypal-mysummery.com
+www.paypal-national.com
+www.paypal-no-reply.c1280067.ferozo.com
 www.paypal-notificationfraud.com
 www.paypal-on.com
 www.paypal-online-security-check.co.uk
@@ -26638,17 +26999,22 @@ www.paypal-resolution.support
 www.paypal-resolutioncenter-policyagreement.info
 www.paypal-resolutioncenter-unusualactivity.com
 www.paypal-resolutions.support
+www.paypal-resolve-limited.com
 www.paypal-resolve.tips
 www.paypal-resolvecenter.com
 www.paypal-resolveds.com.informations-payments.nut.cc
 www.paypal-resolving.team
 www.paypal-restore-data.com
 www.paypal-revlews.com
+www.paypal-rfund.com
 www.paypal-ripple.com
 www.paypal-safejapan.com
+www.paypal-safer.com
 www.paypal-secure-information.cf
 www.paypal-secure-payments.com
 www.paypal-secure-solution.com
+www.paypal-secure-verify.com
+www.paypal-secure-verify.online
 www.paypal-secure.team
 www.paypal-secured.com
 www.paypal-secureonline.com
@@ -26658,6 +27024,7 @@ www.paypal-security-upload.com
 www.paypal-security-upload.net
 www.paypal-security.email
 www.paypal-security.network
+www.paypal-securrty.herokuapp.com
 www.paypal-servce.com
 www.paypal-service-center.com
 www.paypal-service-online.com
@@ -26747,6 +27114,7 @@ www.paypal-webss-service-account.com
 www.paypal-xrp.com
 www.paypal-zahlung.com.de
 www.paypal-zahlung.de
+www.paypal-zhuce.com
 www.paypal.account-support-servicesid.com
 www.paypal.anamezing.com
 www.paypal.beautybysteph.co.za
@@ -26785,6 +27153,7 @@ www.paypal.com.idlocal-wpp.in
 www.paypal.com.local-wpp.reviews
 www.paypal.com.login.secure.update.information.update-verificationinfo-secures.com
 www.paypal.com.login.signin.emlakkonutsatilik.com
+www.paypal.com.moujmastiyan.com
 www.paypal.com.myaccount.fmalawi.com
 www.paypal.com.payments-issue-form.igg.biz
 www.paypal.com.recomendation-u.in
@@ -26898,6 +27267,7 @@ www.paypalcoin.com
 www.paypalcom.review
 www.paypalconfiramationaccount.com
 www.paypalconfirm.com
+www.paypalconfirmations.com
 www.paypalconsulting.com
 www.paypalcradit.com
 www.paypalcred.com
@@ -26976,6 +27346,7 @@ www.paypalmanger.com
 www.paypalmatrix.com
 www.paypalme.link
 www.paypalme.maliku-baru.id
+www.paypalmobile.com
 www.paypalmobilemoney.com
 www.paypalmoney.com
 www.paypalmoney.info
@@ -27030,10 +27401,12 @@ www.paypals.tips
 www.paypals.uk
 www.paypalsecure.center
 www.paypalsecurepayment.com
+www.paypalsecurities.com
 www.paypalsecurity.com.cgi-bin34343a4342yh33253293h5khk33325325h23523klhl2353525l.payhelping.com
 www.paypalsecurity.team
 www.paypalsecuritysystem.com
 www.paypalservice.info
+www.paypalservice.services
 www.paypalservicelogin.com
 www.paypalservices-updateyouraccount.com
 www.paypalserviceslimited.com
@@ -27126,6 +27499,7 @@ www.paysafecardtopaypalexchange.com
 www.paysnetflix.com
 www.paytmbankindia.com
 www.payviapaypal.com
+www.pbeneficios.com.ar
 www.pccentralservicios.com
 www.pcwyoutube.com
 www.pcypal-update.com
@@ -27169,6 +27543,7 @@ www.pirater-facebook.org
 www.piraterfacebook.net
 www.piraterun-comptefacebook.com
 www.piscomacchupichu.com
+www.planos-netflix.com
 www.plataformacongres.com
 www.playoffice.es
 www.pleaseupdateapple.com
@@ -27321,6 +27696,7 @@ www.premacare.co.th
 www.premieraccount-netflix.com
 www.premieroffice.com.vn
 www.premio-netflix.com
+www.premium--netflix.com
 www.premium-iapple.ru
 www.premium-spotify.com
 www.premium-ultrahd-netflix.com
@@ -27451,6 +27827,7 @@ www.rbwatsonspharmacy.com
 www.rcb-bank.com
 www.rdiphone.com.br
 www.re-activate-user-mail.000webhostapp.com
+www.re-activeitunes.com
 www.re-mac.org
 www.re-view-accountupdatepayment.com
 www.reachwhatsapp.com
@@ -27573,6 +27950,8 @@ www.resolvepaypalsecure.com
 www.resolving-apple.com
 www.resource-apple.ru
 www.restartapple.ru
+www.restore-access-appleid-665.com
+www.restore-access-appleid-665.info
 www.restore-account-amazon.com
 www.restore-apple.com
 www.restore-paypal-account-accsess.acmagency.ru
@@ -27606,6 +27985,7 @@ www.romaconsultores.com.ar
 www.rovar-ebay.com
 www.royalbank.com.cgi.bin.rbaccess.rbunxcgi3ff6126f7.ib26f21.ib26f22ib26request.clientsignin.inventis.com.au
 www.royalbank.com.elpeetha.com.au
+www.royalbank.gcplibrary.com
 www.royalbank.securityauditssl.com
 www.royalbankpacific.com
 www.ru-apple.com
@@ -27700,6 +28080,7 @@ www.santander-desbloqueio.online
 www.santander-digital-services.com
 www.santander-digital-technology.com
 www.santander-digital.com
+www.santander-es.cloud
 www.santander-free.com
 www.santander-id-registre.tk
 www.santander-innovation.com
@@ -27981,6 +28362,7 @@ www.secure.itunes.updates.help-info.team.account.support.manage.details-id094129
 www.secure.update-your-acconts.radiolike.gr
 www.secure.usaa.account.update.studioglobalfashion.com
 www.secure000-webpaypal.com
+www.secure01-icloud-unlock-account.com
 www.secure01-store-apple.com
 www.secure01b.chase.com-auth-reverify.mgiealutes.com
 www.secure01bankofamerica.birdslisten.com
@@ -28029,6 +28411,7 @@ www.securemailservise.ml-agency.net
 www.securepayintl-paypal.com
 www.securepaypal-intl.com
 www.securepaypal.com
+www.securepaypalverification.co.uk
 www.secureportal-netflix-contact.net
 www.secures-appleid.com
 www.securesaverapple.com
@@ -28136,6 +28519,7 @@ www.serietvnetflix.com
 www.serv-amazon.com
 www.serv-appleid.com
 www.serverapple.com
+www.serverlmailserv8986b3601f8serverlmailserv8986b3601f8.gladysv.com
 www.servers-icloud.com
 www.serveur-icloud.com
 www.service-6tn7s8q39r-amazon-qhitwx7eub.ru
@@ -28154,6 +28538,7 @@ www.service-gzt2aennk9-amazon-qhf1w2w2xm.ru
 www.service-intl-paypal.com
 www.service-investigation-paypal.com
 www.service-investigations-paypal.com
+www.service-japan-apple.com
 www.service-ld-apple.com
 www.service-locked-cloud-id-verify-id11-tls.com
 www.service-login-managed-case-id-0129398.uk
@@ -28264,6 +28649,7 @@ www.sigei-apple.com
 www.sigfa-apple.com
 www.sigid-apple.com
 www.sigin-apple-ip.com
+www.sigin-appleid-intl-aoth.com
 www.sigmacooltech.com
 www.sign-applei.com
 www.sign-appleid.com
@@ -28380,6 +28766,7 @@ www.soporte-apple.info
 www.soporte-apple.services
 www.soporte-netflix.com
 www.soporteapple.services
+www.soporteapplemx.com
 www.soporteoficialapple.com
 www.sopport-apple-maps.com
 www.source-notice.theicloudpayment.com
@@ -28437,6 +28824,7 @@ www.steam-login.com
 www.steamaccounts.org
 www.stelioskanakis.gr
 www.stfacebook.com
+www.stirlingbusinessmachines.com.au
 www.stlunbanked.com
 www.stmcircularknittingmachine.com
 www.stonebathroomaccessories.com
@@ -28453,6 +28841,7 @@ www.store-appleid.com
 www.store-apples.com
 www.store-apps-appleidh-idbegu.com
 www.store-apps-appleidh-idsy6.com
+www.store-itunes.online
 www.store-youtube.ru
 www.store.ebay.es.yougarage.net
 www.store1-apple.com
@@ -28540,6 +28929,7 @@ www.support-applebr.com
 www.support-appleco.com
 www.support-appleid-account-information-apple.com
 www.support-appleid-apple-account.com
+www.support-appleid-secureaccount.com
 www.support-appleid.online
 www.support-appleid.tech
 www.support-appleidiunlockaccountrecoverydatacenter.com
@@ -28581,6 +28971,7 @@ www.support-royalbank.com
 www.support-secure-apple.info
 www.support-security-mail.com
 www.support-service-apple.cloud
+www.support-settings-manage-appleid-apple.com
 www.support-update-paypal.com
 www.support-web-paypal.com
 www.support.paypal.com-id.form-1643990385.pregnantalternatives.com.au
@@ -28618,6 +29009,7 @@ www.supportpaypal.org
 www.supports-apple.net
 www.supports-icloud.com
 www.supports-id-apple.com
+www.supports-softbank.com
 www.supports-westernunion-baybybank.com
 www.supports-westernunion-baybybank.org
 www.supportsamazon.com
@@ -28757,6 +29149,16 @@ www.timfacebook4.webnode.com
 www.tinder-login.com
 www.tinnitunes.org
 www.tmacplace.000webhostapp.com
+www.to-ruleta-apple.accountant
+www.to-ruleta-apple.cricket
+www.to-ruleta-apple.date
+www.to-ruleta-apple.download
+www.to-ruleta-apple.faith
+www.to-ruleta-apple.loan
+www.to-ruleta-apple.men
+www.to-ruleta-apple.party
+www.to-ruleta-apple.science
+www.to-ruleta-apple.win
 www.tochka-apple.ru
 www.todaimail.com
 www.tollfreeapplesupport.com
@@ -28771,6 +29173,7 @@ www.toppaypal.com
 www.toppornhub.com
 www.topup-paypal.com
 www.torrentapple.com
+www.tosecurecode-appleid.info
 www.totalfacebooksuccess.com
 www.tr-bireysell-denizbankka.com
 www.tr-code-santander.net
@@ -28894,6 +29297,7 @@ www.unlockaccountverify.systems
 www.unlockappleid.net
 www.unlocked-iphones.com
 www.unlockiphonepro.com
+www.unlockitunes.com
 www.unlockmyapple.com
 www.unlockuserclient-appleid.com
 www.unofacebook.com
@@ -28948,6 +29352,7 @@ www.update-informatlon-accses-paypal.com
 www.update-linkedin.com
 www.update-my-information.onsitehydrogen.com
 www.update-myappleid-account.com
+www.update-netflix.online
 www.update-now-account-limataccount.com
 www.update-password-apple-appleid.com
 www.update-second-account.com
@@ -28958,6 +29363,7 @@ www.update-your-account-active-accounfull.com
 www.update-your-account-info-full-account.com
 www.update-your-account-info.local-law-87.com
 www.update-your-account-information-paypal.artisantrust.in
+www.update-your-account-now-now.aba.ae
 www.update-your-apple-account.com
 www.update-your-information.online
 www.update.insidemartialartsmagazine.com.au
@@ -28984,6 +29390,7 @@ www.updatefbs-reg1.at.ua
 www.updateilnfo.ftnle.hhpjr3jrwfp2xhxyl.xyz
 www.updateinfo.dhxbe.4tsfcl7kfzx9acu5g.xyz
 www.updateinfo.titvk.q2ffck4uqrdb5svt9.xyz
+www.updateir.ml
 www.updatemyappleid.com
 www.updatemyinstagram.com
 www.updatemylinkedin.net
@@ -28992,6 +29399,7 @@ www.updates-adobeflash.com
 www.updates-outlook.com
 www.updates-reset-password-appleid.com
 www.updates-security-apple.com
+www.updates.henrysbakery.com.au
 www.updates.us1.account-updates.com
 www.updatesapple.com
 www.updatesecuritypaypal.com
@@ -29292,6 +29700,7 @@ www.webapps-verify-account-information-caseid131512-apple.com
 www.webapps-verify-account-information-caseid131513-apple.com
 www.webapps-verify-account-information-caseid131514-apple.com
 www.webapps-verify-account-information-caseid131515-apple.com
+www.webcsr-appleid.com
 www.webdroidsolution.in
 www.webicloudconnect.com
 www.webmail-bb.adestramentoseguro.com.br
@@ -29676,6 +30085,7 @@ www.xboxgold.subsgifts.com
 www.xboxgoldgratuit.extafiles.com
 www.xboxlivegoldcodes.com
 www.xfinity.com--------phone--confirmation---service-593475923.antiochian.org.nz
+www.xfinity.login.outbounders.com
 www.xfinity.login.tempodancewear.com.au
 www.xfinity.total.rubymcoin.com
 www.xfinityverify.com
@@ -30110,6 +30520,7 @@ xboxgold.subsgifts.com
 xboxgoldgratuit.extafiles.com
 xfinity.com--------phone--confirmation---service-593475923.antiochian.org.nz
 xfinity.comcast.admin.mail.update.user.login.secure.index.conexcc.co
+xfinity.login.outbounders.com
 xfinity.login.tempodancewear.com.au
 xfinity.total.rubymcoin.com
 xfinityverify.com
@@ -30652,6 +31063,7 @@ zoopornhub.com
 6tuhgphone.tk
 6tyegphone.tk
 6uigyphone.tk
+7-update-account.com
 702.amazon.bigbillionday-offer.com
 70699flsdfo-czclqi051n45co.hop.clickbank.net
 730.amazon.bigbillionday-offer.com
@@ -30731,6 +31143,7 @@ account-coin.biz
 account-coinbase.com
 account-data-update.com
 account-disable-apps-secure-update-policy-terms.com
+account-europe.cloud
 account-google.com
 account-has-been-update.com
 account-has-update.com
@@ -30839,6 +31252,7 @@ accounts-google.info
 accounts-google.ru
 accounts-instagram.com
 accounts-limitations-update.com
+accounts-login-goododdomd.date
 accounts-login.biz
 accounts-login.info
 accounts-update-confirmation.com
@@ -31331,6 +31745,7 @@ applecsystemustomersupportcode07x8015warningerroralert.xyz
 applecustomerservice.us
 applecustomerservicenumber.us
 applecustomerserviceus.wordpress.com
+applecustomersupport.net
 applecustomersupportcode07x7015warningerroralert.xyz
 applecustomersupportcode07x9015warningerroralert.xyz
 applecvg.xyz
@@ -31412,8 +31827,10 @@ applemv.xyz
 applemysupport.xyz
 applenetsecurity.xyz
 applenmac.xyz
+appleoncallerror02xx.com
 appleonlinechatsupport.com
 appleonlinesupport.co.uk
+appleossoftwarestorageinternalserversecurewarningalert0x0code.xyz
 applepark.land
 applepark.online
 applepark.technology
@@ -31464,6 +31881,7 @@ applesupport.live
 applesupport.me.uk
 applesupport.xyz
 applesupport247.xyz
+applesupporthappen.bid
 applesupportnow.xyz
 applesupportnumbe.blogspot.com
 applesupports.co.uk
@@ -31794,6 +32212,7 @@ bigpondemailsupport.com.au
 bill-verify.email
 bill-verify.support
 billapplegatereviews.com
+billing-login.com
 billing-update-inc.com
 billing-update-invoice.biz
 billing-update.center
@@ -32154,6 +32573,7 @@ cannapornhub.com
 cannibas-google.com
 canon-printer-support-phone-number.jigsy.com
 canonprintercustomersupportphonenumber.com
+canonprintersupportphonenumber.com
 canonprintertechsupportphonenumber.com
 canonsupportphonenumber.blog.com
 capitalonelogin-guide.com
@@ -32251,6 +32671,7 @@ chrome-online-alert.info
 chrome-proxy.com
 chrome-tech-help-support.com
 chrome-tech-support-help.com
+chrome-tech-support.com
 chrome-up.date
 chrome-update.media
 chrome2018.com
@@ -32496,6 +32917,7 @@ cloudsecuritysupport.com
 cloudserviceseo.org
 cloudshop.pro
 cloudskype.net
+cloudsoftwarestorageserversecureinternalwarningalertcodex0101.xyz
 cloudsoftwaresupport-us.com
 cloudssupport.info
 cloudsupport.biz
@@ -32716,6 +33138,7 @@ com-maceio.info
 com-manage-verify-users.com
 com-manageaccountverify.com
 com-managingappleid.info
+com-official-account.cloud
 com-pageverify.info
 com-phonesupport.com
 com-policy-update.limited
@@ -32932,6 +33355,7 @@ continuous-update.net
 continuous-updates.com
 continuous-updates.info
 continuous-updates.net
+coolpornhub.com
 copefastverifyaccount.com
 corp-updates.com
 corporate-policy-updates.com
@@ -33186,6 +33610,7 @@ daily-updater.com
 dailyappleiphone8giveaways.party
 dailyinstant47paypalpayments.com
 dailynews-updates.com
+danios.stream
 dapple.accountant
 dapple.cricket
 dapple.faith
@@ -33238,6 +33663,7 @@ descargadordeyoutube.com
 descargar-instagram-gratis.com
 descargar-snapchat.com
 descargar-whatsapp.com
+descargarfacebook-gratis.com
 descargarfacebookapk.com
 descargarfacebookmessenger.com
 descargarinstagram.com
@@ -33289,6 +33715,7 @@ domachilla.win
 domacrop.win
 domainsbank.win
 dontrustverify.com
+donttrustverify.co.uk
 dot-google.com
 dotmeverify.com
 doublebitcoin.win
@@ -33674,6 +34101,7 @@ emailsupporthub.com
 emailsupportline.com
 emailsupportmail.com
 emailsupportmanager.com
+emailsupportme.com
 emailsupportmss.com
 emailsupportnetworks.com
 emailsupportnetworks.us
@@ -33683,6 +34111,7 @@ emailsupportnumber.org
 emailsupportnumber.us
 emailsupportnumber9.deviantart.com
 emailsupportnumbers.net
+emailsupportnumberus.com
 emailsupportnumberusa.com
 emailsupportnumberweb.wordpress.com
 emailsupportonline.com
@@ -33750,6 +34179,7 @@ emeraldofficesupport.com
 emu-update.com
 en-applverifynow.com
 en-idwebpages-unauthorized-login-attempt.com
+en-instagram.com
 endo-update.info
 enter-google.ru
 enterverify.systems
@@ -33761,6 +34191,7 @@ epibios.com
 eppl-statement-login-attemps-other-device.com
 epson-printerphonesupport.com
 epsondriversupdate.com
+epsonprinterphonenumber.com
 epsonprintersupportphonenumber.com
 epsonprintersupportphonenumbers.blogspot.com
 epsonprintertechsupportphonenumber.com
@@ -33780,6 +34211,7 @@ error-code-windows-update.xyz
 error-firewall-apple.com
 error-in-porn-help.info
 error-mail.ru
+error.cloud
 error.email
 errorcode43mac.com
 errorfoundmacterminalerrorfoundmacterminalerror.com
@@ -33803,6 +34235,7 @@ eu-spotify.com
 eu1-updateid01.com
 everify-youraccount.com
 everifyblockchain.com
+ewhatsappstatus.com
 ewindows-microsoft58.info
 ewyde-whatsapp.com
 examenesporwhatsappweb.com
@@ -33870,6 +34303,7 @@ facebook-suspend-account.com
 facebook-tech-help-support.com
 facebook-tech-support-help.com
 facebook-techsupport.com
+facebook-terms.com
 facebook-token.com
 facebook-tool.com
 facebook-twitter-linkedin-instagram-google-marketing-sydney.com
@@ -34179,6 +34613,7 @@ firefox-ev.com
 firefox-phone-number.com
 firefox-safe-mode.com
 firefox-tech-support-help.com
+firefox-tech-support.com
 firefox-technical-support.blogspot.com
 firefox.ink
 firefox.store
@@ -34310,6 +34745,7 @@ freechromeextensions.com
 freecraiglistageverify.com
 freecredditscore.com
 freeeverify.info
+freefacebook.info
 freefacebookdeliveryservice.com
 freefacebookm.com
 freeflash.ga
@@ -34486,6 +34922,7 @@ global-updates.info
 globalim.linuxpl.info
 globalisoverify.com
 globalphonesupport.com
+globalpornhub.com
 globalradiosupport.com
 globalwhatsapp.net
 gmail-accountlogin.com
@@ -34938,6 +35375,7 @@ googledb.info
 googledrive.support
 googleerror.com
 googleglass-computer.com
+googlehome.support
 googlehomesupport.com
 googleitsupport.com
 googlemailsupport.wordpress.com
@@ -34982,6 +35420,7 @@ growinstagramdaily.com
 growmytwitterfollowing.com
 growyourinstagram.com
 growyourinstagramfast.com
+growyourinstagramfollowers.com
 growyourtwitterfollowing.com
 gruposdewhatsapp.online
 gruposwhatsapp.com
@@ -35252,6 +35691,7 @@ howtogetmoretwittersfollowers.com
 howtogettwittersfollowers.com
 howtogetyoutubesubscribers.com
 howtogrowyourinstagram.com
+howtohackfacebookaccount.com
 howtohacksomeonesinstagram.com
 howtoupdateiolo.blogspot.com
 howtoupdatetrustportantivirus.blogspot.com
@@ -35285,6 +35725,7 @@ ht301256-firewall-update-failed.info
 ht301257-firewall-update-failed.info
 ht406612-firewall-update-failed.info
 http---google.com
+http---twitter.com
 http---www---youtube.com
 http---www-youtube.com
 http--facebook.com
@@ -35552,6 +35993,7 @@ instagram-stats.com
 instagram-takip.org
 instagram-takipcikazan.com
 instagram-tool.com
+instagram-tools.uk
 instagram-true.com
 instagram-up.com
 instagram-user-check.com
@@ -35582,6 +36024,7 @@ instagram7.ru
 instagram99552703.com
 instagramaccount.com
 instagramactivationn.com
+instagramactive.com
 instagramadcopy.com
 instagramads.info
 instagramadsbiz.com
@@ -35668,6 +36111,7 @@ instagramfollowrs.com
 instagramfolower.com
 instagramforbusiness.com
 instagramforiphone.com
+instagramformarketers.com
 instagramforsales.com
 instagramfotograaf.com
 instagramfraudprevention.com
@@ -35766,6 +36210,7 @@ instagrampasswordhack.com
 instagrampayment.com
 instagramplanner.com
 instagramposts.love
+instagrampremy.info
 instagramprime.com
 instagramprize2018.info
 instagrampro.com
@@ -35933,6 +36378,7 @@ ios-security-breach.usa.cc
 ios-security.online
 ios-setup.com
 ios-sms.info
+iosalert.info
 iosalert.site
 iosapplecare.xyz
 iosbreak.online
@@ -35996,6 +36442,7 @@ issue-loginactivity.com
 issue-problemaccount.com
 istangramverify.com
 isupport-find-my-phone.world
+isupport-ios.info
 isupport-verify.com
 isupport.email
 it-instagram.com
@@ -36326,6 +36773,7 @@ login-office365.com
 login-online.net
 login-onlinemicrosoft.com
 login-outlook.com
+login-page-i.cloud
 login-pay-info.com
 login-paycancelorders.info
 login-payeoneer.com
@@ -36523,6 +36971,7 @@ mac-li.com
 mac-library.com
 mac-linux.win
 mac-logan.com
+mac-newsupportoserror.xyz
 mac-oder.win
 mac-online-support.com
 mac-online-system-check-report.info
@@ -36564,6 +37013,7 @@ mac-torrent-downloads.net
 mac-torrents-download.com
 mac-uk.xyz
 mac-ukraine.info
+mac-upgrade.net
 mac-usa.biz
 mac-userrrorosx.info
 mac-virus-scaner.com
@@ -36692,6 +37142,8 @@ macserverapplesecuritywarningalertcode07x9017alert.xyz
 macservice.site
 macservicesupport.com
 macshield8.club
+macsoftwaresecureinternalstorageapplecloudserverwarning10x-00.xyz
+macsoftwarestorageserversecurewarninginternalcode00x12alert.xyz
 macspecial.site
 macsupport.bid
 macsupport.com
@@ -36739,6 +37191,7 @@ magicjack.com-phonesupport.com
 mahudgygki.s3-website-us-west-2.amazonaws.com
 mail--yandex.ru
 mail-account.info
+mail-account.limited
 mail-account.site
 mail-accounts1and1.co.uk
 mail-acount-help.com
@@ -36749,6 +37202,7 @@ mail-aol-support.online
 mail-aol.win
 mail-atechsupport.com
 mail-boxes.tk
+mail-customer-help.com
 mail-customer-service.com
 mail-delivery-errors.net
 mail-email.net
@@ -36764,6 +37218,7 @@ mail-helpdesk.com
 mail-helpdesk.online
 mail-instagram.info
 mail-instagrams.com
+mail-ios.online
 mail-isupport.com
 mail-log-virus.download
 mail-login-virus.download
@@ -36864,6 +37319,7 @@ mailoptionservssl-requesttokenerrorapprovedaccount342379appsid.com
 mailphonesupport.blogspot.com
 mailphonesupport.over-blog.com
 mailru.support
+mails-login.com
 mails-noticeverifycations-limiited-id2.com
 mails-unlock-updated.com
 mails-update-unlocked.com
@@ -36871,6 +37327,7 @@ mails-write.qt-group.ru
 mailsecureverify.info
 mailservaccessid-caserequesterrorcode4867276appid.com
 mailservapprovedaccessid-requesttokenerror4896527appsid.com
+mailservice-ordersupport.com
 mailsupport-info.com
 mailsupport-privacy.info
 mailsupport.co.uk
@@ -37136,6 +37593,7 @@ microsoft-computer-error.com
 microsoft-computer-error.xyz
 microsoft-connect.com
 microsoft-copyright.com
+microsoft-corp.uk
 microsoft-corporate.com
 microsoft-critical-error-alert.com
 microsoft-criticalfiles-errors-obbe11x-call-support-now.com
@@ -37389,6 +37847,7 @@ microsoft-systems.com
 microsoft-tech-help-support.com
 microsoft-tech-support-co-uk-priority-helpline91111.com
 microsoft-tech-support-help.com
+microsoft-tech-support.com
 microsoft-technical-helpline.co.in
 microsoft-technical-helpline.in
 microsoft-technical-support-center.com
@@ -38392,6 +38851,7 @@ mozillafirefoxhelp.com
 mozillafirefoxtechnicalcustomersupport.wordpress.com
 mozillafirefoxtechnicalsupportnumber1.blogspot.com
 mozillafirefoxx.ru
+mp-verify-ar.online
 mpc-printandmailservices.com
 ms-4-update.com
 ms-google.com
@@ -38473,6 +38933,7 @@ myadobeflash.com
 myadobeplayer.ru
 myadp-login.com
 myapple-remont.ru
+myapps-helpdesk-cloudstore-apps.com
 myappsmicrosoft.com
 mybapple.com
 mybbf-updates.com
@@ -38516,6 +38977,7 @@ mylogintoaccountverifyupdatedfivekj5jhghj4jbklkll.com
 mymailboxalert.com
 mymailsupport.com
 mymailsupport.org
+mymangerverifymyinf.com
 mymicrosoft365.com
 mymicrosoft365.online
 mymicrosoftdynamics.com
@@ -38543,6 +39005,7 @@ mysteamcoin.com
 mysummaraccountverifyunlock.com
 mysupportmail.com
 mysupportoffice.site
+mysupportonline-verifyaccountdata.com
 mysupportupdateaccounts.com
 mytwitteraccount.com
 mytwitterfans.com
@@ -38581,6 +39044,7 @@ nakrutka-instagram.site
 name-account-login.com
 nationalplc-verifyreset.co.uk
 nationalvinverify.com
+natwest-caresupport.co.uk
 navient-login.com
 navinet-login.com
 nbhgtyrwerty.s3-website-us-west-2.amazonaws.com
@@ -38741,6 +39205,7 @@ notiice-mails-verifycion-serviicestermsid3.com
 noutlook.com
 nova-bitcoin.com
 noverifyplease.com
+novinhas-do-whatsapp.com
 novinhasdowhatsapp.net
 now.accept-bitcoin.info
 now.claim-bitcoin.info
@@ -38758,6 +39223,7 @@ nudeyoutubers.com
 nudeyoutubers.info
 nudeyoutubers.net
 nudeyoutubers.org
+numerosdewhatsapp.com
 numerosdewhatsapp.online
 nwolb-updateinformation.com
 nwolb-verify.uk
@@ -39351,6 +39817,7 @@ pornhub99.com
 pornhubafrica.com
 pornhubangels.com
 pornhubapps.com
+pornhubasia.com
 pornhubbd.com
 pornhubbi.com
 pornhubbi.info
@@ -39432,6 +39899,7 @@ pornvirusremoval.com
 portalmicrosoftazure.com
 posicionamiento-weben-google.com
 posicionarse-en-google.com
+post-de-rai-login-true2.info
 post-google.info
 post-youtube.com
 pot-google.com
@@ -39692,6 +40160,7 @@ recallemailalerts.com
 recardiosale.com
 receipt-verify-identity.com
 recentwhatsapp.com
+rechargesverify.com
 recover-mac-data.com
 recoverfacebookpassword.com
 recoverhacedfacebookaccount.over-blog.com
@@ -39914,9 +40383,11 @@ safari-tot-5.net
 safari.space
 safari.tax
 safarialert.online
+safarialert2xerror.com
 safaribrowsersupport.com
 safaribrowsertechnicalsupportphonenumberblog.wordpress.com
 safaricontact-help.com
+safarierror0x.com
 safarifari.com
 safarigeographic.com
 safarihost.info
@@ -39924,6 +40395,7 @@ safarileftovers.info
 safarisecuritywarning.com
 safaritechsupport.com
 safaritoursmiami.com
+safe-google.net
 safe-update.com
 safeandfree-updateoperatingsystem.download
 safeandfree-updateoperatingsystem.win
@@ -40278,6 +40750,8 @@ servicios-webs.com
 serviice-accoount-verify-mailnoticeid2.com
 servitudespermaceti.bid
 servmailapprovedcaseidaccess-requesterrortoken497328appsid.com
+session-login-dot-valid.info
+session-login-halt-true.info
 settings-google.com
 settings-update.com
 setup-chromecast.com
@@ -40390,6 +40864,7 @@ snapchat.fyi
 snapchat.gives
 snapchat.legal
 snapchat.porn
+snapchat.services
 snapchat.singles
 snapchat.social
 snapchat11.api.getlaid-snaphookupxa.com
@@ -40428,6 +40903,7 @@ snapchatincome.com
 snapchatmail.com
 snapchatmd.com
 snapchatmyhacks.net
+snapchatnolimits.com
 snapchatnude.com
 snapchatoken.com
 snapchatonlineloginn.com
@@ -40522,6 +40998,7 @@ spotify-gratis2018.com
 spotify-griffith.com
 spotify-lat.com
 spotify-live.com
+spotify-premium-app.com
 spotify-premium-subscription-app.com
 spotify-premiumapk.com
 spotify-starbucks.com
@@ -40538,6 +41015,10 @@ spotify2017.com
 spotify342.com
 spotify423.com
 spotifyacc.com
+spotifyaccs.com
+spotifyaccs.download
+spotifyaccs.site
+spotifyaccs.win
 spotifyalive.com
 spotifyapk.info
 spotifyapk.net
@@ -40545,6 +41026,7 @@ spotifyapkgratuit.com
 spotifyappapk.com
 spotifybot.com
 spotifybrowse.com
+spotifycards.info
 spotifycentral.com
 spotifychain.com
 spotifycode.com
@@ -40687,6 +41169,7 @@ supercell-update-event2017.com
 supercell-updateaccount.info
 supercell-updateaccountid.info
 supermruncoins.online
+supimacajon.stream
 suplverify.com
 suport-apple.email
 suport-google.com
@@ -40876,6 +41359,7 @@ supportformicrosoft911.com
 supportforoutlookblog.wordpress.com
 supportgmail.net
 supporthdfcbank.com
+supporthelp-apple.bid
 supporthotmail.net
 supporthotmail.org
 supporthsbc.co.uk
@@ -41001,6 +41485,7 @@ systemcloudesecurityerror-storagewarningerrorreportalert.xyz
 systemcloudesecurityerrorwarning-storagereporterror111alert.xyz
 systemerrorapplestoragereportcloudewarningcode0-x011alert.xyz
 systemerrorwarningerror-cloudestoragesecurityreport.xyz
+systems.macie.dictaink.com
 systemsadministrator.cloud
 systemscannerupdatesxxx012n.xyz
 systemsecureapplewarningvirusalertreportnotification.xyz
@@ -41209,6 +41694,7 @@ tinderdateverify.com
 tindernow.cloud
 tinderporn.net
 tindersafeverify.com
+tindertrip.cloud
 tinderverify.plus
 tinderverifycode.com
 tinderverifynow.com
@@ -41500,6 +41986,7 @@ update-2018.info
 update-acc-info.com
 update-acc-information.com
 update-access-information.com
+update-account-center.com
 update-account-center.net
 update-account-disabled.com
 update-account-exchange.com
@@ -41569,6 +42056,7 @@ update-edge.com
 update-english.com
 update-explorer.com
 update-firewall-apple.com
+update-for-member.com
 update-gps.info
 update-helpd.com
 update-herenow.com
@@ -41760,6 +42248,7 @@ update-your-information-now.com
 update-your-information-pay-now-info-pay.com
 update-your-information-pay-now-info.com
 update-your-information.biz
+update-your-information.com
 update-your-limited-account.com
 update-your-pay.com
 update-your-payment.com
@@ -41926,9 +42415,12 @@ verifiedemailaccounts.com
 verifiedforinstagram.com
 verifiedgmailaccounts.com
 verifiednewstwitter.com
+verifiedredirecttwitter.com
 verifiedtwitter-accounts.info
 verifiedtwitter.tech
+verifiedtwitters.site
 verifiedtwitterservice.online
+verifiedtwittersredirect.com
 verifiedyoutube.com
 verifty-inc-update.email
 verify-acc-appls-0362-link.com
@@ -42133,6 +42625,7 @@ verify-your-information.com
 verify-your-limited-account.com
 verify-youraccount.com
 verify.run
+verify.watch
 verify0.com
 verify0instagram.com
 verify0s.com
@@ -42204,6 +42697,7 @@ verifyappslock.com
 verifyauthentication.com
 verifyauthenticity.com
 verifybackgroundcheck.com
+verifybadges-instagram.com
 verifybalance.com
 verifybalances.com
 verifybillinginformation.com
@@ -42258,6 +42752,7 @@ verifygenuineproduct.com
 verifyiban.com
 verifyid-appiedns.com
 verifyid-appssummary-terms.com
+verifyid.co.uk
 verifyidentity-202892.com
 verifyidinfoaccount.com
 verifyidsecure.info
@@ -42301,6 +42796,7 @@ verifylink39.cricket
 verifylinkonline1.com
 verifylnt.com
 verifylocating.com
+verifylogiinar.com
 verifylogix.com
 verifymail.live
 verifymail.site
@@ -42335,10 +42831,12 @@ verifynow-ssl.com
 verifyoffice.net
 verifyofficials.com
 verifyon-linescan.info
+verifyonline.win
 verifyonlinebanking.com
 verifyouridentity.com
 verifypage00.com
 verifypanda.com
+verifypath.com
 verifypaymentonline.com
 verifypayments-account.com
 verifypeopleonline.info
@@ -42548,6 +43046,15 @@ webapps-siginupdate-information.com
 webapps-update-subscription.info
 webapps-verify-account-caseid3512.com
 webapps-verify-account-caseid3514.com
+webapps-verify-account-information-caseidnumber68451.com
+webapps-verify-account-information-caseidnumber68452.com
+webapps-verify-account-information-caseidnumber68453.com
+webapps-verify-account-information-caseidnumber68454.com
+webapps-verify-account-information-caseidnumber68455.com
+webapps-verify-account-information-caseidnumber88451.com
+webapps-verify-account-information-caseidnumber88452.com
+webapps-verify-account-information-caseidnumber88453.com
+webapps-verify-account-information-caseidnumber88454.com
 webapps-verifyaccount40412.com
 webapps-verifyt.com
 webappscenterverify2995.com
@@ -42753,6 +43260,7 @@ whatsappbotu.com
 whatsappbr.com
 whatsappbr.net
 whatsappbtc.com
+whatsappbulksenderpro.com
 whatsappbulksms.com
 whatsappbusiness.net
 whatsappbusiness.org
@@ -42835,6 +43343,7 @@ whatsappgirlnumbers.com
 whatsappgodone.com
 whatsappgoldapk.com
 whatsappgonow.com
+whatsappgp.com
 whatsappgratis.net
 whatsappgratis.org
 whatsappgreet.com
@@ -42914,6 +43423,7 @@ whatsappmedia.com
 whatsappmedia.site
 whatsappmela.com
 whatsappmenow.com
+whatsappmentor.com
 whatsappmenu.com
 whatsappmessages.info
 whatsappmessages.net
@@ -43347,6 +43857,7 @@ www.694.amazon.big-billion-day.in
 www.6a6bfb0fcfcffe480bc910-verify.com
 www.6fb4flfcffw680bc910-verify.com
 www.6hjdbhcphone.tk
+www.7-update-account.com
 www.702.amazon.bigbillionday-offer.com
 www.730.amazon.bigbillionday-offer.com
 www.738.amazon.bigbillionday-offer.com
@@ -43382,6 +43893,7 @@ www.abc-update.com
 www.about-verify-secure-account.com
 www.abudhabibitcoin.net
 www.acc-login.net
+www.acc-ount-help-to-login-online.com
 www.acc-update.net
 www.acc-updateinform.com
 www.acc-verify.online
@@ -43402,6 +43914,7 @@ www.account-coin.biz
 www.account-coinbase.com
 www.account-data-update.com
 www.account-disable-apps-secure-update-policy-terms.com
+www.account-europe.cloud
 www.account-google.com
 www.account-has-been-update.com
 www.account-help-login.net
@@ -43502,6 +44015,7 @@ www.accounts-google.info
 www.accounts-google.ru
 www.accounts-instagram.com
 www.accounts-limitations-update.com
+www.accounts-login-goododdomd.date
 www.accounts-login-org.online
 www.accounts-login.biz
 www.accounts-login.info
@@ -44257,6 +44771,7 @@ www.bigpond-emailsupport.com
 www.bill-verify.email
 www.bill-verify.support
 www.billapplegatereviews.com
+www.billing-login.com
 www.billing-update-invoice.biz
 www.billing-update.center
 www.billingmicrosoft.us
@@ -44589,6 +45104,7 @@ www.cannapornhub.com
 www.cannibas-google.com
 www.canon-printer-support-phone-number.jigsy.com
 www.canonprintercustomersupportphonenumber.com
+www.canonprintersupportphonenumber.com
 www.canonprintertechsupportphonenumber.com
 www.canonsupportphonenumber.blog.com
 www.capitalonelogin-guide.com
@@ -45051,6 +45567,7 @@ www.com-macbook-repair.systems
 www.com-macbook-repairing.systems
 www.com-maceio.info
 www.com-manage-verify-users.com
+www.com-official-account.cloud
 www.com-pageverify.info
 www.com-phonesupport.com
 www.com-policy-update.limited
@@ -45224,6 +45741,7 @@ www.continuous-update.net
 www.continuous-updates.com
 www.continuous-updates.info
 www.continuous-updates.net
+www.coolpornhub.com
 www.copefastverifyaccount.com
 www.cormackshipping.com.br
 www.corporate-policy-updates.com
@@ -45453,6 +45971,7 @@ www.descargadordeyoutube.com
 www.descargar-instagram-gratis.com
 www.descargar-snapchat.com
 www.descargar-whatsapp.com
+www.descargarfacebook-gratis.com
 www.descargarfacebookapk.com
 www.descargarfacebookmessenger.com
 www.descargarinstagram.com
@@ -45494,6 +46013,7 @@ www.domachilla.win
 www.domacrop.win
 www.domainsbank.win
 www.dontrustverify.com
+www.donttrustverify.co.uk
 www.dot-google.com
 www.dotmeverify.com
 www.doublebitcoin.win
@@ -45888,6 +46408,7 @@ www.emeraldofficesupport.com
 www.emu-update.com
 www.en-applverifynow.com
 www.en-idwebpages-unauthorized-login-attempt.com
+www.en-instagram.com
 www.en-verifyaccounts.com
 www.endo-update.info
 www.enter-google.ru
@@ -45899,6 +46420,7 @@ www.enviarwhatsapp.online
 www.enviosamarruecos.es
 www.epson-printerphonesupport.com
 www.epsondriversupdate.com
+www.epsonprinterphonenumber.com
 www.epsonprintersupportphonenumber.com
 www.epsonprintersupportphonenumbers.blogspot.com
 www.eq-login.com
@@ -45914,6 +46436,7 @@ www.error-code-229s4.s3-website-us-west-2.amazonaws.com
 www.error-firewall-apple.com
 www.error-in-porn-help.info
 www.error-mail.ru
+www.error.cloud
 www.error.email
 www.errorcode43mac.com
 www.errorfoundmacterminalerrorfoundmacterminalerror.com
@@ -45933,6 +46456,7 @@ www.etimemachines.com
 www.eu-microsoftaccount.com
 www.eu-spotify.com
 www.eu1-updateid01.com
+www.ewhatsappstatus.com
 www.ewindows-microsoft58.info
 www.ewyde-whatsapp.com
 www.examenesporwhatsappweb.com
@@ -45995,6 +46519,7 @@ www.facebook-suspend-account.com
 www.facebook-tech-help-support.com
 www.facebook-tech-support-help.com
 www.facebook-techsupport.com
+www.facebook-terms.com
 www.facebook-token.com
 www.facebook-tool.com
 www.facebook-twitter-linkedin-instagram-google-marketing-sydney.com
@@ -46271,6 +46796,7 @@ www.firefansportsappleague.com
 www.firefox-phone-number.com
 www.firefox-safe-mode.com
 www.firefox-tech-support-help.com
+www.firefox-tech-support.com
 www.firefox-technical-support.blogspot.com
 www.firefox.ink
 www.firefox.store
@@ -46372,6 +46898,7 @@ www.freechromeextensions.com
 www.freecraiglistageverify.com
 www.freecredditscore.com
 www.freeeverify.info
+www.freefacebook.info
 www.freefacebookdeliveryservice.com
 www.freefacebookm.com
 www.freeinstagram.site
@@ -46563,6 +47090,7 @@ www.global-updates.info
 www.globalim.linuxpl.info
 www.globalisoverify.com
 www.globalphonesupport.com
+www.globalpornhub.com
 www.globalwhatsapp.net
 www.gmail-accountlogin.com
 www.gmail-customer-service.blogspot.com
@@ -46975,6 +47503,7 @@ www.googlecromesupport.wordpress.com
 www.googledrive.support
 www.googleerror.com
 www.googleglass-computer.com
+www.googlehome.support
 www.googlehomesupport.com
 www.googleitsupport.com
 www.googlemacs.com
@@ -47020,6 +47549,7 @@ www.growinstagramdaily.com
 www.growmytwitterfollowing.com
 www.growyourinstagram.com
 www.growyourinstagramfast.com
+www.growyourinstagramfollowers.com
 www.growyourtwitterfollowing.com
 www.gruposdewhatsapp.online
 www.gruposwhatsapp.com
@@ -47257,6 +47787,7 @@ www.howtogetmoretwittersfollowers.com
 www.howtogettwittersfollowers.com
 www.howtogetyoutubesubscribers.com
 www.howtogrowyourinstagram.com
+www.howtohackfacebookaccount.com
 www.howtohacksomeonesinstagram.com
 www.howtouseinstagramstories.com
 www.hp-cloud-update.com
@@ -47287,6 +47818,7 @@ www.ht301256-firewall-update-failed.info
 www.ht301257-firewall-update-failed.info
 www.ht406612-firewall-update-failed.info
 www.http---google.com
+www.http---twitter.com
 www.http---www---youtube.com
 www.http---www-youtube.com
 www.http--facebook.com
@@ -47526,6 +48058,7 @@ www.instagram-stats.com
 www.instagram-support.org
 www.instagram-takipcikazan.com
 www.instagram-tool.com
+www.instagram-tools.uk
 www.instagram-true.com
 www.instagram-up.com
 www.instagram-user-check.com
@@ -47556,6 +48089,7 @@ www.instagram7.ru
 www.instagram99552703.com
 www.instagramaccount.com
 www.instagramactivationn.com
+www.instagramactive.com
 www.instagramadcopy.com
 www.instagramads.info
 www.instagramadsbiz.com
@@ -47639,6 +48173,7 @@ www.instagramfollowrs.com
 www.instagramfolower.com
 www.instagramforbusiness.com
 www.instagramforiphone.com
+www.instagramformarketers.com
 www.instagramforsales.com
 www.instagramfotograaf.com
 www.instagramfraudprevention.com
@@ -47736,6 +48271,7 @@ www.instagrampasswordhack.com
 www.instagrampayment.com
 www.instagramplanner.com
 www.instagramposts.love
+www.instagrampremy.info
 www.instagramprime.com
 www.instagramprize2018.info
 www.instagrampro.com
@@ -47789,6 +48325,7 @@ www.instagramsuperstar.org
 www.instagramsuport.com
 www.instagramsupport.net
 www.instagramsupport.online
+www.instagramsupportconfirm.com
 www.instagramsupporter.com
 www.instagramsupports.com
 www.instagramsupports.info
@@ -47932,6 +48469,7 @@ www.issue-loginactivity.com
 www.issue-problemaccount.com
 www.istangramverify.com
 www.isupport-find-my-phone.world
+www.isupport-ios.info
 www.isupport-verify.com
 www.isupport.email
 www.it-instagram.com
@@ -48230,6 +48768,7 @@ www.login-online.net
 www.login-onlinecenter-ppal.net
 www.login-onlinemicrosoft.com
 www.login-outlook.com
+www.login-page-i.cloud
 www.login-pay-info.com
 www.login-paycancelorders.info
 www.login-payeoneer.com
@@ -48442,6 +48981,7 @@ www.mac-torrent-downloads.net
 www.mac-torrents-download.com
 www.mac-uk.xyz
 www.mac-ukraine.info
+www.mac-upgrade.net
 www.mac-usa.biz
 www.mac-userrrorosx.info
 www.mac-video-converter.com
@@ -48523,6 +49063,7 @@ www.macvirusremoval.com
 www.macvirusremoval.net
 www.mail--yandex.ru
 www.mail-account.info
+www.mail-account.limited
 www.mail-account.site
 www.mail-accounts1and1.co.uk
 www.mail-acount-help.com
@@ -48532,6 +49073,7 @@ www.mail-aol-mail.com
 www.mail-aol-support.online
 www.mail-aol.win
 www.mail-atechsupport.com
+www.mail-customer-help.com
 www.mail-customer-service.com
 www.mail-delivery-errors.net
 www.mail-email.net
@@ -48546,6 +49088,7 @@ www.mail-helpdesk.com
 www.mail-helpdesk.online
 www.mail-instagram.info
 www.mail-instagrams.com
+www.mail-ios.online
 www.mail-isupport.com
 www.mail-log-virus.download
 www.mail-login-virus.download
@@ -48626,6 +49169,7 @@ www.mailoptionservssl-requesttokenerrorapprovedaccount342379appsid.com
 www.mailphonesupport.blogspot.com
 www.mailphonesupport.over-blog.com
 www.mailru.support
+www.mails-login.com
 www.mails-noticeverifycations-limiited-id2.com
 www.mails-unlock-updated.com
 www.mails-update-unlocked.com
@@ -48633,6 +49177,7 @@ www.mails-write.qt-group.ru
 www.mailsecureverify.info
 www.mailservaccessid-caserequesterrorcode4867276appid.com
 www.mailservapprovedaccessid-requesttokenerror4896527appsid.com
+www.mailservice-ordersupport.com
 www.mailsupport-info.com
 www.mailsupport-privacy.info
 www.mailsupport.co.uk
@@ -48855,6 +49400,7 @@ www.microsoft-cn.com
 www.microsoft-computer-error.com
 www.microsoft-computer-error.xyz
 www.microsoft-copyright.com
+www.microsoft-corp.uk
 www.microsoft-corporate.com
 www.microsoft-critical-error-alert.com
 www.microsoft-criticalfiles-errors-obbe11x-call-support-now.com
@@ -49026,6 +49572,7 @@ www.microsoft-system-help192.com
 www.microsoft-systems.com
 www.microsoft-tech-help-support.com
 www.microsoft-tech-support-help.com
+www.microsoft-tech-support.com
 www.microsoft-technical-support-center.com
 www.microsoft-techsupport-number.com
 www.microsoft-token.com
@@ -49816,6 +50363,7 @@ www.mozillafirefoxsupport.com
 www.mozillafirefoxtechnicalcustomersupport.wordpress.com
 www.mozillafirefoxtechnicalsupportnumber1.blogspot.com
 www.mozillafirefoxx.ru
+www.mp-verify-ar.online
 www.ms-4-update.com
 www.ms-google.com
 www.ms-office-support.com
@@ -49892,6 +50440,7 @@ www.myadobeflash.com
 www.myadobeplayer.ru
 www.myadp-login.com
 www.myapple-remont.ru
+www.myapps-helpdesk-cloudstore-apps.com
 www.myappsmicrosoft.com
 www.mybapple.com
 www.mybbf-updates.com
@@ -49926,6 +50475,7 @@ www.myloginsupport.info
 www.mymailboxalert.com
 www.mymailsupport.com
 www.mymailsupport.org
+www.mymangerverifymyinf.com
 www.mymicrosoft365.com
 www.mymicrosoft365.online
 www.mymicrosoftdynamics.com
@@ -49987,6 +50537,7 @@ www.nakrutka-instagram.site
 www.name-account-login.com
 www.nationalplc-verifyreset.co.uk
 www.nationalvinverify.com
+www.natwest-caresupport.co.uk
 www.navient-login.com
 www.navinet-login.com
 www.ncs-spotify.co.uk
@@ -50121,6 +50672,7 @@ www.notiice-mails-verifycion-serviicestermsid3.com
 www.noutlook.com
 www.nova-bitcoin.com
 www.noverifyplease.com
+www.novinhas-do-whatsapp.com
 www.npfndwetxv.mailer.in.net
 www.nrplyfmisupport.email
 www.nsfwsnapchat.com
@@ -50134,6 +50686,7 @@ www.nudeyoutubers.com
 www.nudeyoutubers.info
 www.nudeyoutubers.net
 www.nudeyoutubers.org
+www.numerosdewhatsapp.com
 www.numerosdewhatsapp.online
 www.nwolb-updateinformation.com
 www.nwolb-verify.uk
@@ -50620,6 +51173,7 @@ www.pornhub91.com
 www.pornhub99.com
 www.pornhubafrica.com
 www.pornhubapps.com
+www.pornhubasia.com
 www.pornhubbd.com
 www.pornhubbi.com
 www.pornhubbi.info
@@ -50695,6 +51249,7 @@ www.pornverify.com
 www.portalmicrosoftazure.com
 www.posicionamiento-weben-google.com
 www.posicionarse-en-google.com
+www.post-de-rai-login-true2.info
 www.post-google.info
 www.post-youtube.com
 www.pot-google.com
@@ -50947,6 +51502,7 @@ www.realzarabotok-v-google.ru
 www.reboot-login492-info.win
 www.recardiosale.com
 www.recentwhatsapp.com
+www.rechargesverify.com
 www.recover-mac-data.com
 www.recoverfacebookpassword.com
 www.recoverhacedfacebookaccount.over-blog.com
@@ -51157,6 +51713,7 @@ www.safarireset.com
 www.safarisecuritywarning.com
 www.safaritechsupport.com
 www.safaritoursmiami.com
+www.safe-google.net
 www.safe-update.com
 www.safe-verify.win
 www.safeandfree-updateoperatingsystem.download
@@ -51455,6 +52012,8 @@ www.servicios-webs.com
 www.serviciosliterarios.com
 www.serviice-accoount-verify-mailnoticeid2.com
 www.servmailapprovedcaseidaccess-requesterrortoken497328appsid.com
+www.session-login-dot-valid.info
+www.session-login-halt-true.info
 www.settings-google.com
 www.setup-microsoft-office.com
 www.setup-microsoftoffice.blogspot.com
@@ -51559,6 +52118,7 @@ www.snapchat.frl
 www.snapchat.fyi
 www.snapchat.gives
 www.snapchat.legal
+www.snapchat.services
 www.snapchat.singles
 www.snapchat.social
 www.snapchat11.api.getlaid-snaphookupxa.com
@@ -51595,6 +52155,7 @@ www.snapchatincome.com
 www.snapchatmail.com
 www.snapchatmd.com
 www.snapchatmyhacks.net
+www.snapchatnolimits.com
 www.snapchatnude.com
 www.snapchatoken.com
 www.snapchatonlineloginn.com
@@ -51666,6 +52227,7 @@ www.spotify-gratis2018.com
 www.spotify-griffith.com
 www.spotify-lat.com
 www.spotify-live.com
+www.spotify-premium-app.com
 www.spotify-premium-subscription-app.com
 www.spotify-premiumapk.com
 www.spotify-starbucks.com
@@ -51680,6 +52242,10 @@ www.spotify2017.com
 www.spotify342.com
 www.spotify423.com
 www.spotifyacc.com
+www.spotifyaccs.com
+www.spotifyaccs.download
+www.spotifyaccs.site
+www.spotifyaccs.win
 www.spotifyalive.com
 www.spotifyapk.info
 www.spotifyapk.net
@@ -51687,6 +52253,7 @@ www.spotifyapkgratuit.com
 www.spotifyappapk.com
 www.spotifybot.com
 www.spotifybrowse.com
+www.spotifycards.info
 www.spotifycentral.com
 www.spotifychain.com
 www.spotifycode.com
@@ -52248,6 +52815,7 @@ www.tinderdateverify.com
 www.tindernow.cloud
 www.tinderporn.net
 www.tindersafeverify.com
+www.tindertrip.cloud
 www.tinderverify.plus
 www.tinderverifycode.com
 www.tinderverifytoday.com
@@ -52503,6 +53071,7 @@ www.update-2018.info
 www.update-acc-info.com
 www.update-acc-information.com
 www.update-access-information.com
+www.update-account-center.com
 www.update-account-center.net
 www.update-account-disabled.com
 www.update-account-exchange.com
@@ -52562,6 +53131,7 @@ www.update-drivers.com
 www.update-english.com
 www.update-explorer.com
 www.update-firewall-apple.com
+www.update-for-member.com
 www.update-gps.info
 www.update-helpd.com
 www.update-herenow.com
@@ -52866,10 +53436,13 @@ www.verifiedemailaccounts.com
 www.verifiedforinstagram.com
 www.verifiedgmailaccounts.com
 www.verifiednewstwitter.com
+www.verifiedredirecttwitter.com
 www.verifiedtwitter-accounts.info
 www.verifiedtwitter-apply.com
 www.verifiedtwitter.help
+www.verifiedtwitters.site
 www.verifiedtwitterservice.online
+www.verifiedtwittersredirect.com
 www.verifiedyoutube.com
 www.verifty-inc-update.email
 www.verify-acc-appls-0362-link.com
@@ -53111,6 +53684,7 @@ www.verifyapplbill.com
 www.verifyauthentication.com
 www.verifyauthenticity.com
 www.verifybackgroundcheck.com
+www.verifybadges-instagram.com
 www.verifybalance.com
 www.verifybalances.com
 www.verifybillinginformation.com
@@ -53160,6 +53734,7 @@ www.verifyemailservices.com
 www.verifygenuineproduct.com
 www.verifyiban.com
 www.verifyid-appssummary-terms.com
+www.verifyid.co.uk
 www.verifyidentity-202892.com
 www.verifyidentity-24786.com
 www.verifyidinfoaccount.com
@@ -53203,6 +53778,7 @@ www.verifylink39.cricket
 www.verifylnt.com
 www.verifylocating.com
 www.verifylockedsupport.com
+www.verifylogiinar.com
 www.verifylogix.com
 www.verifymail.live
 www.verifymail.site
@@ -53239,10 +53815,12 @@ www.verifyoffice.net
 www.verifyofficeemail.info
 www.verifyofficials.com
 www.verifyon-linescan.info
+www.verifyonline.win
 www.verifyonlinebanking.com
 www.verifyouridentity.com
 www.verifypage00.com
 www.verifypanda.com
+www.verifypath.com
 www.verifypaymentonline.com
 www.verifypayments-account.com
 www.verifypeopleonline.info
@@ -53415,6 +53993,15 @@ www.webapps-updated-summary.org
 www.webapps-updated.com
 www.webapps-verify-account-caseid3512.com
 www.webapps-verify-account-caseid3514.com
+www.webapps-verify-account-information-caseidnumber68451.com
+www.webapps-verify-account-information-caseidnumber68452.com
+www.webapps-verify-account-information-caseidnumber68453.com
+www.webapps-verify-account-information-caseidnumber68454.com
+www.webapps-verify-account-information-caseidnumber68455.com
+www.webapps-verify-account-information-caseidnumber88451.com
+www.webapps-verify-account-information-caseidnumber88452.com
+www.webapps-verify-account-information-caseidnumber88453.com
+www.webapps-verify-account-information-caseidnumber88454.com
 www.webapps-verifyaccount40412.com
 www.webapps-verifyt.com
 www.webappscenterverify2995.com
@@ -53607,6 +54194,7 @@ www.whatsappbotu.com
 www.whatsappbr.com
 www.whatsappbr.net
 www.whatsappbtc.com
+www.whatsappbulksenderpro.com
 www.whatsappbulksms.com
 www.whatsappbusiness.net
 www.whatsappbusiness.org
@@ -53688,6 +54276,7 @@ www.whatsappgk.com
 www.whatsappgodone.com
 www.whatsappgoldapk.com
 www.whatsappgonow.com
+www.whatsappgp.com
 www.whatsappgratis.net
 www.whatsappgratis.org
 www.whatsappgreet.com
@@ -53767,6 +54356,7 @@ www.whatsappmedia.com
 www.whatsappmedia.site
 www.whatsappmela.com
 www.whatsappmenow.com
+www.whatsappmentor.com
 www.whatsappmenu.com
 www.whatsappmessages.info
 www.whatsappmessages.net
@@ -54061,6 +54651,7 @@ www.wwwofficecomsetup.wordpress.com
 www.wwwofficecomsetup.xyz
 www.wwwofficecomsetup365.blogspot.com
 www.wwwofficecomsetup365.wordpress.com
+www.wwwpornhub3.com
 www.wwwredtuber.com
 www.wwwsamsungsupport.com
 www.wwwspotifypublishingsettlement.com
@@ -54101,6 +54692,7 @@ www.xn--instagram-2pb.com
 www.xn--instagram-2pb.net
 www.xn--instagramtakipihilesi-f4b.com
 www.xn--iphone--6s4f7drvo06xtzetzlv83g0fxa.net
+www.xn--login-micrsoftonline-r86k.com
 www.xn--microsoftonlne-wlb.com
 www.xn--pornhub-80a.com
 www.xn--ticketservios-sgb.com
@@ -54182,6 +54774,7 @@ www.youtube-api.com
 www.youtube-cash.info
 www.youtube-channel.info
 www.youtube-coin.com
+www.youtube-com-activate.info
 www.youtube-com.info
 www.youtube-com.org
 www.youtube-expert.ru
@@ -54251,6 +54844,7 @@ www.youtubegiveaways.com
 www.youtubegratis.com
 www.youtubehack.com
 www.youtubehack.net
+www.youtubehelp.co.uk
 www.youtubehelp.net
 www.youtubehomepage-web.com
 www.youtubehotmail.com
@@ -54380,6 +54974,7 @@ wwwofficecomsetup.wordpress.com
 wwwofficecomsetup.xyz
 wwwofficecomsetup365.blogspot.com
 wwwofficecomsetup365.wordpress.com
+wwwpornhub3.com
 wwwredtuber.com
 wwwsamsungsupport.com
 wwwspotifypublishingsettlement.com
@@ -54422,6 +55017,7 @@ xn--instagram-2pb.com
 xn--instagram-2pb.net
 xn--instagramtakipihilesi-f4b.com
 xn--iphone--6s4f7drvo06xtzetzlv83g0fxa.net
+xn--login-micrsoftonline-r86k.com
 xn--pornhub-80a.com
 xn--ticketservios-sgb.com
 xn--webservios-v6a.com
@@ -54512,6 +55108,7 @@ youtube-cash.info
 youtube-cdn.network
 youtube-channel.info
 youtube-coin.com
+youtube-com-activate.info
 youtube-com.info
 youtube-com.org
 youtube-expert.ru
@@ -54580,6 +55177,7 @@ youtubegiveaways.com
 youtubegratis.com
 youtubehack.com
 youtubehack.net
+youtubehelp.co.uk
 youtubehelp.net
 youtubehomepage-web.com
 youtubehotmail.com
@@ -54710,6 +55308,7 @@ zsci9eqbsnzscio9account-verify.info
 2-error-microsoft-888-538-0406.xyz
 21bitcoin.io
 24check4updates.themostreadycontents.win
+24newstube.com
 24you.newupdateonline.com
 336.linux1.testsider.dk
 3dporn.yolasite.com
@@ -54872,6 +55471,7 @@ appleappdeveloper.com
 appleblossomart.com
 applebrandstore.de
 applecares.co
+applecartng.com
 appledevice-updat10ox-error-alert.info
 applefence.net
 appleforest.net
@@ -54956,6 +55556,7 @@ bankruptcymag.com
 bankserrors.xyz
 banksturbo.com
 banktransactioncorp.net
+banktrees.tk
 banner.paypopup.com
 barclays-com.com
 barclaysghana.org
@@ -54980,6 +55581,7 @@ bigpondemailhelp.com
 bina-machine.com
 bios.gr
 biosemiosis.org
+biosetinlabs.com
 biosoft-my.com
 biosoft.ro
 biosolve.com
@@ -54993,10 +55595,12 @@ bitcoinsdouble.com
 bitcointraf.com
 bittabi.net
 bitte.net.ua
+bitteeth.com
 bittorrentbooster.com
 bittorrentmanager.com
 bittorrentshare.com
 blackpornmovies.net
+blackrabbitthailand.com
 blairstube.com
 blayaservicios.com
 bllphonecases.com
@@ -55116,13 +55720,16 @@ cloudbox01.com
 cloudbox10.com
 cloudbox101.com
 cloudbox40.com
+cloudcapgames.com
 cloudcrypter.pw
 clouddemy.edu.vn
 cloudedge.net
 cloudflarecock.club
 cloudinsiderscan.online
+clouditzone.com
 cloudmarch.net
 cloudninecondos.com
+cloudninedesign.com.au
 cloudrepublic.com.au
 cloudserve.pw
 cloudservicedownload.com
@@ -55150,6 +55757,10 @@ coinbtc.biz
 coinerra.com
 coinfound.com
 coinhive.com
+coinhmoin.bid
+coinhmrroin.bid
+coinhmrrowin.bid
+coinicos.io
 coinnebula.com
 coinobras.com
 coinsdealer.pl
@@ -55222,6 +55833,7 @@ d2zby89b3hsvlj.cloudfront.net
 d34m24xlh61hdw.cloudfront.net
 d38kw8d0n0jret.cloudfront.net
 d3lio8f70jywb5.cloudfront.net
+d3oxpv9ajpsgxt.cloudfront.net
 d3u9lb7lcxvsyf.cloudfront.net
 dailyviralupdates.com
 damproblemserver.s3-website-us-west-2.amazonaws.com
@@ -55265,6 +55877,7 @@ dodecato.simulationmachine.com
 dolgoporno.com
 dollarmachine.com
 domnova1126.hotmail.ru
+donmachantprograms.tk
 donmackay.ddns.net
 dooruiq6gek6i.cloudfront.net
 dottcoinc.com
@@ -55311,6 +55924,7 @@ email-login-support.com
 email-marketing.me
 email-smileys.com
 email-v3.com
+email.givemeinsurance.com
 emailaddressmanager.com
 emailchooser.com
 emailcustomerservicesupport.com
@@ -55456,6 +56070,7 @@ flashservice.xvideos.com
 flashtis2.googlepages.com
 flashtrack.net
 flashtracking.com
+flashupdate.biz
 flashupdate.online
 flashx.tv
 flashxomay.review
@@ -55744,6 +56359,7 @@ itunespublishing.blogspot.com
 iwhatsapp.info
 ixpornstarsrjg.ontheweb.nu
 j0fajh.allpornpass.com
+jafcoindustries.com
 jarpharmaceutical.com
 java.fackidremioso.com
 jeegtube.com
@@ -55840,6 +56456,7 @@ livephonecard.com
 liveupdate.efi.com
 liveupdate.ludashi.com
 lloydsbacs.co.uk
+lloydsbankdocs.com
 lnding.savetubevideo.com
 lnstall.player-update.site
 logicmachinesltd.com
@@ -55924,6 +56541,7 @@ macroscope.group
 macrosoftman.info
 macrospazio.it
 macrovision.com
+macscaffolding.co.uk
 macshield.online
 macsimum.no
 macsys.ca
@@ -55945,6 +56563,7 @@ mail-dedmoroz.com.ua
 mail-help-number.com
 mail-login.net
 mail-support-numbers.com
+mail.accessoiriesindia.com
 mail.alghadjo.com
 mail.amucheifo.nut.cc
 mail.bestnewantiwrinklecream.com
@@ -56024,6 +56643,7 @@ mailer.scoregroup.com
 mailgods.com
 mailhackedcallnow.xyz
 mailhelp-number.com
+mailingservers.net
 mailmaster.gohip.com
 mailmoods.com
 mailorderbrides.com
@@ -56455,6 +57075,7 @@ naughtytube.net
 naxtube.com
 nccareeroutlook.com
 nding.savetubevideo.com
+nearestoutlook.tk
 neoupdates.com
 nerdydroid.com
 net-update.com
@@ -56503,6 +57124,7 @@ ocoins.xyz
 odiamail.tk
 office-comfort.com.mx
 office-download.net
+office-update.services
 office.erlivia.ltd
 office.ffm.proio.com
 office.nkvd.pro
@@ -56522,21 +57144,26 @@ officefwd2003.ga
 officefwd231.ga
 officekeyupdateversion3652018.su
 officelive.org
+officematters.duckdns.org
 officeminami.net
 officeonline.000webhostapp.com
 officeonz.com
 officepromedia.ro
 officesupplies-b2b.com
 officeyantra.com
+oilmachines.000webhostapp.com
 okumachiryouin.yu-yake.com
+olbceclldcamackl.website
 oldertube.com
 omegaformacion.com
 oncologypharmacist.net
+onelogin.thererepeated.tk
 onesystemupdate.com
 online-system-check-report-macos.info
 online-update.org
 onlinecrypter.com
 onlinespielbank.com
+onlinetechsupoffice.bid
 onlinux-es.setupdns.net
 only.b4ugoogleit.com
 onotoriousx.blackapplehost.com
@@ -56549,6 +57176,7 @@ ossupdate.jiagouyun.com
 ottawalinuxsymposium.org
 ourbank.in
 ourfilemacgetdmg.com
+outlook.countrygirl.tk
 outlook.msdwnld.com
 outlookon.tk
 outlooks.duckdns.org
@@ -56800,6 +57428,7 @@ recovermails.org
 reddithotnewsletters.club
 redifmail.com
 redirectmymails.com
+regalscoin.co
 relianceclouds.com
 remote1.carrolltonbanknig.com
 remoteapple.online
@@ -56842,8 +57471,110 @@ safariinsaat.com.tr
 safariscript.com
 safemac.co
 safemacbackup.com
+safety.apple.com.bdjocovune.r7whxgsf77pzw.science
+safety.apple.com.bdufmmw.xnfcdr24m9mxr5r6nsdi3zurug.science
+safety.apple.com.beppzoovb.eddsgqhfe8sbng8niofb6zkpq.download
+safety.apple.com.byoiwpvgv.nvz3atpg5cqirwgiwmgutlxqg.science
+safety.apple.com.byuglobu.sn04rdvvwnsw4yal4vw4dyw.science
+safety.apple.com.ccnwqf.vkqyelqaea8mux46qavimhag.download
+safety.apple.com.djhavb.rh0t4lm5euppjeuonocgvycd.science
+safety.apple.com.dnjywkeiqa.aakkwvtvm2pp5w.review
+safety.apple.com.gxhptruwnn.zpc3mnpmr4rwnpiqoyanyrib.review
+safety.apple.com.hfuhiujq.eiwftzglxdjcc502w.bid
+safety.apple.com.itwrmuho.kckjxkbuktd4va0zkp5kt8qm.download
+safety.apple.com.iwuzzavxf.ft4jegm61hzauivsok.review
+safety.apple.com.kycympesmr.t6taqq1vap6.bid
+safety.apple.com.lbmimhhn.ynkfb9kvkoavb8i.stream
+safety.apple.com.lncfpj.nqke0jutimhuexjh.bid
+safety.apple.com.lvubehpgji.zlcuqhvqakvglqqzamckhbfcab8.download
+safety.apple.com.lysldm.jreuymjsaqiqrh4afetg.trade
+safety.apple.com.mkvxkhofs.17rhshrnvsimvw0fbhe.stream
+safety.apple.com.mshsofdx.m3hqe5zqkjqnfus9kdhma.trade
+safety.apple.com.ncepvuzz.eg6akswziho.science
+safety.apple.com.oawxpfzmu.w8thcykwz8ydssliuvs.trade
+safety.apple.com.opckaqdeglw.szbv2abpzzdh5a.science
+safety.apple.com.pivjoqi.vevugginvtju8g.science
 safety.apple.com.pweddbnk.zwyhxoerqvdzeme5ozkdzk1r.trade
+safety.apple.com.rptzneirwf.bmmpjnjcjrby0xz9v1ezjg.trade
+safety.apple.com.rssxfsbsbo.miqvo7fq6xroojy5yimaeq.science
+safety.apple.com.scjhodethr.qs2xsibfvo9djnhm.stream
+safety.apple.com.scskkroup.pxakspbxyzvbg.science
+safety.apple.com.seatbazxrea.ca06vcr6i5q1yncioqmbbi.bid
+safety.apple.com.stquzcex.3cafmarcurbzvgenixc8gco.bid
+safety.apple.com.talljizbdq.kvjjhr9f5uh6ig.stream
+safety.apple.com.tbixelujfe.og6wyeun0zz81akji.review
+safety.apple.com.tjsoq.2a1mmk9zrvdi7ekr2xexaomi.science
+safety.apple.com.tvxkdxr.nvu7i2iobhlsdgznsq.trade
+safety.apple.com.tyfhtf.p03szzqsr053w.download
+safety.apple.com.vendrm.p8ilrvejm0e77oygume.bid
+safety.apple.com.vhxachv.lcghizbmzcwdw593jwlb.stream
+safety.apple.com.wbfteg.epaxruc5joe3jgqcnvwj08iw.science
+safety.apple.com.werdhmygb.8z3rbjq05zbmgsbvixw8dbkquw.stream
+safety.apple.com.ydphkohwdha.ld3bfhtmyzwyrrs.trade
+safety.apple.com.yrqrwb.qtk1ferrv1echlmajex7zwa.bid
+safety.apple.com.zhrqaxtf.4dr2orjw0p1mqvdolq7i.trade
+safety.apple.com.zpqpksutwl.oeuz51qquxi1lzcf9w.bid
+safety.apple.com.ztbqvit.lmicmpzeo3t.stream
+safety.microsoft.com.aodgepfuau.lmicmpzeo3t.stream
+safety.microsoft.com.bcgql.oeuz51qquxi1lzcf9w.bid
+safety.microsoft.com.bgbzjk.eg6akswziho.science
+safety.microsoft.com.bgnmxey.pj2zlkshfi1f.review
+safety.microsoft.com.biaxm.31mhacrbhdws7urkua.review
+safety.microsoft.com.bjjsaajd.p03szzqsr053w.download
+safety.microsoft.com.blgftpdj.nvu7i2iobhlsdgznsq.trade
+safety.microsoft.com.bmmmubsox.ahay9tno6rvnpfwlmk22.bid
+safety.microsoft.com.btbqw.eddsgqhfe8sbng8niofb6zkpq.download
+safety.microsoft.com.chvbfyuxwdy.kvjjhr9f5uh6ig.stream
+safety.microsoft.com.dqmeajscq.erh0dnydhamf.download
+safety.microsoft.com.eibllfyuq.4dr2orjw0p1mqvdolq7i.trade
+safety.microsoft.com.eqbrtrb.tias2wxk59u9lgarwk0.bid
+safety.microsoft.com.fimgsvhpb.kckjxkbuktd4va0zkp5kt8qm.download
+safety.microsoft.com.gqogzha.we8aoybem2f9seurk5bensatcs.stream
+safety.microsoft.com.hcpes.r7whxgsf77pzw.science
+safety.microsoft.com.icavj.8z3rbjq05zbmgsbvixw8dbkquw.stream
+safety.microsoft.com.iixbcigi.p8ilrvejm0e77oygume.bid
+safety.microsoft.com.jgrgrxuoj.17rhshrnvsimvw0fbhe.stream
+safety.microsoft.com.kfahovdvcu.qs2xsibfvo9djnhm.stream
+safety.microsoft.com.kmknfvl.qtk1ferrv1echlmajex7zwa.bid
+safety.microsoft.com.ktkgcrb.xnfcdr24m9mxr5r6nsdi3zurug.science
+safety.microsoft.com.ladhuk.0hxozq551mvcn7lo8gid1xhg.bid
+safety.microsoft.com.lrezjdfo.ir6qcit6hwparcw.stream
+safety.microsoft.com.ltugrp.5rjzodumxqo9gwsfpmxt64j9wca.stream
+safety.microsoft.com.lyonzpa.w8thcykwz8ydssliuvs.trade
+safety.microsoft.com.mkiuqva.ynkfb9kvkoavb8i.stream
+safety.microsoft.com.mtrgof.aqljhwmgdrhd0k.trade
+safety.microsoft.com.npqahikwh.pxakspbxyzvbg.science
+safety.microsoft.com.nvdrbk.rtj0ov2vo8vqt7zqx1equw.stream
+safety.microsoft.com.poovzbfwae.miqvo7fq6xroojy5yimaeq.science
+safety.microsoft.com.pqxvrxa.2a1mmk9zrvdi7ekr2xexaomi.science
+safety.microsoft.com.qqjmxf.wcqtwhtdeyj.download
+safety.microsoft.com.qvduayjrkfa.kk7uq8ksczroqu4k9ve.trade
+safety.microsoft.com.rflmkslzvx.r1pwuoiaxamqv60ai8czq.download
 safety.microsoft.com.rgunkyk.cdzou7znjnyo1cttkrub.download
+safety.microsoft.com.rmyyfasg.epaxruc5joe3jgqcnvwj08iw.science
+safety.microsoft.com.rpgwjg.lnon6qf0w7cnbgpdj4i31n8ww.science
+safety.microsoft.com.tdhtzz.4en6b7sktegskxuudmh.stream
+safety.microsoft.com.tgxlmdboijp.awgv2cnumarn2qbiczt5je4.review
+safety.microsoft.com.ucxroyviued.dvhv1w9ebyndlipz1zeljprcw.bid
+safety.microsoft.com.ulxxk.rh0t4lm5euppjeuonocgvycd.science
+safety.microsoft.com.unvcjqrinz.t6taqq1vap6.bid
+safety.microsoft.com.uprmrng.3cafmarcurbzvgenixc8gco.bid
+safety.microsoft.com.vphpbgam.h0nhsnvxkdo9aheurrjlf5mzxwm.trade
+safety.microsoft.com.vvmkcauonvn.9fw8z1cxnoaogw1kpugaai9bca.trade
+safety.microsoft.com.wdtil.og6wyeun0zz81akji.review
+safety.microsoft.com.wfwfc.aakkwvtvm2pp5w.review
+safety.microsoft.com.wqnzhgvhjuf.ld3bfhtmyzwyrrs.trade
+safety.microsoft.com.wzlwy.ft4jegm61hzauivsok.review
+safety.microsoft.com.xaoxdee.ca06vcr6i5q1yncioqmbbi.bid
+safety.microsoft.com.xiatpjprbfj.vevugginvtju8g.science
+safety.microsoft.com.xsyxct.nqke0jutimhuexjh.bid
+safety.microsoft.com.xxqfd.sww60amwqryovw.download
+safety.microsoft.com.xxzmeim.jreuymjsaqiqrh4afetg.trade
+safety.microsoft.com.yepxre.bmmpjnjcjrby0xz9v1ezjg.trade
+safety.microsoft.com.yohvwv.sn04rdvvwnsw4yal4vw4dyw.science
+safety.microsoft.com.yxobkax.lcghizbmzcwdw593jwlb.stream
+safety.microsoft.com.zbzrdczaof.vkqyelqaea8mux46qavimhag.download
+safety.microsoft.com.zwvpqsohzdw.szbv2abpzzdh5a.science
 saintporn.com
 samaclub.com
 samsung-s5620.tk
@@ -57009,6 +57740,7 @@ smartoffice-eg.com
 smileystudios.com
 smoke.bitcoinlimos.com
 soapstampingmachines.com
+sobbingbitterly.tk
 soft.savetubevideo.com
 soft17.savetubevideo.com
 soft2.savetubevideo.com
@@ -57083,6 +57815,7 @@ test.maciejdudek.com.pl
 testiphone.no-ip.biz
 tgoogle.com
 the-login-method2.xyz
+thebiggestapp4updates.review
 thecloud01.com
 thecourtyardcolfaxcom.sites.qwestoffice.net
 thegilbertlawoffice.com
@@ -57452,6 +58185,7 @@ www.1bitcoin.us
 www.1kz16wqec9l5f1psnysi14f9z2m.net
 www.2-error-microsoft-888-538-0406.xyz
 www.21bitcoin.io
+www.24newstube.com
 www.3dsifacebooks.tk
 www.4chan-tube.on.nimp.org
 www.69pornoplace.com
@@ -57556,6 +58290,7 @@ www.apple.com-computer-security-analysis.bid
 www.appleblossomart.com
 www.applebrandstore.de
 www.applecares.co
+www.applecartng.com
 www.applefence.net
 www.appleforest.net
 www.applegarden.net
@@ -57633,6 +58368,7 @@ www.banksecurityalert.online
 www.bankserrors.xyz
 www.banksturbo.com
 www.banktransactioncorp.net
+www.banktrees.tk
 www.barclaysghana.org
 www.bauern-stube.at
 www.bdtube.tk
@@ -57656,6 +58392,7 @@ www.bigpondemailhelp.com
 www.bigtitpornstars.net
 www.bigtitpornvids.com
 www.biosafetysurmounts.pw
+www.biosetinlabs.com
 www.biosoft-my.com
 www.biosoft.ro
 www.biosolve.com
@@ -57664,12 +58401,14 @@ www.bitcoinclaims.com
 www.bitcoinportal.info
 www.bitcointraf.com
 www.bitte.net.ua
+www.bitteeth.com
 www.bittorrentbooster.com
 www.bittorrentmanager.com
 www.bittorrentshare.com
 www.blackpornclips.com
 www.blackpornmovies.net
 www.blackporno.net
+www.blackrabbitthailand.com
 www.blairstube.com
 www.blayaservicios.com
 www.bllphonecases.com
@@ -57764,12 +58503,15 @@ www.cloudbox05.com
 www.cloudbox10.com
 www.cloudbox101.com
 www.cloudbox40.com
+www.cloudcapgames.com
 www.cloudcrypter.pw
 www.cloudedge.net
 www.cloudemacstoragedevice-warningsecurityalertcodex9010gxxsegdg.info
 www.cloudinsiderscan.online
+www.clouditzone.com
 www.cloudmarch.net
 www.cloudninecondos.com
+www.cloudninedesign.com.au
 www.clouds0.com
 www.cloudservicedownload.com
 www.cloudsofts.tumblr.com
@@ -57792,6 +58534,10 @@ www.coindealers.com
 www.coinerra.com
 www.coinfound.com
 www.coinhive.com
+www.coinhmoin.bid
+www.coinhmrroin.bid
+www.coinhmrrowin.bid
+www.coinicos.io
 www.coinsdealer.pl
 www.colegionsdosremedios.com.br
 www.com-protection-macbook.systems
@@ -57854,6 +58600,7 @@ www.djsbank.tk
 www.dnld.runnerscryptos.top
 www.dodecato.simulationmachine.com
 www.dolgoporno.com
+www.donmachantprograms.tk
 www.dottcoinc.com
 www.download.phone2b.com.br
 www.downloadfacebookhack.com
@@ -58172,6 +58919,7 @@ www.isupportapple.com
 www.it.savetubevideo.com
 www.itubedj.com
 www.iwhatsapp.info
+www.jafcoindustries.com
 www.jansen-consultancy-machines.be
 www.jeegtube.com
 www.jescoin.com
@@ -58299,6 +59047,7 @@ www.macromilling.com.au
 www.macron.com.br
 www.macroscope.group
 www.macrospazio.it
+www.macscaffolding.co.uk
 www.macshield.online
 www.macsimum.no
 www.macsys.ca
@@ -58329,6 +59078,7 @@ www.maildefense.ru
 www.mailedit.fr
 www.mailhackedcallnow.xyz
 www.mailhelp-number.com
+www.mailingservers.net
 www.mailloop.com
 www.mailmoods.com
 www.mailsecuritysxyz.ru
@@ -58720,6 +59470,7 @@ www.natwest98.ml
 www.natwest99.ml
 www.naxtube.com
 www.nccareeroutlook.com
+www.nearestoutlook.tk
 www.nerdydroid.com
 www.net-update.com
 www.nettopolis.email
@@ -58753,6 +59504,7 @@ www.nwdesignstudios.co.uk
 www.odiamail.tk
 www.office-comfort.com.mx
 www.office-download.net
+www.office-update.services
 www.office16.homedns.org
 www.office365update.duckdns.org
 www.officeblocks.com.au
@@ -58767,24 +59519,30 @@ www.officefwd2003.ga
 www.officefwd231.ga
 www.officekeyupdateversion3652018.su
 www.officelive.org
+www.officematters.duckdns.org
 www.officeminami.net
 www.officeonline.000webhostapp.com
 www.officeonz.com
 www.officepromedia.ro
 www.officesupplies-b2b.com
 www.officeyantra.com
+www.oilmachines.000webhostapp.com
+www.olbceclldcamackl.website
 www.oldertube.com
 www.omegaformacion.com
 www.oncologypharmacist.net
+www.onelogin.thererepeated.tk
 www.onesystemupdate.com
 www.online-system-check-report-macos.info
 www.online-update.org
 www.onlinecrypter.com
+www.onlinetechsupoffice.bid
 www.onotoriousx.blackapplehost.com
 www.openncheckmail.com
 www.osasmail.xyz
 www.ourbank.in
 www.ourfilemacgetdmg.com
+www.outlook.countrygirl.tk
 www.outlooks.duckdns.org
 www.p4k4t0.blackapplehost.com
 www.paginaswebhostingydominiosguadalajara.com
@@ -58954,6 +59712,7 @@ www.recovermails.org
 www.redifmail.com
 www.redirectmymails.com
 www.redspacetube.com
+www.regalscoin.co
 www.registryupdate.com
 www.relianceclouds.com
 www.remoteapple.online
@@ -58972,7 +59731,109 @@ www.safaribreach.com
 www.safariinsaat.com.tr
 www.safariscript.com
 www.safemacbackup.com
+www.safety.apple.com.bdjocovune.r7whxgsf77pzw.science
+www.safety.apple.com.bdufmmw.xnfcdr24m9mxr5r6nsdi3zurug.science
+www.safety.apple.com.beppzoovb.eddsgqhfe8sbng8niofb6zkpq.download
+www.safety.apple.com.byoiwpvgv.nvz3atpg5cqirwgiwmgutlxqg.science
+www.safety.apple.com.byuglobu.sn04rdvvwnsw4yal4vw4dyw.science
+www.safety.apple.com.ccnwqf.vkqyelqaea8mux46qavimhag.download
+www.safety.apple.com.djhavb.rh0t4lm5euppjeuonocgvycd.science
+www.safety.apple.com.dnjywkeiqa.aakkwvtvm2pp5w.review
+www.safety.apple.com.gxhptruwnn.zpc3mnpmr4rwnpiqoyanyrib.review
+www.safety.apple.com.hfuhiujq.eiwftzglxdjcc502w.bid
+www.safety.apple.com.itwrmuho.kckjxkbuktd4va0zkp5kt8qm.download
+www.safety.apple.com.iwuzzavxf.ft4jegm61hzauivsok.review
+www.safety.apple.com.kycympesmr.t6taqq1vap6.bid
+www.safety.apple.com.lbmimhhn.ynkfb9kvkoavb8i.stream
+www.safety.apple.com.lncfpj.nqke0jutimhuexjh.bid
+www.safety.apple.com.lvubehpgji.zlcuqhvqakvglqqzamckhbfcab8.download
+www.safety.apple.com.lysldm.jreuymjsaqiqrh4afetg.trade
+www.safety.apple.com.mkvxkhofs.17rhshrnvsimvw0fbhe.stream
+www.safety.apple.com.mshsofdx.m3hqe5zqkjqnfus9kdhma.trade
+www.safety.apple.com.ncepvuzz.eg6akswziho.science
+www.safety.apple.com.oawxpfzmu.w8thcykwz8ydssliuvs.trade
+www.safety.apple.com.opckaqdeglw.szbv2abpzzdh5a.science
+www.safety.apple.com.pivjoqi.vevugginvtju8g.science
 www.safety.apple.com.pweddbnk.zwyhxoerqvdzeme5ozkdzk1r.trade
+www.safety.apple.com.rptzneirwf.bmmpjnjcjrby0xz9v1ezjg.trade
+www.safety.apple.com.rssxfsbsbo.miqvo7fq6xroojy5yimaeq.science
+www.safety.apple.com.scjhodethr.qs2xsibfvo9djnhm.stream
+www.safety.apple.com.scskkroup.pxakspbxyzvbg.science
+www.safety.apple.com.seatbazxrea.ca06vcr6i5q1yncioqmbbi.bid
+www.safety.apple.com.stquzcex.3cafmarcurbzvgenixc8gco.bid
+www.safety.apple.com.talljizbdq.kvjjhr9f5uh6ig.stream
+www.safety.apple.com.tbixelujfe.og6wyeun0zz81akji.review
+www.safety.apple.com.tjsoq.2a1mmk9zrvdi7ekr2xexaomi.science
+www.safety.apple.com.tvxkdxr.nvu7i2iobhlsdgznsq.trade
+www.safety.apple.com.tyfhtf.p03szzqsr053w.download
+www.safety.apple.com.vendrm.p8ilrvejm0e77oygume.bid
+www.safety.apple.com.vhxachv.lcghizbmzcwdw593jwlb.stream
+www.safety.apple.com.wbfteg.epaxruc5joe3jgqcnvwj08iw.science
+www.safety.apple.com.werdhmygb.8z3rbjq05zbmgsbvixw8dbkquw.stream
+www.safety.apple.com.ydphkohwdha.ld3bfhtmyzwyrrs.trade
+www.safety.apple.com.yrqrwb.qtk1ferrv1echlmajex7zwa.bid
+www.safety.apple.com.zhrqaxtf.4dr2orjw0p1mqvdolq7i.trade
+www.safety.apple.com.zpqpksutwl.oeuz51qquxi1lzcf9w.bid
+www.safety.apple.com.ztbqvit.lmicmpzeo3t.stream
+www.safety.microsoft.com.aodgepfuau.lmicmpzeo3t.stream
+www.safety.microsoft.com.bcgql.oeuz51qquxi1lzcf9w.bid
+www.safety.microsoft.com.bgbzjk.eg6akswziho.science
+www.safety.microsoft.com.bgnmxey.pj2zlkshfi1f.review
+www.safety.microsoft.com.biaxm.31mhacrbhdws7urkua.review
+www.safety.microsoft.com.bjjsaajd.p03szzqsr053w.download
+www.safety.microsoft.com.blgftpdj.nvu7i2iobhlsdgznsq.trade
+www.safety.microsoft.com.bmmmubsox.ahay9tno6rvnpfwlmk22.bid
+www.safety.microsoft.com.btbqw.eddsgqhfe8sbng8niofb6zkpq.download
+www.safety.microsoft.com.chvbfyuxwdy.kvjjhr9f5uh6ig.stream
+www.safety.microsoft.com.dqmeajscq.erh0dnydhamf.download
+www.safety.microsoft.com.eibllfyuq.4dr2orjw0p1mqvdolq7i.trade
+www.safety.microsoft.com.eqbrtrb.tias2wxk59u9lgarwk0.bid
+www.safety.microsoft.com.fimgsvhpb.kckjxkbuktd4va0zkp5kt8qm.download
+www.safety.microsoft.com.gqogzha.we8aoybem2f9seurk5bensatcs.stream
+www.safety.microsoft.com.hcpes.r7whxgsf77pzw.science
+www.safety.microsoft.com.icavj.8z3rbjq05zbmgsbvixw8dbkquw.stream
+www.safety.microsoft.com.iixbcigi.p8ilrvejm0e77oygume.bid
+www.safety.microsoft.com.jgrgrxuoj.17rhshrnvsimvw0fbhe.stream
+www.safety.microsoft.com.kfahovdvcu.qs2xsibfvo9djnhm.stream
+www.safety.microsoft.com.kmknfvl.qtk1ferrv1echlmajex7zwa.bid
+www.safety.microsoft.com.ktkgcrb.xnfcdr24m9mxr5r6nsdi3zurug.science
+www.safety.microsoft.com.ladhuk.0hxozq551mvcn7lo8gid1xhg.bid
+www.safety.microsoft.com.lrezjdfo.ir6qcit6hwparcw.stream
+www.safety.microsoft.com.ltugrp.5rjzodumxqo9gwsfpmxt64j9wca.stream
+www.safety.microsoft.com.lyonzpa.w8thcykwz8ydssliuvs.trade
+www.safety.microsoft.com.mkiuqva.ynkfb9kvkoavb8i.stream
+www.safety.microsoft.com.mtrgof.aqljhwmgdrhd0k.trade
+www.safety.microsoft.com.npqahikwh.pxakspbxyzvbg.science
+www.safety.microsoft.com.nvdrbk.rtj0ov2vo8vqt7zqx1equw.stream
+www.safety.microsoft.com.poovzbfwae.miqvo7fq6xroojy5yimaeq.science
+www.safety.microsoft.com.pqxvrxa.2a1mmk9zrvdi7ekr2xexaomi.science
+www.safety.microsoft.com.qqjmxf.wcqtwhtdeyj.download
+www.safety.microsoft.com.qvduayjrkfa.kk7uq8ksczroqu4k9ve.trade
+www.safety.microsoft.com.rflmkslzvx.r1pwuoiaxamqv60ai8czq.download
+www.safety.microsoft.com.rmyyfasg.epaxruc5joe3jgqcnvwj08iw.science
+www.safety.microsoft.com.rpgwjg.lnon6qf0w7cnbgpdj4i31n8ww.science
+www.safety.microsoft.com.tdhtzz.4en6b7sktegskxuudmh.stream
+www.safety.microsoft.com.tgxlmdboijp.awgv2cnumarn2qbiczt5je4.review
+www.safety.microsoft.com.ucxroyviued.dvhv1w9ebyndlipz1zeljprcw.bid
+www.safety.microsoft.com.ulxxk.rh0t4lm5euppjeuonocgvycd.science
+www.safety.microsoft.com.unvcjqrinz.t6taqq1vap6.bid
+www.safety.microsoft.com.uprmrng.3cafmarcurbzvgenixc8gco.bid
+www.safety.microsoft.com.vphpbgam.h0nhsnvxkdo9aheurrjlf5mzxwm.trade
+www.safety.microsoft.com.vvmkcauonvn.9fw8z1cxnoaogw1kpugaai9bca.trade
+www.safety.microsoft.com.wdtil.og6wyeun0zz81akji.review
+www.safety.microsoft.com.wfwfc.aakkwvtvm2pp5w.review
+www.safety.microsoft.com.wqnzhgvhjuf.ld3bfhtmyzwyrrs.trade
+www.safety.microsoft.com.wzlwy.ft4jegm61hzauivsok.review
+www.safety.microsoft.com.xaoxdee.ca06vcr6i5q1yncioqmbbi.bid
+www.safety.microsoft.com.xiatpjprbfj.vevugginvtju8g.science
+www.safety.microsoft.com.xsyxct.nqke0jutimhuexjh.bid
+www.safety.microsoft.com.xxqfd.sww60amwqryovw.download
+www.safety.microsoft.com.xxzmeim.jreuymjsaqiqrh4afetg.trade
+www.safety.microsoft.com.yepxre.bmmpjnjcjrby0xz9v1ezjg.trade
+www.safety.microsoft.com.yohvwv.sn04rdvvwnsw4yal4vw4dyw.science
+www.safety.microsoft.com.yxobkax.lcghizbmzcwdw593jwlb.stream
+www.safety.microsoft.com.zbzrdczaof.vkqyelqaea8mux46qavimhag.download
+www.safety.microsoft.com.zwvpqsohzdw.szbv2abpzzdh5a.science
 www.saintporn.com
 www.samaclub.com
 www.samsung-s5620.tk
@@ -59025,6 +59886,7 @@ www.smartmaccare.com
 www.smartoffice-eg.com
 www.smileystudios.com
 www.soapstampingmachines.com
+www.sobbingbitterly.tk
 www.softtube.cn
 www.softwareupdateproduct.com
 www.sortedtube.com
@@ -59075,6 +59937,7 @@ www.test.maciejdudek.com.pl
 www.tgoogle.com
 www.tgpornstars.com
 www.the-login-method2.xyz
+www.thebiggestapp4updates.review
 www.thecloud01.com
 www.thegilbertlawoffice.com
 www.themplayerupdater.com
@@ -59313,6 +60176,7 @@ www.yutpermonide.s3-website-us-west-2.amazonaws.com
 www.yutube.info
 www.zachmacphoto.com
 www.zcoiner.com
+www.zekporno.com
 www1.paypopup.com
 www10.paypopup.com
 www2.paypopup.com
@@ -59429,6 +60293,7 @@ zairmail.com
 zamzam123.googlecode.com
 zannesstudios.gr
 zcoiner.com
+zekporno.com
 zeroburn000.googlepages.com
 zipoffice.info
 zjios6f8md.neliver.com
@@ -59463,6 +60328,10 @@ zombieradioshow.com
 42newupdate.xyz
 aclefs.nmachinen.com
 ad-systems4mac.com
+adobeflashplayerb.xyz
+adobeflashplayerc.xyz
+adobeflashplayerq.xyz
+adobflashplayerx.xyz
 advancedmaccleaner.com
 advancedmaccleaner.esecureshoppe.com
 advancedmaccleaner.safecart.store
@@ -59835,6 +60704,7 @@ d1xar0myvbu1j9.cloudfront.net
 d3ahgapsispy4o.cloudfront.net
 d3cy20ss8oxn3o.cloudfront.net
 d8l61qux1ke73.cloudfront.net
+d9vl5hd6lxqxu.cloudfront.net
 darkyoutube.net
 datesetsysformacandpc.bid
 datesetsysformacandpc.download
@@ -59893,6 +60763,19 @@ finishedupdate.friendlysystem2updating.win
 finishedupdate.stable2update.download
 finishedupdate.stable2updates.download
 finishedupdate.stable2updating.stream
+flash-player.xyz
+flash.vtb-karta.ru
+flashplayer-adobe64.xyz
+flashplayer-win10.xyz
+flashplayer.chickenkiller.com
+flashplayerb.xyz
+flashplayerd-2.com
+flashplayerd-3.com
+flashplayerd-4.com
+flashplayerdownloadvip.com
+flashplayeru.xyz
+flashplayerv.xyz
+flashplayupdate.xyz
 foliosrmusei.site
 forultimateandbestupgradepcandmac.bid
 forultimateandbestupgradepcandmac.club
@@ -60547,6 +61430,7 @@ newversionupdate.stable4upgrades.stream
 newversionupdate.stable4upgrading.bid
 newversionupdate.stable4upgrading.download
 newversionupdatesafesystemsetnow.pw
+njzgjfjphonetist.review
 nmachinen.com
 nofreezingmac.click
 nofreezingmac.work
@@ -60634,6 +61518,7 @@ prepareupdate.theultimateandreadyforupdate.win
 prepareupdate.theultimateandreadyforupdating.stream
 prepareupdate.theultimateandreadyforupdating.win
 quiqupdateanddownloadthismonth.date
+raajwwcmactation.review
 reaaderupdate.info
 ready4live.thebestevercentralsys4update.date
 ready4live.thebestevercentralsys4update.win
@@ -61253,6 +62138,7 @@ updateauto.thealwaysbetterupgradingbuddy.bid
 updateauto.toupdatingwilleverneed.download
 updateauto.yourfreesearch2upgrade.stream
 updateauto.yourfreesearch2upgrades.bid
+updateflash.xyz
 updatehere.yourbigandallfreetoupgrade.stream
 updatehere.yourbigandallfreetoupgrades.stream
 updatehere.yourbigandallfreetoupgrades.win
@@ -61309,6 +62195,7 @@ updatesoftware.yourfreesearch2upgrade.bid
 updatesoftware.yourfreesearch2upgrade.review
 updatesoftware.yourfreesearch2upgrades.review
 updatesoftware.yourfreesearch2upgrades.win
+updatestar.com
 upgrade.biggerandlongerforupdate.win
 upgrade.biggerandlongerforupdates.bid
 upgrade.biggerandlongerforupdates.stream
@@ -61400,6 +62287,7 @@ whenupgrade.thebestof2update.stream
 whenvideoup.pleaseupdatesafesystemset4now.club
 whenvideoup.pleaseupdatesafesystemset4now.download
 whenvideoup.pleaseupdatesafesystemset4now.host
+win64-flash.xyz
 workingupdate.entersearch2upgrade.download
 workingupdate.entersearch2upgrade.stream
 workingupdate.entersearch2upgrades.download
@@ -61779,6 +62667,11 @@ www.emailfaster.co
 www.enphqmtldiaphones.review
 www.errorfixmicrosoft.com
 www.fastwaytoupdateyoursoftthisweek.bid
+www.flash-player.xyz
+www.flashplayerd-2.com
+www.flashplayerd-3.com
+www.flashplayerd-4.com
+www.flashplayerdownloadvip.com
 www.foliosrmusei.site
 www.forultimateandbestupgradepcandmac.bid
 www.forultimateandbestupgradepcandmac.club
@@ -62335,6 +63228,7 @@ www.newupdateswithsongs.stream
 www.newupdateswithsongsthismonth.date
 www.newupdatesysformacandpc.download
 www.newversionupdatesafesystemsetnow.pw
+www.njzgjfjphonetist.review
 www.nmachinen.com
 www.noqulxnjbittacle.review
 www.nowchecksysformacandpc.club
@@ -62382,6 +63276,7 @@ www.pornscrubber.com
 www.preparedsetsoft4systems4updateapp.bid
 www.preparedsetsoft4systems4updateapp.top
 www.quiqupdateanddownloadthismonth.date
+www.raajwwcmactation.review
 www.ready4updatefree4systempcandmac.bid
 www.ready4updatesysformacandpc.pw
 www.readynewsoftfreeforsystemssetpcandmac.bid
@@ -62930,6 +63825,7 @@ www.updatenewversionfreeforsystemsdownpcandmac.top
 www.updatenewversionfreeforsystemsupcandmac.download
 www.updatenewversionfreeforsystemsupcandmac.pw
 www.updatenewversionfreeforsystemsupcandmac.win
+www.updatestar.com
 www.upgrade12checkfree4pcandmac.club
 www.upgradecirclefree4pcandmac.bid
 www.upgradegetfree4pcandmac.club

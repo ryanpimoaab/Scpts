@@ -1,4 +1,4 @@
-#notrack malicious site list updated 03 mar 2018
+#notrack malicious site list updated 10 may 2018
 1kdailyprofit.biz #scam
 1kdailyprofit.co #scam
 #a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a
@@ -40,6 +40,7 @@ gotoout.ml #phishing
 hoholikik.club #ad injector
 #i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i
 intimglobus.ru #suspicious
+ironbeast.io #suspicious
 iubenda.com #annoying
 iphoneoptimizer.com #scam
 #j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j
@@ -68,7 +69,6 @@ reimageplus.com #fake bsod popus &scam
 reliablesurfingext.biz #fake updates
 retreatoftheretreat.site #rig exploit
 #s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s
-ironbeast.io #suspicious
 safari-code.net #malicious site
 searchnet.com #malicious site
 searchtabnew.com #malicious site
@@ -78,6 +78,7 @@ solvusoft.com #malicious files
 surveyrouter.com #toluna surveys
 servicekgbfit.us #fake bsods
 #t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t
+taosha.cc #android trojan
 toogle.com #malicious site
 trumpetedextremes.com #ad injector
 #u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u

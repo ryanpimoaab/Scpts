@@ -188,3 +188,5 @@ eth-pocket.de
 hide.ovh
 istlandoll.com
 aster18cdn.nl
+jqrcdn.download
+jqwww.download

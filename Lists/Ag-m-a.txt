@@ -43,6 +43,7 @@ plugin.mobopay.baidu.com
 mo.freeindoapp.com
 recreativ.ru
 hqsjc.com
+m-shes.ru
 init.startappservice.com
 valshara.com
 theship.club
@@ -1174,6 +1175,7 @@ api.gameanalytics.com
 api.gimbal.com
 api.sec.miui.com
 api.taplytics.com
+appmetrica.yandex.net
 appmetrica.yandex.com
 ar.umeng.com
 beacon.carfax.com
