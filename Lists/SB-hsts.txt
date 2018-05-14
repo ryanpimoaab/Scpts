@@ -1,3 +1,4 @@
+login.dotomi.net
 external.stealthedeal.com
 goodblock.gladly.io
 jackbootedroom.com
@@ -476,6 +477,7 @@ ibeat.indiatimes.com
 static.clmbtech.com
 api.branch.io
 msmetrics.ws.sonos.com
+betpromo247.com
 # block ads on voot streaming app @anudeepnd
 in-viacom18.videoplaza.tv
 register.appsflyer.com
@@ -509,7 +511,7 @@ pr-bh.ybp.yahoo.com
 #=====================================
 #               malwaredomainlist.com hosts list           #
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
-#         last updated: tue, 03 apr 18 20:39:48 +0000      #
+#         last updated: sun, 13 may 18 13:32:39 +0000      #
 0koryu0.easter.ne.jp
 109-204-26-16.netconnexion.managedbroadband.co.uk
 1866809.securefastserver.com
@@ -789,7 +791,6 @@ healthybloodpressure.info
 helesouurusa.cjb.com
 hexadl.line55.net
 higher.dwebsi.tk
-highflyingfood.com
 hinsib.com
 hmora.fred-build.tk
 hnskorea.co.kr
@@ -1229,7 +1230,6 @@ slimxxxtubexxq.dnset.com
 slimxxxtubeyge.ddns.name
 slimxxxtubeyhz.ddns.name
 slimxxxtubeyza.ddns.name
-smartify.org
 smilll.depozit.hr
 smrcek.com
 sn-gzzx.com
@@ -1462,7 +1462,6 @@ www.areadiprova.eu
 www.arkinsoftware.in
 www.assculturaleincontri.it
 www.atousoft.com
-www.autoappassionati.it
 www.bcservice.it
 www.blueimagen.com
 www.casamama.nl
@@ -1511,7 +1510,6 @@ www.hitekshop.vn
 www.hjaoopoa.top
 www.hospedar.xpg.com.br
 www.icybrand.eu
-www.imagerieduroc.com
 www.inevo.co.il
 www.infra.by
 www.jcmarcadolib.com
@@ -1561,7 +1559,6 @@ www.purplehorses.net
 www.racingandclassic.com
 www.realinnovation.com
 www.rebeccacella.com
-www.reifen-simon.com
 www.rempko.sk
 www.riccardochinnici.it
 www.ristoromontebasso.it
@@ -1846,7 +1843,7 @@ www.vydoxtrial.com
 # see below for acknowledgements.
 # please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
-# last updated: sun, 06 may 2018 at 23:03:41 gmt
+# last updated: sat, 12 may 2018 at 10:05:38 gmt
 # use this file to prevent your computer from connecting to selected
 # internet hosts. this is an easy and effective way to protect you from 
 # many types of spyware, reduces bandwidth use, blocks certain pop-up 
@@ -4454,6 +4451,7 @@ smtp.2911.net
 smtp.macau.ctm.net
 sn-gate.com
 soclone.com
+softnewready.systemgeneratorofbrandnewcontent.date
 softreadynow.thebigforeverupgrade.review
 softreadynow.thereadysetandgoforcontentprepared.trade
 software-updates.co
@@ -27986,13 +27984,13 @@ www.winaproduct.com
 # for more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   sat, 05 may 2018 18:50:23 gmt
-# entries:        2651
+# entries:        2648
 # format:         hosts (hosts -- in hosts file format)
 # credits:        peter lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    wed, 13 may 1998 00:00:00
+# start date:    tue, 19 may 1998 00:00:00
 101com.com
 101order.com
 123found.com
@@ -28412,7 +28410,6 @@ adverticus.de
 advertiseireland.com
 advertiserurl.com
 advertisespace.com
-advertising.guildlaunch.net
 advertisingbanners.com
 advertisingbox.com
 advertisingtag.net
@@ -28641,7 +28638,6 @@ cashfiesta.com
 cashlayer.com
 cashpartner.com
 casinogames.com
-casinopays.com
 casinorewards.com
 casinotraffic.com
 casinotreasure.com
@@ -28660,6 +28656,7 @@ checkm8.com
 checkstat.nl
 cherrythread.com
 chestionar.ro
+chiefcurrent.com
 chitika.net
 christingel.com
 cinstein.com
@@ -28880,7 +28877,6 @@ fleshlightcash.com
 flexbanner.com
 floodprincipal.com
 flowgo.com
-fonecta.leiki.com
 foo.cosmocode.de
 foresee.com
 forex-affiliate.net
@@ -29632,7 +29628,6 @@ opsafelist.net
 opsearcher.com
 opsir.com
 opsite.lv
-opsites.com.br
 otemcash.com
 ouchclarity.com
 ouchclarity.natwest.com
@@ -29834,11 +29829,12 @@ zqtk.net
 #      / _  / _ `/ _  / _  /   / _  / _ \/ // /_ /    / _  / _ \(_- __(_-<     #
 #     /____/\_,_/\_,_/\_,_/   /____/\___/\_, //__/   /_//_/\___/___/\__/___/     #
 #                                       /___/                                    #
+# as long the original url and attribution is included.
 # please forward any additions, corrections or comments by logging an issue at
 # https://github.com/mitchellkrogza/badd-boyz-hosts/issues
 # this list of hosts is compiled from server logs on my own servers
 # and forms the basis of the bad referrers domain lists for
-# the nginx ultimate bad bot blocker at: 
+# the nginx ultimate bad bot blocker at:
 # https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
 # and the apache ultimate bad bot blocker at:
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
@@ -29847,8 +29843,9 @@ zqtk.net
 ### version: v1.2018.05.6231
 ##### version information ##
 # use this file to prevent your computer or server from connecting to selected
-# many types of spyware, adware, malware, click-jacking and porn sites and reduces 
-# bandwidth use. 
+# internet hosts. this is an easy and effective way to protect you from
+# many types of spyware, adware, malware, click-jacking and porn sites and reduces
+# bandwidth use.
 # the file should be named "hosts" not "hosts.txt"
 # for linux based operating systems place this file at "/etc/hosts"
 # for windows based systems this is placed either at
@@ -45517,7 +45514,6 @@ realtimevids.com
 realting-moscow.ru
 realtytimes.com
 rebathgallery.com
-rebelmouse.com
 rebid.com
 rebrand.ly
 rebuildermedical.com
@@ -51099,7 +51095,7 @@ zzsyw.com
 # description: this list disables browser based miners such as coin-hive
 # donate: if you like the coinblockerlists please support me, https://vk.cc/7tl5h2 every donation helps me to continue the work on the coinblockerlists.
 # homepage: https://github.com/zerodot1/coinblockerlists
-# last modified: 06 05 2018 07:49
+# last modified: 08 05 2018 21:48
 # [coinblocker hosts list browser by zerodot1]
 0aqpqdju.me
 0x1f4b0.com
@@ -51264,6 +51260,7 @@ beta.coinrail.io
 beta.monerise.com
 bewaslac.com
 bewhoyouare.gq
+bezoglasa.online
 bhzejltg.info
 biberukalap.com
 bitcoiner.win
@@ -51277,7 +51274,9 @@ bmst.pw
 boostbox.com.br
 bowithow.com
 brominer.com
+browsermine.12finance.com
 browsermine.com
+browsersurf.12finance.com
 btc.cpufan.club
 butcalve.com
 buyandfun.review
@@ -51371,6 +51370,7 @@ cpanel.monerominer.rocks
 cpu2cash.link
 cpufan.club
 cqfnvznw.info
+creadordedinero.com
 cryptaloot.pro
 crypto-pool.fr
 crypto-webminer.com
@@ -51414,6 +51414,8 @@ dashboard.inwemo.com
 dashboard.monerise.com
 datasecu.download
 db.xmrpool.net
+de-mi-nis-ner.info
+de-mi-nis-ner2.info
 de.cookiescript.info
 de.moneroocean.stream
 deepc.cc
@@ -51434,6 +51436,7 @@ direct.cpufan.club
 dle-news.pw
 dmdamedia.hu
 dmg.crypto.csgocpu.com
+dmitrovna.github.io
 do69ifsly4.me
 donate.cpufan.club
 doubleclick1.xyz
@@ -51443,6 +51446,7 @@ doubleclick4.xyz
 doubleclick5.xyz
 doubleclick6.xyz
 dronml.ml
+dynya-may.github.io
 dzizsih.ru
 earncoins.club
 easyhash.io
@@ -51461,7 +51465,10 @@ es.cookiescript.info
 escobar.pr0gramm.com
 et-code.ru
 etacontent.com
+eth-pocket.com
 eth-pocket.de
+eth-pocket.eu
+ethtrader.de
 etn.cpufan.club
 etn.spacepools.org
 etnpool.minekitten.io
@@ -51581,11 +51588,13 @@ intensecoin.crypto-webminer.com
 interestingz.pw
 ipv6.freebitco.in
 irrrymucwxjl.ru
+istlandoll.com
 it.cookiescript.info
 itns.cpufan.club
 itsmyturn.nablabee.com
 ivuovhsn.ru
 ixvenhgwukn.ru
+japveny.ru
 jasmine.noblock.pro
 jhondi33.duckdns.org
 jqcdn.download
@@ -51650,6 +51659,7 @@ m2.videos.vidto.me
 m3.cdn-jquery.host
 m4.cdn-jquery.host
 m5.cdn-jquery.host
+ma.herphemiste.com
 machieved.com
 mail.coinhive-manager.com
 mail.cookiescript.info
@@ -51728,7 +51738,9 @@ mutuza.win
 mwnodes.viaxmr.com
 mxcdn1.now.sh
 mxcdn2.now.sh
+my-deltaplan.github.io
 my-retrospace.sbhmn-miner.com
+my-rigs.com
 myadstats.com
 myfhology.sbhmn-miner.com
 mylovelymommy.tk
@@ -51741,6 +51753,7 @@ nametraff.com
 nathetsof.com
 nddmcconmqsy.ru
 nebabrop.com
+nerdorium.org
 nerohut.com
 never.ovh
 new.minr.pw
@@ -51805,6 +51818,7 @@ party-vqgdyvoycc.now.sh
 pascal3.science
 pasoherb.gq
 pat.ron.si
+pazl1.ru
 pcejuyhjucmkiny.ru
 pdf-1.infamylists.com
 pearno.com
@@ -51812,6 +51826,7 @@ pertholin.com
 phx-2.xmrpool.net
 phx-3.xmrpool.net
 phx-4.xmrpool.net
+pizz-tuna.github.io
 platform.jsecoin.com
 play.stream.vidzi.tv
 play.streaming.estream.to
@@ -51922,6 +51937,7 @@ serie-vostfr.com
 server.adless.io
 server.jsecoin.com
 server4.nullrefexcep.com
+sharing-is-caring.info
 shrink-service.it
 sickrage.ca
 silimbompom.com
@@ -51930,10 +51946,12 @@ simpleco.in
 singapore01.monero.hashvault.pro
 site.coinnebula.com
 siteverification.site
+skencituer.com
 sm3na.com
 smartoffer.site
 smectapop12.pl
 smurf.crypto.csgocpu.com
+snahome.com
 spacepools.org
 sparechange.io
 sparnove.com
@@ -51994,6 +52012,7 @@ synconnector.com
 azm9p7tso.trade
 echhome-js.github.io
 emplate-download.top
+eramill.com
 erethat.ru
 est.cdn-jquery.host
 est.cryptonoter.com
@@ -52625,6 +52644,7 @@ www7.2giga.link
 x.browsermine.com
 xdn.cpufan.club
 xgmc6lu8fs.me
+xmg.cool
 xml.mining.best
 xmr.coinlab.biz
 xmr.cool

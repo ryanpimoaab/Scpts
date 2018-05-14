@@ -1,6 +1,7 @@
 1493361689.rsc.cdn77.org
 30-day-change.com
 2468.go2cloud.org
+adservice.google.nl
 adsmws.cloudapp.net
 androidads23.adcolony.com
 analytics.publitas.com
@@ -501,6 +502,7 @@ ibeat.indiatimes.com
 static.clmbtech.com
 api.branch.io
 msmetrics.ws.sonos.com
+betpromo247.com
 in-viacom18.videoplaza.tv
 register.appsflyer.com
 v10.events.data.microsoft.com
