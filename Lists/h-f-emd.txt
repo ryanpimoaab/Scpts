@@ -24517,7 +24517,6 @@ brokenspring.net
 brokensquare.net
 brokentrain.net
 brokerclub.lt
-brokerdealer-encrypted.com
 brokings.org
 brolaskjf.superweb.ws
 bromleyvalley.co.uk
@@ -53978,6 +53977,7 @@ kabres2.ddns.net
 kachurovskiy.com
 kacperpajor.pl
 kacpidgok.pw
+kadatagroup.com
 kadczgsaz.org
 kadet.hu
 kadinchey.nl
@@ -57201,6 +57201,7 @@ longthank.net
 longthrow.net
 longvanceramics.com.vn
 longvideos.net
+longviewtrading.com
 longwarjournal.org
 longword.net
 longyimumen.com
@@ -60899,6 +60900,7 @@ mopooland.top
 mopping-thefloor.tk
 mopw.men
 moqi.f3322.net
+morac.net
 moragop.org
 morainecare.com
 morale.duckdns.org
@@ -65035,6 +65037,7 @@ oemsen.gmxhome.de
 oemzolo.ws
 oeodf.ws
 oesseconsulting.com
+oetkepel.nl
 oetnllj.cn
 oetoa.cn
 oevwyvlnwj.cn
@@ -68168,6 +68171,7 @@ pechibella.com
 pecschool.com
 peculiarityabove.tk
 pedalcars.ru
+pedalpower.com.au
 pediatr-russia.ru
 pediatriayvacunas.com
 pedofelia33.smtp.ru
@@ -86071,6 +86075,7 @@ utlttlwcyew.com
 uto.date
 utonerutoft.com
 utopiamanali.com
+utopiaroad.com
 utorrent-download.net
 utorrent-epicgame.ddns.net
 utorrent-senha2.ddns.net
@@ -102684,7 +102689,6 @@ www.brokenspring.net
 www.brokensquare.net
 www.brokentrain.net
 www.brokeout.tk
-www.brokerdealer-encrypted.com
 www.brokertomsk.ru
 www.brokings.org
 www.brolaskjf.superweb.ws
@@ -157772,4 +157776,4 @@ zzzvshilg4.centade.com
 zzzwcbpvsn.centade.com
 zzzxpx2itb.centade.com
 zzzxxxcc.no-ip.biz
-# hosts: 157805
+# hosts: 157809

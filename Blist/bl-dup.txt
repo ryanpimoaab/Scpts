@@ -133,3 +133,8 @@ media.adca.st
 ionsoftware.info
 zddxlih.com
 e.reddit.com
+logger.instagram.com
+platform.instagram.com
+white.ish.instagram.com
+black.ish.instagram.com
+api.instagram.com
