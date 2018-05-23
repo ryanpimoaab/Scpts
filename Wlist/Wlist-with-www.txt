@@ -145,6 +145,7 @@ www.help.ui.xboxlive.com
 www.hitbtc.com
 www.hls.ted.com
 www.hosts-file.net
+www.i.instagram.com
 www.i.s-microsoft.com
 www.i.ytimg.com
 www.i1.ytimg.com
@@ -153,6 +154,7 @@ www.imagesak.secureserver.net
 www.imgs.xkcd.com
 www.imgur.com
 www.inbox.google.com
+www.instagram.com
 www.itunes.apple.com
 www.j.mp
 www.julio.xarold.com

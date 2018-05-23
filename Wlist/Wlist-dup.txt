@@ -524,3 +524,6 @@ browser-update.org
 tags.tiqcdn.com
 metrics.sky.com
 analytics.faw.sky.com
+i.instagram.com
+instagram.com
+www.instagram.com
