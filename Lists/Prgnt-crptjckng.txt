@@ -322,7 +322,6 @@ adminbtc.ru
 adminer.com
 admission.fri3nds.in
 adobe.flashplayer.bx6tok.xyz
-adobecc.com
 adobeflashplayer.ma8cfl.xyz
 adobeflashplayerb.xyz
 adobeflashplayerc.xyz
@@ -1504,6 +1503,7 @@ gnrdomimplementation.com
 go.megabanners.cf
 go.seoclubs.pw
 go2.mercy.ga
+gobba.myeffect.net
 gobits.io
 goldcoinfaucet.com
 goldenfaucet.xyz
@@ -1666,10 +1666,13 @@ joinus.coinfirm.io
 joyreactor.cc
 jp-stratum.btcc.com
 jp.lapool.me
+jqassets.download
 jqcdn.download
 jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
+jqrcdn.download
+jquerrycdn.download
 jquery-cdn.download
 jquery-uim.download
 jquerystatistics.org
@@ -2281,6 +2284,7 @@ promo.bitaccess.co
 promo.hashflare.io
 proxy.mineshaft.ml
 psl.io
+public.adobecc.com
 publicvm.com
 pubyun.com
 pumpmywallet.com
@@ -2454,6 +2458,7 @@ siguranposao.com
 silimbompom.com
 simplepot.890m.com
 simplewin.890m.com
+site.flashx.cc
 siteverification.online
 siteverification.site
 skencituer.com

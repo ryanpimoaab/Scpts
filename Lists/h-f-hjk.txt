@@ -29,6 +29,7 @@ datanotary.com
 defenderff.com
 defenderguardext.com
 defenderinfoext.com
+dolzniki.com.ua
 easypic.com
 elephantlist.com
 encrypt541-info.ml
@@ -56,6 +57,7 @@ helpertoolext.com
 hlatomer.net
 homepage.emachines.com
 homepagle.com
+ibrodsports.club
 infoguardedext.com
 infoguardedff.com
 infohelperext.com
@@ -63,6 +65,7 @@ informatwebcard8.club
 informatwebpost3.club
 infosaferext.com
 internet-browser.com
+iqkbi.top
 js.kolmic.com
 ketsq.ru
 knowyoush.mobi
@@ -75,6 +78,7 @@ naked.com
 networking956-info.ml
 notice-85xi5.stream
 olaolorun111.wm01.to
+oload.win
 orgy.com
 pcspeedbooster.com
 phukienhung.com
@@ -209,4 +213,4 @@ www4search.net
 xml.rxfclk3.com
 youngteenporn.proboards89.com
 zincify.stream
-# hosts: 211
+# hosts: 215

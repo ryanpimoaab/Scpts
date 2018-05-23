@@ -129,6 +129,7 @@ adsymptotic.com
 adtarget.me
 adtelligence.de
 adultblogtoplist.com
+adunity.com
 advanced-web-analytics.com
 advconversion.com
 adyapper.com
@@ -394,6 +395,7 @@ cbtrk.net
 cccpmo.com
 ccgateway.net
 cdn-analytics.pl
+cdn-net.com
 cdnanalytics.xyz
 cdnmaster.com
 cdntrf.com
@@ -979,6 +981,7 @@ hyfntrak.com
 hyperactivate.com
 hypestat.com
 i-stats.com
+i401xox.com
 iadvize.com
 ib-ibi.com
 ibpxl.com
@@ -1357,6 +1360,8 @@ netaffiliation.com
 netapplications.com
 netbiscuits.net
 netclickstats.com
+netcore.co.in
+netcoresmartech.com
 netflame.cc
 netgraviton.net
 netinsight.co.kr
@@ -1770,6 +1775,7 @@ shinystat.com
 shippinginsights.com
 shoelace.com
 shoptimally.com
+showheroes.com
 showroomlogic.com
 siftscience.com
 signup-way.com
@@ -1907,6 +1913,7 @@ stellaservice.com
 stippleit.com
 stormcontainertag.com
 stormiq.com
+storygize.net
 streamsend.com
 streem.com.au
 stripedcollar.net
@@ -1984,7 +1991,6 @@ thespecialsearch.com
 thingswontend.com
 thisisacoolthing.com
 thisisanothercoolthing.com
-threadloom.com
 tighting.info
 tinycounter.com
 tiser.com.au
@@ -2329,6 +2335,7 @@ ztsrv.com
 .bid
 .cf
 .club
+.company
 .cricket
 .date
 .download
@@ -2337,8 +2344,12 @@ ztsrv.com
 .ga
 .gdn
 .gq
+.group
 .host
+.ink
 .loan
+.ltd
+.me
 .men
 .ml
 .n.2.1.js
@@ -2347,6 +2358,7 @@ ztsrv.com
 .ovh
 .party
 .pro
+.promo
 .pw
 .racing
 .review
@@ -2529,6 +2541,7 @@ hodling.faith
 hodling.party
 hodling.science
 host.d-ns.ga
+hostingcloud.faith
 hydesolo.tk
 igg.biz
 igrid.org
@@ -2594,8 +2607,18 @@ moneromining.online
 moneroocean.stream
 moonsade.com
 morningdigit.com
+mrycrypto.com
+munero.me
 mutuza.win
 mwor.gq
+mycrypto.company
+mycrypto.group
+mycrypto.ink
+mycrypto.ltd
+mycrypto.promo
+mycryrpto.com
+myerypto.com
+myrcrypto.com
 nablabee.com
 nahnoji.cz
 nathetsof.com
@@ -2605,6 +2628,7 @@ never.ovh
 nexttime.ovh
 nfwebminer.com
 niematego.tk
+nnycrypto.com
 noblock.pro
 oei1.gq
 ogrid.org

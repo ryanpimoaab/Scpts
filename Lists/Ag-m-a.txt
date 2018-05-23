@@ -41,8 +41,7 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
-recreativ.ru
-hqsjc.com
+config.unityads.unity3d.com
 m-shes.ru
 init.startappservice.com
 valshara.com
@@ -857,6 +856,8 @@ yuhuads.com
 zedo.com
 ziffdavis.com
 zoglafi.info
+recreativ.ru
+hqsjc.com
 jfduv7.com
 n152adserv.com
 retarget.ssl-services.com
@@ -901,6 +902,7 @@ youtube.com
 mobimagic.com
 turner.com
 images-*.ssl-images-amazon.com
+baidu.com
 cartoon-sex.tv
 dlbooks.to
 storage.googleapis.com
@@ -977,6 +979,7 @@ ymcdn.ymtrack6.co
 static.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+ws.kebapp.co
 varravgames.com
 api.ambelbet.com
 mobi.yanosik.pl:8080
@@ -1027,6 +1030,7 @@ eviltracker.net
 spotify.com
 trackersimulator.org
 app.adjust.com
+api.splkmobile.com
 sdk.stats-locations.com
 config.safedk.com
 api.safedk.com

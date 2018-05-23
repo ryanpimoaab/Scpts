@@ -132,6 +132,7 @@ aeros10.tk
 aeros11.tk
 aeros12.tk
 aether.spacepools.org
+afdjljiyagf.ru
 afflow.18-plus.net
 affshopcj.com
 afminer.com
@@ -198,6 +199,7 @@ api.bitcoin.de
 api.bitgrail.com
 api.bithumb.com
 api.blazepool.com
+api.browsermine.com
 api.btcchina.com
 api.byte.spacepools.org
 api.coal.spacepools.org
@@ -257,6 +259,7 @@ api.moriaxmr.com
 api.multipool.us
 api.music.mypool.online
 api.nanopool.org
+api.netflare.info
 api.nicehash.com
 api.nnc.mypool.online
 api.pirl.mypool.online
@@ -432,6 +435,7 @@ best-game.xyz
 best-p2pool.eu
 bestetnpool.com
 bestcoinsignals.com
+besti.ga
 bestmobiworld.com
 bestsecurepractice.com
 bestxmrpool.com
@@ -601,6 +605,9 @@ blog.z.cash
 blox.minexmr.com
 blox.supportxmr.com
 blue-js.github.io
+bmcm.ml
+bmcm.pw
+bmnadutub.ru
 bmnr.pw
 bmst.pw
 bnm.cf
@@ -736,6 +743,7 @@ cdn.streambeam.io
 cdn2.inwemo.com
 cdncounter.top
 cdnfile.xyz
+cdnjs.cloudflane.com
 cdns.ws
 cdy.altpool.pro
 cemsenik.qp.si
@@ -955,11 +963,14 @@ cryptoserb.com
 cryptotab.net
 cryptown.netlify.com
 cryptoxpool.com
+cryweb.github.io
+crywebber.github.io
 cs.minergate.com
 csc.mastermining.net
 csc.suprnova.cc
 csc.thecoin.pw
 csgocpu.com
+ctlrnwbv.ru
 ctrb.jscdndel.com
 ctrl.getmonero.org
 cure.cryptopools.com
@@ -1032,6 +1043,7 @@ data3.mia.nocroom.com
 database.minercircle.com
 datacn.btcchina.com
 datasecu.download
+dataservices.download
 db.xmrpool.net
 dbg.thecoin.pw
 dbix.altpool.pro
@@ -1215,6 +1227,7 @@ duck.pool.minergate.com
 duo.thecoin.pw
 durinsmine.com
 dwarfpool.com
+dxmhkisurxxxhm.ru
 dyn.spacepools.org
 dynya-may.github.io
 dzizsih.ru
@@ -1233,6 +1246,7 @@ edollar.hashvault.pro
 edollar.spacepools.org
 eeme7j.win
 eeme7je.win
+eflbruwqt.ru
 egc.suprnova.cc
 egopastor.biz
 egulden.mastermining.net
@@ -1290,6 +1304,7 @@ equihash.usa.nicehash.com
 equipool.1ds.us
 erc.suprnova.cc
 erebor.dwarfpool.com
+ermaseuc.ru
 errantshed.co.uk
 eruuludam.mn
 es.cookiescript.info
@@ -1405,6 +1420,7 @@ ethpool.org
 ethteam.com
 ethtrader.de
 ethweb.antpool.com
+etlrsq.ru
 etn-api.semipool.com
 etn-api.suprnova.cc
 etn-asia1.nanopool.org
@@ -1595,6 +1611,7 @@ fcn.miner.center
 fcn.mypool.name
 fcn.mypool.online
 fcn.pool.minergate.com
+fdtpyqqsnzxvt.ru
 feathercoin.miningpoolhub.com
 fedora.poolto.be
 fee.xmrig.com
@@ -1747,6 +1764,7 @@ ftp.miningspeed.com
 ftp.oo000oo.me
 ftp.ruisgood.ru
 ftp.tugae2.com
+ftzivuesohvebj.ru
 fujiseed.sighash.info
 futeboltv.com
 futurocoinpool.com
@@ -1815,6 +1833,7 @@ go.bestmobiworld.com
 go.megabanners.cf
 go.seoclubs.pw
 go2.mercy.ga
+gobba.myeffect.net
 goldnova.crypto.csgocpu.com
 goldoffer.online
 gonline.bid
@@ -1859,6 +1878,7 @@ guangdong-pool.ethfans.org
 guest-stat.com
 gulf.moneroocean.stream
 gun.thecoin.pw
+gus.host
 gustaver.ddns.ne
 gustaver.ddns.net
 h.nanopool.org
@@ -1895,6 +1915,7 @@ hatcalter.com
 hatevery.info
 havio.pl
 hbc.coin-miners.info
+hbeuwgqt.ru
 hbn.smartmining.net
 hcash.uupool.cn
 hcn.cryptopool.pro
@@ -1979,6 +2000,7 @@ ico.lydian.io
 id.minergate.com
 identity.stakeunited.com
 if1j0ytgkypa.tk
+igdxzzeglrlqm.ru
 igrid.org
 ihdvilappuxpgiv.ru
 iisl7wpf.me
@@ -2045,6 +2067,7 @@ japveny.ru
 jasmine.noblock.pro
 jbeupq84v7.2y.net
 jcmi5n4c3mvgtyt5.onion
+jhfdmiwcgnty.ru
 jhondi33.duckdns.org
 jhshxbv.com
 jira.prohashing.com
@@ -2055,10 +2078,14 @@ joinus.coinfirm.io
 jp-stratum.btcc.com
 jp.lapool.me
 jp.stratum.viaxmr.com
+jqassets.download
 jqcdn.download
 jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
+jqr-cdn.download
+jqrcdn.download
+jquerrycdn.download
 jquery-cdn.download
 jquery-uim.download
 jquerystatistics.org
@@ -2074,7 +2101,10 @@ jsecoin.com
 json.stringengines.com
 jug.suprnova.cc
 julrina.000webhostapp.com
+jurty.ml
+jurtym.cf
 jwduahujge.ru
+jwwhsqz.ru
 jyhfuqoh.info
 k.zsw8.cc
 kalipasindra.online
@@ -2087,6 +2117,7 @@ karbo.spacepools.org
 karbowanec.crypto-webminer.com
 karbowanec.hashvault.pro
 kc.ybcoin.com
+kdmkauchahynhrs.ru
 kdowqlpt.info
 keccak.br.nicehash.com
 keccak.eu.nicehash.com
@@ -2137,6 +2168,7 @@ kumaseed.sighash.info
 kunay.nullrefexcep.com
 kurt.suprnova.cc
 kush.suprnova.cc
+kxrcjhogag.ru
 l-shop.nullrefexcep.com
 l33tsite.info
 la01.supportxmr.com
@@ -2196,6 +2228,7 @@ litecoinz.miningspeed.com
 live.4480.org
 live.prohashing.com
 livelyoffers.club
+lmeeulcfttqv.ru
 lmodr.biz
 load.jsecoin.com
 local.ckpool.org
@@ -2257,7 +2290,6 @@ lyra2v2.mine.ahashpool.com
 lyra2v2.mine.zpool.ca
 lyra2z.mine.zpool.ca
 lzobilie.cf
-lọgrhythm.com
 m-a.btcchina.com
 m.anyfiles.ovh
 m.bitcoin.cz
@@ -2382,6 +2414,7 @@ mergemining.com
 message.bithumb.com
 metrika.ron.si
 mewapi.epool.io
+mfio.cf
 mgt.suprnova.cc
 mhiobjnirs.gq
 minanagency.com
@@ -2543,6 +2576,7 @@ mlcros0ft.ga
 mlcros0ft.gq
 mlcros0ft.tk
 mlcrosolt.tk
+mlib.browsermine.com
 mmc.center
 mmpool.org
 mmsubtitles.co
@@ -2641,6 +2675,7 @@ multiminerapp.com
 multipool.es
 multipool.us
 mun.suprnova.cc
+munero.me
 muning.bitcoin.cz
 music.2miners.com
 music.2miners.ru
@@ -2652,6 +2687,7 @@ music.poolto.be
 musicoin.miningpoolhub.com
 mutuza.win
 mwnodes.viaxmr.com
+mwor.gq
 mx.kippo.eu
 mx.la.nocroom.com
 mx.mycelium.com
@@ -2886,6 +2922,7 @@ ocean.cryptoloot.pro
 ocean.webmine.pro
 ockoy.deliveryclub-6589.download
 oec.extremepool.org
+oei1.gq
 offerreality.com
 office.lv.nocroom.com
 ogondkskyahxa.ru
@@ -2924,6 +2961,7 @@ oxmr-eu2.nanopool.org
 oxmr-us-east1.nanopool.org
 oxmr-us-west1.nanopool.org
 oxwwoeukjispema.ru
+p.estream.to
 p.hemnes.win
 p.sunnyjuly.gq
 p.tidafors.xyz
@@ -2999,6 +3037,7 @@ peercoin.thecoin.pw
 pepe.suprnova.cc
 peril.kippo.eu
 pertholin.com
+pertosj.ru
 pgc.coin-miners.info
 phi.mine.zpool.ca
 phkttm64gbquasaq.onion
@@ -3027,10 +3066,10 @@ pix.ccminer.org
 pizz-tuna.github.io
 pl.minergate.com
 platform.jsecoin.com
+play.site.flashx.cc
 play.stream.vidzi.tv
 play.streaming.estream.to
 play.video.estream.nu
-play.video.estream.nu/
 player.h-cdn.com
 playerassets.info
 playerhd2.pw
@@ -3184,6 +3223,7 @@ private.cryptokitties.co
 private.equihash.usa.nicehash.com
 prohash.net
 prohashing.com
+proj2018.xyz
 projectpoi.com
 prometheus.phoenixcoin.org
 promo.hashflare.io
@@ -3223,7 +3263,9 @@ qcn.miner.center
 qcn.mypool.name
 qcn.mypool.online
 qcn.pool.minergate.com
+qlzwfzfatjth.ru
 qp.si
+qpmsybxqvlje.ru
 qrk.coinmine.pl
 qrk.suprnova.cc
 qs3gas.xyz
@@ -3485,6 +3527,7 @@ singapore02.minemonero.pro
 sinussoda.ga
 sio.btcchina.com
 site.coinnebula.com
+site.flashx.cc
 siteverification.online
 siteverification.site
 skein.mine.zpool.ca
@@ -3585,6 +3628,7 @@ speedtest.usa.nicehash.com
 spiky-inclinations.000webhostapp.com
 spr.suprnova.cc
 sprouts.suprnova.cc
+sptlkiyjsglayc.ru
 sql.eth.pp.ua
 sr.cookiescript.info
 src.coinmine.pl
@@ -3928,6 +3972,7 @@ ubq.minertopia.org
 ubq.mypool.online
 ubq.poolto.be
 ucrypto.net
+udqgbokvzbnqkf.ru
 uebawtz7.me
 ufocoin.miningpoolhub.com
 ui2ulh.xyz
@@ -4111,6 +4156,7 @@ voip.z.cash
 voot.suprnova.cc
 votecoin.minerspool.cc
 votecoin.miningspeed.com
+voumxy.ru
 vpn.coinfirm.io
 vps.btgpool.pro
 vpzccwpyilvoyg.ru
@@ -4124,6 +4170,7 @@ vtc.poolmining.org
 vtc.suprnova.cc
 vtc.thecoin.pw
 vtc2.alwayshashing.com
+vuryua.ru
 vuuwd.com
 vxelkrhl.info
 vzhjnorkudcxbiy.com
@@ -4213,6 +4260,7 @@ wireless.kei.su
 witkom.sbhmn-miner.com
 witthethim.com
 wittyoffers.club
+wkkjfcgjofbix.ru
 wmasters.cf
 wmasters.ga
 wmasters.gq
@@ -4223,10 +4271,12 @@ wmi.my0709.xyz
 wmi.mykings.top.info
 wmi.oo000oo.club
 wmwmwwfmkvucbln.ru
+wnmyerzbjhu.ru
 wo15.coinhive.com
 wood.suprnova.cc
 woork.sbhmn-miner.com
 word200.duckdns.org
+wordc.ga
 worker.minero.cc
 worker.salon.com
 worker0.minero.cc
@@ -4714,6 +4764,7 @@ www.antpool.com
 www.api.moneropool.nl
 www.assetscdn.stream
 www.authedmine.com
+www.aymcsx.ru
 www.bablace.com
 www.baiduccdn1.com
 www.banner.boostbox.com.br
@@ -4755,6 +4806,7 @@ www.clickgem.com
 www.clona.ru
 www.cloudcdn.gdn
 www.cloudcoins.co
+www.cloudflane.com
 www.cloudpools.net
 www.cocozuma.net
 www.coin-have.com
@@ -4879,7 +4931,12 @@ www.interestingz.pw
 www.inwemo.com
 www.ipbc.crypto-webminer.com
 www.itns.coinwire.eu
+www.jqassets.download
+www.jqcdn.download
+www.jqrcdn.download
+www.jquerrycdn.download
 www.jquery-cdn.download
+www.jqwww.download
 www.jsccnn.com
 www.jscdndel.com
 www.jsecoin.com
@@ -5003,6 +5060,7 @@ www.uupool.cn
 www.via.mastermining.net
 www.viaxmr.com
 www.waterhole.io
+www.webassembly.stream
 www.webcoin.us
 www.webmine.pro
 www.webminerpool.com
@@ -5076,6 +5134,7 @@ x15.hk.nicehash.com
 x15.in.nicehash.com
 x15.jp.nicehash.com
 x15.usa.nicehash.com
+x16r.pickaxe.pro
 x17.mine.zpool.ca
 x9.dnsseed.litecoinpool.org
 xbasfbno.info
@@ -5238,6 +5297,7 @@ xrbc.minertopia.org
 xre.suprnova.cc
 xrm.prohash.net
 xsecurity.fblaster.com
+xssrmimmnq.ru
 xst.argakiig.us
 xt917.yobit.net
 xun.coinwire.eu
@@ -5257,12 +5317,14 @@ yac.coinmine.pl
 ybc.coinmine.pl
 ybcoin.com
 ybh.ybcoin.com
+ybjfsqcevow.ru
 yescrypt.mine.zpool.ca
 yiim.ccminer.org
 yiimp.ccminer.org
 yiimp.mastermining.net
 yiimp.mypool.online
 yimp.ccminer.org
+yoaabgvkm.ru
 yobit.net
 yoc.2miners.com
 yoc.minertopia.org
@@ -5381,6 +5443,7 @@ zgdfz6h7po.me
 ziftr.suprnova.cc
 zinterect.ga
 zinterest.ga
+zivbxion.ru
 ziykrgc.ru
 zjemch.ru
 zlx.com.br
@@ -5396,3 +5459,4 @@ zrc-stratum.suprnova.cc
 zsw8.cc
 zvuhanie.ml
 zxc1-ustokyyneikyfasnm.stackpathdns.com
+zzqhsrg.ru
