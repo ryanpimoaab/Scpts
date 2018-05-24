@@ -138,3 +138,4 @@ platform.instagram.com
 white.ish.instagram.com
 black.ish.instagram.com
 api.instagram.com
+facebook.com

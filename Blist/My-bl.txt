@@ -42,6 +42,7 @@ elthamely.com
 euw.adserver.snapads.com
 f001.backblazeb2.com
 f43.popflawlessads.com
+facebook.com
 ftp.goodgame.ru
 fxox4wvv.win
 g5zzz.tobhn2.firc.gdn
@@ -166,6 +167,7 @@ www.elthamely.com
 www.euw.adserver.snapads.com
 www.f001.backblazeb2.com
 www.f43.popflawlessads.com
+www.facebook.com
 www.ftp.goodgame.ru
 www.fxox4wvv.win
 www.g5zzz.tobhn2.firc.gdn
