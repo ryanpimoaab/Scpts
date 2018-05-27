@@ -970,6 +970,7 @@ hotjar.com
 hotlog.ru
 hqhrt.com
 hs-analytics.net
+hsadspixel.net
 hudb.pl
 humanclick.com
 hunt-leads.com
@@ -2134,7 +2135,6 @@ useronlinecounter.com
 userreplay.net
 userreport.com
 users-api.com
-userzoom.com
 usuarios-online.com
 v12group.com
 v3cdn.net
@@ -2432,7 +2432,12 @@ biberukalap.com
 bitclub.network
 bitclubnetwork.com
 bjorksta.men
+bmcm.ml
+bmcm.pw
+bmnr.pw
+bmst.pw
 bowithow.com
+browsermine.com
 butcalve.com
 byebye.ml
 c0i8h8ac7e.bid
@@ -2469,6 +2474,7 @@ coinwire.eu
 cookiescript.info
 cpu2cash.link
 cpufan.club
+cryptaloot.pro
 crypto-coins-now.com
 crypto-coins.club
 crypto-coins.com
@@ -2575,6 +2581,7 @@ l33tsite.info
 ledhenone.com
 ledinund.com
 leon08.tk
+lightminer.co
 lindon-pool.win
 listat.biz
 lmodr.biz
@@ -2592,6 +2599,7 @@ mine.torrent.pw
 minecrunch.co
 minemytraffic.com
 miner.pr0gramm.com
+mineralt.io
 minercry.pt
 minero-proxy-*.sh
 minero.cc

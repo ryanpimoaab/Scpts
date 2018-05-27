@@ -1,4 +1,4 @@
-#notrack malicious site list updated 10 may 2018
+#notrack malicious site list updated 25 may 2018
 1kdailyprofit.biz #scam
 1kdailyprofit.co #scam
 #a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a
@@ -33,6 +33,7 @@ ffdns.net #dns exploiters
 gettop.info #rig exploit
 giftcards4fans.com #scam
 globaloffers.link #malware
+googe.com #typo
 googele.com #typo
 gonirola.com #malicious site
 gotoout.ml #phishing
