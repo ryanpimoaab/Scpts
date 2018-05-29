@@ -959,13 +959,12 @@ cryptonoter.com
 cryptopay.me
 cryptopool.online
 cryptopool.pro
+cryptopros.com
 cryptosearch.site
 cryptoserb.com
 cryptotab.net
 cryptown.netlify.com
 cryptoxpool.com
-cryweb.github.io
-crywebber.github.io
 cs.minergate.com
 csc.mastermining.net
 csc.suprnova.cc
@@ -1894,7 +1893,6 @@ guangdong-pool.ethfans.org
 guest-stat.com
 gulf.moneroocean.stream
 gun.thecoin.pw
-gus.host
 gustaver.ddns.ne
 gustaver.ddns.net
 h.nanopool.org
@@ -2392,6 +2390,7 @@ mariadeabreu.cf
 mariadeabreu.ga
 mariadeabreu.gq
 mariuspetrescu.gq
+market.cryptopros.com
 market.minertopia.org
 maru.suprnova.cc
 masari.hashvault.pro
@@ -3156,6 +3155,7 @@ pool.coinversus.com
 pool.cryptmonero.com
 pool.cryptoescrow.eu
 pool.cryptonoter.com
+pool.cryptopros.com
 pool.ekanembtc.com
 pool.electroneum.hashvault.pro
 pool.eth.pp.ua
@@ -4884,6 +4884,7 @@ www.cryptominingpool.eu
 www.cryptonoter.com
 www.cryptopay.me
 www.cryptopool.online
+www.cryptopros.com
 www.cryptoserb.com
 www.cryptotab.net
 www.cryptoxpool.com
@@ -5056,6 +5057,7 @@ www.pickaxe.pro
 www.plx.hashinvest.ws
 www.pool.coinimp.com
 www.pool.cryptonoter.com
+www.pool.cryptopros.com
 www.pool.gold
 www.pool2.coinimp.com
 www.pooldd.com
