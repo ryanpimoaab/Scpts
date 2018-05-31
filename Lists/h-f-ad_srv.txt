@@ -35474,6 +35474,7 @@ spd.pointroll.com
 spdeliver.i-mobile.co.jp
 spdeliverp.i-mobile.co.jp
 spe.atdmt.com
+special-news.online
 specialoffers.aol.com
 specific-match.dotomi.com
 specificads.go2affise.com
@@ -45722,4 +45723,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45727
+# hosts: 45728

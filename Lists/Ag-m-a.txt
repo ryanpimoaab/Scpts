@@ -41,6 +41,7 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+speee-ad.akamaized.net
 config.unityads.unity3d.com
 m-shes.ru
 init.startappservice.com
@@ -1030,6 +1031,7 @@ eviltracker.net
 spotify.com
 trackersimulator.org
 app.adjust.com
+adj.st
 api.splkmobile.com
 sdk.stats-locations.com
 config.safedk.com
@@ -1156,7 +1158,6 @@ abtest.mistat.xiaomi.com
 ad-analytics-bootstrap.metaps.com
 adash.m.taobao.com
 adfuture.cn
-adj.st
 adserver.snapads.com
 adsunflower.com
 adv.sec.miui.com
