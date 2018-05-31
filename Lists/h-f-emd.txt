@@ -45592,6 +45592,7 @@ g63amghost.ddns.net
 g6ek4il8lq.centde.com
 g6securitysystems.com
 g6xqagp7fh.centde.com
+g94q1w8dqw.com
 g98d4qwd4asd.com
 g9bangkok.com
 ga31.com
@@ -79502,6 +79503,7 @@ sragxefscpd.com
 srainesbeautystudio.com.au
 sraircon.co.za
 srasta-iasst.org
+srathardforlife.com
 srbeba.cn
 src.oz-blago.ru
 srcc.co.th
@@ -144423,6 +144425,7 @@ www.sqwed.net
 www.srabans.tk
 www.sragxefscpd.com
 www.srasta-iasst.org
+www.srathardforlife.com
 www.srbeba.cn
 www.sreewebsoft.com
 www.srfinancial.ie
@@ -152458,6 +152461,7 @@ www.weplantravel.pt
 www.wepmmzpypfwq.com
 www.wepshare.tk
 www.weqfo0ihgyf410ioiaqmx2vri.org
+www.weqwesddqw981.com
 www.werather.com
 www.werbeart.com
 www.werbetechnic.de
@@ -159388,4 +159392,4 @@ zzzvshilg4.centade.com
 zzzwcbpvsn.centade.com
 zzzxpx2itb.centade.com
 zzzxxxcc.no-ip.biz
-# hosts: 159421
+# hosts: 159425

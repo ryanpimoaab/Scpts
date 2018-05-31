@@ -119,5 +119,20 @@ echo -e "\033[1;31m h-f-p-f-e \033[0m"
 cd /Users/rayyan/Github/h-f-p-f-e
 /Users/rayyan/Github/Scrpts/push-github.sh
 
+echo -e "\033[1;31m tspr-my \033[0m"
+
+cd /Users/rayyan/Github/tspr-my
+/Users/rayyan/Github/Scrpts/push-github.sh
+
+echo -e "\033[1;31m tspr-frd \033[0m"
+
+cd /Users/rayyan/Github/tspr-frd
+/Users/rayyan/Github/Scrpts/push-github.sh
+
+echo -e "\033[1;31m tspr-ph \033[0m"
+
+cd /Users/rayyan/Github/tspr-ph
+/Users/rayyan/Github/Scrpts/push-github.sh
+
 read -p "Done" -n1 junk
 echo

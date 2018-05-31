@@ -77,5 +77,12 @@ for f in *.sh; do
 bash "$f" -H
 done
 
+echo -e "\033[1;31m tspr-my \033[0m"
+
+cd /Users/rayyan/Github/Scrpts/Scrpts/tspr-my
+for f in *.sh; do
+bash "$f" -H
+done
+
 read -p "Done" -n1 junk
 echo
