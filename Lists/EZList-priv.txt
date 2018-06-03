@@ -157,6 +157,7 @@ airserve.net
 akanoo.com
 akstat.com
 akstat.io
+albacross.com
 alcmpn.com
 alcvid.com
 alenty.com
@@ -366,6 +367,7 @@ c-webstats.de
 c.adroll.com
 c.hit.ua
 c1exchange.com
+c212.net
 c3metrics.com
 c3tag.com
 c4tracking01.com
@@ -931,6 +933,7 @@ haymarket.com
 hdmtools.com
 heapanalytics.com
 heatmap.it
+heatmap.services
 hellosherpa.com
 hentaicounter.com
 hexagon-analytics.com
@@ -1320,6 +1323,7 @@ myaffiliateprogram.com
 mybloglog.com
 myfastcounter.com
 mynewcounter.com
+mynsystems.com
 myntelligence.com
 myomnistar.com
 mypagerank.net

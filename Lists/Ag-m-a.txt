@@ -41,6 +41,7 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+sexpennyauctions.com
 speee-ad.akamaized.net
 config.unityads.unity3d.com
 m-shes.ru
@@ -904,6 +905,7 @@ mobimagic.com
 turner.com
 images-*.ssl-images-amazon.com
 baidu.com
+m.fantasti.cc
 cartoon-sex.tv
 dlbooks.to
 storage.googleapis.com
