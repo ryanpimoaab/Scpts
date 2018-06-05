@@ -297,7 +297,6 @@ address=/behavioralengine.com/192.168.1.80
 address=/audienceinsights.net/192.168.1.80
 address=/beginads.com/192.168.1.80
 address=/bcnmonetize.com/192.168.1.80
-address=/facebook.com/192.168.1.80
 address=/facebook.com.edgekey.net/192.168.1.80
 address=/facebook.com.edgesuite.net/192.168.1.80
 address=/facebook.net.edgekey.net/192.168.1.80

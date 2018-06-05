@@ -72,6 +72,7 @@ www.coinbase.com
 www.coinmarketcap.com
 www.coinpot.co
 www.compress.googlezip.net
+www.connect.facbook.net
 www.connect.facebook.com
 www.copay.io
 www.cpms.spop10.ams.plex.bz
@@ -139,6 +140,7 @@ www.google.com
 www.googleapis.com
 www.googleweblight.com
 www.graph.facebook.com
+www.graph.instagram.com
 www.gravatar.com
 www.gstatic.com
 www.help.ui.xboxlive.com

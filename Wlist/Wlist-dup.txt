@@ -527,3 +527,5 @@ analytics.faw.sky.com
 i.instagram.com
 instagram.com
 www.instagram.com
+graph.instagram.com
+connect.facbook.net

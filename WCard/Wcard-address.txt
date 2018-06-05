@@ -297,7 +297,6 @@ address=/behavioralengine.com
 address=/audienceinsights.net
 address=/beginads.com
 address=/bcnmonetize.com
-address=/facebook.com
 address=/facebook.com.edgekey.net
 address=/facebook.com.edgesuite.net
 address=/facebook.net.edgekey.net
