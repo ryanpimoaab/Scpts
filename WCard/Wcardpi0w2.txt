@@ -304,7 +304,6 @@ address=/facebook.net/192.168.1.79
 address=/facebook.net.edgekey.net/192.168.1.79
 address=/fb.com/192.168.1.79
 address=/fbcdn.com/192.168.1.79
-address=/fbcdn.net/192.168.1.79
 address=/fbsbx.com/192.168.1.79
 address=/fbsbx.com.online-metrix.net/192.168.1.79
 address=/m.me/192.168.1.79

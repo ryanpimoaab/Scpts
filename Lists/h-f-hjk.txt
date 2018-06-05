@@ -7,6 +7,7 @@ adblockerext.com
 adblockext.com
 adblocktoolext.com
 afodo.com
+alveolocondylean.stream
 aoasa.com
 api.toptenreviews.com
 apillary.stream
@@ -76,6 +77,7 @@ liflingren.info
 lycos.com.org
 maxis5018.space
 meetyourmessenger.co.uk
+mega-track.info
 microsoft.com.org
 naked.com
 networking956-info.ml
@@ -114,6 +116,7 @@ securityext.com
 serch-direct.com
 server4.beginanywhere.info
 server4.convertsrvr.com
+server4.economyinsights.info
 server4.justthinkdifferent.info
 server4.maderearth.info
 server4.maketodayamazing.info
@@ -219,4 +222,4 @@ www4search.net
 xml.rxfclk3.com
 youngteenporn.proboards89.com
 zincify.stream
-# hosts: 221
+# hosts: 224

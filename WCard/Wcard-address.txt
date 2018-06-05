@@ -304,7 +304,6 @@ address=/facebook.net
 address=/facebook.net.edgekey.net
 address=/fb.com
 address=/fbcdn.com
-address=/fbcdn.net
 address=/fbsbx.com
 address=/fbsbx.com.online-metrix.net
 address=/m.me

@@ -318,7 +318,6 @@ facebook.net
 facebook.net.edgekey.net
 fb.com
 fbcdn.com
-fbcdn.net
 fbsbx.com
 fbsbx.com.online-metrix.net
 m.me
