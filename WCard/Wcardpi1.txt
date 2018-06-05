@@ -300,7 +300,6 @@ address=/bcnmonetize.com/192.168.1.80
 address=/facebook.com/192.168.1.80
 address=/facebook.com.edgekey.net/192.168.1.80
 address=/facebook.com.edgesuite.net/192.168.1.80
-address=/facebook.net/192.168.1.80
 address=/facebook.net.edgekey.net/192.168.1.80
 address=/fb.com/192.168.1.80
 address=/fbcdn.com/192.168.1.80

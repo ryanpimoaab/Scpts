@@ -300,7 +300,6 @@ address=/bcnmonetize.com
 address=/facebook.com
 address=/facebook.com.edgekey.net
 address=/facebook.com.edgesuite.net
-address=/facebook.net
 address=/facebook.net.edgekey.net
 address=/fb.com
 address=/fbcdn.com
