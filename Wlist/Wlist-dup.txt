@@ -502,7 +502,6 @@ swscan.apple.com
 localbitcoins.com
 bittrex.com
 bitcoin.com
-bitconnect.co
 binance.com
 poloniex.com
 coinbase.com

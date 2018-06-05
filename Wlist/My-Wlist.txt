@@ -38,7 +38,6 @@ bit.ly
 bitaccess.co
 bitbucket.org
 bitcoin.com
-bitconnect.co
 bitcore.io
 bitfinex.com
 bitpay.com
@@ -356,7 +355,6 @@ www.bit.ly
 www.bitaccess.co
 www.bitbucket.org
 www.bitcoin.com
-www.bitconnect.co
 www.bitcore.io
 www.bitfinex.com
 www.bitpay.com
