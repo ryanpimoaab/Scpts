@@ -26,10 +26,13 @@ apis.google.com
 app-analytics.snapchat.com
 app-api.ted.com
 app.plex.tv
+apple.com
 appleid.apple.com
+appleiphonecell.com
 apps.skype.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
+appspot-preview.l.google.com
 apt.sonarr.tv
 attestation.xboxlive.com
 ax.phobos.apple.com.edgesuite.net
@@ -46,6 +49,7 @@ brightcove.net
 browser-update.org
 c.s-microsoft.com
 camo.stream.highwebmedia.com
+captive.apple.com
 cdn.embedly.com
 cdn.optimizely.com
 cdn2.optimizely.com
@@ -73,6 +77,8 @@ coinpot.co
 compress.googlezip.net
 connect.facbook.net
 connect.facebook.com
+connectivitycheck.android.com
+connectivitycheck.gstatic.com
 copay.io
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
@@ -141,6 +147,7 @@ googleweblight.com
 graph.facebook.com
 graph.instagram.com
 gravatar.com
+gsp1.apple.com
 gstatic.com
 help.ui.xboxlive.com
 hitbtc.com
@@ -156,6 +163,7 @@ imgs.xkcd.com
 imgur.com
 inbox.google.com
 instagram.com
+ipv6.msftncsi.com
 itunes.apple.com
 j.mp
 julio.xarold.com

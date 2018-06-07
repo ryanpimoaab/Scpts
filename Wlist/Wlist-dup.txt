@@ -528,3 +528,15 @@ instagram.com
 www.instagram.com
 graph.instagram.com
 connect.facbook.net
+appspot-preview.l.google.com
+connectivitycheck.android.com
+android.clients.google.com
+clients3.google.com
+connectivitycheck.gstatic.com
+msftncsi.com
+www.msftncsi.com
+ipv6.msftncsi.com
+captive.apple.com
+gsp1.apple.com
+www.apple.com
+www.appleiphonecell.com

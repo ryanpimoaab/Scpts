@@ -26,10 +26,13 @@ apis.google.com
 app-analytics.snapchat.com
 app-api.ted.com
 app.plex.tv
+apple.com
 appleid.apple.com
+appleiphonecell.com
 apps.skype.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
+appspot-preview.l.google.com
 apt.sonarr.tv
 attestation.xboxlive.com
 ax.phobos.apple.com.edgesuite.net
@@ -46,6 +49,7 @@ brightcove.net
 browser-update.org
 c.s-microsoft.com
 camo.stream.highwebmedia.com
+captive.apple.com
 cdn.embedly.com
 cdn.optimizely.com
 cdn2.optimizely.com
@@ -73,6 +77,8 @@ coinpot.co
 compress.googlezip.net
 connect.facbook.net
 connect.facebook.com
+connectivitycheck.android.com
+connectivitycheck.gstatic.com
 copay.io
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
@@ -141,6 +147,7 @@ googleweblight.com
 graph.facebook.com
 graph.instagram.com
 gravatar.com
+gsp1.apple.com
 gstatic.com
 help.ui.xboxlive.com
 hitbtc.com
@@ -156,6 +163,7 @@ imgs.xkcd.com
 imgur.com
 inbox.google.com
 instagram.com
+ipv6.msftncsi.com
 itunes.apple.com
 j.mp
 julio.xarold.com
@@ -343,10 +351,13 @@ www.apis.google.com
 www.app-analytics.snapchat.com
 www.app-api.ted.com
 www.app.plex.tv
+www.apple.com
 www.appleid.apple.com
+www.appleiphonecell.com
 www.apps.skype.com
 www.appsbackup-pa.clients6.google.com
 www.appsbackup-pa.googleapis.com
+www.appspot-preview.l.google.com
 www.apt.sonarr.tv
 www.attestation.xboxlive.com
 www.ax.phobos.apple.com.edgesuite.net
@@ -363,6 +374,7 @@ www.brightcove.net
 www.browser-update.org
 www.c.s-microsoft.com
 www.camo.stream.highwebmedia.com
+www.captive.apple.com
 www.cdn.embedly.com
 www.cdn.optimizely.com
 www.cdn2.optimizely.com
@@ -390,6 +402,8 @@ www.coinpot.co
 www.compress.googlezip.net
 www.connect.facbook.net
 www.connect.facebook.com
+www.connectivitycheck.android.com
+www.connectivitycheck.gstatic.com
 www.copay.io
 www.cpms.spop10.ams.plex.bz
 www.cpms35.spop10.ams.plex.bz
@@ -458,6 +472,7 @@ www.googleweblight.com
 www.graph.facebook.com
 www.graph.instagram.com
 www.gravatar.com
+www.gsp1.apple.com
 www.gstatic.com
 www.help.ui.xboxlive.com
 www.hitbtc.com
@@ -473,6 +488,7 @@ www.imgs.xkcd.com
 www.imgur.com
 www.inbox.google.com
 www.instagram.com
+www.ipv6.msftncsi.com
 www.itunes.apple.com
 www.j.mp
 www.julio.xarold.com

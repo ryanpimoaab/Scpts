@@ -41,6 +41,8 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+opt8.co
+ads-bidder-api.twitter.com
 sexpennyauctions.com
 speee-ad.akamaized.net
 config.unityads.unity3d.com
@@ -1034,6 +1036,7 @@ spotify.com
 trackersimulator.org
 app.adjust.com
 adj.st
+ninja.onap.io
 api.splkmobile.com
 sdk.stats-locations.com
 config.safedk.com
