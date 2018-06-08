@@ -41,6 +41,11 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+iqzone.com
+postitial.com
+pssvc.iqzone.com
+cdn-cf.postitial.com
+ad.adapter.kaffnet.com
 opt8.co
 ads-bidder-api.twitter.com
 sexpennyauctions.com
@@ -1036,6 +1041,11 @@ spotify.com
 trackersimulator.org
 app.adjust.com
 adj.st
+ilyonanalytics.herokuapp.com
+register.appsflyer.com
+kaffnet.com
+sdk.api.kaffnet.com
+gcm.ksmobile.com
 ninja.onap.io
 api.splkmobile.com
 sdk.stats-locations.com

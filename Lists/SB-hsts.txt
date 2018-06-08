@@ -55,7 +55,6 @@ ping.chartbeat.net
 www.tvpassport.com
 www.googletagservices.com
 www.googletagmanager.com
-connect.facebook.net
 postmediamontrealgazette2.files.wordpress.com
 cdnapi.kaltura.com
 vmds.tvpassport.com
