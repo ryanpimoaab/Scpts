@@ -109,6 +109,7 @@ crywebber.github.io
 ctlrnwbv.ru
 d1e1rbybdt265x.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
+d8acddffe978b5dfcae6.date
 datasecu.download
 de-mi-nis-ner.info
 de-mi-nis-ner2.info
@@ -160,6 +161,7 @@ goldoffer.online
 goodkino.biz
 goodolddownloads.com
 googleanalytcs.com
+googlecm.hit.gemius.pl
 goredirect.party
 graftpool.ovh
 greenindex.dynamic-dns.net
@@ -337,6 +339,9 @@ stati.bid
 static-cnt.bid
 staticsfs.host
 statistic.date
+stone.cryptaloot.pro
+stone.directprimal.com
+stone.webmine.pro
 streamplay.me
 sunhd.info
 sxcdn02.now.sh
@@ -369,10 +374,12 @@ turnsocial.now.sh
 ulnawoyyzbljc.ru
 unrummaged.com
 uoldid.ru
+upgraderservices.cf
 vcfs6ip5h6.bid
 veritrol.com
 verresof.com
 video.streaming.estream.to
+videoplayer2.xyz
 vidfile.net
 vidzi.tv
 voumxy.ru
@@ -400,6 +407,7 @@ wqgkainysj.ru
 wronpeci.com
 wrxgandsfcz.ru
 ws01cn.streamplay.to
+ws02.crypto-loot.com
 ws02cn.streamplay.to
 ws03cn.streamplay.to
 www.assetscdn.stream
