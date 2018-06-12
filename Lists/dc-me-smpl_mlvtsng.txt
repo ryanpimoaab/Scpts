@@ -1432,7 +1432,6 @@ bxzxw.net
 c.bigmir.net
 c.compete.com
 c1.nowlinux.com
-c242k.com
 cabomarlinisportfishing.com
 cache.addthiscdn.com
 cadastrabb.com
@@ -1643,7 +1642,6 @@ creative.whi.co.nz
 creatives.as4x.tmcs.net
 creatives.co.in
 creatives.livejasmin.com
-creativitygap.com
 crispads.com
 crispmedia.com
 crispwireless.com
@@ -1739,6 +1737,7 @@ dmtracking.alibaba.com
 dmtracking2.alibaba.com
 dnads.directnic.com
 dnliren.com
+dns-vip.net
 do-not-tracker.org
 do.sdu68.com
 doctorsdirectory.net
@@ -2298,7 +2297,6 @@ jxcsteel.com
 jxy88.com
 k.iinfo.cz
 k6r.net
-kafebuhara.ru
 kalibrium.ru
 kanoodle.com
 kargo.com
@@ -2324,6 +2322,7 @@ kt-g.de
 ktoooo.com
 ktu.sv2.biz
 kuaiyan.com.cn
+kumykoz.com
 kusco.tw
 kzhqzx.com
 ladybug.gutterheatersus.com
@@ -2508,7 +2507,6 @@ memeglobal.com
 memorix.sdv.fr
 messenger.zango.com
 metaffiliation.com
-metameets.eu
 metanetwork.com
 metanetwork.net
 metaresolver.com
@@ -2620,7 +2618,6 @@ naj.sk
 namimedia.com
 nancunshan.com
 nastydollars.com
-natebennettfleming.com
 navigator.io
 navrcholu.cz
 nbjmp.com
@@ -3482,7 +3479,7 @@ vra4.com
 vrot.stervapoimenialena.info
 vrs.cz
 vs.tucows.com
-vtipnetriko.cz
+vstart.net
 vungle.com
 w3i.com
 wads.webteh.com
