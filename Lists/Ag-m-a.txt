@@ -1041,6 +1041,8 @@ spotify.com
 trackersimulator.org
 app.adjust.com
 adj.st
+mobileapptracking.com
+mobile.bigfishgames.com
 startup.mobile.yandex.net
 ilyonanalytics.herokuapp.com
 register.appsflyer.com
