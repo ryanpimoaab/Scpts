@@ -1,5 +1,5 @@
 #!/bin/sh
 
-curl -s https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/cleaning/domains > /Users/rayyan/Github/Scrpts/Lists/Prgnt-cleaning.txt
+curl -s https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/cleaning/domains > /Volumes/Rayyan/Pi/Github/Scrpts/Lists/Prgnt-cleaning.txt
 
-cp /Users/rayyan/Github/Scrpts/Lists/Prgnt-cleaning.txt /Users/rayyan/Github/Prgnt/cleaning.txt
+cp /Volumes/Rayyan/Pi/Github/Scrpts/Lists/Prgnt-cleaning.txt /Volumes/Rayyan/Pi/Github/Prgnt/cleaning.txt

@@ -1,5 +1,5 @@
 #!/bin/sh
 
-curl -s https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/cryptojacking/domains > /Users/rayyan/Github/Scrpts/Lists/Prgnt-crptjckng.txt
+curl -s https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/cryptojacking/domains > /Volumes/Rayyan/Pi/Github/Scrpts/Lists/Prgnt-crptjckng.txt
 
-cp /Users/rayyan/Github/Scrpts/Lists/Prgnt-crptjckng.txt /Users/rayyan/Github/Prgnt/crptjckng.txt
+cp /Volumes/Rayyan/Pi/Github/Scrpts/Lists/Prgnt-crptjckng.txt /Volumes/Rayyan/Pi/Github/Prgnt/crptjckng.txt

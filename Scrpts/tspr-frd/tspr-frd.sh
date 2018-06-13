@@ -1,5 +1,5 @@
 #! /bin/bash
 
-curl -s https://tspprs.com/dl/fraud > /Users/rayyan/Github/Scrpts/Lists/tspr-frd.txt
+curl -s https://tspprs.com/dl/fraud > /Volumes/Rayyan/Pi/Github/Scrpts/Lists/tspr-frd.txt
 
-cp /Users/rayyan/Github/Scrpts/Lists/tspr-frd.txt /Users/rayyan/Github/tspr-frd/tspr-frd.txt
+cp /Volumes/Rayyan/Pi/Github/Scrpts/Lists/tspr-frd.txt /Volumes/Rayyan/Pi/Github/tspr-frd/tspr-frd.txt

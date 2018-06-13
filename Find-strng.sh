@@ -1,3 +1,3 @@
 #! /bin/bash
-cd /Users/rayyan/Github/Scrpts/Lists
+cd /Volumes/Rayyan/Pi/Github/Scrpts/Lists
 grep -rnw '/Users/rayyan/Github/Scrpts/Lists' -e 'solvemedia.com'

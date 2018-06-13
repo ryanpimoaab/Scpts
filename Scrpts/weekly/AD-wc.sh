@@ -1,5 +1,5 @@
 #! /bin/bash
 
-curl -s https://raw.githubusercontent.com/anudeepND/adservers/master/wildcard.txt | awk '!x[$0]++' | awk '{print tolower($0)}' > /Users/rayyan/Github/Scrpts/Lists/AD-wc.txt
+curl -s https://raw.githubusercontent.com/anudeepND/adservers/master/wildcard.txt | awk '!x[$0]++' | awk '{print tolower($0)}' > /Volumes/Rayyan/Pi/Github/Scrpts/Lists/AD-wc.txt
 
-cp /Users/rayyan/Github/Scrpts/Lists/AD-wc.txt /Users/rayyan/Github/weekly/AD-wc.txt
+cp /Volumes/Rayyan/Pi/Github/Scrpts/Lists/AD-wc.txt /Volumes/Rayyan/Pi/Github/weekly/AD-wc.txt

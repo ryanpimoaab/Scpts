@@ -2,4 +2,4 @@
 # Link: https://ryanpimoaab.github.io/lists/<name-of-list>.txt
 # For larger lists, that aren't updated frequently
 
-cp /Users/rayyan/Github/lists
+cp /Volumes/Rayyan/Pi/Github/lists

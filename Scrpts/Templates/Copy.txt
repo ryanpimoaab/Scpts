@@ -2,4 +2,4 @@
 
 #! /bin/bash
 
-curl -s <link> > /Users/rayyan/Github/Scrpts/Lists/<name-of-list>.txt
+curl -s <link> > /Volumes/Rayyan/Pi/Github/Scrpts/Lists/<name-of-list>.txt

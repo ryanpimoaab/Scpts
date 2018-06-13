@@ -19,6 +19,7 @@ analytics.faw.sky.com
 analytics.twitter.com
 android.clients.google.com
 android.googleapis.com
+api.coinbase.com
 api.github.com
 api.ipify.org
 api.twitter.com
@@ -344,6 +345,7 @@ www.analytics.faw.sky.com
 www.analytics.twitter.com
 www.android.clients.google.com
 www.android.googleapis.com
+www.api.coinbase.com
 www.api.github.com
 www.api.ipify.org
 www.api.twitter.com

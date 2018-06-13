@@ -1,4 +1,4 @@
 # Paste directory of list to copy after cp, then paste name of list after /smaller-lists/
 # Link: https://ryanpimoaab.github.io/smaller-lists/<name-of-list>.txt
 
-cp /Users/rayyan/Github/smaller-lists/
+cp /Volumes/Rayyan/Pi/Github/smaller-lists/

@@ -1,4 +1,4 @@
 # Paste directory of list to copy after cp, then paste name of list after /weekly/
 # Link: https://ryanpimoaab.github.io/weekly/<name-of-list>.txt
 
-cp /Users/rayyan/Github/weekly/
+cp /Volumes/Rayyan/Pi/Github/weekly/
