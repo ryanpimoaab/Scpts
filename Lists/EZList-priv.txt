@@ -586,6 +586,7 @@ daylife-analytics.com
 daylogs.com
 dc-storm.com
 dc.tremormedia.com
+dcmn.com
 ddm.io
 decdna.net
 decibelinsight.net
@@ -2318,6 +2319,8 @@ yieldify.com
 yieldsoftware.com
 yjtag.jp
 ymetrica1.com
+youbora.com
+youboranqs01.com
 youmetrix.co.uk
 your-counter.be
 youramigo.com

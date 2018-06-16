@@ -42,13 +42,6 @@ for f in *.sh; do
 bash "$f" -H
 done
 
-echo -e "\033[1;31m Prgnt-psh \033[0m"
-
-cd /Volumes/Rayyan/Pi/Github/Scrpts/Scrpts/Prgnt-psh
-for f in *.sh; do
-bash "$f" -H
-done
-
 echo -e "\033[1;31m h-f-p-f-e \033[0m"
 
 cd /Volumes/Rayyan/Pi/Github/Scrpts/Scrpts/h-f-p-f-e

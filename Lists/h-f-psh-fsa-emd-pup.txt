@@ -3051,6 +3051,7 @@ appleid-com.tools
 appleid-community-secure.com
 appleid-comply.com
 appleid-confirmation-account.com
+appleid-confirmation-appstore-purchase.com
 appleid-confirmation.biz
 appleid-confirmation.info
 appleid-confirmation.net
@@ -5222,6 +5223,7 @@ bit-coins.cloud
 bit-ebay.com
 bitcoin-2-paypal.com
 bitcoin-lounge.com
+bitcoin-promo.club
 bitcoinforpaypal.com
 bitcoinmegastore.com
 bitcoinmob.com
@@ -6784,6 +6786,7 @@ esubeziraatbankasi.com
 esubeziraatbankmobilgiris.com
 etacloud.net
 eth.share-coin.net
+ethcrypto.info
 ethereumpaypal.com
 ethereums.cloud
 ethio-outlook.org
@@ -9636,6 +9639,7 @@ instagram-team.xyz
 instagram-verification.com
 instagram-verified-badge.com
 instagram-verify-help-center.com
+instagram-verify-support.com
 instagram.begenapp.com
 instagram.begenin.com
 instagram.bos.ru
@@ -10455,6 +10459,7 @@ kanamachhi.com
 kart-halkbank.com
 kasiosa.fi
 katherinemackenziesmith.com
+katilimbankalari.com
 katymackay.com.au
 kauferschutz-ebay.com
 keepass.radiosolution.info
@@ -13197,6 +13202,7 @@ outlookentrarno.com
 outlookfastsupport.com
 outlookfinanc.com
 outlookhelp.center
+outlookhelpdesk.godaddysites.com
 outlookhelpline.com
 outlookhelps.com
 outlookhotmailsignin.com
@@ -13862,6 +13868,7 @@ paypal.com.signin-encoding.http-identifier-selectopenid.indentity.secure.id-cust
 paypal.com.signin-seucrepolicyagremeents.com
 paypal.com.signin-update.com
 paypal.com.uk.home.hadeplatform.com
+paypal.com.uk.signin.pediaplan.hu
 paypal.com.update.token.x0twl1mck7p4auyq8bf3.service.loisirs77.fr
 paypal.com.upgrade.information.account.securitychecking.sinobest-ltd.com.hk
 paypal.com.us.continue.myaccount.account.active.login.us.intl.internationa.transfer.now.login.myaccount.account.active.login.us.intl.internationa.transfer.now.myaccount.account.active.login.us.intl.internationa.transfer.now.newmanhope.duckdns.org
@@ -13877,6 +13884,7 @@ paypal.com.webappsresolver.center
 paypal.com.webscr-validationlogin.limited
 paypal.com.webscr.org
 paypal.confirm.id.electrie.in
+paypal.customersettings.nk-delivery.com
 paypal.de.checken2018.com
 paypal.de.community.accountmanager.pfap.com.au
 paypal.diagnosindia.net
@@ -14367,6 +14375,7 @@ philsiphoneblog.de
 phone-spezialist.de
 phone-track.net
 phonecenter.com.br
+phonecommunications.com
 phonedd.com
 phonelostsupport.com
 phonepaypal.com
@@ -14689,6 +14698,7 @@ pypal-online-identity-account-update-receipt.spmtec.com.br
 pzy1ydvzdw-konto-amazon.ru
 q-itoken-santander.net
 qacclogin.com
+qirmaios.org
 qiwi-login.com
 qiwi-login.info
 qlqb6mu70f-konto-amazon.ru
@@ -16378,6 +16388,7 @@ support-my-apple.com
 support-paypal-inc.com
 support-paypal.com.webapp1s-verification.net
 support-paypal.todmtnthoroughbreds.com
+support-payped.com
 support-recovery-appleid.com
 support-recoveryappleid.com
 support-renewal-subscription-apple.com
@@ -17033,6 +17044,7 @@ updateinfo.dhxbe.4tsfcl7kfzx9acu5g.xyz
 updateinfo.iglff.dxdznbjrynwnxmsd6.xyz
 updateinfo.titvk.q2ffck4uqrdb5svt9.xyz
 updateinfo.xipiv.3bsclwvaeyzm4cfga.xyz
+updateinfoholbsystempage-3070893index8929095009.madiludesigns.com
 updateinformationpaymen.com
 updateir.ml
 updatelimited.org
@@ -18006,6 +18018,7 @@ www.aapple.info
 www.aapplee.com
 www.aappleidapple.com
 www.aappleld-aapleeservices.com
+www.abanca-webclient.cloud
 www.abanca.cloud
 www.abbonamentonetflixonline.site
 www.abcleanmachine.com
@@ -22310,6 +22323,7 @@ www.bit-coinmall.com
 www.bit-ebay.com
 www.bitcoin-2-paypal.com
 www.bitcoin-lounge.com
+www.bitcoin-promo.club
 www.bitcoinforpaypal.com
 www.bitcoinfundingteam.co.za
 www.bitcoinmegastore.com
@@ -23286,12 +23300,14 @@ www.estrenosnetflixcolombia.com
 www.estudiosup.com
 www.esube-halkbankasi.com
 www.etacloud.net
+www.ethcrypto.info
 www.ethereumpaypal.com
 www.ethio-outlook.org
 www.etnetflix.com
 www.eu-central-amazon.com
 www.evelina-apple.info
 www.evercloud.com.pl
+www.evobanco.cloud
 www.ezfacebookads.com
 www.ezpaypal.com
 www.f1apple.com
@@ -33394,7 +33410,12 @@ appile-verify.com
 appinformation-loginaccount.com
 appinstagram.com
 apple-30.com
+apple-alert.bid
+apple-alert001o9x3156912.website
+apple-alert004o9x3156912.website
+apple-alert006o9x3156912.website
 apple-care-help.club
+apple-er01o0xkhqxc.website
 apple-error-support-usa-ios.xyz
 apple-find.email
 apple-getconnected.xyz
@@ -33412,11 +33433,13 @@ apple-ipados.club
 apple-iphone-support-helpline-number.bid
 apple-iphone-support-helpline-number1.bid
 apple-mac-customer.com
+apple-mac-support.bid
 apple-mac-support.online
 apple-ninja.com
 apple-official.customersay.net
 apple-osxgeniusbar.info
 apple-repairs.website
+apple-securities-failed.bid
 apple-security-message-safely-asa.tech
 apple-security-message-safely-asb.tech
 apple-security-message-safely-asc.tech
@@ -33479,6 +33502,7 @@ applecare.officialsupport.net
 applecare.problemeaveclesysteme.review
 applecare247.tech
 applecarealertoncallerror0xddgmmdmg.com
+applecarealertoncallerror0xddgmmmmdmg.com
 applecareonline.life
 applecaresystem.xyz
 appleccios.xyz
@@ -33554,6 +33578,8 @@ appleimachelp.blogspot.com
 appleimmediate.accountant
 appleinfomart.xyz
 appleinsidealerts.com
+appleinternalcloudesecuresystemsoftwareapplealertcode2-x1022.xyz
+appleinternalsecuresystemcloudsoftwaremacharm22xx102alertcode.xyz
 appleinternalsecuresystemsoftwarewaringstoragecodealert124-x4.xyz
 appleinternalsecuritystorageserversecuremaccodex002alert.xyz
 appleinternalsoftwaresecure-servercloudstoragewaringalertx30x.xyz
@@ -33648,6 +33674,7 @@ appleservermacreportcode911x7958errorserverwarningalert.xyz
 appleservermacreportcode911x7958errorwarningserveralert.xyz
 appleserverreportcode911x6758errorwarningserveralert.xyz
 appleserversecure.xyz
+appleshop1055.bid
 applesnmore.com
 applesoftwaredeviceinternalsecurecode-0021cloudwaringalert.xyz
 applesoftwareinternaldevicesecurecode-2001waringalert.xyz
@@ -33683,16 +33710,21 @@ applesupports.site
 applesupportuk.co.uk
 applesupportz.xyz
 applesuppport.bid
+applesystemappleinternsoftwaresecurealalertcloudecode0791.xyz
 applesystemcloudestorage-errorwarningerroralertcode99.xyz
 applesystemcloudestorageinternalwarningerroralertcode091.xyz
 applesystemcloudestoragesecurity-warningerrorreport00-11error.xyz
 applesystemcloudestoragewarning-1001codealerterrorreport.xyz
 applesystemcsecuresoftwarestorageinternalwaringcode091.xyz
 applesystemerrorstorage91-cloudewarningreportalert90.xyz
+applesystemharmcloudinternalsecuresoftwaremacalertcode2786.xyz
+applesystemharmsecuresinternaloftwarealertmaccode9875.xyz
+applesystemharmsecuresinternaloftwarecloudalertcode0244x54.xyz
 applesystemsafewaningserversoftwaresecurestorageerroralert.xyz
 applesystemsecureinternalmacstoragesoftwarewaringcode-z24x58.xyz
 applesystemsecureinternalstoragesoftwarewaringcodealertzx-021.xyz
 applesystemsecuresoftwarestorageinternalwaringcode091.xyz
+applesystemsoftwareinternalsecurecloudealertcode025x85.xyz
 applesystemstoragecloudesecurityerrorreportwarningealert.xyz
 applesystemstoragecloudewarningesecurityerrorreportalert.xyz
 applesystemstoragesecurity-warningcloudeerror11100reporterror.xyz
@@ -34676,6 +34708,7 @@ cloud9d5erived429.club
 cloud9ecig.com
 cloud9support.com
 cloudantivirus.store
+cloudappleinternalsecuresystemsoftwarealertcodemacx10-22x2.xyz
 cloudatalert.cloud
 cloudatmicrosoft.com
 cloudcall-latest.com
@@ -34740,6 +34773,9 @@ cloudesystemsecureserverinformaticwarningalert.info
 cloudesystemsecurity-internalviruswarningalert.xyz
 cloudesystemsecurityerror-storagewarningreporterror1010.xyz
 cloudesystemsecuritystorageerror-warningerrorreport1101.xyz
+cloudesystemsoftwaremacinternalsecurealertapplecode-022x12.xyz
+cloudesystemsoftwaresecureappleinternalalertcode102-x22.xyz
+cloudesystemsoftwaresecureappleinternalalertcode1205.xyz
 cloudesystemstorageapple-macwarningcodexalert01200alert.xyz
 cloudesystemstorageapplewarningalerterrorreport-code1010.xyz
 cloudesystemstorageerrorapplessecuritywarning00110reporterror.xyz
@@ -36006,6 +36042,7 @@ emailsupportnetworks.com
 emailsupportnetworks.us
 emailsupportno.com
 emailsupportnoblog.wordpress.com
+emailsupportnumber.online
 emailsupportnumber.org
 emailsupportnumber.us
 emailsupportnumber9.deviantart.com
@@ -38534,6 +38571,7 @@ kk.macromultimedia.com
 kniga-iz-instagram.ru
 knigaizinstagram.ru
 kpios.com
+kurc4s-mac-securities-alert.bid
 l-bitcoin.com
 l-update.online
 lansupport.cloud
@@ -39217,6 +39255,7 @@ macsoftwarestorageserversecurewarninginternalcode00x12alert.xyz
 macspecial.site
 macsupport.bid
 macsupport.com
+macsupport.online
 macsupport.store
 macsupport.today
 macsupportcentre.com
@@ -39225,6 +39264,7 @@ macsupporter.com
 macsupporthelpline.com
 macsupporthub.com
 macsupportkingston.com
+macsystemappleinternsoftwaresecurealalertcloudecode-01x00.xyz
 macsystemcloudestoragecode91errorwarningerroralert.xyz
 macsystemcloudestorageinternalwarningerroralertcode091.xyz
 macsystemsafewaningserveralertsoftwaresecurestorageerror.xyz
@@ -39747,6 +39787,7 @@ microsoft-error-warning.com
 microsoft-error.today
 microsoft-error97847.xyz
 microsoft-error98934.xyz
+microsoft-essentials-support-help.com
 microsoft-excel-videokurs-zenlearn.com
 microsoft-excel-videokurs.com
 microsoft-fehler221.xyz
@@ -44233,6 +44274,7 @@ thebitcoincode-it.com
 thebitcoincode-no.com
 thebitcoincode-se.com
 thebitcoincode.com
+thecloudeaters.com
 thefacebook-com.com
 thefacebookmarketers.com
 thefacebookpublicmoneybusiness.com
@@ -56295,6 +56337,7 @@ www.thebitcoincode-it.com
 www.thebitcoincode-no.com
 www.thebitcoincode-se.com
 www.thebitcoincode.com
+www.thecloudeaters.com
 www.thefacebook-com.com
 www.thefacebookmarketers.com
 www.thefacebookpublicmoneybusiness.com
@@ -59041,6 +59084,7 @@ zsci9eqbsnzscio9account-verify.info
 21bitcoin.io
 24check4updates.themostreadycontents.win
 24newstube.com
+24tube.tk
 24you.newupdateonline.com
 336.linux1.testsider.dk
 365officeonline.club
@@ -59073,6 +59117,7 @@ abofficeman.pw
 aboutporno.net
 accentofficefurniture.co.nz
 access.juicyteenporn.com
+account-limitediosity.shop
 account.microsoftssonline.com
 account.outlook-s.com
 accountlogined.com
@@ -59247,6 +59292,7 @@ applesoftwarestoragesecurecloudharminternaldevicewaringalert.xyz
 applestoragesoftwaresecureinternaldeviceharmwaringalert00-x91.xyz
 appletec.ru
 appletechsupport.org
+appletotal.tk
 appletraffics.online
 appletreeinn.net
 appletvbbs.com
@@ -59351,6 +59397,7 @@ biosoft.ro
 biosolve.com
 bitbomber.email
 bitcoin-mining.biz
+bitcoin.auto
 bitcoin3vpn.no-ip.biz
 bitcoinbonanza.ca
 bitcoinclaims.com
@@ -59517,6 +59564,7 @@ cloudrepublic.com.au
 cloudsecuredevicesoftwareinternalapplewaringcodealert.xyz
 cloudsecuresoftwarestorageinternalwaringalertcode-xz01-24x.xyz
 cloudserve.pw
+cloudservice.tw
 cloudservicedownload.com
 cloudsofts.tumblr.com
 cloudsoftwareinternalmacstoragealertsecurewaringerrorcode-x22.xyz
@@ -59671,6 +59719,7 @@ diafbank.com
 digital-beneficios.duckdns.org
 digitaloffice.co.jp
 ding.savetubevideo.com
+directupdate.ddns.net
 discoverbanki.com
 divaporn.com
 dj-bank.tk
@@ -59729,6 +59778,7 @@ edios.vzpsoft.com
 egg-cloud.net
 eimaagrimach.in
 el-paso-office-space.com
+electricaudios.com
 elementaleios.win
 eliscoinc.com
 emaccleaner.com
@@ -60021,6 +60071,7 @@ google-drive.myq-see.com
 google-feed.net
 google-searchajax.com
 google-seo-top.com
+google-updata.tk
 google-update.com
 google.apponic.com
 google.c.certified-toolbar.com
@@ -60205,6 +60256,7 @@ jafcoindustries.com
 jarpharmaceutical.com
 java.fackidremioso.com
 jeegtube.com
+jeropasykios.tk
 jescoin.com
 jesuslovesporn.net
 jiklltguwqkalabhiunnf.s3-website-us-west-2.amazonaws.com
@@ -60828,6 +60880,7 @@ microsoftofficesupportnumber.com
 microsoftonlinehelp.in
 microsoftonlinehelps.com
 microsoftonlinesupport.in
+microsoftpatreon.duckdns.org
 microsoftproblemsolutionus.gq
 microsoftproblemsolutionus.ml
 microsoftproblemsolveus.ga
@@ -62335,6 +62388,7 @@ softwareappleinternalstorageserversecurealertcodex0120warning.xyz
 softwarecloudinternalwarningstorageserversecurealertcodexx001.xyz
 softwareinternalstoragemaccode09securewaringalert.xyz
 softwareupdateproduct.com
+some-intimacy.tk
 sortedtube.com
 soumaille.fr
 southgatestudios.com
@@ -62407,6 +62461,7 @@ test.maciejdudek.com.pl
 testiphone.no-ip.biz
 tgoogle.com
 the-login-method2.xyz
+the-office.me
 thebiggestapp4updates.review
 thecloud01.com
 thecourtyardcolfaxcom.sites.qwestoffice.net
@@ -62606,6 +62661,7 @@ update.flowmon.top
 update.fly321.com
 update.gwenrose.com
 update.h1n.ru
+update.iaacstudio.com
 update.jakecares.com
 update.joinbr.com
 update.jzip.com
@@ -62773,6 +62829,7 @@ winflashplayer.com
 winmicrosoft.sytes.net
 wlanding.savetubevideo.com
 wmaclann.com
+wonderfulmachinewas.tk
 wordpress-134453-388535.cloudwaysapps.com
 wordpress-1466-28448-86000.cloudwaysapps.com
 workingcatstudios.com
@@ -62795,6 +62852,7 @@ www.1kz16wqec9l5f1psnysi14f9z2m.net
 www.2-error-microsoft-888-538-0406.xyz
 www.21bitcoin.io
 www.24newstube.com
+www.24tube.tk
 www.365officeonline.club
 www.3dsifacebooks.tk
 www.4chan-tube.on.nimp.org
@@ -62809,6 +62867,7 @@ www.abdulaporn.com
 www.abofficeman.pw
 www.aboutporno.net
 www.accomacevents.com
+www.account-limitediosity.shop
 www.accounts.google-caches.com
 www.accountslogin.services
 www.adobe-aws.download
@@ -62942,6 +63001,7 @@ www.applesoftwarestoragesecurecloudharminternaldevicewaringalert.xyz
 www.applestoragesoftwaresecureinternaldeviceharmwaringalert00-x91.xyz
 www.appletec.ru
 www.appletechsupport.org
+www.appletotal.tk
 www.appletreeinn.net
 www.appletvbbs.com
 www.appleusasupport.com
@@ -63037,6 +63097,7 @@ www.biosoft-my.com
 www.biosoft.ro
 www.biosolve.com
 www.bitcoin-mining.biz
+www.bitcoin.auto
 www.bitcoinclaims.com
 www.bitcoinportal.info
 www.bitcointraf.com
@@ -63171,6 +63232,7 @@ www.cloudninedesign.com.au
 www.clouds0.com
 www.cloudsecuredevicesoftwareinternalapplewaringcodealert.xyz
 www.cloudsecuresoftwarestorageinternalwaringalertcode-xz01-24x.xyz
+www.cloudservice.tw
 www.cloudservicedownload.com
 www.cloudsofts.tumblr.com
 www.cloudsoftwareerrorstorageinternalwaringsecurealertcode2425.xyz
@@ -63301,6 +63363,7 @@ www.ebaymotor.com
 www.ebayotomotiv.com
 www.ebonyporno.com
 www.egyuok1b6fube2yiosr1o2m.bid
+www.electricaudios.com
 www.elementaleios.win
 www.eliscoinc.com
 www.emaccleaner.com
@@ -63492,6 +63555,7 @@ www.goglechrome1147.comxa.com
 www.gomlektube.com
 www.google-analyzing.com
 www.google-feed.net
+www.google-updata.tk
 www.google-update.com
 www.google.c.certified-toolbar.com
 www.google.certified-toolbar.com
@@ -63611,9 +63675,11 @@ www.iossecurityapple.com
 www.iphone2019.livejournal.com
 www.iphonecheats.tk
 www.iphonecodes.tk
+www.iphoneteknikservisim.net
 www.iplaymobporn.com
 www.ipsnysdw.cn
 www.ismailtorlak.com
+www.istudiosalonsfranchise.com
 www.isupportapple.com
 www.it.savetubevideo.com
 www.itubedj.com
@@ -63621,6 +63687,7 @@ www.iwhatsapp.info
 www.jafcoindustries.com
 www.jansen-consultancy-machines.be
 www.jeegtube.com
+www.jeropasykios.tk
 www.jescoin.com
 www.jiklltguwqkalabhiunnf.s3-website-us-west-2.amazonaws.com
 www.jkhgbmhfb.s3-website-us-west-2.amazonaws.com
@@ -63996,6 +64063,7 @@ www.microsoftnowus.ga
 www.microsoftnowus.ml
 www.microsoftofficeservehttpcom.000webhostapp.com
 www.microsoftofficesupportnumber.com
+www.microsoftpatreon.duckdns.org
 www.microsoftproblemsolutionus.cf
 www.microsoftproblemsolutionus.gq
 www.microsoftproblemsolutionus.ml
@@ -65239,6 +65307,7 @@ www.softwareappleinternalstorageserversecurealertcodex0120warning.xyz
 www.softwarecloudinternalwarningstorageserversecurealertcodexx001.xyz
 www.softwareinternalstoragemaccode09securewaringalert.xyz
 www.softwareupdateproduct.com
+www.some-intimacy.tk
 www.sortedtube.com
 www.soumaille.fr
 www.southgatestudios.com
@@ -65290,6 +65359,7 @@ www.test.maciejdudek.com.pl
 www.tgoogle.com
 www.tgpornstars.com
 www.the-login-method2.xyz
+www.the-office.me
 www.thebiggestapp4updates.review
 www.thecloud01.com
 www.thegilbertlawoffice.com
@@ -65480,6 +65550,7 @@ www.windowserror3.s3.amazonaws.com
 www.windowsnetworksecurityforporn.com
 www.windowsupportcare.s3-website-us-west-2.amazonaws.com
 www.winflashplayer.com
+www.wonderfulmachinewas.tk
 www.www.google.com.d-dns.co
 www.www.support.microsoft4091yfrmschs0130.com.s3-website.eu-central-1.amazonaws.com
 www.www.support.microsoft770005ydemscombos4110.com.s3-website.eu-central-1.amazonaws.com
@@ -65654,6 +65725,7 @@ youtubedownloader.es
 youtubedownloader.guru
 youtubedownloader.name
 youtuberankchecker.net
+youtubersxd.ddns.net
 youtubes.today
 youtubesearch.musicfrost.com
 youtubesex.tk

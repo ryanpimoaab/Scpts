@@ -187,6 +187,7 @@ host.d-ns.ga
 igrid.org
 imhvlhaelvvbrq.ru
 ingorob.com
+instepstat.info
 intersportv.com
 irrrymucwxjl.ru
 istlandoll.com
@@ -225,6 +226,7 @@ m1.streaming.estream.to
 m2.streaming.estream.to
 ma.herphemiste.com
 machieved.com
+makerstat.info
 marcycoin.org
 mas-onjs.github.io
 mataharirama.xyz
@@ -242,6 +244,7 @@ minero-proxy-03.now.sh
 minero.cc
 minero.pw
 minescripts.info
+minexmr.stream
 minr.pw
 monerise.com
 monero-miner.com
