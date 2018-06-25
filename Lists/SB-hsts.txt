@@ -292,6 +292,18 @@ fcanr.tracking.miui.com
 api.ad.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 racking.intl.miui.com
+adv.sec.intl.miui.com
+api.brs.intl.miui.com
+api.collect.data.intl.miui.com
+api.hybrid.intl.xiaomi.com
+api.sec.intl.miui.com
+api.setting.intl.miui.com
+authbe.sec.intl.miui.com
+data.sec.intl.miui.com
+zeus.ad.xiaomi.com
+www.api.ad.intl.xiaomi.com
+sgp.o2o.api.xiaomi.com
+flash.sec.intl.miui.com
 # ads and tracking
 ampmetrics.engadget.com
 c.adskeeper.co.uk
@@ -599,6 +611,9 @@ rollbar.com
 www.rollbar.com
 api.rollbar.com
 ads.exoclick.com
+secure.exoclick.com
+syndication-evo.exoclick.com
+www.exoclick.com
 # ero-advertising
 0latfee.ero-advertising.com
 2baners.ero-advertising.com
@@ -745,7 +760,6 @@ nl2.ero-advertising.com
 nners.ero-advertising.com
 oata.ero-advertising.com
 opads.ero-advertising.com
-o_thus.ero-advertising.com
 pagepeel.ero-advertising.com
 pata.ero-advertising.com
 phpmyadmin.ads.ero-advertising.com
@@ -779,6 +793,7 @@ stats.adspaces.ero-advertising.com
 stats.data2.ero-advertising.com
 stats.ero-advertising.com
 stats.speedclicks.ero-advertising.com
+steenbergen.web.ero-advertising.com
 cm.optica.ero-advertising.com
 ex.ero-advertising.com
 humb.ero-advertising.com
@@ -817,7 +832,10 @@ www.speedclicks.ero-advertising.com
 www.thumb.ero-advertising.com
 xn--adspace-kvg.ero-advertising.com
 zww.ero-advertising.com
-_thums.ero-advertising.com
+redshell.io
+api.redshell.io
+reasuredata.com
+api.treasuredata.com
 #=====================================
 # end stevenblack
 # start malwaredomainlist.com
@@ -2161,7 +2179,7 @@ www.vydoxtrial.com
 # see below for acknowledgements.
 # please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
-# last updated: thu, 14 jun 2018 at 05:16:22 gmt
+# last updated: tue, 19 jun 2018 at 07:22:52 gmt
 # use this file to prevent your computer from connecting to selected
 # internet hosts. this is an easy and effective way to protect you from 
 # many types of spyware, reduces bandwidth use, blocks certain pop-up 
@@ -4345,6 +4363,7 @@ etr-interac.com
 eviboli576.o-f.com
 exasked.com
 expertland.net
+extinstalls.icu
 f05098.privacy4browsers.com
 f150123.privacy4browsing.com
 f18085.privacy4browsers.com
@@ -12693,6 +12712,8 @@ uk.offers4u.mobi
 urn.com
 urnerapac.d1.sc.omtrdc.net
 v2no.linkpulse.com
+vn.adocean.pl
+vn.hit.gemius.pl
 vshowsnow.tvmax.hop.clickbank.net
 w.adserver.yahoo.com
 wnads.weather.ca
@@ -18189,7 +18210,6 @@ sk.adocean.pl
 si.adocean.pl
 sportalbg.adocean.pl
 hinkdigitalro.adocean.pl
-vn.adocean.pl
 vn2.adocean.pl
 ua.adocean.pl
 vbbg.adocean.pl
@@ -21361,7 +21381,6 @@ str.hit.gemius.pl
 stua.hit.gemius.pl
 hinkdigitaladro.hit.gemius.pl
 r.hit.gemius.pl
-vn.hit.gemius.pl
 ua.hit.gemius.pl
 vbadbg.hit.gemius.pl
 webgroundadbg.hit.gemius.pl
@@ -28353,13 +28372,13 @@ www.winaproduct.com
 # for more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   tue, 12 jun 2018 19:57:04 gmt
-# entries:        2636
+# entries:        2634
 # format:         hosts (hosts -- in hosts file format)
 # credits:        peter lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    sun, 21 jun 1998 00:00:00
+# start date:    tue, 30 jun 1998 00:00:00
 101com.com
 101order.com
 123found.com
@@ -28922,7 +28941,6 @@ bannerimage.com
 bannerlandia.com.ar
 bannermall.com
 bannermarkt.nl
-banners.babylon-x.com
 banners.bol.com.br
 banners.clubseventeen.com
 banners.czi.cz
@@ -29160,6 +29178,7 @@ drumcash.com
 dsp.io
 dyntrk.com
 e-adimages.scrippsnetworks.com
+e-bannerx.com
 e-debtconsolidation.com
 e-m.fr
 e-n-t-e-r-n-e-x.com
@@ -29262,7 +29281,6 @@ fusionquest.com
 futuristicfairies.com
 fuzzyflavor.com
 fxstyle.net
-g3j2wzmon8b.com
 ga.clearbit.com
 galaxien.com
 game-advertising-online.com
@@ -29537,7 +29555,6 @@ mycounter.ua
 mydas.mobi
 mymoneymakingapp.com
 mypagerank.net
-mypagerank.ru
 mypowermall.com
 mystat-in.net
 mystat.pl
@@ -30198,7 +30215,7 @@ zqtk.net
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 ##### version information #
 ###################################################
-### version: v1.2018.06.6364
+### version: v1.2018.06.6365
 ##### version information ##
 # use this file to prevent your computer or server from connecting to selected
 # many types of spyware, adware, malware, click-jacking and porn sites and reduces 
@@ -51057,7 +51074,7 @@ zzsyw.com
 # description: this list disables browser based miners such as coin-hive
 # donate: https://amzn.to/2rtogip every donation keeps the future development going. thank you.
 # homepage: https://gitlab.com/zerodot1/coinblockerlists/
-# last modified: 2018-06-13 18:46
+# last modified: 2018-06-22 18:45
 # license: https://gitlab.io/zerodot1/coinblockerlists/license
 # [coinblocker hosts list browser by zerodot1]
 000.0x1f4b0.com
@@ -51114,6 +51131,7 @@ ablen09.tk
 ablen10.tk
 ablen11.tk
 ablen12.tk
+acbp0020171456.page.tl
 adbtc.top
 adfreetv.ch
 adless.io
@@ -51153,6 +51171,7 @@ andlache.com
 andrew.nullrefexcep.com
 androidapk.world
 anime.reactor.cc
+apdrive.win
 api-backup.viaxmr.com
 api.1beb2a44.space
 api.300ca0d0.space
@@ -51425,6 +51444,7 @@ dev.fortrader.ru
 dev.ratingtoplist.com
 devappgrant.space
 developer.jsecoin.com
+dexim.space
 didnkinrab.com
 digger.cryptobara.com
 digxmr.com
@@ -51455,7 +51475,6 @@ eflbruwqt.ru
 electroneum.crypto-webminer.com
 electroneum.hashvault.pro
 electroneum.monerise.com
-email.moneroocean.stream
 en.cookiescript.info
 encoding.ovh
 enjoyableoffers.club
@@ -51525,6 +51544,8 @@ freecontent.stream
 freecontent.win
 fresh-js.bitbucket.io
 freshrefresher.com
+freshrefreshnerer186.info
+freshrefreshnerer186rb.info
 fruitice.realnetwrk.com
 ftp.coinhive-manager.com
 ftp.coinlab.biz
@@ -51626,6 +51647,7 @@ jquery-uim.download
 jqwww.download
 jqxrrygqnagn.ru
 js.coinhive.com
+js.ftp0118.info
 js.nahnoji.cz
 js.vidoza.net
 jsccnn.com
@@ -51691,12 +51713,6 @@ m4.cdn-jquery.host
 m5.cdn-jquery.host
 ma.herphemiste.com
 machieved.com
-mail.coinhive-manager.com
-mail.cookiescript.info
-mail.crypto-loot.com
-mail.monerominer.rocks
-mail.ron.si
-mail.sbhmn-miner.com
 main.minero.cc
 main.xmrpool.net
 manila-1.xmrpool.net
@@ -51868,8 +51884,13 @@ phx-4.xmrpool.net
 platform.jsecoin.com
 play.estream.nu
 play.estream.to
+play.estream.xyz
 play.malictuiar.com
 play.pampopholf.com
+play.play.estream.nu
+play.play.estream.to
+play.play.estream.xyz
+play.play.tainiesonline.pw
 play.play.vidzi.tv
 play.site.flashx.cc
 play.stream.vidzi.tv
@@ -51929,6 +51950,7 @@ r8nu86wg.me
 rack.cryptaloot.pro
 rand.com.ru
 ratingtoplist.com
+rbkshort.info
 realnetwrk.com
 reasedoper.pw
 refresh-js.bitbucket.io
@@ -51960,19 +51982,30 @@ s003.papoto.com
 s1.vidtod.me
 s2.analytics.blue
 s2.appelamule.com
+s2.play.estream.nu
+s2.play.estream.to
+s2.play.estream.xyz
+s2.play.tainiesonline.pw
 s2.play.vidzi.tv
 s2.video.estream.nu
 s2.video2.stream.vidzi.tv
 s2.vidtod.me
 s23.crypto-loot.com
+s2p.estream.to
 s3.analytics.blue
 s3.gasolina.ml
 s3.malictuiar.com
 s3.minexmr.com
 s3.pampopholf.com
+s3.play.estream.nu
+s3.play.estream.to
+s3.play.estream.xyz
+s3.play.tainiesonline.pw
+s3.play.vidzi.tv
 s3.video.estream.nu
 s3.video2.stream.vidzi.tv
 s3.vidtod.me
+s3p.estream.to
 s7ven.com
 sa.monerise.com
 saas.webmine.pro
@@ -52049,6 +52082,7 @@ static8.freebitco.in
 staticsfs.host
 statistic.date
 stats.cryptotab.net
+stats.infogenservice.com
 stats.minexmr.com
 status.minexmr.com
 stone.cryptaloot.pro
@@ -52126,6 +52160,7 @@ ullnot.download
 ulnawoyyzbljc.ru
 unrummaged.com
 uoldid.ru
+update-your-pc.info
 upgraderservices.cf
 us-stratum.viaxmr.com
 us.cfcdist.loan
@@ -52146,6 +52181,7 @@ veritrol.com
 verresof.com
 vg02h8z1ul.me
 viaxmr.com
+video.estream.nu
 video.stream.vidzi.tv
 video.streaming.estream.to
 video.videos.vidto.me
@@ -52804,8 +52840,22 @@ zxc1-ustokyyneikyfasnm.stackpathdns.com
 zzqhsrg.ru
 # end coinblockerlist
 # start lightswitch05
-# collection of analytics, ads, and tracking hosts to block
-# https://github.com/lightswitch05/hosts/blob/master/ads-and-tracking-extended.txt
+# collection of analytics, ads, and tracking hosts to block.
+# released: 2018-06-22t19:16:28+00:00
+# count: 3151 domains
+# details: https://github.com/lightswitch05/hosts
+# issues: https://github.com/lightswitch05/hosts/issues
+# source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
+# copyright 2018 daniel white
+# licensed under the apache license, version 2.0 (the "license");
+# you may not use this file except in compliance with the license.
+# you may obtain a copy of the license at
+# http://www.apache.org/licenses/license-2.0
+# unless required by applicable law or agreed to in writing, software
+# distributed under the license is distributed on an "as is" basis,
+# without warranties or conditions of any kind, either express or implied.
+# see the license for the specific language governing permissions and
+# limitations under the license.
 intellimize.co
 api.intellimize.co
 www.api.intellimize.co
@@ -52818,6 +52868,8 @@ eb.3lift.com
 www.eb.3lift.com
 eb2.3lift.com
 na-eb2.3lift.com
+staging-tlx.3lift.com
+us-east-tlx.3lift.com
 adcolony.com
 adc3-assets.adcolony.com
 www.adc3-assets.adcolony.com
@@ -52845,6 +52897,8 @@ adkmob.com
 cm.adkmob.com
 orionimg.adkmob.com
 adstxt.adnxs.com
+anycast.adnxs.com
+ib.anycast.adnxs.com
 apac1-proxy.adnxs.com
 apac2-proxy.adnxs.com
 apac3-proxy.adnxs.com
@@ -52858,6 +52912,7 @@ highwinds.cdneval.adnxs.com
 crcdn.adnxs.com
 jp.adnxs.com
 mp.adnxs.com
+nym1-ib.adnxs.com
 cdn.oas-c18.adnxs.com
 cdn.oas-eu1.adnxs.com
 cdn.oas-training7.adnxs.com
@@ -52865,6 +52920,7 @@ openadid.adnxs.com
 p.adnxs.com
 proxy.adnxs.com
 staging-console-cdn.adnxs.com
+hunder.adnxs.com
 yj.adnxs.com
 yjp.adnxs.com
 adready.com
@@ -53008,8 +53064,12 @@ ws-in.amazon-adsystem.com
 z-eu.amazon-adsystem.com
 z-fe.amazon-adsystem.com
 z-in.amazon-adsystem.com
+adserver-clarium-446793891.us-east-1.elb.amazonaws.com
+insight-760077375.us-east-1.elb.amazonaws.com
+privacycollector-production-457481513.us-east-1.elb.amazonaws.com
 btf-analytics.s3.amazonaws.com
 aniview.com
+add1.aniview.com
 cdn1.aniview.com
 data3.aniview.com
 go.aniview.com
@@ -53025,6 +53085,15 @@ wld.aniview.com
 wlplay.aniview.com
 wlplayer.aniview.com
 stats.gc.apple.com
+iadsdk.apple.com
+ca.iadsdk.apple.com
+cf.iadsdk.apple.com
+cs.iadsdk.apple.com
+news.iadsdk.apple.com
+su.iadsdk.apple.com
+r.iadsdk.apple.com
+ut.iadsdk.apple.com
+www.iadsdk.apple.com
 appsee.com
 api.appsee.com
 www.api.appsee.com
@@ -53065,12 +53134,28 @@ support.appsflyer.com
 www.appsflyer.com
 2-dot-mod-ads-dot-house-ads-server.appspot.com
 csp-collector.appspot.com
+brahe.apptimize.com
+md-i-s.apptimize.com
 ws-na.assoc-amazon.com
 analytics.atlassian.com
+bitbucket-marketing-cdn.atlassian.com
+photos-bazaar-use1.nexus.bazaarvoice.com
+photos-us.bazaarvoice.com
 bfmio.com
 display.bfmio.com
 io-cdn.bfmio.com
 ioms.bfmio.com
+blismedia.com
+lb.infinity.blismedia.com
+rtb.infinity.blismedia.com
+platform.blismedia.com
+www.platform.blismedia.com
+secure.blismedia.com
+r.blismedia.com
+rc.tr.blismedia.com
+rc2.tr.blismedia.com
+ssq.tr.blismedia.com
+www.blismedia.com
 braze.com
 iad-01.braze.com
 iad-02.braze.com
@@ -53084,6 +53169,11 @@ www.learning.braze.com
 partnerlab.braze.com
 www.partnerlab.braze.com
 product.braze.com
+brightfunnel.com
+api.brightfunnel.com
+help.brightfunnel.com
+munchkin.brightfunnel.com
+a2892.casalemedia.com
 amp.casalemedia.com
 dsum.casalemedia.com
 ebda-us-east.casalemedia.com
@@ -53104,6 +53194,7 @@ san.casalemedia.com
 sdk.casalemedia.com
 system.casalemedia.com
 woobi-eu.casalemedia.com
+cashext.com
 chartboost.com
 answers.chartboost.com
 www.answers.chartboost.com
@@ -53123,6 +53214,9 @@ www.consoliads.com
 consumedmedia.com
 assets.consumedmedia.com
 www.consumedmedia.com
+dishdigital.sp1.convertro.com
+sponge.creditkarma.com
+match.deepintent.com
 g.defold.com
 digitalremedy.com
 jira.digitalremedy.com
@@ -53130,6 +53224,9 @@ jira-dev.digitalremedy.com
 socialapi.digitalremedy.com
 www.digitalremedy.com
 hasoffers.disqus.com
+racking.downloadyeah.com
+ad.downloadyee.com
+racking.downloadyee.com
 drift.com
 api.drift.com
 chat.api.drift.com
@@ -53167,6 +53264,7 @@ start.stage.driftt.com
 start.driftt.com
 status.driftt.com
 www.driftt.com
+marketing.dropbox.com
 dynamicyield.com
 academy.dynamicyield.com
 www.academy.dynamicyield.com
@@ -53227,6 +53325,8 @@ nagios.dynamicyield.com
 www.nagios.dynamicyield.com
 newsupport.dynamicyield.com
 www.newsupport.dynamicyield.com
+nsof-web.dynamicyield.com
+www.nsof-web.dynamicyield.com
 proxy.dynamicyield.com
 www.proxy.dynamicyield.com
 www.px.dynamicyield.com
@@ -53271,6 +53371,8 @@ www.urbn-live-stream-feeds.dynamicyield.com
 demo1.use.dynamicyield.com
 www.demo1.use.dynamicyield.com
 dyode.use.dynamicyield.com
+opt.use.dynamicyield.com
+www.opt.use.dynamicyield.com
 sales-live-events1.use.dynamicyield.com
 www.sales-live-events1.use.dynamicyield.com
 webshot.dynamicyield.com
@@ -53284,10 +53386,34 @@ www-staging-origin.dynamicyield.com
 www.www-staging-origin.dynamicyield.com
 zulip.dynamicyield.com
 www.zulip.dynamicyield.com
+dynatrace.com
+js-cdn.dynatrace.com
+en25.com
+.en25.com
+engagio.com
+developer.engagio.com
+diveschool.engagio.com
+www.diveschool.engagio.com
+info.engagio.com
+www.info.engagio.com
+magic.engagio.com
+support.engagio.com
+web-analytics.engagio.com
+enhanced2trk.com
+enhancedstats.com
+enhancedtrk.com
 metric-public-service-prod.ol.epicgames.com
 w.ads2.eqads.com
 cdn.eqads.com
 um2.eqads.com
+essads.com
+client-api.essads.com
+esttrk.com
+cpanel.esttrk.com
+mail.esttrk.com
+webdisk.esttrk.com
+webmail.esttrk.com
+www.esttrk.com
 evgnet.com
 cdn.evgnet.com
 exacttarget.com
@@ -53651,6 +53777,7 @@ ws.exacttarget.com
 ws-thehartford.exacttarget.com
 www.exacttarget.com
 xmpp.exacttarget.com
+dctk.expedia.com
 fanbread.com
 s1.fanbread.com
 s2.fanbread.com
@@ -53789,6 +53916,7 @@ grafana.prd.fyber.com
 kibana.prd.fyber.com
 marathon.prd.fyber.com
 observium.prd.fyber.com
+pmm.prd-aws.fyber.com
 production-bidding-agent.fyber.com
 publisher-reporting-api.fyber.com
 reference.fyber.com
@@ -53816,6 +53944,7 @@ broker.staging-video-v2.fyber.com
 broker-builder.staging-video-v2.fyber.com
 exchange.staging-video-v2.fyber.com
 stg.fyber.com
+pmm.stg-aws.fyber.com
 est-wiki.fyber.com
 ickets.fyber.com
 rack.fyber.com
@@ -53830,11 +53959,13 @@ broker.video-v2.fyber.com
 exchange.video-v2.fyber.com
 wiki.fyber.com
 www.fyber.com
+racking.g2crowd.com
 gaeadata.com
 gdtmdc.gaeadata.com
 kylin.gaeadata.com
 ldap.gaeadata.com
 ldap-admin.gaeadata.com
+pixel.getchute.com
 elemetry.servers.getgo.com
 analytics.getpostman.com
 ade.googlesyndication.com
@@ -53868,8 +53999,12 @@ preflight.stage-two.heyzap.com
 rends.stage-two.heyzap.com
 www.stage-two.heyzap.com
 x.heyzap.com
+links.ibotta.com
+o.ibotta.com
+s.ibotta.com
 metrics.icloud.com
 intellicast.com
+mobile-services.intellicast.com
 essera.intellicast.com
 essera1.intellicast.com
 essera2.intellicast.com
@@ -53886,6 +54021,8 @@ offcnt.intuit.com
 pf.intuit.com
 financialprovider-logos.platform.intuit.com
 rinity.platform.intuit.com
+smartlinks.intuit.com
+smartlinks-e2e.intuit.com
 api.jivox.com
 app.api.jivox.com
 qa1.app.api.jivox.com
@@ -53908,6 +54045,7 @@ slate-demo.jivox.com
 sync.jivox.com
 kochava.com
 api.kochava.com
+kvinit-prod.api.kochava.com
 collective.kochava.com
 control.kochava.com
 imp.control.kochava.com
@@ -53981,6 +54119,7 @@ app-ab12.marketo.com
 app-ab13.marketo.com
 app-lon08.marketo.com
 app-nation.marketo.com
+app-sjo5.marketo.com
 autocukejvmab26a.marketo.com
 blog.marketo.com
 cftrkstage.marketo.com
@@ -54005,6 +54144,8 @@ learn.marketo.com
 www.learn.marketo.com
 learnadmin.marketo.com
 mail.marketo.com
+mavericks.marketo.com
+www.mavericks.marketo.com
 mfm.marketo.com
 mktopodab01.marketo.com
 mktopodab011.marketo.com
@@ -54079,6 +54220,8 @@ www.maxpoint.com
 measuread.com
 b.measuread.com
 www.measuread.com
+racker.meetleads.com
+www.tracker.meetleads.com
 midasplayer.com
 allan1qa.midasplayer.com
 autodiscover.midasplayer.com
@@ -54092,6 +54235,7 @@ corp.midasplayer.com
 da.midasplayer.com
 dev.midasplayer.com
 os.dev.midasplayer.com
+up.dev.midasplayer.com
 ds.midasplayer.com
 f1.midasplayer.com
 f2.midasplayer.com
@@ -54120,6 +54264,7 @@ prs3.midasplayer.com
 py1.midasplayer.com
 qa.midasplayer.com
 sharelog.qa.midasplayer.com
+up.qa.midasplayer.com
 ratkoqa.midasplayer.com
 sharelog.midasplayer.com
 sharelog-qa.midasplayer.com
@@ -54128,6 +54273,7 @@ sta.midasplayer.com
 sto.midasplayer.com
 1.midasplayer.com
 links.e2e.mint.com
+links.mint.com
 mktoresp.com
 308-xbb-662.mktoresp.com
 mobileapptracking.com
@@ -54210,6 +54356,11 @@ www3.mopub.com
 mxpnl.com
 cdn2.mxpnl.com
 images.mxpnl.com
+n131adserv.com
+ads.n131adserv.com
+api.n131adserv.com
+cdn.n131adserv.com
+www.n131adserv.com
 narvar.com
 analytics.narvar.com
 assets.narvar.com
@@ -54228,10 +54379,22 @@ www.narvar.com
 adproxy.ndmdhs.com
 np.adproxy.ndmdhs.com
 us.np.adproxy.ndmdhs.com
+netmng.com
+co-uk-h-l.netmng.com
+g.netmng.com
+newarena.netmng.com
+qa.netmng.com
+est.netmng.com
+www.netmng.com
+mobile-crash.newrelic.com
+jpx-d3.openxenterprise.com
+optimeze.com
+optimezer.com
 a.optmstr.com
 z.optmstr.com
 optnmstr.com
 a.optnmstr.com
+opttracker.com
 optvdo.com
 c.optvdo.com
 v.optvdo.com
@@ -54263,15 +54426,95 @@ u2.outbrain.com
 vconf.outbrain.com
 vconfgw.outbrain.com
 adserver.pandora.com
+cyclone.aws.paperg.com
+attdcmtest.dev.paperg.com
+cdn.dev.paperg.com
+firehound.dev.paperg.com
+img.dev.paperg.com
+quantify.dev.paperg.com
+hunder-tracker.dev.paperg.com
+prod.paperg.com
+3pt.prod.paperg.com
+campaign-tracking-service.prod.paperg.com
+reporting.campaign-tracking-service.prod.paperg.com
+reporting-large.campaign-tracking-service.prod.paperg.com
+racking.campaign-tracking-service.prod.paperg.com
+capture.prod.paperg.com
+cdn.prod.paperg.com
+firehound.prod.paperg.com
+api.release.firehound.prod.paperg.com
+api.release.frozenyak.prod.paperg.com
+img.prod.paperg.com
+quantify.prod.paperg.com
+roadmap.prod.paperg.com
+ss.prod.paperg.com
+sync.prod.paperg.com
+ag.prod.paperg.com
+api.release.template-build-service.prod.paperg.com
+hunder-tracker.prod.paperg.com
+wilbur.prod.paperg.com
+production.paperg.com
+staging.paperg.com
+3pt.staging.paperg.com
+campaign-tracking-service.staging.paperg.com
+reporting.campaign-tracking-service.staging.paperg.com
+racking.campaign-tracking-service.staging.paperg.com
+capture.staging.paperg.com
+cdn.staging.paperg.com
+firehound.staging.paperg.com
+api.eb-test.firehound.staging.paperg.com
+api.master.firehound.staging.paperg.com
+api.master.frozenyak.staging.paperg.com
+img.staging.paperg.com
+quantify.staging.paperg.com
+ss.staging.paperg.com
+sync.staging.paperg.com
+ag.staging.paperg.com
+hunder-tracker.staging.paperg.com
+assets.www.paperg.com
+flyers.www.paperg.com
+racking.photoyee.com
+placed.com
+affiliate.placed.com
+api.placed.com
+blog.placed.com
+blog2.placed.com
+blogtest.placed.com
+dev.placed.com
+email.placed.com
+gjenkins.placed.com
+location.placed.com
+p.placed.com
+p2.placed.com
+pixel.placed.com
+places.placed.com
+support.placed.com
+www.placed.com
+placelocal.com
+3pt.placelocal.com
+3pt-staging.placelocal.com
+adacus-cdn.placelocal.com
+adacus-cdn-staging.placelocal.com
+ak-cdn.placelocal.com
+campaign-tracking-service.placelocal.com
+racking.campaign-tracking-service.placelocal.com
+creative.placelocal.com
+sync.placelocal.com
+ag.placelocal.com
+update.placelocal.com
 api-docs.playhaven.com
 media.playhaven.com
 sdk-api-ssl.playhaven.com
 analytics.podtrac.com
-dts.podtrac.com
 preapps.com
 m.preapps.com
 www.m.preapps.com
 www.preapps.com
+pt2tracker.com
+pubocean.com
+eam.pubocean.com
+staging.eam.pubocean.com
+rta.pubocean.com
 pushspring.com
 api.pushspring.com
 canary.pushspring.com
@@ -54289,7 +54532,9 @@ maxcdn.quantserve.com
 media.quantserve.com
 preview.quantserve.com
 px.quantserve.com
+global.px.quantserve.com
 struq.quantserve.com
+cdn.ravenjs.com
 image.tx.redbox.com
 returnpath.com
 autodiscover.returnpath.com
@@ -54314,10 +54559,12 @@ landing.returnpath.com
 pages.returnpath.com
 preferences.returnpath.com
 smartbounce.returnpath.com
+stopemailfraud.returnpath.com
 support.returnpath.com
 webmail.returnpath.com
 www.webmail.returnpath.com
 www.returnpath.com
+ads.revjet.com
 rkdms.com
 a.rkdms.com
 ads.rkdms.com
@@ -54327,6 +54574,9 @@ mid.rkdms.com
 ag.rkdms.com
 x.rkdms.com
 z.rkdms.com
+rocketadt.com
+rocketadv.com
+rocketadx.com
 ads.roku.com
 p.ads.roku.com
 logs.roku.com
@@ -54340,6 +54590,7 @@ appchoices.rubiconproject.com
 aws.rubiconproject.com
 asa-api.aws.rubiconproject.com
 integration-asa-api.aws.rubiconproject.com
+beacon-us-iad3.rubiconproject.com
 cloud.rubiconproject.com
 crowd.rubiconproject.com
 www.crowd.rubiconproject.com
@@ -54362,6 +54613,7 @@ www.cs.rubiconproject.com
 dev.rubiconproject.com
 www.dev.rubiconproject.com
 dspbuilder.rubiconproject.com
+eus.rubiconproject.com
 gobuyersupport.rubiconproject.com
 www.gobuyersupport.rubiconproject.com
 helpme.rubiconproject.com
@@ -54401,6 +54653,9 @@ www.webcast.rubiconproject.com
 www.rubiconproject.com
 m.servedby-buysellads.com
 invenio.sgn.com
+apps.shareaholic.com
+support.shareaholic.com
+www.shareaholic.com
 sharethis.com
 data.sharethis.com
 developer.sharethis.com
@@ -54435,6 +54690,7 @@ postlog.supersonic.com
 www.postlog.supersonic.com
 referral.supersonic.com
 www.referral.supersonic.com
+ag-mediation.supersonic.com
 www.supersonic.com
 survata.com
 developers.survata.com
@@ -54533,8 +54789,11 @@ ci.thirdpresence.com
 www.ci.thirdpresence.com
 e.thirdpresence.com
 www.e.thirdpresence.com
+e2.thirdpresence.com
+e3.thirdpresence.com
 ec1-a.thirdpresence.com
 jobs.thirdpresence.com
+learn.thirdpresence.com
 napi.thirdpresence.com
 secure.thirdpresence.com
 www.secure.thirdpresence.com
@@ -54569,6 +54828,50 @@ webdocs.tritondigital.com
 www.webdocs.tritondigital.com
 www.tritondigital.com
 yesfm.tritondigital.com
+ruconversion.com
+08feb2018.truconversion.com
+08febuary18.truconversion.com
+8feb18.truconversion.com
+8feb2018.truconversion.com
+abc.truconversion.com
+access.truconversion.com
+agency-stage.truconversion.com
+app.truconversion.com
+app-stage.truconversion.com
+beedigital.truconversion.com
+cdn.truconversion.com
+cdn-test.truconversion.com
+cdn2.truconversion.com
+console.truconversion.com
+demopk.truconversion.com
+digitalmarketer3799.truconversion.com
+dontmakemethink.truconversion.com
+exp0811.truconversion.com
+exp1311.truconversion.com
+exponento.truconversion.com
+fawwadh0.truconversion.com
+fawwadh00.truconversion.com
+io.truconversion.com
+io-stage.truconversion.com
+liquify.truconversion.com
+mydemopk11.truconversion.com
+myspace.truconversion.com
+mytest.truconversion.com
+owner01company.truconversion.com
+owner03company.truconversion.com
+owner03companynew.truconversion.com
+owner05company.truconversion.com
+static.truconversion.com
+support-crm.truconversion.com
+est1custombranding.truconversion.com
+wp20171103.truconversion.com
+www.truconversion.com
+flb.com
+cpanel.ttflb.com
+mail.ttflb.com
+webdisk.ttflb.com
+webmail.ttflb.com
+www.ttflb.com
 une.com
 ab.tune.com
 academy.tune.com
@@ -54589,7 +54892,9 @@ configuration.ma.tune.com
 playlist.ma.tune.com
 mkt.tune.com
 multiverse.tune.com
+ops.tune.com
 ops-prod.us-west-2.k8s.ops.tune.com
+ops-stage.us-west-2.k8s.ops.tune.com
 stage.tune.com
 support.tune.com
 updates.tune.com
@@ -54627,6 +54932,8 @@ voxhq.urbanairship.com
 web-ci.urbanairship.com
 webinars.urbanairship.com
 www.urbanairship.com
+userbest.com
+www.userbest.com
 valassisdigital.com
 beta.valassisdigital.com
 go.valassisdigital.com
@@ -54636,6 +54943,7 @@ visualwebsiteoptimizer.com
 app.visualwebsiteoptimizer.com
 www.app.visualwebsiteoptimizer.com
 www.dev.visualwebsiteoptimizer.com
+secimg.vmmpxl.com
 vcsa.vmware.com
 api.vungle.com
 bd.vungle.com
@@ -54663,6 +54971,7 @@ v.vungle.com
 vungle-cdn.vungle.com
 akamai.vungle-cdn.vungle.com
 www.vungle.com
+rptrcks.walmart.com
 ads-resources.waze.com
 ads-resources-legacy.waze.com
 wbinsights.com
@@ -54685,6 +54994,7 @@ presto-gdpr-dev-encrypted.wbinsights.com
 playdemic.r.wbinsights.com
 zeppelin.wbinsights.com
 playdemic.zeppelin.wbinsights.com
+racking.weiboniu.com
 wootric.com
 api.wootric.com
 api-staging.wootric.com
@@ -54701,6 +55011,7 @@ docs.wootric.com
 eligibility.wootric.com
 engineering.wootric.com
 info.wootric.com
+intercom-assets.wootric.com
 production.wootric.com
 staging.wootric.com
 api.staging.wootric.com
@@ -54746,6 +55057,9 @@ api.static.xtify.com
 www.api.static.xtify.com
 xpass.xtify.com
 www.xpass.xtify.com
+racking.yeehbuy.com
+yieldoptimizer.com
+cs.yieldoptimizer.com
 yodelmobile.com
 daniel.yodelmobile.com
 www.daniel.yodelmobile.com
@@ -54780,6 +55094,28 @@ support.5rocks.io
 www.support.5rocks.io
 www.5rocks.io
 public-analytics.useast.atlassian.io
+api.bidr.io
+ap-northeast-1.bid.bidr.io
+eu-west-1.bid.bidr.io
+us-east-1.bid.bidr.io
+us-west-2.bid.bidr.io
+media.bidr.io
+prod.bidr.io
+event.prod.bidr.io
+ap-northeast-1.event.prod.bidr.io
+apac.event.prod.bidr.io
+cnv.event.prod.bidr.io
+apac.cnv.event.prod.bidr.io
+global.event.prod.bidr.io
+match.prod.bidr.io
+apac.match.prod.bidr.io
+segment.prod.bidr.io
+apac.segment.prod.bidr.io
+stinger-ad.bidr.io
+ap-northeast-1.stinger-ad.bidr.io
+eu-west-1.stinger-ad.bidr.io
+us-east-1.stinger-ad.bidr.io
+us-west-2.stinger-ad.bidr.io
 intercom.io
 api.intercom.io
 blog.intercom.io
@@ -54813,8 +55149,12 @@ www.intercom.io
 presage.io
 bip.presage.io
 ext-tracker.presage.io
+medias.presage.io
+resources.presage.io
 staging.presage.io
 wsback-get-config.presage.io
+piwik.privacytools.io
+segment.io
 abmo.io
 events.tabmo.io
 labs.tabmo.io
@@ -54827,12 +55167,23 @@ www.mmnetwork.mobi
 www1.mmnetwork.mobi
 www.www1.mmnetwork.mobi
 r6---sn-5ualdne7.c.2mdn.net
+msg-media.valueclick.akadns.net
+vungle.akadns.net
+api.vungle.akadns.net
 stats.gc.fe.apple-dns.net
 public-analytics.us-east-1.prod.public.atl-paas.net
 acceptance.bidswitch.net
 dp.bidswitch.net
 www.dp.bidswitch.net
 www.x.bidswitch.net
+mxl.connexity.net
+www.mxl.connexity.net
+pxl.connexity.net
+smo.connexity.net
+cxlaxexprswy01.smo.connexity.net
+www.cxlaxexprswy01.smo.connexity.net
+cxlaxexprswy02.smo.connexity.net
+www.cxlaxexprswy02.smo.connexity.net
 criteo.net
 as.criteo.net
 hk.as.criteo.net
@@ -54868,6 +55219,7 @@ de.doubleclick.net
 fr.doubleclick.net
 g.doubleclick.net
 jp.doubleclick.net
+ads-bid.l.doubleclick.net
 support.doubleclick.net
 hngw.doubleclick.net
 hngw1.doubleclick.net
@@ -54883,6 +55235,9 @@ everestjs.net
 everesttech.net
 cm.everesttech.net
 rtd-tm.everesttech.net
+prod.appnexus.map.fastly.net
+clarium.global.ssl.fastly.net
+prod.outbrain.map.fastlylb.net
 cdn.best-tv.com.c.footprint.net
 www.quotes.gb.net
 eu.a.intentmedia.net
@@ -54918,6 +55273,307 @@ www.link.krxd.net
 maxis.krxd.net
 userdata-maxis.krxd.net
 www.munchkin.marketo.net
+msecnd.net
+cccp.msecnd.net
+vo.msecnd.net
+ahmed1128.vo.msecnd.net
+az124298.vo.msecnd.net
+az133259.vo.msecnd.net
+az138547.vo.msecnd.net
+az165369.vo.msecnd.net
+az168019.vo.msecnd.net
+az184419.vo.msecnd.net
+az184935.vo.msecnd.net
+az20159.vo.msecnd.net
+az206661.vo.msecnd.net
+az211887.vo.msecnd.net
+az22848.vo.msecnd.net
+az27052.vo.msecnd.net
+az27065.vo.msecnd.net
+az280491.vo.msecnd.net
+az287601.vo.msecnd.net
+az287915.vo.msecnd.net
+az3021.vo.msecnd.net
+az330327.vo.msecnd.net
+az335341.vo.msecnd.net
+az346982.vo.msecnd.net
+az362727.vo.msecnd.net
+az363229.vo.msecnd.net
+az364070.vo.msecnd.net
+az377513.vo.msecnd.net
+az380706.vo.msecnd.net
+az384345.vo.msecnd.net
+az384346.vo.msecnd.net
+az391155.vo.msecnd.net
+az410775.vo.msecnd.net
+az412391.vo.msecnd.net
+az412516.vo.msecnd.net
+az412742.vo.msecnd.net
+az412930.vo.msecnd.net
+az412949.vo.msecnd.net
+az413008.vo.msecnd.net
+az413035.vo.msecnd.net
+az413808.vo.msecnd.net
+az415467.vo.msecnd.net
+az416209.vo.msecnd.net
+az416262.vo.msecnd.net
+az416475.vo.msecnd.net
+az416553.vo.msecnd.net
+az416670.vo.msecnd.net
+az416773.vo.msecnd.net
+az417179.vo.msecnd.net
+az417378.vo.msecnd.net
+az473729.vo.msecnd.net
+az47490.vo.msecnd.net
+az480822.vo.msecnd.net
+az48529.vo.msecnd.net
+az48602.vo.msecnd.net
+az488625.vo.msecnd.net
+az504796.vo.msecnd.net
+az513959.vo.msecnd.net
+az514039.vo.msecnd.net
+az52167.vo.msecnd.net
+az531529.vo.msecnd.net
+az536207.vo.msecnd.net
+az536836.vo.msecnd.net
+az549117.vo.msecnd.net
+az558451.vo.msecnd.net
+az578923.vo.msecnd.net
+az579899.vo.msecnd.net
+az589851.vo.msecnd.net
+az590886.vo.msecnd.net
+az590934.vo.msecnd.net
+az591001.vo.msecnd.net
+az593244.vo.msecnd.net
+az593916.vo.msecnd.net
+az599339.vo.msecnd.net
+az605854.vo.msecnd.net
+az606063.vo.msecnd.net
+az606725.vo.msecnd.net
+az607248.vo.msecnd.net
+az609642.vo.msecnd.net
+az612690.vo.msecnd.net
+az614450.vo.msecnd.net
+az618301.vo.msecnd.net
+az620073.vo.msecnd.net
+az621941.vo.msecnd.net
+az624522.vo.msecnd.net
+az629440.vo.msecnd.net
+az6368.vo.msecnd.net
+az636834.vo.msecnd.net
+az644811.vo.msecnd.net
+az645477.vo.msecnd.net
+az646210.vo.msecnd.net
+az648091.vo.msecnd.net
+az649790.vo.msecnd.net
+az651784.vo.msecnd.net
+az653223.vo.msecnd.net
+az654139.vo.msecnd.net
+az657629.vo.msecnd.net
+az658836.vo.msecnd.net
+az659585.vo.msecnd.net
+az666548.vo.msecnd.net
+az668117.vo.msecnd.net
+az669241.vo.msecnd.net
+az672105.vo.msecnd.net
+az673509.vo.msecnd.net
+az676510.vo.msecnd.net
+az677618.vo.msecnd.net
+az677647.vo.msecnd.net
+az679043.vo.msecnd.net
+az679732.vo.msecnd.net
+az680633.vo.msecnd.net
+az681017.vo.msecnd.net
+az683105.vo.msecnd.net
+az683605.vo.msecnd.net
+az683691.vo.msecnd.net
+az688340.vo.msecnd.net
+az688422.vo.msecnd.net
+az694812.vo.msecnd.net
+az695102.vo.msecnd.net
+az696016.vo.msecnd.net
+az696150.vo.msecnd.net
+az696227.vo.msecnd.net
+az696739.vo.msecnd.net
+az698550.vo.msecnd.net
+az699968.vo.msecnd.net
+az700858.vo.msecnd.net
+az701503.vo.msecnd.net
+az704245.vo.msecnd.net
+az707709.vo.msecnd.net
+az708150.vo.msecnd.net
+az712682.vo.msecnd.net
+az714664.vo.msecnd.net
+az714818.vo.msecnd.net
+az716710.vo.msecnd.net
+az717412.vo.msecnd.net
+az717916.vo.msecnd.net
+az718207.vo.msecnd.net
+az719221.vo.msecnd.net
+az719473.vo.msecnd.net
+az720557.vo.msecnd.net
+az720974.vo.msecnd.net
+az721356.vo.msecnd.net
+az721862.vo.msecnd.net
+az721987.vo.msecnd.net
+az724378.vo.msecnd.net
+az724456.vo.msecnd.net
+az724598.vo.msecnd.net
+az724715.vo.msecnd.net
+az724716.vo.msecnd.net
+az726000.vo.msecnd.net
+az726862.vo.msecnd.net
+az726903.vo.msecnd.net
+az730005.vo.msecnd.net
+az732967.vo.msecnd.net
+az734218.vo.msecnd.net
+az734624.vo.msecnd.net
+az735618.vo.msecnd.net
+az735769.vo.msecnd.net
+az735906.vo.msecnd.net
+az736297.vo.msecnd.net
+az736729.vo.msecnd.net
+az737243.vo.msecnd.net
+az741063.vo.msecnd.net
+az741335.vo.msecnd.net
+az742228.vo.msecnd.net
+az743161.vo.msecnd.net
+az743702.vo.msecnd.net
+az744479.vo.msecnd.net
+az744595.vo.msecnd.net
+az745006.vo.msecnd.net
+az746409.vo.msecnd.net
+az749908.vo.msecnd.net
+az750013.vo.msecnd.net
+az750513.vo.msecnd.net
+az750745.vo.msecnd.net
+az750762.vo.msecnd.net
+az751406.vo.msecnd.net
+az751508.vo.msecnd.net
+az752039.vo.msecnd.net
+az754239.vo.msecnd.net
+az756743.vo.msecnd.net
+az757509.vo.msecnd.net
+az757612.vo.msecnd.net
+az758001.vo.msecnd.net
+az758246.vo.msecnd.net
+az758799.vo.msecnd.net
+az759069.vo.msecnd.net
+az759750.vo.msecnd.net
+az759793.vo.msecnd.net
+az759796.vo.msecnd.net
+az760988.vo.msecnd.net
+az763962.vo.msecnd.net
+az765165.vo.msecnd.net
+az768451.vo.msecnd.net
+az768476.vo.msecnd.net
+az768779.vo.msecnd.net
+az768997.vo.msecnd.net
+az769512.vo.msecnd.net
+az769986.vo.msecnd.net
+az770423.vo.msecnd.net
+az770802.vo.msecnd.net
+az775935.vo.msecnd.net
+az776123.vo.msecnd.net
+az776232.vo.msecnd.net
+az778215.vo.msecnd.net
+az779545.vo.msecnd.net
+az780246.vo.msecnd.net
+az783297.vo.msecnd.net
+az784741.vo.msecnd.net
+az785971.vo.msecnd.net
+az790501.vo.msecnd.net
+az793892.vo.msecnd.net
+az795390.vo.msecnd.net
+az797124.vo.msecnd.net
+az798589.vo.msecnd.net
+az798750.vo.msecnd.net
+az799899.vo.msecnd.net
+az800393.vo.msecnd.net
+az801140.vo.msecnd.net
+az801352.vo.msecnd.net
+az801361.vo.msecnd.net
+az803208.vo.msecnd.net
+az804368.vo.msecnd.net
+az804807.vo.msecnd.net
+az804972.vo.msecnd.net
+az805278.vo.msecnd.net
+az806734.vo.msecnd.net
+az808818.vo.msecnd.net
+az809517.vo.msecnd.net
+az809909.vo.msecnd.net
+az810120.vo.msecnd.net
+az810324.vo.msecnd.net
+az811773.vo.msecnd.net
+az812667.vo.msecnd.net
+az813079.vo.msecnd.net
+az813522.vo.msecnd.net
+az814094.vo.msecnd.net
+az815563.vo.msecnd.net
+az815829.vo.msecnd.net
+az818809.vo.msecnd.net
+az820796.vo.msecnd.net
+az821999.vo.msecnd.net
+az822371.vo.msecnd.net
+az822683.vo.msecnd.net
+az823316.vo.msecnd.net
+az823433.vo.msecnd.net
+az823627.vo.msecnd.net
+az823907.vo.msecnd.net
+az824010.vo.msecnd.net
+az824306.vo.msecnd.net
+az825368.vo.msecnd.net
+az825493.vo.msecnd.net
+az825865.vo.msecnd.net
+az826477.vo.msecnd.net
+az826957.vo.msecnd.net
+az827184.vo.msecnd.net
+az829701.vo.msecnd.net
+az829718.vo.msecnd.net
+az831790.vo.msecnd.net
+az832080.vo.msecnd.net
+az832273.vo.msecnd.net
+az832684.vo.msecnd.net
+az832685.vo.msecnd.net
+az833200.vo.msecnd.net
+az833274.vo.msecnd.net
+az833646.vo.msecnd.net
+az833750.vo.msecnd.net
+az833754.vo.msecnd.net
+az833833.vo.msecnd.net
+az834239.vo.msecnd.net
+az835322.vo.msecnd.net
+az836789.vo.msecnd.net
+az840499.vo.msecnd.net
+az841383.vo.msecnd.net
+az841384.vo.msecnd.net
+az841385.vo.msecnd.net
+az841464.vo.msecnd.net
+az841831.vo.msecnd.net
+az841929.vo.msecnd.net
+az841930.vo.msecnd.net
+az842223.vo.msecnd.net
+az842619.vo.msecnd.net
+az842913.vo.msecnd.net
+az843876.vo.msecnd.net
+az843908.vo.msecnd.net
+az846711.vo.msecnd.net
+az846955.vo.msecnd.net
+az849513.vo.msecnd.net
+az852688.vo.msecnd.net
+az857794.vo.msecnd.net
+az858649.vo.msecnd.net
+az859018.vo.msecnd.net
+az859021.vo.msecnd.net
+az859819.vo.msecnd.net
+az860412.vo.msecnd.net
+az863164.vo.msecnd.net
+az865144.vo.msecnd.net
+az870534.vo.msecnd.net
+az871117.vo.msecnd.net
+az889637.vo.msecnd.net
+az894869.vo.msecnd.net
+az898557.vo.msecnd.net
 mxptint.net
 abp.mxptint.net
 www.abp.mxptint.net
@@ -54997,8 +55653,10 @@ d1.sc.omtrdc.net
 adpsj.ssl.d1.sc.omtrdc.net
 d2.sc.omtrdc.net
 adpdl.ssl.d2.sc.omtrdc.net
+cbsi.com.ssl.d2.sc.omtrdc.net
 d3.sc.omtrdc.net
 kroger.sc.omtrdc.net
+cbsi.com.ssl.sc.omtrdc.net
 d1.sv.omtrdc.net
 delivery.d1.sv.omtrdc.net
 d2.sv.omtrdc.net
@@ -55039,7 +55697,10 @@ www.staging-h-api.online-metrix.net
 mx-fp.online-metrix.net
 openx.net
 browser-tools.openx.net
+diply-d.openx.net
+egraffiti-d.openx.net
 meta.openx.net
+oao-d.openx.net
 soju.openx.net
 black.soju.openx.net
 blue.soju.openx.net
@@ -55106,6 +55767,7 @@ app.tst.returnpath.net
 mx.tst.returnpath.net
 webmail.returnpath.net
 www.returnpath.net
+nb-us.wal.co.revdn.net
 rfihub.net
 eqv-rtb1.rfihub.net
 ewr-rtb1.rfihub.net
@@ -55121,6 +55783,10 @@ creatives.smaato.net
 soma.smaato.net
 www.soma.smaato.net
 soma-assets.smaato.net
+ss-omtrdc.net
+guided.ss-omtrdc.net
+sp10050c00.guided.ss-omtrdc.net
+lon5.ss-omtrdc.net
 streamrail.net
 dkfslkqd.netikh.cdn.streamrail.net
 www.dkfslkqd.netikh.cdn.streamrail.net
@@ -55131,17 +55797,26 @@ ffmpeg.streamrail.net
 vast.streamrail.net
 apas.net
 ortshk.tapas.net
+smedia.webcollage.net
 syndication.site.yahoo.net
+a.pub.network
+pull.docker.adsrvr.org
+push.docker.adsrvr.org
+est.docker.adsrvr.org
 ops-self-service.adsrvr.org
 snap.adsrvr.org
 hales.adsrvr.org
 post.update.adsrvr.org
 s.update.adsrvr.org
 .update.adsrvr.org
+anon-stats.eff.org
 ketchapp.org
 www.ketchapp.org
+outbrain.org
+alldcs.outbrain.org
 amp.services
 static.amp.services
+sync.extend.tv
 shoofle.tv
 adserver.shoofle.tv
 adserverc.shoofle.tv

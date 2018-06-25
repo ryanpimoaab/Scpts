@@ -41,6 +41,7 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+tnkfactory.com
 iqzone.com
 postitial.com
 pssvc.iqzone.com
@@ -913,6 +914,8 @@ mobimagic.com
 turner.com
 images-*.ssl-images-amazon.com
 baidu.com
+m.alphaporno.com
+mobile.donanimhaber.com
 m.fantasti.cc
 cartoon-sex.tv
 dlbooks.to
@@ -990,6 +993,11 @@ ymcdn.ymtrack6.co
 static.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+promotion.polarisoffice.com
+newad.ifeng.com
+ifengad.*.ifeng.com
+cx.ssacdn.com
+json.dcinside.com
 ws.kebapp.co
 varravgames.com
 api.ambelbet.com
@@ -1025,7 +1033,6 @@ s3.amazonaws.com
 api.live.daum.net
 vads-api.daumkakao.com
 spoofgames.com
-gdeposylka.ru
 m.ezjoygame.com
 privetapp.ru
 staticaws.365scores.com
@@ -1041,7 +1048,17 @@ eviltracker.net
 spotify.com
 trackersimulator.org
 app.adjust.com
+logconfig.polarisoffice.com
+analysis.polarisoffice.com
+stream.shuzilm.cn
+daa.shuzilm.cn
+fraudmetrix.cn
+plbslog.umeng.com
+analysys.cn
+logs.supersonic.com
 adj.st
+ue.flipboard.com
+helpshift.com
 mobileapptracking.com
 mobile.bigfishgames.com
 startup.mobile.yandex.net

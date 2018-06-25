@@ -317,6 +317,18 @@ fcanr.tracking.miui.com
 api.ad.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 racking.intl.miui.com
+adv.sec.intl.miui.com
+api.brs.intl.miui.com
+api.collect.data.intl.miui.com
+api.hybrid.intl.xiaomi.com
+api.sec.intl.miui.com
+api.setting.intl.miui.com
+authbe.sec.intl.miui.com
+data.sec.intl.miui.com
+zeus.ad.xiaomi.com
+www.api.ad.intl.xiaomi.com
+sgp.o2o.api.xiaomi.com
+flash.sec.intl.miui.com
 ampmetrics.engadget.com
 c.adskeeper.co.uk
 datacollect.vmall.com
@@ -604,6 +616,9 @@ rollbar.com
 www.rollbar.com
 api.rollbar.com
 ads.exoclick.com
+secure.exoclick.com
+syndication-evo.exoclick.com
+www.exoclick.com
 0latfee.ero-advertising.com
 2baners.ero-advertising.com
 2ds.ero-advertising.com
@@ -749,7 +764,6 @@ nl2.ero-advertising.com
 nners.ero-advertising.com
 oata.ero-advertising.com
 opads.ero-advertising.com
-o_thus.ero-advertising.com
 pagepeel.ero-advertising.com
 pata.ero-advertising.com
 phpmyadmin.ads.ero-advertising.com
@@ -783,6 +797,7 @@ stats.adspaces.ero-advertising.com
 stats.data2.ero-advertising.com
 stats.ero-advertising.com
 stats.speedclicks.ero-advertising.com
+steenbergen.web.ero-advertising.com
 cm.optica.ero-advertising.com
 ex.ero-advertising.com
 humb.ero-advertising.com
@@ -821,4 +836,7 @@ www.speedclicks.ero-advertising.com
 www.thumb.ero-advertising.com
 xn--adspace-kvg.ero-advertising.com
 zww.ero-advertising.com
-_thums.ero-advertising.com
+redshell.io
+api.redshell.io
+reasuredata.com
+api.treasuredata.com
