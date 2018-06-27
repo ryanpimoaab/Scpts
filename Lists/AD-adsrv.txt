@@ -5401,7 +5401,6 @@ api.vertamedia.com
 api.veruta.com
 api.videoder.net
 api.videometrics.ted.com
-api.vidible.tv
 api.viglink.com
 api-visit.kameleoon.com
 api.vuukle.com
@@ -5412,7 +5411,6 @@ api-workflow.treasuredata.com
 api.wp.haokan.mobi
 api.wsq.umeng.com
 apiw-test.ensighten.com
-api.zhuti.xiaomi.com
 apkfdc.vass-24.net
 apkq-cm.ksmobile.net
 ap.lijit.com
@@ -27295,9 +27293,6 @@ xssa0.voluumtrk.com
 xssg5fz8hah7qfhqdys9ny4ejeaqm1504910791.nuid.imrworldwide.com
 x-traffic-director.videoplaza.tv
 xtrail-forum.de.intellitxt.com
-xtrapath1.izatcloud.net
-xtrapath2.izatcloud.net
-xtrapath3.izatcloud.net
 xtwzukfknhx.proxy.teads.tv
 xuuid.bc646439-8b73-4e0c-826e-cc3ea6705bd5.adk2x.com
 xuvzz.qlvfyxtzjh5.bapb.gdn
@@ -27647,7 +27642,6 @@ zhihu-web-analytics.zhihu.com
 zhnhos6t7zhuyrctdzk2czoizlsgf1514433112.nuid.imrworldwide.com
 zh_tw.statcounter.com
 zh-tw.statcounter.com
-zhuti.xiaomi.com
 zib78.voluumtrk.com
 zico.alphonso.tv
 ziffdavis697674298673.moatads.com
@@ -33959,3 +33953,4 @@ vpn.contextweb.com
 vpnny2.contextweb.com
 web3.contextweb.com
 www3.contextweb.com
+telemetry.malwarebytes.com

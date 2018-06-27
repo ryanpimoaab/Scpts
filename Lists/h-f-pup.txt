@@ -5660,6 +5660,7 @@ lp.bestpckeeper.com
 lp.blpmovies.com
 lp.browsers.support
 lp.cleanmypc.co
+lp.customnewtab.com
 lp.efixdrivers.com
 lp.efixpcutils.com
 lp.epcdoctors.com
@@ -8107,6 +8108,7 @@ synizesiswdvgsuzh.download
 synonymistvnqdy.website
 synonymnpptfhyau.download
 syqguwameconopsis.review
+sysboostutils.com
 syscarelogics.com
 sysinfo.pcvark.com
 system-internals.com
@@ -17473,6 +17475,7 @@ www.synizesiswdvgsuzh.download
 www.synonymistvnqdy.website
 www.synonymnpptfhyau.download
 www.syqguwameconopsis.review
+www.sysboostutils.com
 www.syscarelogics.com
 www.system-internals.com
 www.system4registeryourexnetions4free4limitedtimerightnow.bid
@@ -21059,4 +21062,4 @@ zymosiszfkmthosm.download
 zzcihevvdigesting.download
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 21064
+# hosts: 21067
