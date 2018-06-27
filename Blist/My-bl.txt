@@ -17,6 +17,7 @@ appsforimacs.com
 arc-aws-cf-cloud-resources.tombola.com
 b.scorecardresearch.com
 badges-production-external-877820065.us-west-2.elb.amazonaws.com
+betmeup.club
 binaṇce.com
 bitcoin-code.co
 bittrex-support.com
@@ -148,6 +149,7 @@ www.appsforimacs.com
 www.arc-aws-cf-cloud-resources.tombola.com
 www.b.scorecardresearch.com
 www.badges-production-external-877820065.us-west-2.elb.amazonaws.com
+www.betmeup.club
 www.binaṇce.com
 www.bitcoin-code.co
 www.bittrex-support.com
