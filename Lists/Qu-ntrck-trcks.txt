@@ -460,6 +460,7 @@ amobee.org
 ampaign.click
 amplience.com
 amplitude.com
+ampmetrics.techcrunch.com
 amung.us
 analyse.email
 analysing.email
@@ -729,6 +730,7 @@ bravodevupdatemyprofile.com
 bravotestcampmon.com
 bravotestconfirmsubscription.com
 bravotestcreatesend.com
+braze.com
 brealtime.com
 brecon-radnor-today.co.uk
 bridgetrack.com
@@ -1720,6 +1722,7 @@ helloworldmagic.com
 helloworldmail.com
 helloworldptqa.com
 help24center.com
+herasawelsov.com
 hilltopads.net
 himediads.com
 himediads.mobi
@@ -10969,7 +10972,6 @@ mobfox.org
 mobfox.us
 mobile-ad-cloud.com
 mobileaccesspanel.com
-mobileanalytics.us-east-1.amazonaws.com
 mobileapptracking.com
 mobilebenchmarck.com
 mobilebenchmark.com
@@ -11030,6 +11032,7 @@ movoxi.com
 movoxi.net
 movoxy.com
 movoxy.net
+mparticle.com
 mpire.com
 mplxtms.com
 mpstat.us
@@ -11136,7 +11139,6 @@ nanovisor.us
 nativeads.com
 nativeads.site
 nativeads.solutions
-nativesdks.mparticle.com
 navrcholu.cz
 nearbyad.com
 nedsms.com
@@ -11412,6 +11414,7 @@ polarmobile.com
 popads.net
 popadvertisement.club
 popcash.net
+popcon.ubuntu.com
 popmonetize.com
 popmyads.com
 popularix.com
@@ -11571,6 +11574,7 @@ redeye.international
 redfacflowms.com
 redirecting2.net
 redrevmsmt.com
+redshell.io
 redstar.co.uk
 redzumsmtva.com
 reevoo.com
@@ -11751,6 +11755,7 @@ se-core-pipe.com
 sea-nov-1.com
 search123.com
 search2shop.com
+searchlinks.com
 searchmarketing.com
 searchretargeting.guru
 searchretargeting.info
@@ -12217,7 +12222,6 @@ tracker-api.my.com
 trackertec.nznweb.com.br
 tracking.cmjump.com.au
 tracking.lenzmx.com
-tracking.opencandy.com.s3.amazonaws.com
 tracking.volo-mobile.com
 tracking.xsellapp.com
 trackjs.com
@@ -12248,6 +12252,7 @@ trakking.info
 trandsey.info
 travel-options.com
 traveloffer-uk.com
+treasuredata.com
 trees4knowledge.com
 treesforknowledge.com
 tremorhub.com

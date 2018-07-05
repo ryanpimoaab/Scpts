@@ -95,7 +95,6 @@
 0cfe-e814-fd2a-7ffc.reporo.net
 0d32-4c73-2e50-510d.reporo.net
 0d847862199.com
-0d.kebhana.mx
 0e89-0316-2324-3228.reporo.net
 0f55-fb73-3513-2f82.reporo.net
 0f5d-15fb-d62d-8026.reporo.net
@@ -33953,4 +33952,8 @@ vpn.contextweb.com
 vpnny2.contextweb.com
 web3.contextweb.com
 www3.contextweb.com
-telemetry.malwarebytes.com
+elemetry.malwarebytes.com
+elegraph.sdk.beemray.com
+elegraph.grapeshot.co.uk
+argeting.tronc.arcpublishing.com
+analytics.eip.telegraph.co.uk

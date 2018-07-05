@@ -41,6 +41,13 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+tkcatwalk.aotter.net
+tkmedia.aotter.net
+tkmedia-cache.aotter.net
+tkportal.aotter.net
+client.midosoo.com
+sc.smardroid.com
+ap.smardroid.com
 tnkfactory.com
 iqzone.com
 postitial.com
@@ -69,7 +76,6 @@ adsmogo.mobi
 adbetnet.advertserve.com
 chartboosts.com
 mobpowertech.com
-ap.smardroid.com
 aclickoooo.host
 api.ampiri.com
 httpkafka.unityads.unity3d.com
@@ -914,6 +920,7 @@ mobimagic.com
 turner.com
 images-*.ssl-images-amazon.com
 baidu.com
+m.txxx.com
 wasabisyrup.com
 filecast.co.kr
 m.alphaporno.com
@@ -951,7 +958,6 @@ api.kostprice.com
 pstatp.com
 duanwenxue.com
 partner.toutiao.com
-kissanime.ru
 m.flowcodeapp.com
 media.mensxp.com
 m.quankan.tv

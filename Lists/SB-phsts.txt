@@ -532,6 +532,16 @@ abc.cosiloon.com
 app.storage.yunvm.com
 abd.cosiloon.com
 pull-3045.kxcdn.com
+a.tvpage.com
+api.tvpage.com
+mktg.tvpage.com
+sitecdn.tvpage.com
+www.tvpage.com
+vpage.com
+cdnjs.tvpage.com
+videos-bleepingcomputers-com.tvpagecdn.com
+stage.tvpage.com
+appcdn.tvpage.com
 app-measurement.com
 agl.hotstar.com
 adserver.adtech.de
@@ -840,3 +850,10 @@ redshell.io
 api.redshell.io
 reasuredata.com
 api.treasuredata.com
+supload.com
+notification-browser.tools
+sex-and-flirt.com
+rtb-adsterra.flshtrk.store
+best2017games.com
+www.bet365.com
+api.userstyles.org

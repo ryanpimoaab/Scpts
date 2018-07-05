@@ -1,96 +1,78 @@
-#notrack malicious site list updated 25 may 2018
+#title: notrack malware blocklist
+#description: malware domains block list from quidsup.net
+#author: quidsup
+#license: gnu general public license v3.0
+#home: https://quidsup.net/notrack/blocklist.php
+#@ github : https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
+#updated: 03 jul 2018
+#latestversion 0.8.10
+#---------------------
 1kdailyprofit.biz #scam
 1kdailyprofit.co #scam
-#a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a
 abcd7777.com #chinese scammer
 abcdnf.com #chinese scammer
 ad2up.com #potentially unwanted application
-adfuture.cn #chinese android data collection 
-adsunflower.com #chinese android data collection 
-advmob.cn #chinese android data collection 
+adfuture.cn #chinese android data collection
+adsunflower.com #chinese android data collection
+advmob.cn #chinese android data collection
 akamoihd.net #ad injector
 andr-security.com #malicious site
 apple-safari.info #malicious site
 ashleyrnadison.com #typo
-#b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b
 b3stm0b1l3.com #potentially unwanted application
 biosagentplus.com #scam
-#c-c-c-c-c-c-c-c-c-c-c-c-c-c-c-c-c-c-c-c
 com-internet.online #malicious site
 cookiereports.com #annoying cookie popup
-#d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d
 davesbestdeals.com #ad injector
-donation-tools.org #ad injector
 digitaloptout.com #ad injector
-#e-e-e-e-e-e-e-e-e-e-e-e-e-e-e-e-e-e-e-e
-elbacom.com #angler ek
+donation-tools.org #ad injector
 edatasales.com #malicious site
+elbacom.com #angler ek
 epicunitscan.info #malicious site
-#f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f
 facebookprofileview.com #malicious software
 ffdns.net #dns exploiters
-#g-g-g-g-g-g-g-g-g-g-g-g-g-g-g-g-g-g-g-g
 gettop.info #rig exploit
 giftcards4fans.com #scam
 globaloffers.link #malware
+gonirola.com #malicious site
 googe.com #typo
 googele.com #typo
-gonirola.com #malicious site
 gotoout.ml #phishing
-#h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h
 hoholikik.club #ad injector
-#i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i
 intimglobus.ru #suspicious
+iphoneoptimizer.com #scam
 ironbeast.io #suspicious
 iubenda.com #annoying
-iphoneoptimizer.com #scam
-#j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j-j
+jesus2020.com #fake site
 jianbaimei.com.cname.yunjiasu-cdn.net #cdn of malicious site jianbaimei.com
 jldnphwwu.bid #malicious site
-jesus2020.com #fake site
-#k-k-k-k-k-k-k-k-k-k-k-k-k-k-k-k-k-k-k-k
-#l-l-l-l-l-l-l-l-l-l-l-l-l-l-l-l-l-l-l-l
 lhzbdvm.com #ragentek rootkit
-#m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m
 m1ll1c4n0.com #added may 2016
 madmimi.com #email spam
 minaraca.com #malicious site
 myfood.ltd #potentially unwanted application
 myxns.cn #dns exploiters
-#n-n-n-n-n-n-n-n-n-n-n-n-n-n-n-n-n-n-n-n
-#o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
-onlinesurveydaily.com #annoying
 oc.uk #typo of .co.uk
-#p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p
+onlinesurveydaily.com #annoying
 prugskh.com #ragentek rootkit
 prugskh.net #ragentek rootkit
-#q-q-q-q-q-q-q-q-q-q-q-q-q-q-q-q-q-q-q-q
-#r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r
-reimageplus.com #fake bsod popus &scam
+reimageplus.com #scam
 reliablesurfingext.biz #fake updates
 retreatoftheretreat.site #rig exploit
-#s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s
 safari-code.net #malicious site
 searchnet.com #malicious site
 searchtabnew.com #malicious site
+servicekgbfit.us #fake bsods
 simplebookmark.info #buta trading - leak analytics
 site360.org.uk #angler ek
 solvusoft.com #malicious files
 surveyrouter.com #toluna surveys
-servicekgbfit.us #fake bsods
-#t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t
 taosha.cc #android trojan
 toogle.com #malicious site
 trumpetedextremes.com #ad injector
-#u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u
-#v-v-v-v-v-v-v-v-v-v-v-v-v-v-v-v-v-v-v-v
-#w-w-w-w-w-w-w-w-w-w-w-w-w-w-w-w-w-w-w-w
 wwu-natwiest.com #typo
 wwwp.link #malicious site
-#x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
 xyz.com.br #scammer
-#y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y
-#z-z-z-z-z-z-z-z-z-z-z-z-z-z-z-z-z-z-z-z
 zief.pl #malicious site
 znznznznzn.com #malicious site
 zorwrite.com
