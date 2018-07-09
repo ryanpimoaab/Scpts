@@ -168,6 +168,7 @@ account-verify-appleid.com
 account-verify-limited-acces.com
 account-verify-login-id.com
 account-verify-your-appleid.com
+account-verifycation-paypal.com
 account-verifyid.com
 account.com-authentication-login.xyz
 account.com-secure-login.site
@@ -2031,6 +2032,7 @@ appleid-278633.com
 appleid-287634.com
 appleid-account-inf.com
 appleid-account-unblocked.com
+appleid-account-verification-online.com
 appleid-account-verification.com
 appleid-account.review
 appleid-accountsecurity.com
@@ -2149,6 +2151,7 @@ appleid-location-icloud.com
 appleid-logining.com
 appleid-loginscure.com
 appleid-logon.com
+appleid-mail-icloud.com
 appleid-mail.info
 appleid-manage-apple.com
 appleid-manage.com
@@ -2194,6 +2197,7 @@ appleid-service-apple.com
 appleid-service-inc.com
 appleid-service-locked.com
 appleid-service-payment.com
+appleid-serviceid.com
 appleid-servicepayment.com
 appleid-services-center.com
 appleid-services-locked-account-authenticated.com
@@ -4386,7 +4390,6 @@ colegiosagrada.com.br
 colegiosanfranciscodeasis.cl
 colegiosansebastiandelaflorida.cl
 colegiosantadorotea.edu.co
-colegiosantajoaquina.webescuela.cl
 collabogramsadobe.com
 com-apple-sms.com
 com-apple.care
@@ -4623,6 +4626,7 @@ deltaaccesorios.com
 demo-apple-store-link.com
 demo.barclays.lk
 demo.classconnect.cloud
+denizbank-bireyselislemler2.com
 denizbank-cep.com
 denizbank-e-mobilonline.com
 denizbank-iadeonayla.com
@@ -5947,6 +5951,11 @@ https-sanbank.jelastic.regruhosting.ru
 https-santander-mx.net
 https-secure-capitalone360.com-myaccount-banking-loggin.vm.annacayzer.com.au
 https-securedirsdropboxdcument.verifyrecipientemailaddress.dropboxcloud-securedirsdata.verificicationclient63td3-32gf4-232-dd32-4xcd4.medcaresys.com
+https-yahoomail-com.freelacsonimports.com
+https-yahoomail-com.frolongconstructions.com
+https-yahoomail-com.realityi9nvestments.com
+https-yahoomail-com.rovoniasalesindustries.com
+https-yahoomail-com.sevengroupofcompanies.com
 https.appleid.apple.com-unblock-id.litheware.com
 https.danskebank.no-bfztjn.casulodigital.com
 https.danskebank.no-dmjcmd.casulodigital.com
@@ -6623,6 +6632,7 @@ icloud-app-find.com
 icloud-app-sir-id.com
 icloud-apple-appleid.com
 icloud-apple-i.com
+icloud-apple-id-security-information-restore-onlineprocedure.cdel.cl
 icloud-apple-id-security-information-restore-onlineprocess.steroidfiyatlari.com
 icloud-apple-imaps.com
 icloud-apple-info.com
@@ -8054,6 +8064,7 @@ login.microsoftonline.georgeskayaks.com
 login.microsoftonllne.com
 login.microsofts.support
 login.micrrosoftonlline.com
+login.netflix-downgrade.com
 login.netflix-report.com
 login.netflix-unlock.com
 login.netflix-valid.com
@@ -8070,6 +8081,7 @@ login.sharepoint.cn.com
 login.ucfprogrammingteam.org
 login.validate-netflix.com
 login.voda-phone.co.uk
+login.yahoo.com.bjj5a2m1bwxwdg5enz6ewpqaikhwloaguzdb.ewpqai4cmf1enz6ewpqai1zxdwcwfpngntzjflb.52zxjv4cmf1enz6ewpqaiw.bjj5a2m1bwxwdg5enz6ewpqaiympqnweybtfid3h3zgc1zw56nmv3chfhaq.ewpqai4cmf1enz6ewpqai13chfhaqsewetfiid3hsfs.glok23.com
 login.yahoo.com.mail.login.com.session-signin.mailannounceservice.com
 login.yahoo.com.pharmastaff.net
 login2view.com
@@ -9081,6 +9093,7 @@ mywhatsappimages.com
 myworkspacebarclays.com
 myyoutubers.com
 myyoutubeshop.com
+nab.com.au-66c28750.national-australia-bank-179602f4.3inatree.com.au
 nab.netbank-security.com
 nab.personal.banking.user-auth.com
 nabdefence-au-securesession-accountrestore.login9-secure.com
@@ -9892,6 +9905,7 @@ outlook-users.com
 outlook-verify.com
 outlook-verify.net
 outlook-webapp.com
+outlook-webowa.weebly.com
 outlook-webportalforstaffand-student.ukit.me
 outlook.bet
 outlook.ink
@@ -10328,6 +10342,7 @@ paypal.co.uk.userkuou4p3227b.appzorespp.com
 paypal.co.uk.usermccsnc7dyot.appzorespp.com
 paypal.co.uk.userqnyx2yfohhr.appzorespp.com
 paypal.co.uk.uzez-9593450514.newpp.prietsporzpp.com
+paypal.co.uk.w0zz.pw
 paypal.co.uk.xtq7.pw
 paypal.co.uk.y2bt.pw
 paypal.co.uk.yxrkt.2b7q8.bukafa.com
@@ -10929,6 +10944,7 @@ postesecurelogin-posta-it-bancaposta-afccauthentication.dynamic-dns.net
 postesecurelogin-posta-it-bancaposta-fccauthenticationc.dynamic-dns.net
 postesicure.cloud
 posttu.pagecloud.com
+pousadaamazonia.com.br
 pousadasitiosossego.com.br
 power-bank.in
 poweredandroid.com
@@ -11135,6 +11151,7 @@ refuse-paypal.com
 register-akun-facebook-com9.webnode.com
 register-facebook-com.webnode.com
 register-facebook-com3.webnode.com
+registerfacebook77.wixsite.com
 registrodeapple-numbre43217.com
 regulatepaypal.com
 regulosantander.com
@@ -11898,6 +11915,7 @@ signin-icloud-apple.com
 signin-icloudsupport.com
 signin-paypal.com
 signin-policyupdates-apps.net
+signin-suspicious-activity-review-paypal.case-numb981827-2992.com
 signin-update.front.ru
 signin-updateresolutionlimite-agreement.com
 signin-verifing-appleid.com
@@ -12021,7 +12039,6 @@ spanishs-appleid.com
 sparbankenonlineaccount.com
 sparrowstudios.net
 spasibo-sberbank.info
-spasibosberbank.online
 spayneuter.ontariospca.ca
 spectrocoinpay.com
 spectrocoinsup.com
@@ -12994,6 +13011,7 @@ web-danskebank-hnoywv.casulodigital.com
 web-danskebank-zcvtvo.casulodigital.com
 web-flash-ad.com
 web-mail-admin.yolasite.com
+web-mail.account-rewe020.tripod.com
 web-mail.account-rewe1087.tripod.com
 web-maill.godaddysites.com
 web-santander-mobi.com
@@ -14630,6 +14648,7 @@ www.apple-yqlz.com
 www.apple-zh.com
 www.apple-zv3.com
 www.apple.cat
+www.apple.com-infosubt-accountpayment.com
 www.apple.com.filikz.com
 www.apple.com.fmi-find.info
 www.apple.com.itunes.update-your-account-information-proceed-now-to-first-step.blueiceent.com
@@ -16871,6 +16890,7 @@ www.clickoffice.com.mx
 www.client-applestore.com
 www.client-center-account-update-service.a1049rfjewigfe4w9grigrj.half-dress.net
 www.client-netflixpayment.com
+www.clienteoffice.ga
 www.clientesantanderdesbloqueia.com
 www.clients-appleld.info
 www.clients.online.secure.icloud.apple.bills.pvjao.listbuilderbuzz.com
@@ -16938,7 +16958,6 @@ www.coinzzz.pro
 www.colegiosanfranciscodeasis.cl
 www.colegiosansebastiandelaflorida.cl
 www.colegiosantadorotea.edu.co
-www.colegiosantajoaquina.webescuela.cl
 www.collabogramsadobe.com
 www.com-apple.care
 www.com-apple.cloud
@@ -17027,6 +17046,7 @@ www.cosmoffice.ru
 www.costamedios.com
 www.costumerappleid.repair
 www.couponsoutlook.com
+www.courrierwebmail1.ze.tc
 www.cpaypalonline.com
 www.cpmverify.com
 www.cq-iphone.com
@@ -18098,6 +18118,7 @@ www.helpsupportnetflix.com
 www.helpwithpaypal.com
 www.hemppaypal.com
 www.herbal-amazon.com
+www.herniamahayanisthydrophone.com
 www.herrsmachine.com
 www.hey-apple.ru
 www.hf-apple.com
@@ -18812,6 +18833,7 @@ www.icloud-accountlocked.com
 www.icloud-apple-appleid.com
 www.icloud-apple-i.com
 www.icloud-apple-id-110.com
+www.icloud-apple-id-security-information-restore-onlineprocedure.cdel.cl
 www.icloud-apple-id-security-information-restore-onlineprocess.steroidfiyatlari.com
 www.icloud-apple-info.com
 www.icloud-apple-information.com
@@ -20566,6 +20588,7 @@ www.mywhatsappimages.com
 www.myworkspacebarclays.com
 www.myyoutubers.com
 www.myyoutubeshop.com
+www.nab.com.au-66c28750.national-australia-bank-179602f4.3inatree.com.au
 www.nab.netbank-security.com
 www.nabdefence-au-securesession-accountrestore.login9-secure.com
 www.nablogin-com.com
@@ -21265,6 +21288,7 @@ www.outlook-technical-help.com
 www.outlook-users.com
 www.outlook-verify.net
 www.outlook-webapp.com
+www.outlook-webowa.weebly.com
 www.outlook.bet
 www.outlook.ink
 www.outlook.live.com.t-v2.link
@@ -22047,6 +22071,7 @@ www.portalsantander.net
 www.post-epay.cloud
 www.postbank.de.kundenkonto-postbank-6756370708-postbank.ru
 www.poste-mobile-apk-login21.otzo.com
+www.pousadaamazonia.com.br
 www.pousadasitiosossego.com.br
 www.power-bank.in
 www.poweredandroid.com
@@ -22221,6 +22246,7 @@ www.refuse-paypal.com
 www.register-akun-facebook-com9.webnode.com
 www.register-facebook-com.webnode.com
 www.register-facebook-com3.webnode.com
+www.registerfacebook77.wixsite.com
 www.regulatepaypal.com
 www.regulosantander.com
 www.reinvent-apple.com
@@ -22902,7 +22928,6 @@ www.soyoutube.com
 www.spaamazonia.pt
 www.sparrowstudios.net
 www.spasibo-sberbank.info
-www.spasibosberbank.online
 www.spectrocoin.co.com
 www.sportwetten-paypal.net
 www.spotifitunes.com
@@ -23591,6 +23616,7 @@ www.wdg2appleconnect.com
 www.web-applehelp.com
 www.web-flash-ad.com
 www.web-mail-admin.yolasite.com
+www.web-mail.account-rewe020.tripod.com
 www.web-mail.account-rewe1087.tripod.com
 www.web-santander-mobi.com
 www.webapp-outlook.com
@@ -24552,6 +24578,7 @@ ziraaat-ebankasi.com
 ziraatbank-i.com
 ziraatbank-mobil-kampanya.com
 ziraatbankasi-giris.com
+ziraatbankasi-kartaidati-tr.com
 ziraattbank-e.com
 ziraaturkiyebankasi.com
 znetflix.com
@@ -24616,6 +24643,7 @@ zoopornhub.com
 247microsoft-support.net
 247quickbookscloud.com
 24apple.biz
+24x7gmailsupport.com
 24x7microsoft-customercare.com
 27903adobe.com
 27youtube.com
@@ -25308,6 +25336,9 @@ appleder.xyz
 appledeviicesupport.bid
 appledreams-itunes.info
 appleerror.com
+appleerrorsupport.xyz
+appleerrorsupport1.xyz
+appleerrorsupportappleerrorsupportappleerrorsupport.space
 appleesupport.bid
 applefashionwear.com
 applefirewallsecurityinternalsoftwaretrozenalertwarningcode14.xyz
@@ -25341,6 +25372,8 @@ appleinternalsecuritysystemsoftwareharmalertapplecodex11x21.xyz
 appleinternalsecuritysystemsoftwareharmalertcodex22x24.xyz
 appleinternalsoftwaresecureharmsecuritysystemalertcodex0225.xyz
 appleinternalsoftwaresecuresystemsecuritymacharmcodealertx00.xyz
+appleiosalertrisk.xyz
+appleiosalertrisks.xyz
 appleioscrashedd.xyz
 appleiosdamage.xyz
 appleiosdamege.xyz
@@ -25382,8 +25415,11 @@ applephonesupport.com
 applepromostores.com
 appleremotesupport.com
 applesafarihelplinetollfreenumber.weebly.com
+applesecuresystemvirussecurityerrorwarningreportalert00x4code.xyz
+applesecuresystemwarningmacsecurityvirusalertreport0945code.xyz
 applesecureusa.xyz
 applesecurewarningsecurityalertcode07x9017report.xyz
+applesecurewarningsecuritysystemcloudvirusreportalertcode0x3x.xyz
 applesecuritycrash.xyz
 applesecurityfirewallinternalsoftwaretrozenwarningcode8514.xyz
 applesecurityfirewallserverinternalcloudtrozenwaringalertcode.xyz
@@ -25419,6 +25455,7 @@ applesupportnumbe.blogspot.com
 applesupports.co.uk
 applesupports.site
 applesupportuk.co.uk
+applesupportwarning.xyz
 applesupportz.xyz
 applesuppport.bid
 applesystemappleinternsoftwaresecurealalertcloudecode0791.xyz
@@ -25426,10 +25463,13 @@ applesystemharmcloudinternalsecuresoftwaremacalertcode2786.xyz
 applesystemharmsecuresinternaloftwarealertmaccode9875.xyz
 applesystemharmsecuresinternaloftwarecloudalertcode0244x54.xyz
 applesysteminternasecuritysoftwareltrozenalertcodexay0736.xyz
+applesystemsecuretrozansecuritywarningerroralertreportx05code.xyz
 applesystemsoftwareharminternaltrozenmacsecuritywarningalert.xyz
 applesystemsoftwareinternalsecurecloudealertcode025x85.xyz
 applesystemviruswaralertreportmacsecurityerrorcode09x0784.xyz
 applesystemviruswaringalertreportcloudsecurityerrorcode021x78.xyz
+applesystemwarningsecuresecurityvirusmacreportalertcode93xo78.xyz
+applesystemwarningsecurityvirussecurecloudreportalert2789code.xyz
 appletechhelp.xyz
 appletechnicalsupportnumber.gomilio.com
 appletechnicalsupportnumber.strikingly.com
@@ -25905,6 +25945,7 @@ browser-update.info
 browser-update.online
 browsersupportphonenumber.com
 browsersupportphonenumbers.com
+bsupportapple.bid
 bt-email-support.com
 btccoin.biz
 btccrypto.win
@@ -26032,11 +26073,13 @@ buyyoutubeviewslive.com
 buyyoutubeviewss.com
 byinstagram.ru
 c-bitcoin.com
+c-mac0apple.bid
 c-macdonald.com
 ca-login.net
 call-karjaldi-ios-ios-priority-number-ios-crashed.xyz
 call-microsoft-support-1-866-316-7737.we-care.website
 call-tollfree-microsoft-support-line.xyz
+call4iossupportteam6.top
 callapplegator.com
 callphonesupport.com
 calltollfreeapplesupport.com
@@ -26114,6 +26157,8 @@ check-spotify.com
 check-verify-acces.com
 check-verify.com
 check-verifyaccess.com
+check-your-computer-updates-now.club
+check-your-computer-updates-now1.club
 checkandverify.com
 checkpoint-login.com
 chefpornhub.com
@@ -26321,6 +26366,11 @@ cloudmining-discount-code.com
 cloudnetwork.support
 cloudonlinesupport.com
 cloudrive-tech.com
+cloudsecuresystemvirussecurityerrorwarningreportalertcode0x1x.xyz
+cloudsecuresystemvirussecuritywarningapplereportalertcodex0xx.xyz
+cloudsecuresystemvirussecuritywarningmacreportalertcode011x.xyz
+cloudsecuresystemwarningsecurityvirusmacreportalertcodexozz78.xyz
+cloudsecurewarningsecuritysystemapplevirusreportalertcodex9x0.xyz
 cloudsecurity.support
 cloudsecurityinternalsecuresoftwaremacharmsystemalertcode7872.xyz
 cloudsecuritysoftwareinternalsecureharmmacsystemalertcode.xyz
@@ -26347,12 +26397,17 @@ cloudsupportit.com
 cloudsupportonline.com
 cloudsupportteam.com
 cloudsysteminternasecuritysoftwareltrozenalertcode07x36.xyz
+cloudsystemsecuretrozansecuritywarningerroralertreportcodex08.xyz
+cloudsystemsecureviruswarningsecurityreportalertcode092x176.xyz
 cloudsystemsecurityviruserrorwarningmacalertreportcode090x12.xyz
 cloudsystemsecuritywarningalertmacviruserrorreportcode043x003.xyz
 cloudsystemsoftwareinternalharmtrozensecuritywarningcode736.xyz
 cloudsystemsoftwareinternaltrozenharmsecuritywarningcode025.xyz
 cloudsystemviruswaralertreportsecurityappleerrorcode0984x07.xyz
 cloudsystemviruswaringalertmacsecurityreporterrorcode02x781.xyz
+cloudsystemwarningsecurityapplesecurevirusreportalert0x0ocode.xyz
+cloudsystemwarningsecuritysecurevirusmacalertreportcode07x65.xyz
+cloudsystemwarningsecurityvirusmacsecurereportalertcode09xo1.xyz
 cloudtech-services.com
 cloudustech.com
 cloudvirusscan.com
@@ -26421,6 +26476,7 @@ coinbitt.com
 coinbuilder.io
 coincapital.ltd
 coincloud.pro
+coinconsultllc.info
 coindual.com
 coinewallet.com
 coinexis.com
@@ -26883,6 +26939,7 @@ d296jmfgjkrgza.cloudfront.net
 d29yytrwe93h58.cloudfront.net
 d2buhuzedcdtih.cloudfront.net
 d2jqgpb9om13py.cloudfront.net
+d2kmdwkc1pj2ov.cloudfront.net
 d2yq7tcyt6hrtd.cloudfront.net
 d31buyudpi265s.cloudfront.net
 d35q34hvwi4hiq.cloudfront.net
@@ -28020,6 +28077,7 @@ garmin-update.online
 garmin-updates.com
 garminmap-updates.com
 garminmapupdates.joomla.com
+garminnuviupdates.com
 gatheringallusefullsoftsforyour-machine.stream
 gatheringallusefullsoftsforyour-machinenow.stream
 gatheringallusefullsoftsforyour-machinethismonth.date
@@ -28568,6 +28626,7 @@ googleplayhelpnumber.wordpress.com
 googleredirectvirusnow.net
 googlerror.com
 googlesites.support
+googlesupport.co
 googlesupport.online
 googlesupportphonenumber.com
 googlesupportphonenumberaustralia.page.tl
@@ -29426,6 +29485,7 @@ iosalert.info
 iosalert.site
 iosalertjavacodemissinginstall4008.xyz
 iosapplecare.xyz
+iosapppro.usa.cc
 iosappverify.com
 iosconfig-required-asapcontactsupport.xyz
 ioscrashalert.xyz
@@ -29451,6 +29511,11 @@ iossecurityalert.com
 iossss.com
 iossupportus.online
 iosupport.online
+iosuser1.usa.cc
+iosuser2.usa.cc
+iosuser4.usa.cc
+iosuser5.usa.cc
+iosuser6.usa.cc
 ioswarning.info
 iphone-5s.dkn-group.ru
 iphone-7apple.com
@@ -29986,6 +30051,8 @@ maccare.site
 maccare.today
 maccare.world
 maccloudesystemsecurityalertviruswarningcode07x7190.xyz
+maccloudsystemwarningsecurityvirussecurereportalertcode0xo91.xyz
+macerror.xyz
 macexpertssupport.website
 macfey-app.win
 macfey-application.win
@@ -30040,6 +30107,7 @@ macrosoft-virusalert.club
 macrosupportsystem51.club
 macrosupportsystem61.club
 macrosupportsystem71.club
+macsecuresystemwarningsecurityapplevirusreportalertcode09x23x.xyz
 macsecurityalerts.com
 macsecurityfirewallserverinternalcloudtrozenwarningalertcode.xyz
 macsecurityinternalsecuresoftwareharmapplesystemalertcodex205.xyz
@@ -30070,6 +30138,7 @@ macsupportusa.blogspot.com
 macsystemsoftwareharminternaltrozensecuritywarningcode354.xyz
 macsystemvirussecuritywaringclouderrorreport00147x0codealert.xyz
 macsystemviruswaringcloudsecurityreporterrorcode0147x00alert.xyz
+macsystemwarningsecuritycloudsecurevirusreportalertcodexo122.xyz
 mactech-subsupport.info
 mactechnicalsupportnumber.com
 mactechnicalsupportnumbers.blogspot.com
@@ -30475,6 +30544,7 @@ microsoft-cloud.com
 microsoft-cn.com
 microsoft-code-support.xyz
 microsoft-computer-error.com
+microsoft-contact-number.co.uk
 microsoft-copyright.com
 microsoft-corp.uk
 microsoft-corporate.com
@@ -30739,6 +30809,7 @@ microsoft0x8024f051aus.cf
 microsoft0x8024f051aus.ga
 microsoft0x8024f051aus.gq
 microsoft0x8024f051aus.ml
+microsoft0x8024f054aus.tk
 microsoft0x80257fffaus.cf
 microsoft10.com
 microsoft101helponline.co.in
@@ -33897,6 +33968,7 @@ supportfor-mail.com
 supportforbtemail.com
 supportforgmail.com
 supportforhotmail.com
+supportforiphone-tr.com
 supportformicrosoft.blogspot.com
 supportformicrosoft.online
 supportforoutlookblog.wordpress.com
@@ -42418,6 +42490,7 @@ www.pc-mac-pro.com
 www.pc-mac-servicecenter.com
 www.pc-officecbp.com
 www.pc-playstation.ru
+www.pc.error56700007252ausmsauthcombof2709.com.s3-website.us-east-2.amazonaws.com
 www.pc.error6966996170ausmsauthcombof1086.com.s3-website.eu-central-1.amazonaws.com
 www.pccloudsupport.net
 www.pcsupport.cloud
@@ -46570,6 +46643,7 @@ zsci9eqbsnzscio9account-verify.info
 6hurtyephone.tk
 6uiruphone.tk
 7844831278213233708-a-1802744773732722657-s-sites.googlegroups.com
+7bb3e96a.login3.kimbrelelectric.com
 7jirtele77phone.tk
 7jiryutelephone.tk
 89tube.com
@@ -46604,6 +46678,7 @@ adobe.flash-player.software
 adobe.pt.tf
 adobe.vip
 adobe2009.kit.net
+adobedc.cf
 adobeflash-ver021.xe.cx
 adobeflashplayer.slyip.com
 adobepdf.googlecode.com
@@ -46716,6 +46791,7 @@ applegaterecovery.com
 applekonnect.com
 appleloans.com
 applelovers-international.duckdns.org
+applemac.live
 applemacinternalstoragecode07securewaringalert.xyz
 applemacinternalstoragecode09securewaringalert.xyz
 applemaster.net
@@ -46729,6 +46805,7 @@ applesoftwareinternalcloudesecurecode097waringalert.xyz
 applesoftwareinternalstoragecode097securewaringalert.xyz
 applesoftwareinternalstoragemaccode07securewaringalert.xyz
 appletec.ru
+appletech.live
 appletechnews.com
 appletotal.tk
 appletraffics.online
@@ -46775,6 +46852,7 @@ autoupdatenoreply61893124792830indexphi.mississauga-junkcar.com
 av.bitdefenderesupdate.ru
 availableupdate.com
 avast-mail-security.download
+avvmail.com
 away.bitcoinfastpass.com
 awesomeporn.com
 azon.phonex.tk
@@ -46834,6 +46912,7 @@ bitcoin.auto
 bitcoin3vpn.no-ip.biz
 bitcoinbonanza.ca
 bitcoinclaims.com
+bitcoiners.trade
 bitcoinminermachines.com
 bitcoinportal.info
 bitcoinsdouble.com
@@ -46913,6 +46992,7 @@ cdn.neoupdates.com
 cdnverify.net
 celebratebanking.com
 celebstube.stoporn.net
+cellphonedl.com
 center.iphoneporn.info
 central.paypopup.com
 central2.paypopup.com
@@ -47313,6 +47393,7 @@ filestube.com
 filestubedownloader.com
 findology.mail.everyone.net
 findpornstar.com
+firefox-addons.com
 firefox.msdwnld.com
 firefox7.msdwnld.com
 firefox8.msdwnld.com
@@ -47431,6 +47512,7 @@ gayfreeporn.just404.com
 gaymenporn.just404.com
 gayporn.just404.com
 gaypornclips.just404.com
+gaypornorgy.com
 gaypornstars.just404.com
 gayteenporn.just404.com
 geliontube.tk
@@ -47524,6 +47606,7 @@ halifax89.no-ip.biz
 hamsterporn.tv
 handy-porn.com
 hardmaturetube.com
+hastecloud.com
 heathrowestudios.com
 hekate.porntrack.com
 helpmpaypalkomexico.co
@@ -47610,6 +47693,7 @@ ios.0pengl.com
 ios.apps-connects.com
 iphone-ipad-ipod.com
 iphone.androiddatacenter.com
+iphone.berintuzlic.ba
 iphone.hellospy.com
 iphone2019.livejournal.com
 iphonecheats.tk
@@ -47770,6 +47854,7 @@ macaddictads.snv.futurenet.nl
 macafe.com
 macan.mo
 macan.pk
+macapple.live
 macartegrise.eu
 macbackupcloud.com
 maccleanpro.com
@@ -47965,6 +48050,7 @@ mail.chairmangao.com
 mail.champiedouglas.com
 mail.chrislockandkey.com
 mail.christophercanterbury.com
+mail.cicto.net
 mail.circlemakers.us
 mail.clickforlessons.com
 mail.cocegypt.co
@@ -48062,6 +48148,7 @@ mail.idtrustservice.com
 mail.illusions.biz
 mail.incorporationjapan.com
 mail.innercityjazz.org
+mail.intersport.biz.ua
 mail.intikinanpratama.com
 mail.invitespace.com
 mail.ipanemaswimwear.com
@@ -48159,6 +48246,7 @@ mail.prettytreat.com
 mail.printcashmoney.com
 mail.profilium.net
 mail.projectorangelabel.com
+mail.radargps.ir
 mail.rahimjivraj.org
 mail.randomwalkabout.com
 mail.ratemycolleges.org
@@ -48230,6 +48318,7 @@ mail.thomasluke.com
 mail.transmisiones.pe
 mail.transparity.org
 mail.travelexpressegypt.com
+mail.trendratio.com
 mail.triangle.biz
 mail.trienvy.com
 mail.twitterplayschess.com
@@ -50336,6 +50425,7 @@ wertios.com
 werycloud.website
 whataporn.com
 whatsapp1.info
+whatsappacente.com
 whatsappcallinginvites.appspot.com
 whatsappfreecalling.github.io
 whatsapphd.com
@@ -50393,6 +50483,7 @@ www.365officeonline.club
 www.3dsifacebooks.tk
 www.4chan-tube.on.nimp.org
 www.69pornoplace.com
+www.7bb3e96a.login3.kimbrelelectric.com
 www.7jiryutelephone.tk
 www.89tube.com
 www.9.eenbaszgrandiose.download
@@ -50413,6 +50504,7 @@ www.adobe-upd.download
 www.adobe.pt.tf
 www.adobe.vip
 www.adobe2009.kit.net
+www.adobedc.cf
 www.adobeflashplayer.slyip.com
 www.adobereader.com.es
 www.adobeupgradeflash.com
@@ -50478,6 +50570,7 @@ www.apple-identifiant.com
 www.apple-onlinesupport.com
 www.apple-securities-support.win
 www.apple-shop.tech
+www.apple-support-fix-issue.info
 www.apple-supportnumber.com
 www.apple-works.ru
 www.apple.321oyna.com
@@ -50498,6 +50591,7 @@ www.applekonnect.com
 www.appleloans.com
 www.applelounge.com
 www.applelovers-international.duckdns.org
+www.applemac.live
 www.applemacinternalstoragecode07securewaringalert.xyz
 www.applemacinternalstoragecode09securewaringalert.xyz
 www.applemaster.net
@@ -50511,6 +50605,7 @@ www.applesoftwareinternalcloudesecurecode097waringalert.xyz
 www.applesoftwareinternalstoragecode097securewaringalert.xyz
 www.applesoftwareinternalstoragemaccode07securewaringalert.xyz
 www.appletec.ru
+www.appletech.live
 www.appletechnews.com
 www.appletotal.tk
 www.appletreeinn.net
@@ -50549,6 +50644,7 @@ www.autoupdatenoreply61893124792830indexphi.mississauga-junkcar.com
 www.av.bitdefenderesupdate.ru
 www.availableupdate.com
 www.avast-mail-security.download
+www.avvmail.com
 www.awesomeporn.com
 www.azon.phonex.tk
 www.babesbank.com
@@ -50604,6 +50700,7 @@ www.biosphereinn.review
 www.bitcoin-mining.biz
 www.bitcoin.auto
 www.bitcoinclaims.com
+www.bitcoiners.trade
 www.bitcoinminermachines.com
 www.bitcoinportal.info
 www.bitcointraf.com
@@ -50669,6 +50766,7 @@ www.cauldwellbanker.com
 www.cdn.cloudwm.com
 www.cdnverify.net
 www.celebstube.stoporn.net
+www.cellphonedl.com
 www.cf-mail.com
 www.cfrtghyert.s3-website-us-west-2.amazonaws.com
 www.chamber.mailsecuritysxyz.ru
@@ -50931,6 +51029,7 @@ www.filegoogle.com
 www.filestube.com
 www.filestubedownloader.com
 www.findology.mail.everyone.net
+www.firefox-addons.com
 www.firefox-tips.com
 www.firemicrosoft.net
 www.firephonesex.com
@@ -51009,6 +51108,7 @@ www.gamer.blackapplehost.com
 www.games-play-shop.s3-website-us-west-2.amazonaws.com
 www.gammacash.com
 www.gardtec.linuxdemo.wwhnetwork.net
+www.gaypornorgy.com
 www.geliontube.tk
 www.gelios.msk.ru
 www.gentlemanbanker.net
@@ -51076,6 +51176,7 @@ www.hairyfuckporn.com
 www.hamsterporn.tv
 www.handy-porn.com
 www.hardmaturetube.com
+www.hastecloud.com
 www.helpmpaypalkomexico.co
 www.hethjarrh.s3-website-us-west-2.amazonaws.com
 www.hgoogle.com
@@ -51130,6 +51231,7 @@ www.intohisstomach.tk
 www.intuit.securityupdateserver-1.com
 www.ionios-sa.gr
 www.ioscrashalertz.com
+www.iphone.berintuzlic.ba
 www.iphone2019.livejournal.com
 www.iphonecheats.tk
 www.iphonecodes.tk
@@ -51232,6 +51334,7 @@ www.mac.eltima.com
 www.macafe.com
 www.macan.mo
 www.macan.pk
+www.macapple.live
 www.macartegrise.eu
 www.macbackupcloud.com
 www.maccleanpro.com
@@ -51293,6 +51396,7 @@ www.mail-login.net
 www.mail.ak-network.commerce.com
 www.mail.goggle.com
 www.mail.ipv6.la
+www.mail.radargps.ir
 www.mailacounts.com
 www.mailboxesofkent.com
 www.mailcenter.support
@@ -52845,6 +52949,7 @@ www.wertios.com
 www.werycloud.website
 www.whataporn.com
 www.whatsapp1.info
+www.whatsappacente.com
 www.whatsappcallinginvites.appspot.com
 www.whatsappforpcss.com
 www.whatsappmarketing.com.co

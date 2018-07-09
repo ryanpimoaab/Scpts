@@ -920,6 +920,7 @@ mobimagic.com
 turner.com
 images-*.ssl-images-amazon.com
 baidu.com
+dastelefonbuch.de
 m.txxx.com
 wasabisyrup.com
 filecast.co.kr

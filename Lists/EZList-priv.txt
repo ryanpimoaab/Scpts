@@ -1390,6 +1390,7 @@ newstatscounter.info
 nexeps.com
 nextstat.com
 ngmco.net
+nicequest.com
 nicewii.com
 niftymaps.com
 nik.io
@@ -2007,6 +2008,7 @@ theadex.com
 theagency.com
 thebestlinks.com
 thebrighttag.com
+thecounter.com
 thefreehitcounter.com
 thehairofcaptainpicard.com
 thermstats.com
