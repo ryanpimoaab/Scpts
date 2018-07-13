@@ -23323,6 +23323,7 @@ chip.pl.intellitxt.com
 chippingswbhhaxf.download
 choice.demdex.net
 choice.microsoft.com
+choices.trustarc.com
 choices.truste.com
 chokoladsrv.net
 chope-co.b.appier.net
@@ -45740,4 +45741,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45745
+# hosts: 45746

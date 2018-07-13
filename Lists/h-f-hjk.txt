@@ -69,6 +69,7 @@ knowyoush.mobi
 laxatively.stream
 ldkiekxc.rr.nu
 liflingren.info
+lingoeten.stream
 lycos.com.org
 maxis5018.space
 meetyourmessenger.co.uk
@@ -110,6 +111,7 @@ serch-direct.com
 server4.beginanywhere.info
 server4.convertsrvr.com
 server4.economyinsights.info
+server4.inagentleway.info
 server4.justthinkdifferent.info
 server4.maderearth.info
 server4.maketodayamazing.info
@@ -139,6 +141,7 @@ uploadcheckerext.com
 uploadercheckerext.com
 uploadertoolext.com
 uptoolext.com
+us.baylnk.com
 webdefenderext.com
 webdesignmissionviejo.com
 windows.microsoft.com.msf-help.info
@@ -213,4 +216,4 @@ www4search.net
 xml.rxfclk3.com
 youngteenporn.proboards89.com
 zincify.stream
-# hosts: 215
+# hosts: 218
