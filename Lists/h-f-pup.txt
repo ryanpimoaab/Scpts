@@ -6256,6 +6256,7 @@ newliveupdate.thebigandsafer4updates.win
 newliveupdate.thebigandsafer4updating.bid
 newliveupdate.thebigandsafer4updating.download
 newliveupdate.thebigandsafer4updating.win
+newpromext.cool
 newsforyou.thewhizmarket.co
 newsoft12.yourbigandgoodfreeupgradingnew.date
 newsoft24.bestsources-4yourtrafficonanyoperatingsystemtoday.review
@@ -15939,6 +15940,7 @@ www.neunynvremarry.download
 www.newandfreshway2discover.download
 www.newandfreshway4conversaon.bid
 www.newandfreshway4conversaon.stream
+www.newpromext.cool
 www.newsforyou.thewhizmarket.co
 www.newstabext.xyz
 www.newtab-media.com
@@ -21339,4 +21341,4 @@ zymosiszfkmthosm.download
 zzcihevvdigesting.download
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 21344
+# hosts: 21346
