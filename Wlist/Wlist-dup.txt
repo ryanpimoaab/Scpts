@@ -541,3 +541,4 @@ gsp1.apple.com
 www.apple.com
 www.appleiphonecell.com
 api.coinbase.com
+assets.coinbase.com
