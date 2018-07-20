@@ -180,7 +180,6 @@ address=/mymacupgrade.download/192.168.1.79
 address=/new-free-offer.in/192.168.1.79
 address=/nexage.com/192.168.1.79
 address=/nikopik.com/192.168.1.79
-address=/nsimg.net/192.168.1.79
 address=/nuancemobility.net/192.168.1.79
 address=/o5o4o6.com/192.168.1.79
 address=/oceanbys.com/192.168.1.79

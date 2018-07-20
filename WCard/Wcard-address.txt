@@ -180,7 +180,6 @@ address=/mymacupgrade.download
 address=/new-free-offer.in
 address=/nexage.com
 address=/nikopik.com
-address=/nsimg.net
 address=/nuancemobility.net
 address=/o5o4o6.com
 address=/oceanbys.com

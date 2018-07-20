@@ -918,6 +918,7 @@ smart.tinyhoneybee.com
 tb.beeline.ru
 youtube.com
 mobimagic.com
+s.yimg.com
 turner.com
 images-*.ssl-images-amazon.com
 baidu.com
