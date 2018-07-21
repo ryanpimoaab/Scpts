@@ -34727,6 +34727,7 @@ sabin.free.fr
 sact.atdmt.com
 sad1.adriver.ru
 sadv.dadapro.com
+safarids.com
 safe.net-az83.stream
 safelinking.net
 safelinktracker.com
@@ -45741,4 +45742,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45746
+# hosts: 45747
