@@ -80,6 +80,7 @@ meetyourmessenger.co.uk
 mega-track.info
 megatons.stream
 microsoft.com.org
+monestrous.stream
 naked.com
 notice-85xi5.stream
 olaolorun111.wm01.to
@@ -147,6 +148,8 @@ uploadercheckerext.com
 uploadertoolext.com
 uptoolext.com
 us.baylnk.com
+vinwall21.info
+vistamatch39.club
 webdefenderext.com
 webdesignmissionviejo.com
 windows.microsoft.com.msf-help.info
@@ -222,4 +225,4 @@ xml.rxfclk3.com
 youngteenporn.proboards89.com
 zanthoxylum.stream
 zincify.stream
-# hosts: 224
+# hosts: 227

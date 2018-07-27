@@ -87,6 +87,7 @@ cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
 cse.google.com
 ctldl.windowsupdate.com
+customerevents.netflix.com
 d2c8v52ll5s99u.cloudfront.net
 dashboard.plex.tv
 dataplicity.com
@@ -206,6 +207,7 @@ no-ip.com
 node.plexapp.com
 noip.com
 notify.xboxlive.com
+nrdp.nccp.netflix.com
 ns1.dropbox.com
 ns2.dropbox.com
 o1.email.plex.tv
@@ -414,6 +416,7 @@ www.cpms35.spop10.ams.plex.bz
 www.creative.ak.fbcdn.net
 www.cse.google.com
 www.ctldl.windowsupdate.com
+www.customerevents.netflix.com
 www.d2c8v52ll5s99u.cloudfront.net
 www.dashboard.plex.tv
 www.dataplicity.com
@@ -533,6 +536,7 @@ www.no-ip.com
 www.node.plexapp.com
 www.noip.com
 www.notify.xboxlive.com
+www.nrdp.nccp.netflix.com
 www.ns1.dropbox.com
 www.ns2.dropbox.com
 www.o1.email.plex.tv

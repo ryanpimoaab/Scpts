@@ -23808,7 +23808,6 @@ oolbelt.treasuredata.com
 ool.cnzz.com
 ools.3g.qq.com
 ools.ensighten.com
-ools.google.com
 pc.googlesyndication.com
 ools.kissmetrics.com
 ools.mgid.com
@@ -27288,7 +27287,6 @@ zenga.zapr.in
 zenimaxmedia.d1.sc.omtrdc.net
 zenna.go2affise.com
 zenovia-match.dotomi.com
-zephir.monocul.us
 zephyr-digital-d.openx.net
 zer0day.000webhostapp.com
 zerohedge.hostedcart.buysellads.com
@@ -33376,3 +33374,13 @@ analytics.eip.telegraph.co.uk
 17428.engine.mobileapptracking.com
 2z3.vawdcurticate.review
 sstats.adobe.com
+analytics.archive.org
+analytics-production.hapyak.com
+analytics.247sports.com
+analytics.bitrix.info
+analytics.htmedia.in
+analytics.icons8.com
+analytics.myfinance.com
+analytics.samdd.me
+analytics.swiggy.com
+ad.wynk.in

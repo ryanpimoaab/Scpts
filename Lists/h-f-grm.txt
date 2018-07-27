@@ -49,6 +49,8 @@ charmingevents.co.uk
 chunrikurta.com
 cme.csam-asam.org
 colodetoxfrance.com
+comparitech.net
+comparitechteam.org
 consumerreward.net
 cottoncotton.co.uk
 couponcodesforamazon.com
@@ -80,7 +82,6 @@ expert5th.in
 expertsoftit.com
 f-uefa.ru
 f8915mq7odc8k5c0cm0kx9s00s.hop.clickbank.net
-fallowme.co.in
 fbmarketingautomation.com
 femdom.adultnet.in
 feng.bu.edu.eg
@@ -124,7 +125,6 @@ jasonsquirestraining.com
 joinamericansforanewdirection.co
 jsquiresonline.samcart.com
 juste-pour-un-soir.com
-justgiving.com
 kaluga-poisk.ru
 kfs.edu.eg
 lamoda.ua
@@ -150,7 +150,6 @@ mayki.tovarsoskidkoy.ru
 medallionenergy.com
 mediaads.eu
 meetdress.net
-meetyourdatemate.com
 menshybridbikes.com
 mes-montres.com
 mfortune.co.uk
@@ -322,6 +321,8 @@ www.cab-airport.pl
 www.charmingevents.co.uk
 www.chunrikurta.com
 www.colodetoxfrance.com
+www.comparitech.net
+www.comparitechteam.org
 www.consumerreward.net
 www.cottoncotton.co.uk
 www.couponcodesforamazon.com
@@ -352,7 +353,6 @@ www.examspro.com
 www.expert5th.in
 www.expertsoftit.com
 www.f-uefa.ru
-www.fallowme.co.in
 www.fbmarketingautomation.com
 www.femdom.adultnet.in
 www.feng.bu.edu.eg
@@ -388,7 +388,6 @@ www.jasonsquiressm.com
 www.jasonsquirestraining.com
 www.joinamericansforanewdirection.co
 www.juste-pour-un-soir.com
-www.justgiving.com
 www.kaluga-poisk.ru
 www.kfs.edu.eg
 www.lamoda.ua
@@ -526,4 +525,4 @@ yesoptusbusinesscentre.com.au
 youzend.net
 zaimer.kz
 zaymer.ru
-# hosts: 528
+# hosts: 527
