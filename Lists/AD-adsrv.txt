@@ -225,7 +225,6 @@
 11872.engine.mobileapptracking.com
 118-som-724.mktoresp.com
 11916.engine.mobileapptracking.com
-119.29.196.104.bc.googleusercontent.com
 11b563cb1.webengage.co
 11b564088.webengage.co
 11b564193.webengage.co
@@ -549,7 +548,6 @@
 174982.engine.mobileapptracking.com
 175038.tlnk.io
 175062.engine.mobileapptracking.com
-175.220.196.104.bc.googleusercontent.com
 17560.engine.mobileapptracking.com
 175786.measurementapi.com
 176090.engine.mobileapptracking.com
@@ -13805,7 +13803,6 @@ inplay-rcv06.tubemogul.com
 inplay-rcv12.tubemogul.com
 inplay.tubemogul.com
 inputs.alooma.com
-inputtools.google.com
 inquisitr.media.net
 inread-experience.teads.tv
 ins10.hotjar.com
@@ -24011,9 +24008,6 @@ ransasien.de.intellitxt.com
 ranscodedmedia.mobivite.net
 ranscripts.touchcommerce.com
 rans.hiido.com
-ranslate.googleapis.comtrk.vidible.tv
-ranslate.google.comtranslate.googleapis.comtrk.vidible.tv
-ranslate.google.comtrk.vidible.tv
 rantor.permutive.com
 ra.rnznavoweriber.bid
 ravel24de.widget.criteo.com
@@ -33384,3 +33378,10 @@ analytics.myfinance.com
 analytics.samdd.me
 analytics.swiggy.com
 ad.wynk.in
+3d435cd34347e255ef1536bfbd72413c.api.appsee.com
+engine.addroplet.com
+dsp.batmobi.net
+engine.special-offers.online
+appsad-phone-mobile-techie.win
+appsadphonemobiletechie.win
+appsadphonetopapp.win

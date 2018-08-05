@@ -23745,6 +23745,7 @@ cmllk1.info
 cmn1lsm2.beliefnet.com
 cmn1lsm3.beliefnet.com
 cmn1lsm4.beliefnet.com
+cmp.entertainmentcrave.com
 cmp.us.intellitxt.com
 cmpdotnetjunkiescom.112.2o7.net
 cmpglobalvista.112.2o7.net
@@ -27336,6 +27337,7 @@ filetarget.net
 fillymedia.go2affise.com
 filmboxlive.go2cloud.org
 filmforcedvd.ign.us.intellitxt.com
+filter.adexchangemedia.xyz
 filter.online-adnetwork.com
 filter.onwardclick.com
 filtertest.2cnt.net
@@ -45742,4 +45744,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45747
+# hosts: 45749

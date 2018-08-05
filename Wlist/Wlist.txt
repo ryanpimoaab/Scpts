@@ -159,6 +159,7 @@ hosts-file.net
 i.instagram.com
 i.s-microsoft.com
 i.ytimg.com
+i1.adis.ws
 i1.ytimg.com
 icloud.com
 imagesak.secureserver.net

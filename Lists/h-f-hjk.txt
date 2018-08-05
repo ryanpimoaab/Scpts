@@ -3,6 +3,7 @@
 51.net
 51115.com
 9p.cn
+activerevenue1.ustest.xyz
 adblockerext.com
 adblockext.com
 adblocktoolext.com
@@ -11,6 +12,7 @@ alveolocondylean.stream
 aoasa.com
 api.toptenreviews.com
 apiurl.org
+avgasses.stream
 bigbil33.club
 bimegg5.info
 biology-chidden.stream
@@ -74,18 +76,22 @@ ldkiekxc.rr.nu
 liflingren.info
 lingoeten.stream
 lycos.com.org
+malware-alert-trojan-hack-errorcode211345.wintest33.xyz
 maxis5018.space
 meet754seeuye.info
 meetyourmessenger.co.uk
 mega-track.info
 megatons.stream
+micromorphology.stream
 microsoft.com.org
 monestrous.stream
 naked.com
 notice-85xi5.stream
+noviaone.stream
 olaolorun111.wm01.to
 oload.win
 orgy.com
+ostrichten.stream
 pcspeedbooster.com
 phukienhung.com
 polgrand.net
@@ -98,6 +104,7 @@ quickquacksearch.com
 random77-info.ga
 raunchy.com
 reforest-reform.stream
+result-oriented-search.xyz
 rifampin.stream
 ruserv.com
 saveprotecterext.com
@@ -124,6 +131,7 @@ server4.maketodayamazing.info
 server4.perfectlyfabulous.info
 server4.sticker-happy.com
 server4.sweetfantasy.info
+server4.themiengirls.info
 sitesure.com
 smouch.net
 spiderjump.site
@@ -152,6 +160,7 @@ vinwall21.info
 vistamatch39.club
 webdefenderext.com
 webdesignmissionviejo.com
+weknow.ac
 windows.microsoft.com.msf-help.info
 www.05p.com
 www.adblockerext.com
@@ -219,10 +228,11 @@ www.uploadercheckerext.com
 www.uploadertoolext.com
 www.uptoolext.com
 www.webdefenderext.com
+www.weknow.ac
 www.www4search.net
 www4search.net
 xml.rxfclk3.com
 youngteenporn.proboards89.com
 zanthoxylum.stream
 zincify.stream
-# hosts: 227
+# hosts: 237
