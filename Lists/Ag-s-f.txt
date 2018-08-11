@@ -29,6 +29,7 @@ reactiv.
 smilered.com
 securewebboard.com
 skycdnhost.com
+ltn.hitomi.la
 goo.gl
 st.kp.yandex.net
 entry.baidu.com

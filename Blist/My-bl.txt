@@ -17,6 +17,7 @@ appsforimacs.com
 arc-aws-cf-cloud-resources.tombola.com
 b.scorecardresearch.com
 badges-production-external-877820065.us-west-2.elb.amazonaws.com
+besguses.pro
 betmeup.club
 binaṇce.com
 bitcoin-code.co
@@ -26,6 +27,7 @@ biṇaṇce.com
 black.ish.instagram.com
 candy.goodgame.ru
 cdn.ss.anno.channel4.com
+cl96rwprue.com
 clicks.istripper.com
 client-event-reporter.twitch.tv
 cms-cdn.tombola.com
@@ -36,6 +38,7 @@ ctg.hege.gdn
 cwcams.com
 d1xfwwbc8v6bav.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
+daypush.com
 defaulttransaction.com
 dia.mymacupgrade.download
 e.reddit.com
@@ -49,6 +52,7 @@ ftp.goodgame.ru
 fxox4wvv.win
 g5zzz.tobhn2.firc.gdn
 gm.a4g.com
+golnk4.com
 graph.facebook.com
 greerlies.pro
 hatevery.info
@@ -82,6 +86,7 @@ promoted.hubsvc.itv.com
 pttmqpogyu.bid
 pubads.g.doubleclick.net
 pubster.twitch.tv
+pushglobe.com
 r1---sn-vgqsen7z.googlevideo.com
 r1.sn-vgqsen7z.googlevideo.com
 r17---sn-vgqsenes.googlevideo.com
@@ -100,6 +105,7 @@ sof008.site
 spade.twitch.com
 spade.twitch.tv
 spklmis.com
+ssiapawz.com
 stat.ihostingcoupon.com
 static.livecamsroulette.com
 steepto.com
@@ -149,6 +155,7 @@ www.appsforimacs.com
 www.arc-aws-cf-cloud-resources.tombola.com
 www.b.scorecardresearch.com
 www.badges-production-external-877820065.us-west-2.elb.amazonaws.com
+www.besguses.pro
 www.betmeup.club
 www.binaṇce.com
 www.bitcoin-code.co
@@ -158,6 +165,7 @@ www.biṇaṇce.com
 www.black.ish.instagram.com
 www.candy.goodgame.ru
 www.cdn.ss.anno.channel4.com
+www.cl96rwprue.com
 www.clicks.istripper.com
 www.client-event-reporter.twitch.tv
 www.cms-cdn.tombola.com
@@ -168,6 +176,7 @@ www.ctg.hege.gdn
 www.cwcams.com
 www.d1xfwwbc8v6bav.cloudfront.net
 www.d3iz6lralvg77g.cloudfront.net
+www.daypush.com
 www.defaulttransaction.com
 www.dia.mymacupgrade.download
 www.e.reddit.com
@@ -181,6 +190,7 @@ www.ftp.goodgame.ru
 www.fxox4wvv.win
 www.g5zzz.tobhn2.firc.gdn
 www.gm.a4g.com
+www.golnk4.com
 www.graph.facebook.com
 www.greerlies.pro
 www.hatevery.info
@@ -214,6 +224,7 @@ www.promoted.hubsvc.itv.com
 www.pttmqpogyu.bid
 www.pubads.g.doubleclick.net
 www.pubster.twitch.tv
+www.pushglobe.com
 www.r1---sn-vgqsen7z.googlevideo.com
 www.r1.sn-vgqsen7z.googlevideo.com
 www.r17---sn-vgqsenes.googlevideo.com
@@ -232,6 +243,7 @@ www.sof008.site
 www.spade.twitch.com
 www.spade.twitch.tv
 www.spklmis.com
+www.ssiapawz.com
 www.stat.ihostingcoupon.com
 www.static.livecamsroulette.com
 www.steepto.com

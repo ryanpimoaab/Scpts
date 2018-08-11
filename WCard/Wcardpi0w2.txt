@@ -306,3 +306,6 @@ address=/fbsbx.com.online-metrix.net/192.168.1.79
 address=/m.me/192.168.1.79
 address=/messenger.com/192.168.1.79
 address=/tfbnw.net/192.168.1.79
+address=/gophotoz.com/192.168.1.79
+address=/co-aa847.stream/192.168.1.79
+address=/nwsimpleflash.stream/192.168.1.79

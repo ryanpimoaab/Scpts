@@ -4,7 +4,7 @@
 #license: gnu general public license v3.0
 #home: https://quidsup.net/notrack/blocklist.php
 #@ github : https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
-#updated: 03 jul 2018
+#updated: 08 aug 2018
 #latestversion 0.8.10
 #---------------------
 1kdailyprofit.biz #scam
@@ -15,63 +15,74 @@ ad2up.com #potentially unwanted application
 adfuture.cn #chinese android data collection
 adsunflower.com #chinese android data collection
 advmob.cn #chinese android data collection
-akamoihd.net #ad injector
+akamoihd.net #malware - ad injector
 andr-security.com #malicious site
 apple-safari.info #malicious site
 ashleyrnadison.com #typo
 b3stm0b1l3.com #potentially unwanted application
+baidu.om #fake site
 biosagentplus.com #scam
+bqdqnmwwnz.com #command and control
 com-internet.online #malicious site
+consensu.org #popups
 cookiereports.com #annoying cookie popup
-davesbestdeals.com #ad injector
+davesbestdeals.com #malware - ad injector
 digitaloptout.com #ad injector
 donation-tools.org #ad injector
 edatasales.com #malicious site
-elbacom.com #angler ek
 epicunitscan.info #malicious site
 facebookprofileview.com #malicious software
 ffdns.net #dns exploiters
 gettop.info #rig exploit
 giftcards4fans.com #scam
 globaloffers.link #malware
+gmai.com #fake site
+gmil.com #fake site
 gonirola.com #malicious site
-googe.com #typo
+googe.com #fake site
 googele.com #typo
 gotoout.ml #phishing
-hoholikik.club #ad injector
+hanstrackr.com #malware - flash video downloader
+hemailaccessonline.com #browser hijacker
+hoholikik.club #malware - ad injector
 intimglobus.ru #suspicious
 iphoneoptimizer.com #scam
 ironbeast.io #suspicious
 iubenda.com #annoying
+iyfnzgb.com #malvertising
 jesus2020.com #fake site
 jianbaimei.com.cname.yunjiasu-cdn.net #cdn of malicious site jianbaimei.com
 jldnphwwu.bid #malicious site
 lhzbdvm.com #ragentek rootkit
-m1ll1c4n0.com #added may 2016
+loadsource.org #data leakage
 madmimi.com #email spam
+mapsgalaxy.com #pua - mindspark
 minaraca.com #malicious site
 myfood.ltd #potentially unwanted application
 myxns.cn #dns exploiters
 oc.uk #typo of .co.uk
+onlineformfinder.com #pua - mindspark
 onlinesurveydaily.com #annoying
 prugskh.com #ragentek rootkit
 prugskh.net #ragentek rootkit
 reimageplus.com #scam
 reliablesurfingext.biz #fake updates
-retreatoftheretreat.site #rig exploit
+retreatoftheretreat.site #malware - rig exploit
 safari-code.net #malicious site
 searchnet.com #malicious site
 searchtabnew.com #malicious site
 servicekgbfit.us #fake bsods
 simplebookmark.info #buta trading - leak analytics
-site360.org.uk #angler ek
 solvusoft.com #malicious files
+styleszelife.com #malware - unknown
 surveyrouter.com #toluna surveys
 taosha.cc #android trojan
 toogle.com #malicious site
 trumpetedextremes.com #ad injector
+wkvplhxvpk.com #malware - unknown exploit kit
 wwu-natwiest.com #typo
 wwwp.link #malicious site
+xn--gmail-bgd.com #fake site
 xyz.com.br #scammer
 zief.pl #malicious site
 znznznznzn.com #malicious site

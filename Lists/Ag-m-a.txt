@@ -1011,6 +1011,7 @@ ymcdn.ymtrack6.co
 static.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+go2s.co
 promotion.polarisoffice.com
 newad.ifeng.com
 ifengad.*.ifeng.com
@@ -1075,6 +1076,8 @@ plbslog.umeng.com
 analysys.cn
 logs.supersonic.com
 adj.st
+geo.go2s.co
+log.go2s.co
 batsavcdn.ksmobile.net
 cfg.cml.ksmobile.com
 tealand.cmcm.com

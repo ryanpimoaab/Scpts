@@ -17,6 +17,7 @@ appsforimacs.com
 arc-aws-cf-cloud-resources.tombola.com
 b.scorecardresearch.com
 badges-production-external-877820065.us-west-2.elb.amazonaws.com
+besguses.pro
 betmeup.club
 binaṇce.com
 bitcoin-code.co
@@ -26,6 +27,7 @@ biṇaṇce.com
 black.ish.instagram.com
 candy.goodgame.ru
 cdn.ss.anno.channel4.com
+cl96rwprue.com
 clicks.istripper.com
 client-event-reporter.twitch.tv
 cms-cdn.tombola.com
@@ -36,6 +38,7 @@ ctg.hege.gdn
 cwcams.com
 d1xfwwbc8v6bav.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
+daypush.com
 defaulttransaction.com
 dia.mymacupgrade.download
 e.reddit.com
@@ -49,6 +52,7 @@ ftp.goodgame.ru
 fxox4wvv.win
 g5zzz.tobhn2.firc.gdn
 gm.a4g.com
+golnk4.com
 graph.facebook.com
 greerlies.pro
 hatevery.info
@@ -82,6 +86,7 @@ promoted.hubsvc.itv.com
 pttmqpogyu.bid
 pubads.g.doubleclick.net
 pubster.twitch.tv
+pushglobe.com
 r1---sn-vgqsen7z.googlevideo.com
 r1.sn-vgqsen7z.googlevideo.com
 r17---sn-vgqsenes.googlevideo.com
@@ -100,6 +105,7 @@ sof008.site
 spade.twitch.com
 spade.twitch.tv
 spklmis.com
+ssiapawz.com
 stat.ihostingcoupon.com
 static.livecamsroulette.com
 steepto.com

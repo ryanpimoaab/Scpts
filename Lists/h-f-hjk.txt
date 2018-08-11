@@ -3,6 +3,7 @@
 51.net
 51115.com
 9p.cn
+active-revenue1.impcodear.xyz
 activerevenue1.ustest.xyz
 adblockerext.com
 adblockext.com
@@ -78,6 +79,7 @@ lingoeten.stream
 lycos.com.org
 malware-alert-trojan-hack-errorcode211345.wintest33.xyz
 maxis5018.space
+medication.stream
 meet754seeuye.info
 meetyourmessenger.co.uk
 mega-track.info
@@ -92,12 +94,14 @@ olaolorun111.wm01.to
 oload.win
 orgy.com
 ostrichten.stream
+ovidten.stream
 pcspeedbooster.com
 phukienhung.com
 polgrand.net
 protecterext.com
 protecttoolext.com
 psn.cn
+pushtraffic.xyz
 qu123.com
 query.network
 quickquacksearch.com
@@ -118,8 +122,10 @@ searchingvnm.com
 searchy.tools
 securetoolext.com
 security-acb22.stream
+security-alert-malicious-items-detected-errorx10000x1be.impcode6.xyz
 securityext.com
 serch-direct.com
+server3.andhugedeal.info
 server4.beginanywhere.info
 server4.convertsrvr.com
 server4.economyinsights.info
@@ -132,6 +138,7 @@ server4.perfectlyfabulous.info
 server4.sticker-happy.com
 server4.sweetfantasy.info
 server4.themiengirls.info
+server4.whowoeitbetter.info
 sitesure.com
 smouch.net
 spiderjump.site
@@ -235,4 +242,4 @@ xml.rxfclk3.com
 youngteenporn.proboards89.com
 zanthoxylum.stream
 zincify.stream
-# hosts: 237
+# hosts: 244
