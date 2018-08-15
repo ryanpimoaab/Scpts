@@ -4,6 +4,7 @@
 51115.com
 9p.cn
 active-revenue1.impcodear.xyz
+active-revenue2.impcodear2.xyz
 activerevenue1.ustest.xyz
 adblockerext.com
 adblockext.com
@@ -123,6 +124,8 @@ searchy.tools
 securetoolext.com
 security-acb22.stream
 security-alert-malicious-items-detected-errorx10000x1be.impcode6.xyz
+security-alert-malicious-items-detected-errorx10000x1be.impcode78.xyz
+security-alert-malicious-items-detected-errorx10000x1be.impcode85.xyz
 securityext.com
 serch-direct.com
 server3.andhugedeal.info
@@ -242,4 +245,4 @@ xml.rxfclk3.com
 youngteenporn.proboards89.com
 zanthoxylum.stream
 zincify.stream
-# hosts: 244
+# hosts: 247
