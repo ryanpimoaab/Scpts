@@ -1,9 +1,8 @@
 ####### Mmti regex list #######
-# Prefixes
-^ad([sxv])?[0-9]*[-_.]
-^advert(s|is(ing|ements?))?[0-9]*[-_.]
+^(.+[-_.])??ad[sxv]?[0-9]*[-_.]
 ^adse?rv(e(rs?)?|ices?)?[0-9]*[-.]
 ^adtrack(er|ing)?[0-9]*[-.]
+^advert(s|is(ing|ements?))?[0-9]*[-_.]
 ^aff(iliat(es?|ion))?[-.]
 ^analytics?[-.]
 ^banners?[-.]
@@ -15,8 +14,4 @@
 ^telemetry[-.]
 ^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
-# Wildcard suffixes
-amazon-adsystem\.com$
-kaffnet\.com$
-startapp(exchange|network|service)\.com$
 ###### End of MMti list #######

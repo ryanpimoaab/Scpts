@@ -545,3 +545,4 @@ assets.coinbase.com
 nrdp.nccp.netflix.com
 customerevents.netflix.com
 i1.adis.ws
+s.yimg.com

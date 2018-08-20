@@ -45,9 +45,9 @@ curl -s https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list 
 
 awk 'BEGIN{print "####### Mmti regex list #######"}; {print}; END{print "###### End of MMti list #######"}' /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/mmti-rgx.txt > tmp && mv tmp /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/mmti-rgx.txt
 
-####################################
-## Add MMti list to complete list ##
-####################################
+###############################
+## Add MMti to complete list ##
+###############################
 
 cat /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/Wcard_regex.txt /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/mmti-rgx.txt > tmp && mv tmp /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Regex-complete.txt
 

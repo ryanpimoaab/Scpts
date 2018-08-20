@@ -252,6 +252,7 @@ s-new.tradingview.com
 s.gateway.messenger.live.com
 s.marketwatch.com
 s.tradingview.com
+s.yimg.com
 s.youtube.com
 s.ytimg.com
 s1.symcb.com
