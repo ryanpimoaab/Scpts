@@ -8415,7 +8415,6 @@ cs.atdmt.com
 csbsutah.co1.qualtrics.com
 c.scorecardresearch.com
 cs.gssprt.jp
-csi.gstatic.com
 c.skimresources.com
 csloggerorigin.media.net
 cs.media.net
@@ -20795,7 +20794,6 @@ scmspain-d.openx.net
 scollect.m-pathy.com
 scomcluster.cxense.com
 sc.omtrdc.net
-scontent.xx.fbcdn.netsecure.ace.advertising.comsecure.uac.advertising.comssw.live.comstatic.adsafeprotected.comt.skimresources.com
 scootco.t.domdex.com
 scorecardresearch.com
 scoring.vertamedia.com
@@ -25203,8 +25201,6 @@ vice-d.openx.net
 vice.hb.omtrdc.net
 viceuk-d.openx.net
 vice.vemba.com
-vice-web-statics-cdn.vice.com
-vice--web--statics--cdn-vice-com.cdn.ampproject.org
 victor-dulin2009.mirtesen.ru
 victoriabrides.go2affise.com
 vid11000c.pubmatic.com
@@ -33447,3 +33443,20 @@ proxy4.switchadhub.com
 proxy5.switchadhub.com
 proxy6.switchadhub.com
 www.f.switchadhub.com
+229-ct.c3tag.com
+5451438.fls.doubleclick.net
+823.tm.zedo.com
+a.appice.io
+accounts-analyticsapp.paytm.com
+ads.indiaresults.com
+afiles.webengage.com
+click.traakr.com
+dream11.onelink.me
+iz682noju02ye5.com
+libreape.com
+onclklnd.com
+scripts.demandbase.com
+imesnow.fitness
+racking.vcommission.com
+www.fitnesspro.live
+www.onclklnd.com

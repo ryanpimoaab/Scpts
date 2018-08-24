@@ -25987,6 +25987,7 @@ delivery.hornyspots.com
 delivery.optimatic.com
 delivery.preprod.trafficjunky.net
 delivery.swid.switchads.com
+delivery.switchadhub.com
 delivery.trafficbroker.com
 delivery.trafficforce.com
 delivery.trafficjunky.net
@@ -45747,4 +45748,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45752
+# hosts: 45753
