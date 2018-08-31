@@ -337,7 +337,6 @@ givecoin.miningpoolhub.com
 global.wemineltc.com
 globalboosty.miningpoolhub.com
 gmc.suprnova.cc
-goodolddownloads.com
 google.gus.host
 grafana.minemonero.pro
 granite.miningpoolhub.com

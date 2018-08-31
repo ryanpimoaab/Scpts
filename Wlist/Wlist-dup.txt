@@ -546,3 +546,4 @@ nrdp.nccp.netflix.com
 customerevents.netflix.com
 i1.adis.ws
 s.yimg.com
+blog.coinbase.com

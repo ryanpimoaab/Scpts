@@ -47,6 +47,7 @@ bitcore.io
 bitfinex.com
 bitpay.com
 bittrex.com
+blog.coinbase.com
 brightcove.net
 browser-update.org
 c.s-microsoft.com

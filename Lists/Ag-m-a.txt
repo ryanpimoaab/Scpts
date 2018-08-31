@@ -42,6 +42,11 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+deliveryengine.adswizz.com
+sitemaji.com
+h5.wannaplay.cn
+adsapi.manhuaren.com
+euadsapi.manhuaren.com
 cdn1.ettoday.net
 msg.ettoday.net
 d1zkodo2u3p4pe.cloudfront.net
@@ -929,6 +934,7 @@ s.yimg.com
 turner.com
 images-*.ssl-images-amazon.com
 baidu.com
+m.ithome.com
 m.mylust.com
 mylust.com
 dastelefonbuch.de
@@ -1013,6 +1019,8 @@ ymcdn.ymtrack6.co
 static.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+mail.google.com
+app.adjust.com
 go2s.co
 promotion.polarisoffice.com
 newad.ifeng.com
@@ -1068,7 +1076,6 @@ do-not-tracker.org
 eviltracker.net
 spotify.com
 trackersimulator.org
-app.adjust.com
 logconfig.polarisoffice.com
 analysis.polarisoffice.com
 stream.shuzilm.cn
@@ -1381,4 +1388,5 @@ utop.umengcloud.com
 analy.qq.com
 appsupport.qq.com
 monitor.uu.qq.com
+mangaapi.manhuaren.com
 ads.adfox.ru
