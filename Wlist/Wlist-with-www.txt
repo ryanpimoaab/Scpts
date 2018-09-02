@@ -199,6 +199,7 @@ www.meta.plex.tv
 www.metrics.sky.com
 www.mirror.cedia.org.ec
 www.mirror1.malwaredomains.com
+www.mobile.pipe.aria.microsoft.com
 www.mobiledataplan-pa.googleapis.com
 www.msftncsi.com
 www.my.noip.com
