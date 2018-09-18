@@ -22,6 +22,7 @@ www.android.googleapis.com
 www.api.coinbase.com
 www.api.github.com
 www.api.ipify.org
+www.api.iris.tv
 www.api.twitter.com
 www.apis.google.com
 www.app-analytics.snapchat.com

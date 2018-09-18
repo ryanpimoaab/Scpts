@@ -549,3 +549,4 @@ s.yimg.com
 blog.coinbase.com
 mobile.pipe.aria.microsoft.com
 time.samsungcloudsolution.com
+api.iris.tv

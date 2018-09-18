@@ -22,6 +22,7 @@ android.googleapis.com
 api.coinbase.com
 api.github.com
 api.ipify.org
+api.iris.tv
 api.twitter.com
 apis.google.com
 app-analytics.snapchat.com
