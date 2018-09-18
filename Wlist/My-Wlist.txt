@@ -298,6 +298,7 @@ tedcdn.com
 themoviedb.com
 thepiratebay.org
 thetvdb.com
+time.samsungcloudsolution.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tradingview.com
@@ -631,6 +632,7 @@ www.tedcdn.com
 www.themoviedb.com
 www.thepiratebay.org
 www.thetvdb.com
+www.time.samsungcloudsolution.com
 www.title.auth.xboxlive.com
 www.title.mgt.xboxlive.com
 www.tradingview.com

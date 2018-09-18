@@ -86,7 +86,6 @@ gus.host
 jroqvbvw.info
 jyhfuqoh.info
 kdowqlpt.info
-kiwifarms.net
 megabanners.cf
 minecrunch.co
 miner.pr0gramm.com
@@ -150,7 +149,6 @@ flare-analytics.com
 fileone.tv
 miner.nablabee.com
 m.anyfiles.ovh
-freecontent.bid
 300mbfilms.co
 cryptonoter.com
 mutuza.win
@@ -174,7 +172,6 @@ staticsfs.host
 gofile.io
 thevideo.*
 interestingz.pw
-freecontent.*.
 datasecu.download
 jquery-cdn.download
 bigspeeds.com
@@ -194,3 +191,10 @@ sorteosrd.com
 upgraderservices.cf
 gramombird.com
 verifier.live
+jshosting.*
+freecontent.*
+hostingcloud.*
+money-maker-default.info
+money-maker-script.info
+service4refresh.info
+cinemafacil.com

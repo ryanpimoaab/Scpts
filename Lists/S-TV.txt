@@ -163,7 +163,7 @@ cdns-content.dzcdn.net
 database01p.anixe.net
 de.ioam.de
 drscdn.500px.org
-get.geo.opera.com
+geo.opera.com
 googleads.g.doubleclick.net
 itv.ard.de
 nbc-jite.nbcuni.com

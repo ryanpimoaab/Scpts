@@ -548,3 +548,4 @@ i1.adis.ws
 s.yimg.com
 blog.coinbase.com
 mobile.pipe.aria.microsoft.com
+time.samsungcloudsolution.com

@@ -487,7 +487,6 @@ ns2.cryptmonero.com
 ny1.minez.zone
 oc.suprnova.cc
 old.bitcoin.cz
-oload.info
 p2p-multipool.greengaming.de
 p2pool.in
 p2pool.info

@@ -42,6 +42,7 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+opr.formulas.jp
 deliveryengine.adswizz.com
 sitemaji.com
 h5.wannaplay.cn
@@ -934,6 +935,9 @@ s.yimg.com
 turner.com
 images-*.ssl-images-amazon.com
 baidu.com
+motherless.com
+anyporn.com
+firebaseio.com
 m.ithome.com
 m.mylust.com
 mylust.com
@@ -1019,6 +1023,7 @@ ymcdn.ymtrack6.co
 static.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+api.ettoday.net
 mail.google.com
 app.adjust.com
 go2s.co

@@ -86,12 +86,14 @@ activeconversion.com
 activemeter.com
 activeprospects.com
 actnx.com
+acuityplatform.com
 acxiom-online.com
 acxiomapac.com
 ad-score.com
 adabra.com
 adalyser.com
 adblade.com
+adblockrelief.com
 adchemix.com
 adchemy-content.com
 adchemy.com
@@ -101,6 +103,7 @@ addlvr.com
 adelixir.com
 adform.net
 adfox.ru
+adgjl13.com
 adgreed.com
 adheart.de
 adhslx.com
@@ -575,7 +578,6 @@ d-1.co
 d41.co
 dable.io
 dacounter.com
-dadi.technology
 dailycaller-alerts.com
 dapxl.com
 dashboard.io
@@ -1525,6 +1527,7 @@ performtracking.com
 perimeterx.net
 perion.com
 permutive.com
+personalicanvas.com
 personyze.com
 petametrics.com
 phonalytics.com
@@ -1693,6 +1696,7 @@ reson8.com
 responsetap.com
 retags.us
 retargetly.com
+retargettracker.com
 retentionscience.com
 reussissonsensemble.fr
 revdn.net
@@ -1826,6 +1830,7 @@ signup-way.com
 silvergamed.com
 silverpop.com
 silverpush.co
+simpleheatmaps.com
 simplehitcounter.com
 simplereach.com
 simpli.fi
@@ -1874,6 +1879,7 @@ sniperlog.ru
 sniphub.com
 snoobi.com
 snowsignal.com
+social-sb.com
 socialhoney.co
 socialprofitmachine.com
 socialtrack.co
@@ -2150,6 +2156,7 @@ tubetrafficcash.com
 tw.cx
 twcount.com
 twopointo.io
+txmoadserver.net
 tylere.net
 tynt.com
 tyxo.com
@@ -2795,6 +2802,7 @@ spacepools.org
 sparechange.io
 sparnove.com
 static-cnt.bid
+static-sb.com
 staticsfs.host
 statistic.date
 stonecalcom.com
