@@ -550,3 +550,9 @@ blog.coinbase.com
 mobile.pipe.aria.microsoft.com
 time.samsungcloudsolution.com
 api.iris.tv
+beacons.gcp.gvt2.com
+beacons.gvt2.com
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+beacons5.gvt2.com

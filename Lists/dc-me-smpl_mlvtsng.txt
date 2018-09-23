@@ -1001,7 +1001,6 @@ akshatadesigns.in
 aktrack.pubmatic.com
 akuaba.chez.com
 alclick.com
-alemeitu.com
 alenty.com
 alexa-sitestats.s3.amazonaws.com
 all4spy.com
@@ -1020,8 +1019,6 @@ analytics.adpost.org
 analytics.live.com
 analytics.yahoo.com
 ancientroom.com
-andlu.org
-animeonline.net
 anm.intelli-direct.com
 annedouglas.com
 annonser.dagbladet.no
@@ -1497,7 +1494,6 @@ cubics.com
 curiouserdesserts.com
 custom-blacklisted-tracking-example.com
 customad.cnn.com
-cx81.com
 cyberbounty.com
 cybermonitor.com
 cylm.jh56.cn
@@ -1515,7 +1511,6 @@ datashreddergold.com
 dataxu.com
 dbbsrv.com
 dc-storm.com
-dd-seo.cn
 de17a.com
 dealdotcom.com
 deanmediagroup.com
@@ -1526,7 +1521,6 @@ deltagroup.kz
 demandbase.com
 depilflash.tv
 dfclamp.com
-dgboiler.cn
 dgdaerxing.com
 di1.shopping.com
 dialerporn.com
@@ -1678,7 +1672,6 @@ f-sy.com
 f5biz.com
 fabiocaminero.com
 faloge.com
-falsewi.com
 fangqianghuaye.com
 fas.nirmala.life
 fast-adv.it
@@ -1803,7 +1796,6 @@ heias.com
 hentaicounter.com
 herbalaffiliateprogram.com
 here.com
-heshenkj.cn
 hexusads.fluent.ltd.uk
 heyos.com
 heywire.com
@@ -1845,7 +1837,6 @@ hostiraj.info
 hotkeys.com
 hotlog.ru
 hotrank.com.tw
-hotslotpot.cn
 hsbarbershop.co.uk
 htmlhubing.xyz
 httpool.com
@@ -1966,7 +1957,6 @@ joetec.net
 jokedollars.com
 jornalistasdeangola.com
 jquery-framework.com
-jqueryjsscript.ru
 js.5689.nl
 js.securesoft.info
 js.union.doudouguo.net
@@ -2020,7 +2010,6 @@ leadzupc.com
 lean.com
 leanoisgo.com
 lectscalimertdr43.land.ru
-leferinktractors.com
 legolas-media.com
 lem-computers.net
 leonarderickson.chez.com
@@ -2053,7 +2042,6 @@ lita-lighting.com
 liveintent.com
 liverail.com
 llbb88.com
-llo123.com
 loading321.com
 localmantra.com
 localmediabuying.com
@@ -2061,7 +2049,6 @@ localytics.com
 location.fashionises.com
 log.btopenworld.com
 logua.com
-loles.neostrada.pl
 londparig.ga
 loopme.biz
 lop.com
@@ -2201,7 +2188,6 @@ mobivity.com
 mobixell.com
 mobstac.com
 mobuna.com
-moby-aa.ru
 mobyt.com
 mocean.mobi
 moceanmobile.com
@@ -2236,7 +2222,6 @@ mypagerank.net
 mypagerank.ru
 mypowermall.com
 myscreen.com
-mysimash.info
 mystat-in.net
 mystat.pl
 mythings.com
@@ -2260,7 +2245,6 @@ nend.net
 neocounter.neoworx-blog-tools.net
 neoffic.com
 net-filter.com
-net4um.com
 netaffiliation.com
 netagent.cz
 netclickstats.com
@@ -2616,7 +2600,6 @@ searchfeast.com
 searchmarketing.com
 searchramp.com
 secure-account-national-australia-bank.com.au-servive-customer-online.asiamusicme.com
-secure-softwaremanager.com
 secure.webconnect.net
 securesoft.info
 sedoparking.com
@@ -2757,7 +2740,6 @@ strikeiron.com
 suavalds.com
 subscribe.hearstmags.com
 sugoicounter.com
-sukhshantisales.com
 supercell.net
 superclix.de
 superstats.com
@@ -2774,7 +2756,6 @@ swordfishdc.com
 sx.trhnt.com
 sympation.com
 sznaucer-figa.nd.e-wro.pl
-szzlzn.com
 t.insigit.com
 t.pusk.ru
 t2t2.com
@@ -2814,7 +2795,6 @@ textads.biz
 textads.opera.com
 textlinks.com
 tfag.de
-the-wildbunch.net
 theadhost.com
 theads.me
 thebugs.ws
@@ -2959,7 +2939,6 @@ usergrid.com
 usmsad.tom.com
 utarget.co.uk
 utils.mediageneral.net
-utpsoxvninhi6.com
 v1.cnzz.com
 validclick.com
 valuead.com
@@ -3059,12 +3038,10 @@ wonderlandads.com
 wondoads.de
 woopra.com
 worldwide-cash.net
-wtdpcb.com
 wtlive.com
 wtr1.ru
 ww3.way-of-fun.com
 www-banner.chat.ru
-www.4009997279.com
 www.anticarredodolomiti.com
 www.banner-link.com.br
 www.caixapre.com.br
@@ -3102,7 +3079,6 @@ xiazai.dns-vip.net
 xiazai1.wan4399.com
 xin-lian.cn
 xingqibaile.com
-xinweico.net
 xinyangmeiye.com
 xiti.com
 xius.com
@@ -3163,7 +3139,6 @@ zenkreka.com
 zenzuu.com
 zeus.developershed.com
 zeusclicks.com
-zhongpandz.com
 ziejpzrv.cz.cc
 zintext.com
 zmedia.com

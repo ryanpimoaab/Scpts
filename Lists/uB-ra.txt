@@ -198,3 +198,5 @@ money-maker-default.info
 money-maker-script.info
 service4refresh.info
 cinemafacil.com
+hdvid.tv
+feesocrald.com

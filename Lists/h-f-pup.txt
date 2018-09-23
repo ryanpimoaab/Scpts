@@ -1980,7 +1980,6 @@ constantupgradingnew.win
 contactinformations.info
 contentprotector-w1.com
 convert-myfiles.link
-convert.aqpyx.com
 converterguru-api.olympuswaymarketing.com
 converterguru-lp.olympuswaymarketing.com
 convertingcxispjsr.download
@@ -24375,6 +24374,7 @@ www.ysozysntkboking.review
 www.yssvhdonloutputs.download
 www.ystyjoyboarhounds.review
 www.yszakltertia.review
+www.yt-adblocker.com
 www.ytgdcraggees.download
 www.ytraorananas.download
 www.yttjkmbalases.review
@@ -24980,6 +24980,7 @@ ysozysntkboking.review
 yssvhdonloutputs.download
 ystyjoyboarhounds.review
 yszakltertia.review
+yt-adblocker.com
 ytc.dsnetwb.com
 ytgdcraggees.download
 ytraorananas.download
@@ -25110,4 +25111,4 @@ zzcihevvdigesting.download
 zzdatpatchily.review
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 25115
+# hosts: 25116

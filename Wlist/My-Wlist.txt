@@ -39,6 +39,12 @@ apt.sonarr.tv
 assets.coinbase.com
 attestation.xboxlive.com
 ax.phobos.apple.com.edgesuite.net
+beacons.gcp.gvt2.com
+beacons.gvt2.com
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+beacons5.gvt2.com
 binance.com
 bit.ly
 bitaccess.co
@@ -374,6 +380,12 @@ www.apt.sonarr.tv
 www.assets.coinbase.com
 www.attestation.xboxlive.com
 www.ax.phobos.apple.com.edgesuite.net
+www.beacons.gcp.gvt2.com
+www.beacons.gvt2.com
+www.beacons2.gvt2.com
+www.beacons3.gvt2.com
+www.beacons4.gvt2.com
+www.beacons5.gvt2.com
 www.binance.com
 www.bit.ly
 www.bitaccess.co
