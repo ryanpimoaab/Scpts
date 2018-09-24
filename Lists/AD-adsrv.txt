@@ -1,10 +1,10 @@
-# host file to block ads, tracking and more!
+# host file to block ads, tracking and more! updated daily
 #
 # project home page: https://github.com/anudeepnd/blacklist
 # licence: https://github.com/anudeepnd/blacklist/blob/master/license
 # title: anudeep's blacklist
 # hosts contributed by anudeep <anudeep@protonmail.com>
-# ===============================================================
+# ===================================================================
 0001-cab8-4c8c-43de.reporo.net
 002-slq-470.mktoresp.com
 004-btr-463.mktoresp.com
@@ -11593,7 +11593,6 @@ ga87z2o.com
 gaana.helpshift.com
 gadget.mirtesen.ru
 gadgetreview.t.domdex.com
-gadgets360.com
 gads11000c.pubmatic.com
 gads11000.pubmatic.com
 gads22000c.pubmatic.com
@@ -11610,7 +11609,6 @@ gakx8b9ih7l7qdourzsthiucfs2gm1509915941.nuid.imrworldwide.com
 galaktika.mirtesen.ru
 galaxyperfumeuk.widget.criteo.com
 galaxy.sokrati.com
-g.alicdn.com
 galinulla.mirtesen.ru
 galleryapi.micloud.xiaomi.net
 gallery.smartadserver.com
@@ -16204,7 +16202,6 @@ msg.i.dotomi.com
 msg.kingoapp.com
 msg.umengcloud.com
 msg.umeng.com
-m.shop.gadgetsnow.com
 msjzz.7jtalqshjo.firc.gdn
 m.skimresources.com
 msloc.qualtrics.com
@@ -21292,7 +21289,6 @@ shopathome.t.domdex.com
 shopathome-uncategorized1.t.domdex.com
 shopbop.sp1.convertro.com
 shopbrand.t.domdex.com
-shop.gadgetsnow.com
 shopify.privy.com
 shopify.retargetapp.com
 shopify.smartlook.com
@@ -26598,7 +26594,6 @@ www.sf-3.st.adtekmedia.com
 www.sheshine.com
 www.shipit.unbounce.com
 www.shoelace.com
-www.shop.gadgetsnow.com
 www.shutter.unbounce.com
 www.signin.unbounce.com
 www.signup.taboola.com
@@ -33738,3 +33733,12 @@ ace2three-com.dcmn.com
 d8b981ea2ecd.bitsngo.net
 docsconvert.club
 evt.izooto.com
+rack.special-offers.online
+racking.prmtracking.com
+vguru-lp.olympuswaymarketing.com
+usa.india-abc.com
+usa.teutorigos-phi.com
+wildbearads.go2affise.com
+www.adsclk.com
+xakdtbarkiest.review
+xml.revrtb.com
