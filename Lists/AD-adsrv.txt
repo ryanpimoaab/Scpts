@@ -8129,7 +8129,6 @@ config.ironbeast.io
 config-ltvp.inmobi.com
 config-ltvp.vip.uh1.inmobi.com
 config.parsely.com
-config.rcs.mnc861.mcc405.pub.3gppnetwork.org
 config.samqaicongen.com
 config.shazamid.com
 config-stg.ironbeast.io
@@ -10129,7 +10128,6 @@ eootl.voluumtrk.com
 eos.co1.qualtrics.com
 ep3.performfeeds.com
 ep-apsoutheast.ifc.inmobi.com
-epdg.epc.mnc001.mcc001.pub.3gppnetwork.org
 ep-euwest.ifc.inmobi.com
 ephotozine-uk.intellitxt.com
 ep.ifc.inmobi.com
@@ -10306,7 +10304,6 @@ evania.de.intellitxt.com
 evar7.d1.sc.omtrdc.net
 evdyhealth.co1.qualtrics.com
 evening-badlands-6215.herokuapp.com
-event.aes.mnc861.mcc405.pub.3gppnetwork.org
 event.api.drift.com
 event.cmp.advertising.com
 eventdbservice-ah.vertamedia.com
@@ -33742,3 +33739,18 @@ wildbearads.go2affise.com
 www.adsclk.com
 xakdtbarkiest.review
 xml.revrtb.com
+install.speedomizer.com
+install.streamit-online.com
+kolnewsupdate.info
+log.myfirsttab.com
+lp.easyziptab.com
+lvpajtautophony.review
+mxase.clmbtech.com
+px.keepmypixel.com
+rtr21adc.download
+screenwatch.yournewtab.com
+scripts.myfirsttab.com
+sondheim.appboy.com
+stats.openvpn.net
+sync.ad-stir.com
+sync.graph.bluecava.com
