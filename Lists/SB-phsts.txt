@@ -105,6 +105,13 @@ www.btds.artplay.info
 videoplayer.vice.technology
 bacr.com.pk
 pakistanelevators.pk
+www.bidgear.com
+bidgear.com
+platform.bidgear.com
+stats.bidgear.com
+rack.adtrue.com
+media.complex.com
+api.b2c.com
 analysis.polarisoffice.com
 analytics-digit-in.cdn.ampproject.org
 analytics.cloudron.io
@@ -187,6 +194,7 @@ api.alphonso.tv
 www.api.alphonso.tv
 assets.alphonso.tv
 bale.alphonso.tv
+beacon.statful.com
 bebe.alphonso.tv
 beckham.alphonso.tv
 best.alphonso.tv

@@ -2,7 +2,6 @@
 029999.com
 08819.com
 101order.com
-114.sohenan.cn
 123found.com
 12directions.com
 140proof.com
@@ -23,7 +22,6 @@
 332gm.com
 360yield.com
 365tc.com
-384756783900.cn
 3cinteractive.com
 3e1.cn
 4affiliate.net
@@ -42,7 +40,6 @@
 600z.com
 66ml.in
 720movies.net
-75ww.com
 777partner.com
 777seo.com
 77tracking.com
@@ -52,12 +49,10 @@
 8883448.com
 911718.net
 941jz.cn
-97boss.com
 980media.com
 981718.cn
 99chg.com
 99count.com
-99zzkk.com
 9rbk.com
 adsatt.abcnews.starwave.com
 adsatt.go.starwave.com
@@ -995,7 +990,6 @@ aipp-italia.it
 airbrake.io
 airpush.com
 aistat.net
-aiwoxin.com
 ajouter.net
 akshatadesigns.in
 aktrack.pubmatic.com
@@ -1020,7 +1014,6 @@ analytics.live.com
 analytics.yahoo.com
 ancientroom.com
 anm.intelli-direct.com
-annedouglas.com
 annonser.dagbladet.no
 apex-ad.com
 api.addthis.com
@@ -1057,8 +1050,6 @@ as.webmd.com
 as1.advfn.com
 as2.advfn.com
 as5000.com
-asiaok.net
-asj999.com
 assets.loomia.com
 assets1.exgfnetwork.com
 assoc-amazon.com
@@ -1261,7 +1252,6 @@ bookmark.t2t2.com
 boom.ro
 boomads.com
 boost-my-pr.de
-bor-bogdanych.com
 bostelbekersv.com
 box.anchorfree.net
 boydfiber.com
@@ -1297,7 +1287,6 @@ bxzxw.net
 c.bigmir.net
 c.compete.com
 c1.nowlinux.com
-cabomarlinisportfishing.com
 cache.addthiscdn.com
 cadxiedan.com
 callfire.com
@@ -1487,9 +1476,7 @@ crowdgravity.com
 crtv.mate1.com
 crwdcntrl.net
 ctnetwork.hu
-ctv.whpx8.com
 cubics.com
-curiouserdesserts.com
 custom-blacklisted-tracking-example.com
 customad.cnn.com
 cyberbounty.com
@@ -1540,7 +1527,6 @@ dmtracker.com
 dmtracking.alibaba.com
 dmtracking2.alibaba.com
 dnads.directnic.com
-dns-vip.net
 do-not-tracker.org
 dog.halfbirthdayproducts.com
 domaining.in
@@ -1556,7 +1542,6 @@ doushimm.com
 down.nishuoa.com
 downlaod.vstart.net
 downlaod1.vstart.net
-download.dns-vip.net
 downloadfused.com
 downloadoc.com
 drawbrid.ge
@@ -1630,7 +1615,6 @@ eur.a1.yimg.com
 eurekster.com
 euro-linkindex.de
 euroclick.com
-eurocompkft.hu
 european-toplist.de
 euroranking.de
 euros4click.de
@@ -1678,11 +1662,8 @@ fc.webmasterpro.de
 fchabkirchen-frauenberg.de
 feedbackresearch.com
 feedjit.com
-festival.cocobau.com
 fffddd11.cn
-ffsi.info
 ffxcam.fairfax.com.au
-fg.bibleandbullets.com
 fiksu.com
 fileserver.co.kr
 filmschoolsforum.com
@@ -1736,7 +1717,6 @@ gator.com
 gayadnetwork.com
 gbanners.hornymatches.com
 gclabrelscon.net
-gddingtian.com.cn
 gemius.pl
 gen-ever.com
 geo.digitalpoint.com
@@ -1778,9 +1758,6 @@ gtop100.com
 gtsads.com
 gtsmobi.com
 guppymedia.com
-gxqyyq.com
-h148.cn
-haihuang-audio.com
 hairtease.com
 hao1680.com
 harrenmedia.com
@@ -1822,7 +1799,6 @@ hits4pay.com
 hitslink.com
 hittail.com
 hkfg.net
-hncshunyin.cn
 hntldgk.com
 hollandbusinessadvertising.nl
 homely.gutterheaters4u.com
@@ -1938,7 +1914,6 @@ jaminfinity.tk
 jatxt.com
 jbeet.cjt1.net
 jcount.com
-jdcartoon.com
 jedonkey.cjt1.net
 jefaerosol.free.fr
 jianyundc.com
@@ -1954,9 +1929,7 @@ jornalistasdeangola.com
 jquery-framework.com
 js.5689.nl
 js.securesoft.info
-js.union.doudouguo.net
 js.users.51.la
-jsbwpg.com
 jtti.net
 juicyads.com
 julysystems.com
@@ -2064,8 +2037,6 @@ mads.cnet.com
 madserve.org
 madvertise.de
 magnetic.com
-mainnetsoll.com
-mainstatserver.com
 malware-check.disconnect.me
 malware-scan.com
 mampoks.ru
@@ -2151,7 +2122,6 @@ miva.com
 mixpanel.com
 mixtraffic.com
 mjhkj8.u5a.wentserver.com
-mjw.or.kr
 mkhafnorcu81.com
 mlm.de
 mmaglobal.com
@@ -2169,7 +2139,6 @@ mobhero.com
 mobilda.com
 mobile-collector.newrelic.com
 mobile-ent.biz
-mobile-safety.org
 mobileactive.com
 mobileadvertisinghub.com
 mobileapptracking.com
@@ -2199,8 +2168,6 @@ motricity.com
 motrixi.com
 mouseflow.com
 moversa.com
-movestone.net
-mpif.eu
 mpstat.us
 mr-rank.de
 mrskincash.com
@@ -2290,7 +2257,6 @@ offerforge.com
 offerfusion.com
 offermatica.com
 ohgooo.com
-ohhdear.org
 ojakobi.de
 old.yesmeskin.co.kr
 olivebrandresponse.com
@@ -2326,7 +2292,6 @@ orange.bageriethornslet.dk
 ordingly.com
 ota.cartrawler.com
 otto-images.developershed.com
-ouroldfriends.com
 out-there-media.com
 outbrain.com
 overture.com
@@ -2434,7 +2399,6 @@ prefer.gutterhelment.com
 premium-offers.com
 primaryads.com
 primetime.net
-pringlepowwow.com
 privatecash.com
 pro-advertising.com
 pro.i-doctor.co.kr
@@ -2514,7 +2478,6 @@ realmedia-a800.d4p.net
 realtechnetwork.com
 realteencash.com
 realtracker.com
-rebisihut.com
 rebotstat.com
 redinvestor.com
 redmas.com
@@ -2593,7 +2556,6 @@ scripte-monster.de
 searchfeast.com
 searchmarketing.com
 searchramp.com
-secure-account-national-australia-bank.com.au-servive-customer-online.asiamusicme.com
 secure.webconnect.net
 securesoft.info
 sedoparking.com
@@ -2806,7 +2768,6 @@ tizers.net
 tlvmedia.com
 tntclix.co.uk
 todacell.com
-today-newday.cn
 top-casting-termine.de
 top-site-list.com
 top.list.ru
@@ -2881,9 +2842,7 @@ traffictrader.net
 trafficz.com
 trafficz.net
 traffiq.com
-traffok.cn
 trafic.ro
-transpec.vn
 travis.bosscasinos.com
 trekblue.com
 trekdata.com
@@ -2957,9 +2916,7 @@ videoegg.com
 view4cash.de
 viewpoint.com
 viewwonder.com
-vip.dns-vip.net
 vipprojects.cn
-virtual-pcb.com
 visistat.com
 visit.webhosting.yahoo.com
 visitbox.de
@@ -3032,7 +2989,6 @@ woopra.com
 worldwide-cash.net
 wtlive.com
 wtr1.ru
-ww3.way-of-fun.com
 www-banner.chat.ru
 www.anticarredodolomiti.com
 www.banner-link.com.br
@@ -3048,7 +3004,6 @@ www.stkjw.net
 www.yserch.com
 www1.gto-media.com
 www15.ktoooo.com
-www230.kkvmaj.com
 www26.ktoooo.com
 www26.llbb88.com
 www343.ohgooo.com
@@ -3066,7 +3021,6 @@ xcl168.s37.jjisp.com
 xclicks.net
 xertive.com
 xg4ken.com
-xiazai.dns-vip.net
 xiazai1.wan4399.com
 xingqibaile.com
 xinyangmeiye.com
@@ -3093,7 +3047,6 @@ yabuka.com
 yadro.ru
 ybrantdigital.com
 ydworld.com
-yeniyuzyillions.org
 yes1899.com
 yesads.com
 yesadvertising.com
@@ -3114,8 +3067,6 @@ yserch.com
 yttestsite.com
 yuilop.com
 yume.com
-yuminhong.blog.neworiental.org
-yxhlv.com
 z5x.net
 zanox-affiliate.de
 zanox.com
@@ -3132,4 +3083,3 @@ ziejpzrv.cz.cc
 zintext.com
 zmedia.com
 zumobi.com
-zztxdown.com

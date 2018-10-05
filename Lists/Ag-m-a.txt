@@ -42,6 +42,10 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+ade.clmbtech.com
+i.mxplayer.j2inter.com
+mxvp-ad-config-prod-1.zenmxapps.com
+online-prod.zenmxapps.com
 look.kfiopkln.com
 studcat.infra.systems
 adplex.co.kr
@@ -211,7 +215,6 @@ polymorphicads.jp
 cdns.lodeo.io
 ingamesads.gameloft.com
 i2ad.jp
-mxvp-ad-config-prod-1.zenmxapps.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
 js4386.fujianryt.com
 m.12306media.com
@@ -939,6 +942,8 @@ s.yimg.com
 turner.com
 images-*.ssl-images-amazon.com
 baidu.com
+blog-sokuhou.com
+korewaeroi.com
 motherless.com
 anyporn.com
 firebaseio.com
@@ -1095,6 +1100,7 @@ plbslog.umeng.com
 analysys.cn
 logs.supersonic.com
 adj.st
+api.goodbarber.net
 tr.snapchat.com
 tracking.aatkit.com
 reporting.aatkit.com
