@@ -43630,7 +43630,6 @@ www.hgmjnsnddaydream.review
 www.hgzlpbfluent.review
 www.hicpm5.com
 www.hide.io
-www.highcharts.com
 www.highcpms.com
 www.highspeedtesting.com
 www.hijackedzdupdb.download
@@ -45742,4 +45741,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45747
+# hosts: 45746
