@@ -39,6 +39,7 @@
 (^|\.)alljoyn\.org$
 (^|\.)angsrvr\.com$
 (^|\.)animeteatr\.ru$
+(^|\.)apendit\.com$
 (^|\.)api\.safegraph\.com$
 (^|\.)appboy\.com$
 (^|\.)appbrain\.com$
@@ -318,6 +319,7 @@
 #### End of Own regex list ####
 ####### Mmti regex list #######
 ^(.+[-_.])??ad[sxv]?[0-9]*[-_.]
+^adim(age|g)s?[0-9]*[-_.]
 ^adse?rv(e(rs?)?|ices?)?[0-9]*[-.]
 ^adtrack(er|ing)?[0-9]*[-.]
 ^advert(s|is(ing|ements?))?[0-9]*[-_.]

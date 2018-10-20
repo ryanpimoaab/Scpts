@@ -39,6 +39,7 @@
 (^|\.)alljoyn\.org$
 (^|\.)angsrvr\.com$
 (^|\.)animeteatr\.ru$
+(^|\.)apendit\.com$
 (^|\.)api\.safegraph\.com$
 (^|\.)appboy\.com$
 (^|\.)appbrain\.com$
