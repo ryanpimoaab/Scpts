@@ -218,6 +218,7 @@
 (^|\.)pipelinemarketing\.com$
 (^|\.)polyfill\.io$
 (^|\.)popads\.net$
+(^|\.)popdealonlineflash\.icu$
 (^|\.)popflawlessads\.com$
 (^|\.)presage\.io$
 (^|\.)pubnative\.net$
