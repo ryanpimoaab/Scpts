@@ -73,6 +73,7 @@ legalsoft.safeupdatesforpcandmac.review
 license.sublimehq.com
 logger.instagram.com
 login-coinbase.com
+look.opskln.com
 macaheadapps.com
 main.dynsrvaba.com
 media.adca.st
@@ -221,6 +222,7 @@ www.legalsoft.safeupdatesforpcandmac.review
 www.license.sublimehq.com
 www.logger.instagram.com
 www.login-coinbase.com
+www.look.opskln.com
 www.macaheadapps.com
 www.main.dynsrvaba.com
 www.media.adca.st
