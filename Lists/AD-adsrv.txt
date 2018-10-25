@@ -33847,3 +33847,14 @@ afclickoffers.com
 ag2hqdyt.site
 fp-analytics.hotstar.com
 hb-analytics.hotstar.com
+api.lbesecapi.com
+api.wshareit.com
+api2.wshareit.com
+c.aaxads.com
+cdn.ushareit.com
+cdn.wshareit.com
+cdn2.wshareit.com
+st.wshareit.com
+adre.hasmobi.net
+adve.hasmobi.net
+adx.hasmobi.net
