@@ -20785,7 +20785,6 @@ bcanalytics.bigcommerce.com
 bcast.pw
 bcfads.com
 bcmediagroup.com
-bcnmonetize.go2affise.com
 bcp.crwdcntrl.net
 bcsrciccspermatic.review
 bd.moatads.com
@@ -26539,7 +26538,6 @@ easypolls.superstats.com
 easyscopes.net
 easyspace.com
 eat-travel.apx.appier.net
-eatthis.com
 eb0ej.voluumtrk.com
 ebao.duba.net
 ebay.northernhost.com
@@ -28602,6 +28600,7 @@ gotlaughs.com
 goto.myfunbreak.com
 gotoast.com
 gotoo.com
+gotrack.static500.com
 goviralnetwork.com
 goviralnetwork.net
 goweb.de
@@ -34923,7 +34922,6 @@ secure.download-sponsor.de
 secure.eloqua.com
 secure.exoclick.com
 secure.flashtalking.com
-secure.footprint.net
 secure.fortuneaffiliates.com
 secure.gaug.es
 secure.ifbyphone.com
@@ -41753,7 +41751,6 @@ w.cm.ksmobile.com
 w.estat.com
 w.extreme-dm.com
 w.goprkcdn.com
-w.hypercomments.com
 w.mlv-cdn.com
 w.online-verlag-freiburg.de
 w.sharethis.com
@@ -45737,4 +45734,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45742
+# hosts: 45739

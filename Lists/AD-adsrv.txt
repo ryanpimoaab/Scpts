@@ -4,6 +4,7 @@
 # licence: https://github.com/anudeepnd/blacklist/blob/master/license
 # title: anudeep's blacklist
 # hosts contributed by anudeep <anudeep@protonmail.com>
+# domain count: 34,057
 # ===================================================================
 0001-cab8-4c8c-43de.reporo.net
 002-slq-470.mktoresp.com
@@ -25658,7 +25659,6 @@ windows-8-forum.de.intellitxt.com
 windowsarea.de.intellitxt.com
 windowsbbs-us.intellitxt.com
 windowsforum.de.intellitxt.com
-windscribe.com
 winecoolerdirect.com.102.112.2o7.net
 winfuture.de.intellitxt.com
 winfuture-forum.de.intellitxt.com
@@ -33858,3 +33858,49 @@ st.wshareit.com
 adre.hasmobi.net
 adve.hasmobi.net
 adx.hasmobi.net
+www.siliconanalytics.com
+siliconanalytics.com
+www.vidcpm.com
+vidcpm.com
+x.ss2.us
+xhr.yallboen.com
+xml.popmonetizer.com
+xrgrymutlq.com
+adimpression.startappservice.com
+amp-analytics.newshub.co.nz
+api.launcher.intl.miui.com
+appnext-a.akamaihd.net
+cdn.bss.wshareit.com
+cpitraffic.com
+crossmetrix.com
+d1cqwfp1e6p386.cloudfront.net
+www.afclickoffers.com
+www.afco2go.com
+www.audiencemanager.de
+www.pricee.com
+go.ero-advertising.com
+organicalews.info
+usertag.online
+video.landmange.com
+api.applink.site
+execution.conversation-memory.com
+in101.zog.link
+in100.zog.link
+match.bnmla.com
+httpkafka.unityads.unity3d.com
+s8log.storm8.com
+hdlmaketch.review
+js.cleancentertours.com
+data.logentries.com
+race.bingoholiday.xyz
+events.bankbazaar.com
+px-intl.ucweb.com
+sts.batmobi.net
+saavn.deliveryengine.adswizz.com
+saavn.adswizz.com
+rebootv5.adfuture.cn
+rebootv5.adsunflower.com
+c7rd.nuclearlytu.info
+nuclearlytu.info
+varielcontentdelivery.info
+ipreparty.info

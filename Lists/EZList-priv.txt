@@ -64,6 +64,7 @@ a8.net
 a8ww.net
 aaddzz.com
 aamsitecertifier.com
+aaxdetect.com
 abcstats.com
 ablsrv.com
 abmr.net
@@ -90,6 +91,7 @@ acuityplatform.com
 acxiom-online.com
 acxiomapac.com
 ad-score.com
+ad.gt
 adabra.com
 adalyser.com
 adblade.com
@@ -117,11 +119,11 @@ admantx.com
 admaster.com.cn
 admitad.com
 admother.com
-adnxs.com
 adobedtm.com
 adobetag.com
 adoftheyear.com
 adoric-om.com
+adpaths.com
 adpies.com
 adprotraffic.com
 adrizer.com
@@ -139,6 +141,7 @@ adunity.com
 advanced-web-analytics.com
 advconversion.com
 advertising.com
+adwstats.com
 adyapper.com
 afairweb.com
 affilae.com
@@ -422,6 +425,7 @@ centraltag.com
 cetrk.com
 cformanalytics.com
 cftrack.com
+cguru.ga
 chardneave.info
 chartaca.com
 chartbeat.com
@@ -2875,6 +2879,7 @@ thersprens.com
 thewhizmarketing.com
 thewhizproducts.com
 thewise.com
+tmmp.io
 toftofcal.com
 tokyodrift.ga
 traffic.tc-clicks.com

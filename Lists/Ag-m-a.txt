@@ -42,6 +42,7 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+rtb.appbid.com
 rtapi.abbi.io
 ade.clmbtech.com
 i.mxplayer.j2inter.com
@@ -1034,6 +1035,14 @@ ymcdn.ymtrack6.co
 static.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+adcs.rqmob.com
+static.rqmob.com
+preitem.wshareit.com
+stream.pcradio.ru
+online.rayjump.com
+adywind.com
+cdn-adn.rayjump.com
+hasmobi.net
 api-a.op-mobile.opera.com
 api.ettoday.net
 mail.google.com
@@ -1093,6 +1102,7 @@ do-not-tracker.org
 eviltracker.net
 spotify.com
 trackersimulator.org
+tracker.rqmob.com
 logconfig.polarisoffice.com
 analysis.polarisoffice.com
 stream.shuzilm.cn

@@ -207,3 +207,4 @@ severita-service.ru
 reauthenticator.com
 swiftmining.win
 wmtech.website
+flightsy.win

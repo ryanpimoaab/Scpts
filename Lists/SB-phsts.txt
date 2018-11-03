@@ -612,6 +612,8 @@ static.clmbtech.com
 api.branch.io
 msmetrics.ws.sonos.com
 betpromo247.com
+fp-analytics.hotstar.com
+hb-analytics.hotstar.com
 in-viacom18.videoplaza.tv
 adn.insight.ucweb.com
 convhkmp.taboola.com
