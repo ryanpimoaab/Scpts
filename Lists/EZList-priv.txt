@@ -573,6 +573,7 @@ customer.io
 customerconversio.com
 customerdiscoverytrack.com
 cux.io
+cvtr.io
 cxense.com
 cxt.ms
 cya2.net
@@ -1426,6 +1427,7 @@ nicequest.com
 nicewii.com
 niftymaps.com
 nik.io
+nile.works
 noowho.com
 nordicresearch.com
 notifyvisitors.com

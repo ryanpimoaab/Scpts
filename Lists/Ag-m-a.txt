@@ -1035,6 +1035,7 @@ ymcdn.ymtrack6.co
 static.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+api.rvuzov.ru
 adcs.rqmob.com
 static.rqmob.com
 preitem.wshareit.com

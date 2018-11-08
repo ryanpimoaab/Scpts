@@ -34,11 +34,9 @@
 7bpeople.com
 7search.com
 818tl.com
-8883448.com
 941jz.cn
 980media.com
 981718.cn
-99chg.com
 99count.com
 adsatt.abcnews.starwave.com
 adsatt.go.starwave.com
@@ -315,7 +313,6 @@ admeta.com
 admex.com
 adminder.com
 adminshop.com
-admisoft.com
 admized.com
 admob.com
 admob.comadwhirl.com
@@ -933,7 +930,6 @@ adyea.com
 adzerk.net
 adzerk.s3.amazonaws.com
 adzones.com
-aeaer.com
 af-ad.co.uk
 affbuzzads.com
 affili.net
@@ -1060,6 +1056,7 @@ b.aol.com
 b.engadget.com
 b.l-a-c.cn
 b4psads.com
+b54.in
 ba.afl.rakuten.co.jp
 babs.tv2.dk
 backbeatmedia.com
@@ -1275,8 +1272,6 @@ cbanners.virtuagirlhd.com
 cben1.net
 cbmall.com
 cbx.net
-cctjly.com
-ccycny.com
 cdn.freefacti.com
 cecash.com
 celltick.com
@@ -1301,7 +1296,6 @@ chitika.com
 chitika.net
 choongmoosports.co.kr
 cibleclick.com
-ciscotred.cz.cc
 cityads.telus.net
 citygrid.com
 cj.com
@@ -1442,7 +1436,6 @@ czmlfc.sxtm30.badudns.cc
 czqmc.com
 d.adroll.com
 daguogroup.com
-daizheha.com
 dakic-ia-300.com
 danban.com
 dapper.net
@@ -1493,7 +1486,6 @@ downlaod.vstart.net
 downlaod1.vstart.net
 downloadfused.com
 drawbrid.ge
-drteachme.com
 drumcash.com
 druming.free.fr
 dtdn.cn
@@ -1638,7 +1630,6 @@ fwmrm.net
 fxclix.com
 fxstyle.net
 galaxien.com
-galleries.securesoft.info
 game-advertising-online.com
 gamehouse.com
 gamesites100.net
@@ -1654,9 +1645,7 @@ geovisite.com
 german-linkindex.de
 getclicky.com
 getexceptional.com
-ghgmtcrluvghlwc91.com
 ghidneamt.ro
-gillingscamps.co.uk
 gjysjl.com
 globalismedia.com
 globaltakeoff.net
@@ -1735,7 +1724,6 @@ hsbarbershop.co.uk
 htmlhubing.xyz
 httpool.com
 humandemand.com
-humanding.com
 hurricanedigitalmedia.com
 hydramedia.com
 hyperbanner.net
@@ -1775,7 +1763,6 @@ images.v3.com
 imarketservices.com
 imatmobile.com
 img.prohardver.hu
-img.securesoft.info
 imgpromo.easyrencontre.com
 imimobile.com
 imonitor.nethost.cz
@@ -1802,7 +1789,6 @@ inringtone.com
 insightexpress.com
 insightexpressai.com
 inspectorclick.com
-install.securesoft.info
 instantmadness.com
 intelliads.com
 intellitxt.com
@@ -1813,13 +1799,11 @@ intergi.com
 internetfuel.com
 interreklame.de
 interstat.hu
-interstitial.powered-by.securesoft.info
 inuvi.com
 ip.ro
 ip193.cn
 iperceptions.com
 ipro.com
-iranbar.org
 ireklama.cz
 itfarm.com
 itop.cz
@@ -1838,7 +1822,6 @@ jkazaa.cjt1.net
 jnova.cjt1.net
 joetec.net
 jokedollars.com
-js.securesoft.info
 js.users.51.la
 jtti.net
 juicyads.com
@@ -1851,7 +1834,6 @@ justwebads.com
 k.iinfo.cz
 kanoodle.com
 kargo.com
-karmatags.com
 kele1688.web23.badudns.cc
 keymedia.hu
 keynotedeviceanywhere.com
@@ -1864,7 +1846,6 @@ kompasads.com
 kontera.com
 kt-g.de
 ktu.sv2.biz
-kumykoz.com
 ladybug.gutterheatersus.com
 lakequincy.com
 laos.luangprabang.free.fr
@@ -2093,7 +2074,6 @@ nedstat.com
 nedstat.nl
 nedstatbasic.net
 nedstatpro.net
-neepelsty.cz.cc
 nend.net
 neocounter.neoworx-blog-tools.net
 neoffic.com
@@ -2146,7 +2126,6 @@ oewabox.at
 offerforge.com
 offerfusion.com
 offermatica.com
-ohgooo.com
 olivebrandresponse.com
 omgates.com
 omniture.com
@@ -2220,7 +2199,6 @@ pear.dementiaadvocacy.com
 peep-auktion.de
 peer39.com
 pennyweb.com
-peoria33884.cz.cc
 pepperjamnetwork.com
 percentmobile.com
 perf.weborama.fr
@@ -2463,7 +2441,6 @@ sgruber.com.br
 shareadspace.com
 shareasale.com
 sharepointads.com
-sharfiles.com
 sher.index.hu
 shinystat.com
 shinystat.it
@@ -2514,7 +2491,6 @@ spot.fitness.com
 spotxchange.com
 sprinks-clicks.about.com
 spylog.com
-spyshredderscanner.com
 spywarelabs.com
 spywarenuker.com
 spywords.com
@@ -2727,7 +2703,6 @@ txtimpact.com
 tyroo.com
 uarating.com
 ubermedia.com
-uci.securesoft.info
 ujvmzzwsxzrd3.com
 ukbanners.com
 ultramercial.com
@@ -2783,7 +2758,6 @@ vstart.net
 vungle.com
 w3i.com
 wads.webteh.com
-wan4399.com
 wantoffer.com
 warlog.info
 warlog.ru
@@ -2848,7 +2822,6 @@ www.photo-ads.co.uk
 www.yserch.com
 www1.gto-media.com
 www26.llbb88.com
-www343.ohgooo.com
 www8.glam.com
 wypromuj.nazwa.pl
 x-traceur.com
@@ -2859,7 +2832,6 @@ xchange.ro
 xclicks.net
 xertive.com
 xg4ken.com
-xiazai1.wan4399.com
 xingqibaile.com
 xinyangmeiye.com
 xiti.com
@@ -2889,7 +2861,6 @@ yieldlab.net
 yieldmanager.com
 yieldmanager.net
 yieldtraffic.com
-yihaotui.com
 yixingim.com
 yoc-performance.com
 yoc.mobi
