@@ -308,6 +308,7 @@ thetvdb.com
 time.samsungcloudsolution.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
+track.aliexpress.com
 tradingview.com
 translate.googleapis.com
 tvdb2.plex.tv

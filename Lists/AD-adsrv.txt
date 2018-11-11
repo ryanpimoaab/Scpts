@@ -4,7 +4,7 @@
 # licence: https://github.com/anudeepnd/blacklist/blob/master/license
 # title: anudeep's blacklist
 # hosts contributed by anudeep <anudeep@protonmail.com>
-# domain count: 34,062
+# domain count: 34,075
 # ===================================================================
 0001-cab8-4c8c-43de.reporo.net
 002-slq-470.mktoresp.com
@@ -33907,3 +33907,16 @@ ipreparty.info
 axdsz.pro
 rtgfh.pro
 aweme.snssdk.com
+i62e2b4mfy.com
+f5v1x3kgv5.com
+data.pokkinw.com
+stat.hasmobi.net
+stats.hearthis.at
+dsp.batmobil.net
+h5.app.intl.miui.com
+egjzxzxyetf.com
+mtcmed01.nexage.com
+marketing.tllms.com
+p3.pstatp.com
+main.dynsrvazg.com
+user-actrk.com

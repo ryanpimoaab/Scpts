@@ -46,7 +46,6 @@ rtb.appbid.com
 rtapi.abbi.io
 ade.clmbtech.com
 i.mxplayer.j2inter.com
-mxvp-ad-config-prod-1.zenmxapps.com
 online-prod.zenmxapps.com
 look.kfiopkln.com
 studcat.infra.systems
@@ -72,7 +71,6 @@ tkmedia-cache.aotter.net
 tkportal.aotter.net
 client.midosoo.com
 sc.smardroid.com
-ap.smardroid.com
 tnkfactory.com
 iqzone.com
 postitial.com
@@ -101,6 +99,7 @@ adsmogo.mobi
 adbetnet.advertserve.com
 chartboosts.com
 mobpowertech.com
+ap.smardroid.com
 aclickoooo.host
 api.ampiri.com
 httpkafka.unityads.unity3d.com
@@ -217,6 +216,7 @@ polymorphicads.jp
 cdns.lodeo.io
 ingamesads.gameloft.com
 i2ad.jp
+mxvp-ad-config-prod-1.zenmxapps.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
 js4386.fujianryt.com
 m.12306media.com

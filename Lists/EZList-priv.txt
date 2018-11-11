@@ -2590,6 +2590,7 @@ dle-news.pw
 dogrose18.com
 dovinate.top
 dronml.ml
+drozdovvalerij0.github.io
 drupalupdates.tk
 duckdns.org
 dugroscaca.com
@@ -2664,7 +2665,13 @@ hodling.faith
 hodling.party
 hodling.science
 host.d-ns.ga
+hostingcloud.accountant
+hostingcloud.bid
+hostingcloud.date
+hostingcloud.download
 hostingcloud.faith
+hostingcloud.loan
+hostingcloud.science
 hrfziiddxa.ru
 hydesolo.tk
 iaheyftbsn.review
@@ -2695,6 +2702,16 @@ jroqvbvw.info
 jsccnn.com
 jscdndel.com
 jsecoin.com
+jshosting.bid
+jshosting.date
+jshosting.download
+jshosting.loan
+jshosting.party
+jshosting.racing
+jshosting.review
+jshosting.stream
+jshosting.trade
+jshosting.win
 junopink.ml
 jurty.ml
 jurtym.cf
@@ -2705,6 +2722,7 @@ kdowqlpt.info
 kedtise.com
 kinoprofi.org
 kippbeak.cf
+kireevairina959.github.io
 ksimdw.ru
 l33tsite.info
 laferia.cr
@@ -2788,8 +2806,10 @@ nexttime.ovh
 nfwebminer.com
 niematego.tk
 nimiq.watch
+nimiqchain.info
 nimiqpool.com
 nimiqtest.net
+nimpool.io
 nnycrypto.com
 noblock.pro
 oei1.gq
@@ -2797,10 +2817,13 @@ offerreality.com
 ogondkskyahxa.ru
 ogrid.org
 okeyletsgo.ml
+olecintri.com
 omine.org
 onlinereserchstatistics.online
+onvid.club
 open-hive-server-1.pp.ua
 openguid.org
+outbrainimg.com
 oxwwoeukjispema.ru
 p2poolmining.com
 p2poolmining.net
@@ -2810,6 +2833,7 @@ party-vqgdyvoycc.now.sh
 pdheuryopd.loan
 pearno.com
 pertholin.com
+philpool.com
 play.mix.kinostuff.com
 playerassets.info
 podrltid.info
@@ -2817,6 +2841,7 @@ pool.etn.spacepools.org
 pool.hws.ru
 poolmining.eu
 poolmining.net
+porkypool.com
 ppoi.org
 pr0gram.org
 premiumstats.xyz
@@ -2871,6 +2896,7 @@ streamplay.to
 subloader.cf
 sumokoin.com
 supportxmr.com
+sushipool.com
 svivqrhrh.ru
 swiftmining.win
 synconnector.com
