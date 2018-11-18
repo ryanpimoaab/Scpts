@@ -290,6 +290,7 @@
 (^|\.)userreplay\.net$
 (^|\.)uservoice\.com$
 (^|\.)ushareit\.com$
+(^|\.)ve$
 (^|\.)vectaury\.io$
 (^|\.)vemba\.io$
 (^|\.)viafoura\.co$

@@ -945,6 +945,7 @@ turner.com
 images-*.ssl-images-amazon.com
 baidu.com
 mobile.donanimhaber.com
+forum.lowyat.net
 mobiltelefon.ru
 blog-sokuhou.com
 korewaeroi.com

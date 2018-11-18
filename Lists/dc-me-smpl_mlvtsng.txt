@@ -35,7 +35,6 @@
 818tl.com
 941jz.cn
 980media.com
-981718.cn
 99count.com
 adsatt.abcnews.starwave.com
 adsatt.go.starwave.com
@@ -972,7 +971,6 @@ aistat.net
 ajouter.net
 akshatadesigns.in
 aktrack.pubmatic.com
-akuaba.chez.com
 alclick.com
 alenty.com
 alexa-sitestats.s3.amazonaws.com
@@ -1053,7 +1051,6 @@ azfront.com
 b-1st.com
 b.aol.com
 b.engadget.com
-b.l-a-c.cn
 b4psads.com
 b54.in
 ba.afl.rakuten.co.jp
@@ -1218,7 +1215,6 @@ box.anchorfree.net
 bpath.com
 braincash.com
 brandreachsys.com
-brandschutztechnik-hartmann.de
 branovate.com
 brave.ebod.co.uk
 bravenet.com.invalid
@@ -1431,7 +1427,6 @@ cyberbounty.com
 cybermonitor.com
 czmlfc.sxtm30.badudns.cc
 d.adroll.com
-daguogroup.com
 dakic-ia-300.com
 danban.com
 dapper.net
@@ -1447,7 +1442,6 @@ dedicatedmedia.com
 deloo.de
 demandbase.com
 depilflash.tv
-dfclamp.com
 di1.shopping.com
 dialerporn.com
 didtheyreadit.com
@@ -1484,7 +1478,6 @@ drawbrid.ge
 drumcash.com
 druming.free.fr
 dtstesting.com
-dusmin.com
 dwcreations.net
 dynamic.fmpub.net
 e-adimages.scrippsnetworks.com
@@ -1512,7 +1505,6 @@ effectivemeasure.com
 effectivemeasure.net
 ehealthcaresolutions.com
 eiv.baidu.com
-elite-bijou.com.ua
 elitedollars.com
 elitetoplist.com
 emarketer.com
@@ -1588,7 +1580,6 @@ feedbackresearch.com
 feedjit.com
 ffxcam.fairfax.com.au
 fiksu.com
-filmschoolsforum.com
 fimc.net
 fimserve.com
 findcommerce.com
@@ -1668,7 +1659,6 @@ gtop100.com
 gtsads.com
 gtsmobi.com
 guppymedia.com
-hairtease.com
 harrenmedia.com
 harrenmedianetwork.com
 havamedia.net
@@ -1820,7 +1810,6 @@ juicyads.com
 julysystems.com
 jumptap.com
 junggomania.nefficient.co.kr
-junshi366.com
 justrelevant.com
 justwebads.com
 k.iinfo.cz
@@ -1858,7 +1847,6 @@ leanoisgo.com
 lectscalimertdr43.land.ru
 legolas-media.com
 lem-computers.net
-leonarderickson.chez.com
 levelrate.de
 lfstmedia.com
 lifestreetmedia.com
@@ -2093,7 +2081,6 @@ newt1.adultworld.com
 newtopsites.com
 nexac.com
 nexage.com
-nexprice.com
 ng3.ads.warnerbros.com
 ngs.impress.co.jp
 nitroclicks.com
@@ -2119,7 +2106,6 @@ offerforge.com
 offerfusion.com
 offermatica.com
 olivebrandresponse.com
-omgates.com
 omniture.com
 on-mobi.com
 onclasrv.com
@@ -2412,7 +2398,6 @@ senddroid.com
 sensenetworks.com
 sensismediasmart.com.au
 seo4india.com
-seopoint.com
 serv0.com
 servedby-buysellads.com
 servedbyadbutler.com
@@ -2468,7 +2453,6 @@ snapgiant.com
 snoobi.com
 socialspark.com
 softclick.com.br
-sorclan.za.pl
 spacash.com
 sparkstudios.com
 specificmedia.co.uk
@@ -2628,7 +2612,6 @@ topsir.com
 topsite.lv
 topsites.com.br
 topstats.com
-torreslimos.com
 totemcash.com
 touchads.com
 touchclarity.com
@@ -2696,7 +2679,6 @@ txtimpact.com
 tyroo.com
 uarating.com
 ubermedia.com
-ujvmzzwsxzrd3.com
 ukbanners.com
 ultramercial.com
 ultsearch.com
@@ -2720,7 +2702,6 @@ valueclick.com
 valueclickmedia.com
 valuecommerce.com
 valuesponsor.com
-vasfagah.ru
 vdopia.com
 veille-referencement.com
 velti.com
@@ -2750,7 +2731,6 @@ vstart.net
 vungle.com
 w3i.com
 wads.webteh.com
-wantoffer.com
 warlog.info
 warlog.ru
 warp.ly
@@ -2804,7 +2784,6 @@ wondoads.de
 woopra.com
 worldwide-cash.net
 wtlive.com
-wtr1.ru
 www-banner.chat.ru
 www.banner-link.com.br
 www.dnps.com
@@ -2824,10 +2803,8 @@ xchange.ro
 xclicks.net
 xertive.com
 xg4ken.com
-xingqibaile.com
 xiti.com
 xius.com
-xobjzmhopjbboqkmc.com
 xplusone.com
 xponsor.com
 xq1.net
@@ -2836,7 +2813,6 @@ xtendmedia.com
 xtremetop100.com
 xxxcounter.com
 xxxmyself.com
-xxxporno18.ru
 xy7elite.com
 y.ibsys.com
 ya-googl.ws

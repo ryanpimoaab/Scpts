@@ -290,6 +290,7 @@
 (^|\.)userreplay\.net$
 (^|\.)uservoice\.com$
 (^|\.)ushareit\.com$
+(^|\.)ve$
 (^|\.)vectaury\.io$
 (^|\.)vemba\.io$
 (^|\.)viafoura\.co$
@@ -321,7 +322,7 @@
 ####### Mmti regex list #######
 ^(.+[-_.])??ad[sxv]?[0-9]*[-_.]
 ^adim(age|g)s?[0-9]*[-_.]
-^adse?rv(e(rs?)?|ices?)?[0-9]*[-.]
+^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
 ^adtrack(er|ing)?[0-9]*[-.]
 ^advert(s|is(ing|ements?))?[0-9]*[-_.]
 ^aff(iliat(es?|ion))?[-.]

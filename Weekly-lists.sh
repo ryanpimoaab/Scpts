@@ -49,16 +49,9 @@ for f in *.sh; do
 bash "$f" -H
 done
 
-echo -e "\033[1;31m tspr-frd \033[0m"
+echo -e "\033[1;31m tspr-frd-ph \033[0m"
 
-cd /Volumes/Rayyan/Pi/Github/Scrpts/Scrpts/tspr-frd
-for f in *.sh; do
-bash "$f" -H
-done
-
-echo -e "\033[1;31m tspr-ph \033[0m"
-
-cd /Volumes/Rayyan/Pi/Github/Scrpts/Scrpts/tspr-ph
+cd /Volumes/Rayyan/Pi/Github/Scrpts/Scrpts/tspr-frd-ph
 for f in *.sh; do
 bash "$f" -H
 done
