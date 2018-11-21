@@ -287,8 +287,10 @@ spclient.wg.spotify.com
 ssl.p.jwpcdn.com
 staging.plex.tv
 static.kickstarter.com
+stats.nba.com
 status.plex.tv
 storage.googleapis.com
+support.binance.com
 support.microsoft.com
 surveymonkey.com
 swcdn.apple.com

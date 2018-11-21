@@ -557,3 +557,5 @@ beacons3.gvt2.com
 beacons4.gvt2.com
 beacons5.gvt2.com
 track.aliexpress.com
+stats.nba.com
+support.binance.com

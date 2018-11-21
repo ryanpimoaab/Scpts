@@ -38,5 +38,4 @@ ads*.opensubtitles.org
 static0.wi-fi.ru
 gamer.ru
 sports.ru
-fls-na.amazon.com
 mc.yandex.ru

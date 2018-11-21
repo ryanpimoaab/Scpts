@@ -1846,7 +1846,6 @@ lean.com
 leanoisgo.com
 lectscalimertdr43.land.ru
 legolas-media.com
-lem-computers.net
 levelrate.de
 lfstmedia.com
 lifestreetmedia.com
@@ -1921,7 +1920,6 @@ mathtag.com
 matomy.com
 max.i12.de
 maximumcash.com
-mayatek.info
 mbn.com.ua
 mbs.megaroticlive.com
 mbuyu.nl
@@ -2165,7 +2163,6 @@ partnerad.l.google.com
 partnercash.de
 partners.priceline.com
 passion-4.net
-pattayabazaar.com
 pay-ads.com
 paycounter.com
 paypopup.com
@@ -2366,7 +2363,6 @@ rose.ixbt.com
 rotabanner.com
 roxr.net
 royalair.koom.ma
-rq82.com
 rtbidder.net
 rtbpop.com
 rtbpopd.com
@@ -2525,7 +2521,6 @@ supertop.ru
 supertop100.com
 suptullog.com
 surfmusik-adserver.de
-sushischool.ru
 swissadsolutions.com
 switchadhub.com
 switchads.com
@@ -2828,7 +2823,6 @@ yieldlab.net
 yieldmanager.com
 yieldmanager.net
 yieldtraffic.com
-yixingim.com
 yoc-performance.com
 yoc.mobi
 yoggrt.com
@@ -2848,7 +2842,6 @@ zenkreka.com
 zenzuu.com
 zeus.developershed.com
 zeusclicks.com
-ziejpzrv.cz.cc
 zintext.com
 zmedia.com
 zumobi.com
