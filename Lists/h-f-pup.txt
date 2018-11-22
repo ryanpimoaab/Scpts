@@ -2196,6 +2196,7 @@ cxckzhqzdnogg.review
 cxhladsprawls.website
 cxxswdapart.download
 cyberbyte.org
+cybop.net
 cycickleverages.review
 cyclesxippwlv.download
 cyjsfdphialled.download
@@ -2522,6 +2523,7 @@ dkzyajeaureoled.review
 dl.fixit-softhost.com
 dl.livefreeapps.com
 dl.searchmgrf.com
+dl.systemlogics.org
 dl.thegreatfreedownloads.com
 dl.wizzuniquify.com
 dlcjihkdymightful.review
@@ -7795,6 +7797,7 @@ pcoptimizerpro.com
 pcoptimizertools.com
 pcoptimizerutils.com
 pcpandora.com
+pcprogram.org
 pcprotect.com
 pcpurifier.co
 pcregboost.com
@@ -9770,6 +9773,7 @@ securesourcefreecontents.stream
 securesurfing.xyz
 securesurfs.biz
 securewebpayments.com
+securios.org
 security-alert.rgdbluzau.bid
 security-alert.v7r3of.top
 security-cleaner.com
@@ -22203,6 +22207,7 @@ www.securesourcefreecontent.trade
 www.securesourcefreecontents.stream
 www.securesurfing.xyz
 www.securewebpayments.com
+www.securios.org
 www.security-cleaner.com
 www.security-notfication.com
 www.seemyinvite.com
@@ -27587,4 +27592,4 @@ zzcihevvdigesting.download
 zzdatpatchily.review
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 27592
+# hosts: 27597
