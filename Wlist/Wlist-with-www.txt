@@ -224,6 +224,7 @@ www.o1.email.plex.tv
 www.o2.sg0.plex.tv
 www.office.com
 www.officeclient.microsoft.com
+www.ok.ru
 www.openphish.com
 www.outlook.office365.com
 www.ow.ly
