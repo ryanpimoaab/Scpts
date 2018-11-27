@@ -1,3 +1,6 @@
+mbzl-pro.xyz
+ad.edugram.com
+kdsk32lfa.xyz
 vrt.news
 nnavigation.info
 dintsupnejec.ru
@@ -3537,6 +3540,10 @@ sv-pr.ru
 widget.mediastealer.com
 ru-novocti.com
 dw-informer-*.newsru.com
+lnkfast.com
+newspolovb.info
+uytestion.info
+cultidifficient.info
 bestadbid.com
 trafficclub-nde.netdna-ssl.com
 lovacmar.click
@@ -3557,6 +3564,8 @@ tauptaup.com
 otefauks.link
 ptocmaux.com
 ads.avocet.io
+adswrapme.click
+cdn.pljs.ru
 hgub2polye.com
 ihowed.info
 siterdm.com
@@ -5431,6 +5440,7 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+a.6d47c1118927cf53ba9654931df80e8d.com
 rtb.appbid.com
 rtapi.abbi.io
 ade.clmbtech.com
@@ -12124,6 +12134,7 @@ dfkpqvhcl.com
 dglfkgmhahilp.com
 dgnuumyxpqiget.com
 dgrvnlhz.com
+dhmwedckf.com
 dhtqupvxujyfp.com
 dieohupl.com
 dijutbdzbv.com
@@ -18237,6 +18248,7 @@ i-bims-1-produkt.de
 i-bims-ein-shopper.de
 ichkaufehierein.de
 meinelieblingsprodukte.de
+stats.coronalabs.com
 track.special-offers.online
 crm-analytics.imweb.ru
 i.clean.gg
@@ -21010,6 +21022,7 @@ zowary.com
 zqtk.net
 zroitracker.com
 functionalclam.com
+culturedcrayon.com
 spuriousstranger.com
 jamexistence.com
 partplanes.com
@@ -21137,6 +21150,7 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+banstat.nadavi.net
 pixel.4players.de
 lexip.4players.de
 monitor-targeting-failures.sqrt-5041.de
@@ -21230,8 +21244,6 @@ cmstrendslog.timesnow.tv
 cnt.nicemix.com
 cnt.nuvid.com
 cnt.vivatube.com
-collect.sas.com
-collect2.sas.com
 collection.theaa.com
 collector-cdn.github.com
 collector-medium.lightstep.com
@@ -25262,6 +25274,8 @@ yx-ads6.com
 analytics.twitter.com
 click.aliexpress.com
 clientlog.portal.office.com
+collect.sas.com
+collect2.sas.com
 log.optimizely.com
 log.prezi.com
 pixel.redditmedia.com
