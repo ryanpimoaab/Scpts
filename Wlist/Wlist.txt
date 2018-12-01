@@ -59,6 +59,7 @@ brightcove.net
 browser-update.org
 c.s-microsoft.com
 camo.stream.highwebmedia.com
+camvideo10.wpnrtnmrewunrtok.xyz
 captive.apple.com
 cdn.embedly.com
 cdn.optimizely.com
