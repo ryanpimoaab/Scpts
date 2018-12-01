@@ -135,7 +135,6 @@ external-lhr6-1.xx.fbcdn.net
 external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
-facebook.com
 fbcdn-creative-a.akamaihd.net
 fmovies.is
 fmovies.se
@@ -329,6 +328,7 @@ webcache.googleusercontent.com
 widget-cdn.rpxnow.com
 widgetdata.tradingview.com
 win10.ipv6.microsoft.com
+wpnrtnmrewunrtok.xyz
 ws.audioscrobbler.com
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
@@ -480,7 +480,6 @@ www.external-lhr6-1.xx.fbcdn.net
 www.external-lhr7-1.xx.fbcdn.net
 www.external-lhr8-1.xx.fbcdn.net
 www.external-lhr9-1.xx.fbcdn.net
-www.facebook.com
 www.fbcdn-creative-a.akamaihd.net
 www.fmovies.is
 www.fmovies.se
@@ -674,6 +673,7 @@ www.webcache.googleusercontent.com
 www.widget-cdn.rpxnow.com
 www.widgetdata.tradingview.com
 www.win10.ipv6.microsoft.com
+www.wpnrtnmrewunrtok.xyz
 www.ws.audioscrobbler.com
 www.xbox.ipv6.microsoft.com
 www.xboxexperiencesprod.experimentation.xboxlive.com

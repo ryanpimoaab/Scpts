@@ -84,5 +84,13 @@ for f in *.sh; do
 bash "$f" -H
 done
 
+echo -e "\033[1;31m dshd \033[0m"
+
+cd /Volumes/Rayyan/Pi/Github/Scrpts/Scrpts/dshd
+for f in *.sh; do
+bash "$f" -H
+done
+
+
 read -p "Done" -n1 junk
 echo

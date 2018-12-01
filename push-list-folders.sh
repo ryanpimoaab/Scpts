@@ -139,5 +139,10 @@ echo -e "\033[1;31m tspr-frd-ph \033[0m"
 cd /Volumes/Rayyan/Pi/Github/tspr-frd-ph
 /Volumes/Rayyan/Pi/Github/Scrpts/push-github.sh
 
+echo -e "\033[1;31m dshd \033[0m"
+
+cd /Volumes/Rayyan/Pi/Github/dshd
+/Volumes/Rayyan/Pi/Github/Scrpts/push-github.sh
+
 read -p "Done" -n1 junk
 echo

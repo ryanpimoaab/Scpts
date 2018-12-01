@@ -1,0 +1,3 @@
+
+# Use ! after awk to print lines that don't contain strings, $ for end of line, ^ for beginning
+awk '!/.at$|.bid$|.cn$|.kim$|.li$|.link$|.pw$|.review$|.ro$|.ru$|.su$|.tk$|.top$|.ua$|.us$|.ve$|.work$|.ch$|.lol$|.v$|.w$|.loan$|.click$|.xyz$/ {print}' readFile > writeFile
