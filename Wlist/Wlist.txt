@@ -328,7 +328,6 @@ webcache.googleusercontent.com
 widget-cdn.rpxnow.com
 widgetdata.tradingview.com
 win10.ipv6.microsoft.com
-wpnrtnmrewunrtok.xyz
 ws.audioscrobbler.com
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
