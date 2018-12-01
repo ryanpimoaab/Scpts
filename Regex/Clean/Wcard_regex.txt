@@ -89,7 +89,6 @@
 (^|\.)cloudmobi\.net$
 (^|\.)cmbestsrv\.com$
 (^|\.)cmcm\.com$
-(^|\.)cn$
 (^|\.)co-aa847\.stream$
 (^|\.)coin-hive\.com$
 (^|\.)cointraffic\.io$
@@ -231,9 +230,6 @@
 (^|\.)qualtrics\.com$
 (^|\.)quantummetric\.com$
 (^|\.)rayjump\.com$
-(^|\.)review$
-(^|\.)ro$
-(^|\.)ru$
 (^|\.)rxthdr\.com$
 (^|\.)safeupdatesforpcandmac\.review$
 (^|\.)salemove\.com$
@@ -290,7 +286,6 @@
 (^|\.)userreplay\.net$
 (^|\.)uservoice\.com$
 (^|\.)ushareit\.com$
-(^|\.)ve$
 (^|\.)vectaury\.io$
 (^|\.)vemba\.io$
 (^|\.)viafoura\.co$

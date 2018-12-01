@@ -86,7 +86,6 @@ clmbtech.com
 cloudmobi.net
 cmbestsrv.com
 cmcm.com
-cn
 coin-hive.com
 cointraffic.io
 convertro.com
@@ -222,9 +221,6 @@ qlitics.com
 qualtrics.com
 quantummetric.com
 rayjump.com
-review
-ro
-ru
 rxthdr.com
 safeupdatesforpcandmac.review
 salemove.com
@@ -327,6 +323,5 @@ nwsimpleflash.stream
 247realmedia.com
 apendit.com
 popdealonlineflash.icu
-ve
 clksite.com
 apendit.com

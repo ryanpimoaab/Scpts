@@ -13,6 +13,14 @@ awk '!x[$0]++' < /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Wcard-dup.txt > /Volumes
 
 sort /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/Wcard.txt > tmp && mv tmp /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/Wcard.txt
 
+# Copy t1ds to clean folder
+
+cp /Volumes/Rayyan/Pi/Github/Scrpts/Regex/t1d-cln.txt /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/t1d.txt
+
+## Replace '.' with '\.' from t1ds
+
+awk '{ print "(^|\\.)"$0"$"}' < /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/t1d.txt > tmp && mv tmp /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/t1d.txt
+
 ## Replace '.' with '\.' from domains
 
 sed 's/\./\\./g' <  /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/Wcard.txt > tmp && mv tmp /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/Wcard.txt
@@ -20,6 +28,10 @@ sed 's/\./\\./g' <  /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/Wcard.txt > tmp
 ## Prepend list with '(^|\.)' . Note - Adding extra \ otherwise it wouldn't show
 
 awk '{ print "(^|\\.)"$0"$"}' < /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/Wcard.txt > tmp && mv tmp /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/Wcard.txt
+
+## Add seperators for tld list
+
+awk 'BEGIN{print "########## TLD List ###########"}; {print}; END{print "####### End of TLD list #######"}' /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/t1d.txt > tmp && mv tmp /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/t1d.txt
 
 ## Add seperators from rest of list
 
@@ -49,7 +61,7 @@ awk 'BEGIN{print "####### Mmti regex list #######"}; {print}; END{print "###### 
 ## Add MMti to complete list ##
 ###############################
 
-cat /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/Wcard_regex.txt /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/mmti-rgx.txt > tmp && mv tmp /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Regex-complete.txt
+cat /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/t1d.txt /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/Wcard_regex.txt /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Clean/mmti-rgx.txt > tmp && mv tmp /Volumes/Rayyan/Pi/Github/Scrpts/Regex/Regex-complete.txt
 
 # Copy complete list to github repo
 
