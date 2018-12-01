@@ -328,3 +328,5 @@ nwsimpleflash.stream
 apendit.com
 popdealonlineflash.icu
 ve
+clksite.com
+apendit.com

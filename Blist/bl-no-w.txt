@@ -33,6 +33,7 @@ cdn.ss.anno.channel4.com
 cl96rwprue.com
 clicks.istripper.com
 client-event-reporter.twitch.tv
+clksite.com
 cms-cdn.tombola.com
 coiṇbase.com
 content.cdn.viber.com
