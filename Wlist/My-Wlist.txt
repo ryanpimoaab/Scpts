@@ -342,6 +342,7 @@ youtubei.googleapis.com
 yt3.ggpht.com
 ytimg.com
 zeustracker.abuse.ch
+zoom.us
 www.0.docs.google.com
 www.2.android.pool.ntp.org
 www.accounts.google.com
@@ -686,3 +687,4 @@ www.youtubei.googleapis.com
 www.yt3.ggpht.com
 www.ytimg.com
 www.zeustracker.abuse.ch
+www.zoom.us

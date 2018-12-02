@@ -342,3 +342,4 @@ youtubei.googleapis.com
 yt3.ggpht.com
 ytimg.com
 zeustracker.abuse.ch
+zoom.us

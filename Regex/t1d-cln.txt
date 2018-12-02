@@ -12,7 +12,6 @@ su
 tk
 top
 ua
-us
 ve
 work
 ch
@@ -21,4 +20,3 @@ v
 w
 loan
 click
-xyz

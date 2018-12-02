@@ -1,4 +1,21 @@
+#
+#   DShield.org Suspicious Domain List
+#    (c) 2018 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://www.dshield.org/feeds/suspiciousdomains_High.txt
+#
+#   comments: info@dshield.org
+#    updated: Sun Dec  2 04:09:41 2018 UTC
+#   
+#    This list consists of High Level Sensitivity website URLs
+#     Columns (tab delimited):
+#
+#      (1) site
+#
+Site
 jazmany.cu.ma
+www.tekyalhaja.xyz
 machine.cu.ma
 cerberhhyed5frqa.cmti5o.win
 panel.vargakragard.se
@@ -36,6 +53,7 @@ mphtadhci5mrdlju.onion.to
 updating-flash.cloudapp.net
 rbwubtpsyokqn.info
 franka.in.net
+ijoe.xyz
 cerberhhyed5frqa.305iot.win
 cerberhhyed5frqa.moneu5.win
 tekjoe.space
@@ -63,7 +81,9 @@ littwronthath.net
 cerberhhyed5frqa.as13fd.win
 ns416017.ip-37-187-144.eu
 cerberhhyed5frqa.to6maq.win
+fnjyygovdjyemga.xyz
 dino1.ddf.al
+uxvvm.us
 junllian.net
 6g4ds.froekuge.com
 mm266.bplaced.com
@@ -114,9 +134,11 @@ porschecosv.com
 cerberhhyed5frqa.xmfu59.win
 blog.raw-recruits.com
 securetalk.cwsurf.de
+tech-dan.xyz
 pmenboeqhyrpvomq.paypoints.red
 extremesports.kz
 fretiolo.com
+winhelptech.xyz
 www.orquestanacaona.cult.cu
 leon10.5gbfree.com
 cerberhhyed5frqa.45kgok.win
@@ -132,6 +154,7 @@ kpybuhnosdrm.in
 sv1.eyeonmusica.it
 32kl2rwsjvqjeui7.onion.cab
 update.rifugiopontese.it
+yuysikankhqvdwdv.xyz
 b4youfred5485jgsa3453f.italazudda.com
 analiticwebexperience.com
 projects.globaltronics.net
@@ -140,6 +163,7 @@ genteatsss.com
 jangasm.org
 cerberhhyed5frqa.azlto5.win
 ns513726.ip-192-99-148.net
+baliwag.xyz
 ricasad.sx
 sslsam.com
 27lelchgcvs2wpm7.wins4n.win
@@ -177,6 +201,8 @@ cerberhhyed5frqa.m5gid4.win
 shaktitextileengr.com
 27lelchgcvs2wpm7.bonbestal.asia
 dattinggate.com
+tekadrian.xyz
+go.everli-killz.xyz
 cerberhhyed5frqa.we34re.win
 gitybdjgbxd.nl
 stats.lead.mysitehosted.com
@@ -210,6 +236,7 @@ pnyviolg.eu
 wasabi.mine.nu
 ice.ip64.net
 cerberhhyed5frqa.m5gips.win
+tekcharles.xyz
 4kqd3hmqgptupi3p.gletterstan.trade
 jayboyd.t15.org
 luenhinpearl.com
@@ -250,24 +277,30 @@ naijabids.co.uk
 cerberhhyed5frqa.mix3hi.win
 apple-trusted.com
 prtscrinsertcn.net
+tekchuks.xyz
 egovrxvuspxck.be
 k3cxd.pileanoted.com
 xyhhuxa.be
 kh5jfnvkk5twerfnku5twuilrnglnuw45yhlw.vealsithe.com
+omeaswslhgdw.xyz
 gvludcvhcrjwmgq.in
+aarnknthc.xyz
 k47d3.proporr.com
 bnjhx.eu
 eaxpifdtwsv.biz
+fhvjsmtkirihxh.xyz
 ywjgjvpuyitnbiw.info
 fdehgchykmiqwdg.info
 kcdfajaxngiff.info
 kqlxtqptsmys.in
 uhgmnigjpf.biz
 ohplsuljopekq.biz
+bddadevlpkwrrmud.xyz
 trust-s-b.com
 bqbbsfdw.be
 prest54538hnksjn4kjfwdbhwere.hotchunman.com
 sqrgvbgfyya.org
+uhhvhjqowpgopq.xyz
 blxbymhjva.info
 y4bxj.adozeuds.com
 bin1.kns1.al
@@ -289,6 +322,8 @@ fyqtguo.biz
 ytcijiooxdtlbevrh.info
 sdwempsovemtr.yt
 dqtfhkgskushlum.org
+ltpwqva.xyz
+kjkwjqvqrjocpi.xyz
 gwe32fdr74bhfsyujb34gfszfv.zatcurr.com
 ahsqbeospcdrngfv.info
 k34ew.keyedgell.com
@@ -302,22 +337,31 @@ as3ws.fopyirr.com
 nhhyxorxbxarxe.org
 ycvcjbhgkmsiyhdd.info
 bciuemfaapyf.biz
+urulvtffwoq.xyz
 lzediamike.trade
+hycninyxuaa.xyz
 zjfq4lnfbs7pncr5.onion.to
 zjfq4lnfbs7pncr5.tor2web.org
 4kqd3hmqgptupi3p.termprior.men
 4kqd3hmqgptupi3p.goshare.red
 4kqd3hmqgptupi3p.stopsage.gdn
+fmirgordkhig.xyz
 4kqd3hmqgptupi3p.needmight.win
 4kqd3hmqgptupi3p.heardbids.date
 4kqd3hmqgptupi3p.outputon.asia
+gsmdqrmqddqtuv.xyz
+4kqd3hmqgptupi3p.nearlybut.us
+arddxjkwrp.xyz
+unocl45trpuoefft.knowhands.us
 4kqd3hmqgptupi3p.liescale.in
 vrympoqs5ra34nfo.torhelper.pl
 52uo5k3t73ypjije.lethints.date
 4kqd3hmqgptupi3p.insystem.men
 52uo5k3t73ypjije.insystem.men
 4kqd3hmqgptupi3p.themevery.win
+wvltrlrnf.xyz
 jaaphram.com
+trxswbwxhr.xyz
 52uo5k3t73ypjije.kas17.com
 unocl45trpuoefft.ageshere.club
 52uo5k3t73ypjije.loanshown.info
@@ -336,7 +380,9 @@ wjtqjleommc4z46i.salethe.gdn
 vodahelp.sytes.net
 4kqd3hmqgptupi3p.eventeach.gdn
 4kqd3hmqgptupi3p.easyits.black
+4kqd3hmqgptupi3p.bookjumps.us
 4kqd3hmqgptupi3p.foodtopic.mobi
+4kqd3hmqgptupi3p.mustspace.us
 4kqd3hmqgptupi3p.asfall.in
 52uo5k3t73ypjije.catfills.mobi
 4kqd3hmqgptupi3p.anypicked.red
@@ -352,6 +398,8 @@ eywlmqugxx.info
 4kqd3hmqgptupi3p.sentowing.trade
 4kqd3hmqgptupi3p.tankplain.date
 4kqd3hmqgptupi3p.somegave.info
+4kqd3hmqgptupi3p.sitcalls.us
+jfmiondv.xyz
 kaydayeuti.axfree.com
 jhomitevd2abj3fk.onion.to
 dbimbem.axfree.com
@@ -363,6 +411,8 @@ avast-mail-security.download
 fqtdrnqmeofknd.biz
 umjjvccteg.biz
 wbaskcsxiffiax.info
+wpvvusso.xyz
+muuojcu.xyz
 hanocomin.com
 pdlbtnfhtoxghb.org
 zutzt67dcxr6mxcn.onion.to
@@ -389,6 +439,7 @@ fmarchzeetequwxtw.wang
 ddobnajanu.club
 jhdgh.club
 2ymh2gnnbg6pgq2r.gremsot.pl
+37kddsserrt.xyz
 code.blaztech.gdn
 pornohd24.com
 alvoportas.com.br
@@ -408,6 +459,8 @@ gyalkingerz.com
 dmwajvm.fr
 uuwflbmjmi.eu
 qfuxosx.eu
+exnqhgk.xyz
+waduavfijwkanvf.xyz
 slap.alliancekl.com
 kjkdndskjl.info
 jad.fisbonline.com
@@ -419,7 +472,34 @@ front.postmaster.services
 grati.cf
 pagaldaily.com
 hi-j.com
+#
+# STATISTICS
+#
+# Total In Database: 107115
+# Total In Report:   2198
+# Percent of Total:  2.05 %
+#
+# END
+#
+#  finished list generation: Sun Dec  2 04:09:41 2018 UTC
+#
+#   DShield.org Suspicious Domain List
+#    (c) 2018 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://www.dshield.org/feeds/suspiciousdomains_Medium.txt
+#
+#   comments: info@dshield.org
+#    updated: Sun Dec  2 04:09:41 2018 UTC
+#   
+#    This list consists of Medium Level Sensitivity website URLs
+#     Columns (tab delimited):
+#
+#      (1) site
+#
+Site
 jazmany.cu.ma
+www.tekyalhaja.xyz
 machine.cu.ma
 cerberhhyed5frqa.cmti5o.win
 panel.vargakragard.se
@@ -461,6 +541,7 @@ escuelanet.com
 updating-flash.cloudapp.net
 rbwubtpsyokqn.info
 franka.in.net
+ijoe.xyz
 cerberhhyed5frqa.305iot.win
 nancycemt1225.ddns.net
 cerberhhyed5frqa.moneu5.win
@@ -490,7 +571,9 @@ littwronthath.net
 cerberhhyed5frqa.as13fd.win
 ns416017.ip-37-187-144.eu
 cerberhhyed5frqa.to6maq.win
+fnjyygovdjyemga.xyz
 dino1.ddf.al
+uxvvm.us
 junllian.net
 6g4ds.froekuge.com
 mm266.bplaced.com
@@ -544,9 +627,11 @@ porschecosv.com
 cerberhhyed5frqa.xmfu59.win
 blog.raw-recruits.com
 securetalk.cwsurf.de
+tech-dan.xyz
 pmenboeqhyrpvomq.paypoints.red
 extremesports.kz
 fretiolo.com
+winhelptech.xyz
 www.orquestanacaona.cult.cu
 leon10.5gbfree.com
 cerberhhyed5frqa.45kgok.win
@@ -563,6 +648,7 @@ sv1.eyeonmusica.it
 32kl2rwsjvqjeui7.onion.cab
 update.rifugiopontese.it
 finalcrashtest.co.nz
+yuysikankhqvdwdv.xyz
 b4youfred5485jgsa3453f.italazudda.com
 analiticwebexperience.com
 projects.globaltronics.net
@@ -572,6 +658,7 @@ genteatsss.com
 jangasm.org
 cerberhhyed5frqa.azlto5.win
 ns513726.ip-192-99-148.net
+baliwag.xyz
 ricasad.sx
 sslsam.com
 27lelchgcvs2wpm7.wins4n.win
@@ -615,6 +702,8 @@ shaktitextileengr.com
 27lelchgcvs2wpm7.bonbestal.asia
 oehknf74ohqlfnpq9rhfgcq93g.hateflux.com
 dattinggate.com
+tekadrian.xyz
+go.everli-killz.xyz
 cerberhhyed5frqa.we34re.win
 gitybdjgbxd.nl
 stats.lead.mysitehosted.com
@@ -650,6 +739,7 @@ pnyviolg.eu
 wasabi.mine.nu
 ice.ip64.net
 cerberhhyed5frqa.m5gips.win
+tekcharles.xyz
 4kqd3hmqgptupi3p.gletterstan.trade
 google.poultrymiddleeast.com
 jayboyd.t15.org
@@ -696,25 +786,31 @@ naijabids.co.uk
 cerberhhyed5frqa.mix3hi.win
 apple-trusted.com
 prtscrinsertcn.net
+tekchuks.xyz
 uj5nj.onanwhit.com
 egovrxvuspxck.be
 k3cxd.pileanoted.com
 xyhhuxa.be
 kh5jfnvkk5twerfnku5twuilrnglnuw45yhlw.vealsithe.com
+omeaswslhgdw.xyz
 gvludcvhcrjwmgq.in
+aarnknthc.xyz
 k47d3.proporr.com
 bnjhx.eu
 eaxpifdtwsv.biz
+fhvjsmtkirihxh.xyz
 ywjgjvpuyitnbiw.info
 fdehgchykmiqwdg.info
 kcdfajaxngiff.info
 kqlxtqptsmys.in
 uhgmnigjpf.biz
 ohplsuljopekq.biz
+bddadevlpkwrrmud.xyz
 trust-s-b.com
 bqbbsfdw.be
 prest54538hnksjn4kjfwdbhwere.hotchunman.com
 sqrgvbgfyya.org
+uhhvhjqowpgopq.xyz
 blxbymhjva.info
 y4bxj.adozeuds.com
 bin1.kns1.al
@@ -737,7 +833,9 @@ fyqtguo.biz
 ytcijiooxdtlbevrh.info
 sdwempsovemtr.yt
 dqtfhkgskushlum.org
+ltpwqva.xyz
 hrfgd74nfksjdcnnklnwefvdsf.materdunst.com
+kjkwjqvqrjocpi.xyz
 gwe32fdr74bhfsyujb34gfszfv.zatcurr.com
 ahsqbeospcdrngfv.info
 k34ew.keyedgell.com
@@ -752,17 +850,24 @@ nhhyxorxbxarxe.org
 t54ndnku456ngkwsudqer.wallymac.com
 ycvcjbhgkmsiyhdd.info
 bciuemfaapyf.biz
+urulvtffwoq.xyz
 lzediamike.trade
+hycninyxuaa.xyz
 zjfq4lnfbs7pncr5.onion.to
 zjfq4lnfbs7pncr5.tor2web.org
 kroatien-urlaub.com.hr
 4kqd3hmqgptupi3p.termprior.men
 4kqd3hmqgptupi3p.goshare.red
 4kqd3hmqgptupi3p.stopsage.gdn
+fmirgordkhig.xyz
 4kqd3hmqgptupi3p.needmight.win
 4kqd3hmqgptupi3p.heardbids.date
 4kqd3hmqgptupi3p.outputon.asia
+gsmdqrmqddqtuv.xyz
+4kqd3hmqgptupi3p.nearlybut.us
+arddxjkwrp.xyz
 unocl45trpuoefft.meetsface.win
+unocl45trpuoefft.knowhands.us
 4kqd3hmqgptupi3p.liescale.in
 vrympoqs5ra34nfo.torhelper.pl
 52uo5k3t73ypjije.lethints.date
@@ -770,7 +875,9 @@ vrympoqs5ra34nfo.torhelper.pl
 unocl45trpuoefft.metpast.date
 52uo5k3t73ypjije.insystem.men
 4kqd3hmqgptupi3p.themevery.win
+wvltrlrnf.xyz
 jaaphram.com
+trxswbwxhr.xyz
 www.weingut-maurer.com
 52uo5k3t73ypjije.kas17.com
 unocl45trpuoefft.ageshere.club
@@ -791,7 +898,9 @@ wjtqjleommc4z46i.salethe.gdn
 vodahelp.sytes.net
 4kqd3hmqgptupi3p.eventeach.gdn
 4kqd3hmqgptupi3p.easyits.black
+4kqd3hmqgptupi3p.bookjumps.us
 4kqd3hmqgptupi3p.foodtopic.mobi
+4kqd3hmqgptupi3p.mustspace.us
 4kqd3hmqgptupi3p.asfall.in
 52uo5k3t73ypjije.catfills.mobi
 www.tatirivoire.com.br
@@ -808,6 +917,8 @@ eywlmqugxx.info
 4kqd3hmqgptupi3p.sentowing.trade
 4kqd3hmqgptupi3p.tankplain.date
 4kqd3hmqgptupi3p.somegave.info
+4kqd3hmqgptupi3p.sitcalls.us
+jfmiondv.xyz
 kaydayeuti.axfree.com
 jhomitevd2abj3fk.onion.to
 dbimbem.axfree.com
@@ -821,6 +932,8 @@ fqtdrnqmeofknd.biz
 instinctentertainment.ca
 umjjvccteg.biz
 wbaskcsxiffiax.info
+wpvvusso.xyz
+muuojcu.xyz
 www.osregio.de
 hanocomin.com
 pdlbtnfhtoxghb.org
@@ -852,6 +965,7 @@ ddobnajanu.club
 jhdgh.club
 2ymh2gnnbg6pgq2r.gremsot.pl
 liuz112.ddns.net
+37kddsserrt.xyz
 code.blaztech.gdn
 pornohd24.com
 alvoportas.com.br
@@ -873,6 +987,8 @@ gyalkingerz.com
 dmwajvm.fr
 uuwflbmjmi.eu
 qfuxosx.eu
+exnqhgk.xyz
+waduavfijwkanvf.xyz
 slap.alliancekl.com
 flex.comonwealthplc.com
 kjkdndskjl.info
@@ -897,3 +1013,13 @@ clnp.eu
 weiye-0fc.com
 etete.eu
 brightqain.com
+#
+# STATISTICS
+#
+# Total In Database: 107115
+# Total In Report:   2304
+# Percent of Total:  2.15 %
+#
+# END
+#
+#  finished list generation: Sun Dec  2 04:09:41 2018 UTC

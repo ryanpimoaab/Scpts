@@ -32968,7 +32968,6 @@ paramount.go2cloud.org
 paranoicbarhuhw.download
 parenting.searchwho.com
 pareticpaypdtpq.download
-paris.typepad.com
 paritycube.go2cloud.org
 park.above.com
 parking.parklogic.com
@@ -44882,7 +44881,6 @@ www.tvsquad.com
 www.twemyksybtripewomen.review
 www.twqlnorqcmesquite.review
 www.tynt.com
-www.typepad.com
 www.typiol.com
 www.tyxo.bg
 www.tyzqxseppukus.review
@@ -45735,4 +45733,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45740
+# hosts: 45738

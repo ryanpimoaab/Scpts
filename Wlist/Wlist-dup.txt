@@ -559,3 +559,4 @@ track.aliexpress.com
 stats.nba.com
 support.binance.com
 ok.ru
+zoom.us

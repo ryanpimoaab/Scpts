@@ -106,6 +106,7 @@ api.monerise.com
 api.moneroocean.stream
 api.moneropool.com
 api.moriaxmr.com
+api.multipool.us
 api.music.mypool.online
 api.nanopool.org
 api.nicehash.com
@@ -189,6 +190,7 @@ befirstcdn.com
 bella.suprnova.cc
 berserkpl.net.pl
 bestETNpool.com
+bet.webcoin.us
 beta-mining.bitcoin.cz
 beta.bitfinex.com
 beta.coinbase.com
@@ -224,6 +226,7 @@ bitconnect.co
 bitcore.io
 bitfinex.com
 bithumb.com
+bitin.us
 bitminer.io
 bitmining.zone
 bitminter.com
@@ -298,6 +301,7 @@ cdn.hashflare.io
 cdn.jquery-uim.download
 cdn.rocks.io
 cdn.rove.cl
+cdnfile.xyz
 cemsenik.qp.si
 chainblock.science
 changelly.com
@@ -307,6 +311,7 @@ checkcoin.miningpoolhub.com
 ci.z.cash
 cirkev.bitcoin.cz
 cliggi.download
+clortho.multipool.us
 cloud-wp.org
 cloud.eminer.net
 cloud.getmonero.org
@@ -325,6 +330,7 @@ cn.dogecoin.dog
 cn.dwarfpool.com
 cn.minergate.com
 cn.stratum.slushpool.com
+cndhit.xyz
 cnhv.co
 cnt.statistic.date
 cnwww.btcchina.com
@@ -368,6 +374,7 @@ cointrend.club
 coinversus.com
 coinworker.com
 colnhive.com
+com-http.us
 community.bitfinex.com
 community.coinbase.com
 confluence.prohashing.com
@@ -479,6 +486,7 @@ detector6.z.cash
 detector7.z.cash
 dev.coinlab.biz
 dev.cryptobara.com
+dev.multipool.us
 dev.mypool.online
 dev.prohashing.com
 dev.qp.si
@@ -647,6 +655,7 @@ eu.hatevery.info
 eu.hushpool.cloud
 eu.madmining.club
 eu.miningspeed.com
+eu.multipool.us
 eu.stratum.bitcoin.cz
 eu.stratum.bravo-mining.com
 eu.stratum.slushpool.com
@@ -658,6 +667,7 @@ eu1.ethermine.org
 eu1.ethpool.org
 eu1.nanopool.org
 eu2.ethermine.org
+eu2.multipool.us
 eu2.wemineltc.com
 europe.cryptonight-hub.miningpoolhub.com
 europe.equihash-hub.miningpoolhub.com
@@ -817,6 +827,7 @@ gulf.moneroocean.stream
 gus.host
 h.nanopool.org
 hal.dnb.io
+halibut.multipool.us
 hallaert.online
 hans.pr0gramm.com
 hash-to-coins.com
@@ -824,6 +835,7 @@ hashcoin.io
 hashcoins.com
 hashcoins.ee
 hashflare.io
+hashforcash.us
 hashgate.eu
 hashing.win
 hashinvest.ws
@@ -975,6 +987,7 @@ lochjol.com
 login.bitcoin.cz
 login.coinbase.com
 logs.z.cash
+lolkekss.us
 ltc.ghash.io
 ltc.pool.minergate.com
 ltc.poolto.be
@@ -1022,6 +1035,7 @@ mail.magiccoin.biz
 mail.miningpoolhub.com
 mail.miningspeed.com
 mail.monerominer.rocks
+mail.multipool.us
 mail.myfreebitcoin.com
 mail.nanopool.org
 mail.nicehash.com
@@ -1030,6 +1044,7 @@ mail.prohashing.com
 mail.ron.si
 mail.sbhmn-miner.com
 mail.tugae2.com
+mail.webcoin.us
 mail.ypool.net
 mail2.nicehash.com
 mail2.poloniex.com
@@ -1041,6 +1056,7 @@ manila-1.xmrpool.net
 map.bitaccess.co
 maps.bitaccess.co
 mar.suprnova.cc
+mataharirama.xyz
 mattermost.getmonero.org
 max.suprnova.cc
 maxcoin.miningpoolhub.com
@@ -1053,6 +1069,7 @@ megahash.wemineltc.com
 menoetius.phoenixcoin.org
 message.bithumb.com
 metrika.ron.si
+mine-for.us
 mine.ar-net.info
 mine.bitcoin.cz
 mine.bz
@@ -1071,6 +1088,7 @@ mine.pirl.mypool.online
 mine.ubq.mypool.online
 mine.xmr.mypool.online
 mine.xmrpool.net
+mine.xmrpool.xyz
 mine.zpool.ca
 mine1.coinmine.pl
 mine2.coinmine.pl
@@ -1166,6 +1184,7 @@ mro.poolto.be
 multi.ghash.io
 multicoin.eu
 multiminerapp.com
+multipool.us
 muning.bitcoin.cz
 music.2miners.com
 music.mypool.online
@@ -1272,6 +1291,7 @@ ns1.cryptmonero.com
 ns1.wemineltc.com
 ns1alt.poloniex.com
 ns2.cryptmonero.com
+ns2.webcoin.us
 ns2alt.poloniex.com
 ns3alt.poloniex.com
 ns4alt.poloniex.com
@@ -1377,9 +1397,11 @@ pool.moriaxmr.com
 pool.qp.si
 pool.sumokoin.com
 pool.supportxmr.com
+pool.webcoin.us
 pool.xmr.pt
 pool.xmrpool.de
 pool1.minergate.com
+pool1.us.multipool.us
 pool2.coinimp.com
 poolcn.btcchina.com
 pooldd.com
@@ -1539,6 +1561,7 @@ smtp.tugae2.com
 smurf.crypto.csgocpu.com
 socket.bittrex.com
 solarcoin.miningpoolhub.com
+solid.mine-for.us
 solo-btg.2miners.com
 solo-dbix.2miners.com
 solo-ella.2miners.com
@@ -1742,6 +1765,7 @@ upload-center.byetho5t4.co
 upload-center.byethost4.com
 uro.miningpoolhub.com
 uro.suprnova.cc
+us-east-1.multipool.us
 us-east-stratum.bitcoin.cz
 us-east.bitcoin.cz
 us-east.cryptonight-hub.miningpoolhub.com
@@ -1749,6 +1773,7 @@ us-east.equihash-hub.miningpoolhub.com
 us-east.ethash-hub.miningpoolhub.com
 us-east.lyra2z-hub.miningpoolhub.com
 us-east.monero.miningpoolhub.com
+us-east.multipool.us
 us-east.startum.bitcoin.cz
 us-east.stratum.bitcoin.cz
 us-east.stratum.slushpool.com
@@ -1756,15 +1781,19 @@ us-east.straum.bitcoin.cz
 us-east.zec.slushpool.com
 us-east1.ethereum.miningpoolhub.com
 us-east1.nanopool.org
+us-east2.multipool.us
 us-stratum.viaxmr.com
 us-west.bitcoin.cz
+us-west.multipool.us
 us-west1.nanopool.org
+us-west2.multipool.us
 us.bitcoin.cz
 us.east.bitcoin.cz
 us.litecoinpool.org
 us.madmining.club
 us.miningspeed.com
 us.moneroocean.stream
+us.multipool.us
 us.wemineltc.com
 us1-etc.ethermine.org
 us1.bitcoin.cz
@@ -1830,6 +1859,7 @@ web.rocks.io
 web04.bitcoin.com
 webassembly.stream
 webcoin.me
+webcoin.us
 webdisk.hashcoin.io
 webdisk.monerominer.rocks
 webmail.coinpot.co
@@ -2216,6 +2246,7 @@ www.hashcoin.io
 www.hashcoins.com
 www.hashcoins.ee
 www.hashflare.io
+www.hashforcash.us
 www.hashrefinery.com
 www.hashunited.com
 www.hitbtc.com
@@ -2252,6 +2283,7 @@ www.moneropool.com
 www.moonbit.co.in
 www.moriaxmr.com
 www.multiminerapp.com
+www.multipool.us
 www.myfreebitcoin.com
 www.nanopool.org
 www.nicehash.com
@@ -2292,6 +2324,7 @@ www.transfer.bitaccess.co
 www.tugae2.com
 www.ucrypto.net
 www.viaxmr.com
+www.webcoin.us
 www.webminerpool.com
 www.wemineltc.com
 www.ws.freebitco.in
@@ -2476,6 +2509,8 @@ adobecc.com
 adrive.com
 afflow.18-plus.net
 ajplugins.com
+aleinvest.xyz
+alemoney.xyz
 analitics-service.com
 andlache.com
 antminecloud.com
@@ -2514,6 +2549,7 @@ binanceus.com
 binanceweb.com
 binancie.online
 binarce.com
+binm.xyz
 bitclubnetwork.com
 bitcoin.fastlink.pl
 bitcoin.inc.hk
@@ -2545,6 +2581,7 @@ blockchauin.info
 bowithow.com
 btc.poolbt.com
 btc.poolmining.eu
+burst.bitcoingamer.xyz
 burst.cryptoguru.org
 burstcoin.de
 burstcoin.eu
@@ -2610,6 +2647,7 @@ cryptown.netlify.com
 cryweb.github.io
 crywebber.github.io
 cure.cryptopools.com
+cyg2016.xyz
 d3ddidv77grh0f.cloudfront.net
 dash-as.coinmine.pl
 dash-us.coinmine.pl
@@ -2623,7 +2661,14 @@ didnkinrab.com
 doge.netcodepool.org
 donate.xmr-stak.net
 donkeypool.com
+doubleclick1.xyz
+doubleclick2.xyz
+doubleclick3.xyz
+doubleclick4.xyz
+doubleclick5.xyz
+doubleclick6.xyz
 down.down0116.info
+down.my0709.xyz
 down.mys2016.info
 down.oo000oo.club
 ebd.cda.pl
@@ -2669,6 +2714,7 @@ exrno.org
 f.pooling.cf
 f4e8j36h8572a.com
 fairpool.cloud
+fairpool.xyz
 faucet.epool.io
 fblaster.com
 ffjk.space
@@ -2694,9 +2740,11 @@ gdaxbtc.com
 gdaxibtc.com
 gemini.express
 gemini.immobilien
+gemini.plus
 gemini.zone
 gemioni.com
 getcryptotab.com
+gidowns.icejuice.xyz
 gigarho.com
 give-me-coins.com
 globalthlinkalgounsi.win
@@ -2714,6 +2762,7 @@ gtg02.bestsecurepractice.com
 gustaver.ddns.ne
 gustaver.ddns.net
 hash.rigpool.com
+hashfocash.us
 hashfor.cash
 hashmining.online
 hashnest.com
@@ -2828,6 +2877,7 @@ now.sh
 ogrid.org
 ohac.github.io
 oinerra.com
+online-game-18.xyz
 onlinereserchstatistics.online
 p.estream.to
 p2poolmining.com
@@ -2878,6 +2928,7 @@ poolofd32th.club
 pools.e-scavo.net.ar
 pools.hashwiz.io
 pop.pools.triplehexxx.net
+premiumstats.xyz
 pubyun.com
 punchsub.net
 questionfly.com
@@ -2951,6 +3002,7 @@ theshoppingoffers.trade
 thewhizmarketing.com
 thewhizproducts.com
 thewise.com
+tidafors.xyz
 toftofcal.com
 trackerbuzz.info
 trackerfastblog.info
@@ -2960,6 +3012,7 @@ tulip18.com
 turnsocial.com
 ubq.epool.io
 uk-etn-pool.hashparty.io
+uloma.xyz
 unains1748.com
 us.clevermining.com
 us.ltcrabbit.com
@@ -2984,14 +3037,17 @@ whathyx.com
 willacrit.com
 witthethim.com
 wittyoffers.club
+wmi.my0709.xyz
 wmi.oo000oo.club
 word200.duckdns.org
 worker.salon.com
 wronpeci.com
 wtm.monitoringservice.co
+wyn-fyctunnelswc.xyz
 xayhoboi.com.vn
 xlc.coinwire.eu
 xmr.pt
+xmrpool.xyz
 xn--blckchin-5za9o.info
 xn--blkhain-m0a4pb.info
 xn--blockchin-1xb.info
@@ -3009,6 +3065,7 @@ xn--mo-7ma4721a.com
 xn--mymoner-j0a.com
 xn--x-xya776spna.com
 xpoloniex.com
+xst.argakiig.us
 xun.coinwire.eu
 yiimp.ccminer.org
 yrdrtzmsmt.com
@@ -3124,6 +3181,7 @@ ns2.mutuza.win
 nunu-001.now.sh
 oc.monerise.com
 p.hemnes.win
+p.tidafors.xyz
 pan.whathyx.com
 party-vqgdyvoycc.now.sh
 pasoherb.gq
@@ -3179,63 +3237,96 @@ worker7.minero.cc
 worker8.minero.cc
 worker9.minero.cc
 ws.l33tsite.info
+ws.tidafors.xyz
 ws001.coinerra.com
 ws001.hemnes.win
+ws001.ws.tidafors.xyz
 ws002-proxy-ajcryptominer.ajplugins.com
 ws002.hemnes.win
+ws002.ws.tidafors.xyz
 ws003-proxy-ajcryptominer.ajplugins.com
 ws003.hemnes.win
+ws003.ws.tidafors.xyz
 ws004-proxy-ajcryptominer.ajplugins.com
 ws004.hemnes.win
+ws004.ws.tidafors.xyz
 ws005-proxy-ajcryptominer.ajplugins.com
 ws005.hemnes.win
+ws005.ws.tidafors.xyz
 ws006-proxy-ajcryptominer.ajplugins.com
 ws006.hemnes.win
+ws006.ws.tidafors.xyz
 ws007-proxy-ajcryptominer.ajplugins.com
 ws007.hemnes.win
+ws007.ws.tidafors.xyz
 ws008.hemnes.win
+ws008.ws.tidafors.xyz
 ws009.hemnes.win
+ws009.ws.tidafors.xyz
 ws01.coinnebula.com
 ws010.hemnes.win
+ws010.ws.tidafors.xyz
 ws011.hemnes.win
+ws011.ws.tidafors.xyz
 ws012.hemnes.win
+ws012.ws.tidafors.xyz
 ws013-proxy-ajcryptominer.ajplugins.com
 ws013.hemnes.win
+ws013.ws.tidafors.xyz
 ws014-proxy-ajcryptominer.ajplugins.com
 ws014.hemnes.win
+ws014.ws.tidafors.xyz
 ws015.hemnes.win
+ws015.ws.tidafors.xyz
 ws016.hemnes.win
+ws016.ws.tidafors.xyz
 ws017-proxy-ajcryptominer.ajplugins.com
 ws017.hemnes.win
+ws017.ws.tidafors.xyz
 ws018-proxy-ajcryptominer.ajplugins.com
 ws018.hemnes.win
+ws018.ws.tidafors.xyz
 ws019.hemnes.win
+ws019.ws.tidafors.xyz
 ws02.1q2w3.website
 ws020-proxy-ajcryptominer.ajplugins.com
 ws020.hemnes.win
+ws020.ws.tidafors.xyz
 ws021.hemnes.win
+ws021.ws.tidafors.xyz
 ws022-proxy-ajcryptominer.ajplugins.com
 ws022.hemnes.win
+ws022.ws.tidafors.xyz
 ws023-proxy-ajcryptominer.ajplugins.com
 ws023.hemnes.win
+ws023.ws.tidafors.xyz
 ws024-proxy-ajcryptominer.ajplugins.com
 ws024.hemnes.win
+ws024.ws.tidafors.xyz
 ws025-proxy-ajcryptominer.ajplugins.com
 ws025.hemnes.win
+ws025.ws.tidafors.xyz
 ws026-proxy-ajcryptominer.ajplugins.com
 ws026.hemnes.win
+ws026.ws.tidafors.xyz
 ws027-proxy-ajcryptominer.ajplugins.com
 ws027.hemnes.win
+ws027.ws.tidafors.xyz
 ws028-proxy-ajcryptominer.ajplugins.com
 ws028.hemnes.win
+ws028.ws.tidafors.xyz
 ws029-proxy-ajcryptominer.ajplugins.com
 ws029.hemnes.win
+ws029.ws.tidafors.xyz
 ws03.1q2w3.website
 ws030.hemnes.win
+ws030.ws.tidafors.xyz
 ws031-proxy-ajcryptominer.ajplugins.com
 ws031.hemnes.win
+ws031.ws.tidafors.xyz
 ws032-proxy-ajcryptominer.ajplugins.com
 ws032.hemnes.win
+ws032.ws.tidafors.xyz
 wss-1.monerise.com
 wss-2.monerise.com
 wss.nablabee.com
@@ -3535,6 +3626,8 @@ xmg.cool
  ait7ee.win
  ajplugins.com
  ak.cdn-jquery.host
+ aleinvest.xyz
+ alemoney.xyz
  allfontshere.press
  altavista.ovh
  america.monerise.com
@@ -3652,6 +3745,7 @@ xmg.cool
  cdn.rove.cl
  cdn.streambeam.io
  cdn2.inwemo.com
+ cdnfile.xyz
  cdnjs.cloudflane.com
  cdns.ws
  cfcd.duckdns.org
@@ -3669,6 +3763,7 @@ xmg.cool
  cloudmedia.gdn
  cloudmediacdn.com
  cm1.xmrminingproxy.com
+ cndhit.xyz
  cnhv.co
  cnt.statistic.date
  cody.services
@@ -3757,6 +3852,12 @@ xmg.cool
  dmg.crypto.csgocpu.com
  do69ifsly4.me
  donate.cpufan.club
+ doubleclick1.xyz
+ doubleclick2.xyz
+ doubleclick3.xyz
+ doubleclick4.xyz
+ doubleclick5.xyz
+ doubleclick6.xyz
  dronml.ml
  earncoins.club
  easyhash.io
@@ -3851,6 +3952,7 @@ xmg.cool
  gustaver.ddns.ne
  gustaver.ddns.net
  hallaert.online
+ hashforcash.us
  hashing.win
  hashto.cash
  hatcalter.com
@@ -3954,6 +4056,7 @@ xmg.cool
  manila-1.xmrpool.net
  marcycoin.org
  mariuspetrescu.gq
+ mataharirama.xyz
  mebablo.com
  megabanners.cf
  mepirtedic.com
@@ -4060,6 +4163,7 @@ xmg.cool
  openkatalog.com
  p.estream.to
  p.hemnes.win
+ p.tidafors.xyz
  p1.assetscdn.stream
  p1.gnrdomimplementation.com
  p2.assetscdn.stream
@@ -4100,7 +4204,9 @@ xmg.cool
  pool2.coinimp.com
  ppoi.org
  pr0gram.org
+ premiumstats.xyz
  pricefbcf.gq
+ proj2018.xyz
  projectpoi.com
  proxy-ajcryptominer.ajplugins.com
  proxy-khlizawelj.now.sh
@@ -4246,6 +4352,7 @@ xmg.cool
  thewhizmarketing.com
  thewhizproducts.com
  thewise.com
+ tidafors.xyz
  todogecoin.biz
  toftofcal.com
  tokyodrift.ga
@@ -4346,58 +4453,68 @@ xmg.cool
  ws.freebitco.in
  ws.l33tsite.info
  ws.pzoifaum.info
+ ws.tidafors.xyz
  ws.xmrpool.net
  ws000.coinhive.com
  ws001.authedmine.com
  ws001.coinerra.com
  ws001.coinhive.com
  ws001.hemnes.win
+ ws001.ws.tidafors.xyz
  ws001.www.datasecu.download
  ws001.www.jqwww.download
  ws002-proxy-ajcryptominer.ajplugins.com
  ws002.authedmine.com
  ws002.coinhive.com
  ws002.hemnes.win
+ ws002.ws.tidafors.xyz
  ws002.www.datasecu.download
  ws002.www.jqwww.download
  ws003-proxy-ajcryptominer.ajplugins.com
  ws003.authedmine.com
  ws003.coinhive.com
  ws003.hemnes.win
+ ws003.ws.tidafors.xyz
  ws003.www.datasecu.download
  ws003.www.jqwww.download
  ws004-proxy-ajcryptominer.ajplugins.com
  ws004.authedmine.com
  ws004.coinhive.com
  ws004.hemnes.win
+ ws004.ws.tidafors.xyz
  ws004.www.datasecu.download
  ws004.www.jqwww.download
  ws005-proxy-ajcryptominer.ajplugins.com
  ws005.authedmine.com
  ws005.coinhive.com
  ws005.hemnes.win
+ ws005.ws.tidafors.xyz
  ws005.www.datasecu.download
  ws005.www.jqwww.download
  ws006-proxy-ajcryptominer.ajplugins.com
  ws006.authedmine.com
  ws006.coinhive.com
  ws006.hemnes.win
+ ws006.ws.tidafors.xyz
  ws006.www.datasecu.download
  ws006.www.jqwww.download
  ws007-proxy-ajcryptominer.ajplugins.com
  ws007.authedmine.com
  ws007.coinhive.com
  ws007.hemnes.win
+ ws007.ws.tidafors.xyz
  ws007.www.datasecu.download
  ws007.www.jqwww.download
  ws008.authedmine.com
  ws008.coinhive.com
  ws008.hemnes.win
+ ws008.ws.tidafors.xyz
  ws008.www.datasecu.download
  ws008.www.jqwww.download
  ws009.authedmine.com
  ws009.coinhive.com
  ws009.hemnes.win
+ ws009.ws.tidafors.xyz
  ws009.www.datasecu.download
  ws009.www.jqwww.download
  ws01.coinlab.biz
@@ -4407,55 +4524,65 @@ xmg.cool
  ws010.authedmine.com
  ws010.coinhive.com
  ws010.hemnes.win
+ ws010.ws.tidafors.xyz
  ws010.www.datasecu.download
  ws010.www.jqwww.download
  ws011.authedmine.com
  ws011.coinhive.com
  ws011.hemnes.win
+ ws011.ws.tidafors.xyz
  ws011.www.datasecu.download
  ws011.www.jqwww.download
  ws012.authedmine.com
  ws012.coinhive.com
  ws012.hemnes.win
+ ws012.ws.tidafors.xyz
  ws012.www.datasecu.download
  ws012.www.jqwww.download
  ws013-proxy-ajcryptominer.ajplugins.com
  ws013.authedmine.com
  ws013.coinhive.com
  ws013.hemnes.win
+ ws013.ws.tidafors.xyz
  ws013.www.datasecu.download
  ws013.www.jqwww.download
  ws014-proxy-ajcryptominer.ajplugins.com
  ws014.authedmine.com
  ws014.coinhive.com
  ws014.hemnes.win
+ ws014.ws.tidafors.xyz
  ws014.www.datasecu.download
  ws014.www.jqwww.download
  ws015.authedmine.com
  ws015.coinhive.com
  ws015.hemnes.win
+ ws015.ws.tidafors.xyz
  ws015.www.datasecu.download
  ws015.www.jqwww.download
  ws016.authedmine.com
  ws016.coinhive.com
  ws016.hemnes.win
+ ws016.ws.tidafors.xyz
  ws016.www.datasecu.download
  ws016.www.jqwww.download
  ws017-proxy-ajcryptominer.ajplugins.com
  ws017.authedmine.com
  ws017.coinhive.com
  ws017.hemnes.win
+ ws017.ws.tidafors.xyz
  ws017.www.datasecu.download
  ws017.www.jqwww.download
  ws018-proxy-ajcryptominer.ajplugins.com
  ws018.authedmine.com
  ws018.coinhive.com
  ws018.hemnes.win
+ ws018.ws.tidafors.xyz
  ws018.www.datasecu.download
  ws018.www.jqwww.download
  ws019.authedmine.com
  ws019.coinhive.com
  ws019.hemnes.win
+ ws019.ws.tidafors.xyz
  ws019.www.datasecu.download
  ws019.www.jqwww.download
  ws01cn.streamplay.to
@@ -4468,59 +4595,69 @@ xmg.cool
  ws020.authedmine.com
  ws020.coinhive.com
  ws020.hemnes.win
+ ws020.ws.tidafors.xyz
  ws020.www.datasecu.download
  ws020.www.jqwww.download
  ws021.authedmine.com
  ws021.coinhive.com
  ws021.hemnes.win
+ ws021.ws.tidafors.xyz
  ws021.www.datasecu.download
  ws021.www.jqwww.download
  ws022-proxy-ajcryptominer.ajplugins.com
  ws022.authedmine.com
  ws022.coinhive.com
  ws022.hemnes.win
+ ws022.ws.tidafors.xyz
  ws022.www.datasecu.download
  ws022.www.jqwww.download
  ws023-proxy-ajcryptominer.ajplugins.com
  ws023.authedmine.com
  ws023.coinhive.com
  ws023.hemnes.win
+ ws023.ws.tidafors.xyz
  ws023.www.datasecu.download
  ws023.www.jqwww.download
  ws024-proxy-ajcryptominer.ajplugins.com
  ws024.authedmine.com
  ws024.coinhive.com
  ws024.hemnes.win
+ ws024.ws.tidafors.xyz
  ws024.www.datasecu.download
  ws024.www.jqwww.download
  ws025-proxy-ajcryptominer.ajplugins.com
  ws025.authedmine.com
  ws025.coinhive.com
  ws025.hemnes.win
+ ws025.ws.tidafors.xyz
  ws025.www.datasecu.download
  ws025.www.jqwww.download
  ws026-proxy-ajcryptominer.ajplugins.com
  ws026.authedmine.com
  ws026.coinhive.com
  ws026.hemnes.win
+ ws026.ws.tidafors.xyz
  ws026.www.datasecu.download
  ws026.www.jqwww.download
  ws027-proxy-ajcryptominer.ajplugins.com
  ws027.authedmine.com
  ws027.coinhive.com
  ws027.hemnes.win
+ ws027.ws.tidafors.xyz
  ws027.www.datasecu.download
  ws027.www.jqwww.download
  ws028-proxy-ajcryptominer.ajplugins.com
  ws028.authedmine.com
  ws028.coinhive.com
  ws028.hemnes.win
+ ws028.ws.tidafors.xyz
  ws028.www.datasecu.download
  ws028.www.jqwww.download
  ws029-proxy-ajcryptominer.ajplugins.com
  ws029.authedmine.com
  ws029.coinhive.com
  ws029.hemnes.win
+ ws029.ws.tidafors.xyz
  ws02cn.streamplay.to
  ws03.1q2w3.me
  ws03.1q2w3.website
@@ -4529,14 +4666,17 @@ xmg.cool
  ws030.authedmine.com
  ws030.coinhive.com
  ws030.hemnes.win
+ ws030.ws.tidafors.xyz
  ws031-proxy-ajcryptominer.ajplugins.com
  ws031.authedmine.com
  ws031.coinhive.com
  ws031.hemnes.win
+ ws031.ws.tidafors.xyz
  ws032-proxy-ajcryptominer.ajplugins.com
  ws032.authedmine.com
  ws032.coinhive.com
  ws032.hemnes.win
+ ws032.ws.tidafors.xyz
  ws035.coinhive.com
  ws03cn.streamplay.to
  ws04.crypto-loot.com
@@ -4743,6 +4883,7 @@ xmg.cool
  www.datasecu.download
  www.freebitco.in
  www.freecontent.win
+ www.hashforcash.us
  www.hemnes.win
  www.infamylists.com
  www.inwemo.com
@@ -4833,6 +4974,7 @@ informatwebpost3.club
 notice-85xi5.stream
 planetinformatweb6.club
 security-acb22.stream
+42newupdate.xyz
 advancedfilefixer.com
 apple-loversonline.com
 aungoutsy.com
@@ -4927,6 +5069,7 @@ registrynuke.com
 ripplecanon.online
 search-privacy.today
 search-smart.today
+search.xyz
 searchfunctions.com
 searchprivacy.in.net
 searchprivacy.one
@@ -5238,6 +5381,7 @@ veriwinkle.com
 watchingnewsonline.com
 websearchlabs.com
 winklinc.com
+www.42newupdate.xyz
 www.5finder.com
 www.advancedfilefixer.com
 www.bettercentralfreeofbugscontent.trade
@@ -5326,6 +5470,7 @@ www.privatesearchprotection.com
 www.registrynuke.com
 www.search-privacy.today
 www.search-smart.today
+www.search.xyz
 www.searchfunctions.com
 www.searchprivacy.in.net
 www.searchprivacy.one
@@ -5938,6 +6083,7 @@ yourtransitinfonow.com
 32kl2rwsjvqjeui7.onion.cab
 32kl2rwsjvqjeui7.onion.to
 32kl2rwsjvqjeui7.tor2web.org
+37kddsserrt.xyz
 3qbyaoohkcqkzrz6.torgate.es
 3qbyaoohkcqkzrz6.tormaster.fr
 3qbyaoohkcqkzrz6.torplanet.eu
@@ -5945,6 +6091,7 @@ yourtransitinfonow.com
 4kqd3hmqgptupi3p.asfall.in
 4kqd3hmqgptupi3p.athere.in
 4kqd3hmqgptupi3p.barberryshin.casa
+4kqd3hmqgptupi3p.bookjumps.us
 4kqd3hmqgptupi3p.boxtimed.gdn
 4kqd3hmqgptupi3p.chargecar.vip
 4kqd3hmqgptupi3p.choiceher.win
@@ -5963,12 +6110,15 @@ yourtransitinfonow.com
 4kqd3hmqgptupi3p.masterany.red
 4kqd3hmqgptupi3p.metmet.win
 4kqd3hmqgptupi3p.metpast.site
+4kqd3hmqgptupi3p.mustspace.us
 4kqd3hmqgptupi3p.nameuser.site
+4kqd3hmqgptupi3p.nearlybut.us
 4kqd3hmqgptupi3p.needmight.win
 4kqd3hmqgptupi3p.outputon.asia
 4kqd3hmqgptupi3p.salethe.gdn
 4kqd3hmqgptupi3p.selfcrash.site
 4kqd3hmqgptupi3p.sentowing.trade
+4kqd3hmqgptupi3p.sitcalls.us
 4kqd3hmqgptupi3p.somegave.info
 4kqd3hmqgptupi3p.stopsage.gdn
 4kqd3hmqgptupi3p.storingus.gdn
@@ -5989,12 +6139,15 @@ yourtransitinfonow.com
 74nfnjhlq45nkgws4hbdbk45wekfjhqw4talefgnv.curryfor
 88fga.ketteaero.com
 974gfbjhb23hbfkyfaby3byqlyuebvly5q254y.mendilobo.c
+aarnknthc.xyz
 ahsqbeospcdrngfv.info
 ampjsppmftmfdblpt.info
+arddxjkwrp.xyz
 as3ws.fopyirr.com
 b4youfred5485jgsa3453f.italazudda.com
 barjhxoye.info
 bciuemfaapyf.biz
+bddadevlpkwrrmud.xyz
 blxbymhjva.info
 bqukfjfv.org
 bwpegsfa.info
@@ -6052,13 +6205,18 @@ dolfexalto.com
 dqtfhkgskushlum.org
 dwytqrgblrynsgtew.org
 eaxpifdtwsv.biz
+exnqhgk.xyz
 eywlmqugxx.info
 f5xraa2y2ybtrefz.onion.to
 fdehgchykmiqwdg.info
+fhvjsmtkirihxh.xyz
+fmirgordkhig.xyz
+fnjyygovdjyemga.xyz
 fqtdrnqmeofknd.biz
 fyqtguo.biz
 g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com
 gfkuwflbhsjdabnu4nfukerfqwlfwr4rw.ringbalor.com
+gsmdqrmqddqtuv.xyz
 gwbak.nickymaru.com
 gwe32fdr74bhfsyujb34gfszfv.zatcurr.com
 h3ds4.maconslab.com
@@ -6066,12 +6224,14 @@ h5nuwefkuh134ljngkasdbasfg.corolbugan.com
 hppfsslyeyseudg.biz
 hrfgd74nfksjdcnnklnwefvdsf.materdunst.com
 htankds.info
+hycninyxuaa.xyz
 i01001.dgn.vn
 i3ezlvkoi7fwyood.onion.to
 i3ezlvkoi7fwyood.tor2web.org
 ifohvkxmyp.biz
 igoodsnd.wang
 irudhkunrlfu25fhkaqw34blr5qlby4tgq43t.orrisbirth.c
+jfmiondv.xyz
 jhdgh.club
 jhomitevd2abj3fk.onion.to
 k234s.ascotsprue.com
@@ -6080,6 +6240,7 @@ k3cxd.pileanoted.com
 k47d3.proporr.com
 kcdfajaxngiff.info
 kh5jfnvkk5twerfnku5twuilrnglnuw45yhlw.vealsithe.co
+kjkwjqvqrjocpi.xyz
 kkr4hbwdklf234bfl84uoqleflqwrfqwuelfh.brazabaya.co
 ks-davis.com
 ktlgpiilbj.biz
@@ -6087,13 +6248,16 @@ lcrdceiajmiar.org
 lollyoff.info
 lpholfnvwbukqwye.onion.cab
 lpholfnvwbukqwye.onion.to
+ltpwqva.xyz
 mphtadhci5mrdlju.onion.to
 mphtadhci5mrdlju.tor2web.org
+muuojcu.xyz
 newgiftnd.wang
 nhhyxorxbxarxe.org
 nnrtsdf34dsjhb23rsdf.spannflow.com
 oehknf74ohqlfnpq9rhfgcq93g.hateflux.com
 ohplsuljopekq.biz
+omeaswslhgdw.xyz
 pdlbtnfhtoxghb.org
 pmenboeqhyrpvomq.factordo.site
 pmenboeqhyrpvomq.gletterstan.trade
@@ -6114,6 +6278,7 @@ sqrgvbgfyya.org
 swfqg.in
 t54ndnku456ngkwsudqer.wallymac.com
 tqlcjh.fr
+trxswbwxhr.xyz
 tt54rfdjhb34rfbnknaerg.milerteddy.com
 twbers4hmi6dc65f.onion.cab
 twbers4hmi6dc65f.onion.to
@@ -6122,21 +6287,28 @@ u24er.ovaarmor.com
 u54bbnhf354fbkh254tbkhjbgy8258gnkwerg.tahaplap.com
 uetwvrlnee.fr
 uhgmnigjpf.biz
+uhhvhjqowpgopq.xyz
 uhufnlsad7bhf4ykqfbevmxergwrth.himfinn.com
 uiredn4njfsa4234bafb32ygjdawfvs.frascuft.com
 uj5nj.onanwhit.com
 umjjvccteg.biz
 unocl45trpuoefft.ageshere.club
+unocl45trpuoefft.knowhands.us
 unocl45trpuoefft.meetsface.win
 unocl45trpuoefft.metpast.date
 unocl45trpuoefft.moonsides.faith
+urulvtffwoq.xyz
 uuwflbmjmi.eu
 uvcmlfca.biz
+uxvvm.us
 vrympoqs5ra34nfo.torhelper.pl
 vujqbcditgsqxe.fr
+waduavfijwkanvf.xyz
 wbaskcsxiffiax.info
 wjfkoqueatxdmqw.biz
 wjtqjleommc4z46i.salethe.gdn
+wpvvusso.xyz
+wvltrlrnf.xyz
 x5sbb5gesp6kzwsh.frontmain.pl
 x5sbb5gesp6kzwsh.frontymen.pl
 x5sbb5gesp6kzwsh.homewind.pl
@@ -6149,6 +6321,7 @@ ycvcjbhgkmsiyhdd.info
 yofkhfskdyiqo.biz
 ytcijiooxdtlbevrh.info
 ytrest84y5i456hghadefdsd.pontogrot.com
+yuysikankhqvdwdv.xyz
 ywjgjvpuyitnbiw.info
 zjfq4lnfbs7pncr5.onion.to
 zjfq4lnfbs7pncr5.tor2web.org
@@ -6180,6 +6353,7 @@ creditauthpagev3.info
 credomobile.com
 dandingo.go2jump.org
 defenderxtactical.com
+dentalcarre.us
 divisioncore.com
 ebaychristmas.com
 eggis.noiselolpainoff.com
@@ -6248,6 +6422,7 @@ www.clicktshirtprinting.co.uk
 www.creditauthpagev3.info
 www.credomobile.com
 www.defenderxtactical.com
+www.dentalcarre.us
 www.divisioncore.com
 www.ebaychristmas.com
 www.enviolista.info
@@ -6290,6 +6465,7 @@ www.vydoxtrial.com
 www.whiteboxin.com
 10394-127.ampxchange.com
 bridge.ame.admarketplace.net
+downloadz.us
 freeimghost.trafflow.com
 ntlligent.info
 dataforce.net
@@ -6573,6 +6749,7 @@ java-games.bestxs.de
 jg.hack-inter.net
 job-online.petrovka.info
 jobs-online.petrovka.info
+kitchen-island.mensk.us
 konstantin.freespaces.com
 ks.5.p2l.info
 ky.5.p2l.info
@@ -6610,6 +6787,7 @@ mo.5.p2l.info
 moc.silk.com
 mortgage-rates.now-cash.com
 mp.5.p2l.info
+mrjeweller.us
 ms.5.p2l.info
 mt.5.p2l.info
 muscle-relaxers.1.p2l.info
@@ -6780,6 +6958,7 @@ triphasil.1.p2l.info
 triphasil.3.p2l.info
 triphasil.4.p2l.info
 tx.5.p2l.info
+uf2aasn.111adfueo.us
 ultracet.1.p2l.info
 ultram.1.p2l.info
 united-airline-fare.100pantyhose.com
@@ -6847,6 +7026,7 @@ www69.ugly.as
 www6.ezua.com
 www6.ns1.name
 www7.ygto.com
+www8.ns01.us
 www99.bounceme.net
 www99.fdns.net
 www99.zapto.org
@@ -6942,6 +7122,7 @@ x8x.dyndns.dk
 x8x.trickip.net
 xanax-online.dot.de
 xanax-online.run.to
+xanax-online.sms2.us
 xanax.ourtablets.com
 xanax.t-amo.net
 x-box.t35.com
@@ -6990,6 +7171,9 @@ kildevanddk.dk
 6hopping.com
 7makemoneyonline.com
 7zap.com
+abc.xyz
+abcdefh.xyz
+abcdeg.xyz
 abclauncher.com
 acads.net
 acunetix-referrer.com
@@ -6997,8 +7181,10 @@ adanih.com
 adspart.com
 adventureparkcostarica.com
 adviceforum.info
+advokateg.xyz
 affordablewebsitesandmobileapps.com
 akuhni.by
+alfabot.xyz
 alibestsale.com
 allknow.info
 allmarketsnewdayli.gdn
@@ -7008,9 +7194,12 @@ allwomen.info
 alpharma.net
 amazon-seo-service.com
 anal-acrobats.hol.es
+analytics-ads.xyz
 android-style.com
+animalphotos.xyz
 anticrawler.org
 arendakvartir.kz
+arendovalka.xyz
 arkkivoltti.net
 aruplighting.com
 autoseo-traffic.com
@@ -7021,22 +7210,30 @@ azbukafree.com
 azlex.uz
 baixar-musicas-gratis.com
 balitouroffice.com
+bedroomlighting.us
 best-seo-offer.com
+best-seo-software.xyz
 best-seo-solution.com
 bestmobilityscooterstoday.com
 bestwebsitesawards.com
 bif-ru.info
 biglistofwebsites.com
 bio-market.kz
+biteg.xyz
 bizru.info
 black-friday.ga
 blackhatworth.com
 blogtotal.de
 blue-square.biz
 bluerobot.info
+boltalko.xyz
 boostmyppc.com
 brakehawk.com
+brateg.xyz
 break-the-chains.com
+budilneg.xyz
+buketeg.xyz
+bukleteg.xyz
 burger-imperia.com
 burn-fat.ga
 buttons-for-website.com
@@ -7049,8 +7246,46 @@ chinese-amezon.com
 civilwartheater.com
 coderstate.com
 codysbbq.com
+compliance-alex.xyz
+compliance-alexa.xyz
+compliance-andrew.xyz
+compliance-barak.xyz
+compliance-brian.xyz
+compliance-don.xyz
+compliance-donald.xyz
+compliance-elena.xyz
+compliance-fred.xyz
+compliance-george.xyz
+compliance-irvin.xyz
+compliance-ivan.xyz
 conciergegroup.org
 connectikastudio.com
+cookie-law-enforcement-aa.xyz
+cookie-law-enforcement-bb.xyz
+cookie-law-enforcement-cc.xyz
+cookie-law-enforcement-dd.xyz
+cookie-law-enforcement-ee.xyz
+cookie-law-enforcement-ff.xyz
+cookie-law-enforcement-gg.xyz
+cookie-law-enforcement-hh.xyz
+cookie-law-enforcement-ii.xyz
+cookie-law-enforcement-jj.xyz
+cookie-law-enforcement-kk.xyz
+cookie-law-enforcement-ll.xyz
+cookie-law-enforcement-mm.xyz
+cookie-law-enforcement-nn.xyz
+cookie-law-enforcement-oo.xyz
+cookie-law-enforcement-pp.xyz
+cookie-law-enforcement-qq.xyz
+cookie-law-enforcement-rr.xyz
+cookie-law-enforcement-ss.xyz
+cookie-law-enforcement-tt.xyz
+cookie-law-enforcement-uu.xyz
+cookie-law-enforcement-vv.xyz
+cookie-law-enforcement-ww.xyz
+cookie-law-enforcement-xx.xyz
+cookie-law-enforcement-yy.xyz
+cookie-law-enforcement-zz.xyz
 copyrightclaims.org
 copyrightinstitute.org
 covadhosting.biz
@@ -7080,10 +7315,12 @@ easycommerce.cf
 ecommerce-seo.org
 econom.co
 egovaleo.it
+ekatalog.xyz
 ekto.ee
 elmifarhangi.com
 erot.co
 escort-russian.com
+eu-cookie-law-enforcement2.xyz
 event-tracking.com
 eyes-on-you.ga
 f1nder.org
@@ -7101,11 +7338,15 @@ free-fbook-traffic.com
 free-floating-buttons.com
 free-share-buttons.com
 free-social-buttons.com
+free-social-buttons.xyz
+free-social-buttons7.xyz
+free-traffic.xyz
 free-video-tool.com
 freenode.info
 freewhatsappload.com
 freewlan.info
 fsalas.com
+gearcraft.us
 gearsadspromo.club
 generalporn.org
 germes-trans.com
@@ -7139,10 +7380,12 @@ ilikevitaly.com
 ilovevitaly.co
 ilovevitaly.info
 ilovevitaly.org
+ilovevitaly.xyz
 iminent.com
 increasewwwtraffic.info
 isotoner.com
 justkillingti.me
+justprofit.xyz
 kabbalah-red-bracelets.com
 kambasoft.com
 kazrent.com
@@ -7154,15 +7397,22 @@ knigonosha.net
 konkursov.net
 landoftracking.com
 laptop-4-less.com
+law-check-two.xyz
+law-enforcement-ee.xyz
+law-enforcement-bot-ff.xyz
+law-enforcement-check-three.xyz
+law-six.xyz
 laxdrills.com
 livefixer.com
 livingroomdecoratingideas.website
+lsex.xyz
 lumb.co
 magicdiet.gq
 makemoneyonline.com
 makeprogress.ga
 marketland.ml
 masterseek.com
+mattgibson.us
 meds-online24.com
 minegam.com
 mirtorrent.net
@@ -7173,6 +7423,7 @@ money-for-placing-articles.com
 myftpupload.com
 myplaycity.com
 needtosellmyhousefast.com
+net-profits.xyz
 newstaffadsshop.club
 nufaq.com
 o-o-11-o-o.com
@@ -7216,6 +7467,7 @@ responsive-test.net
 reversing.cc
 rightenergysolutions.com.au
 rumamba.com
+rusexy.xyz
 sanjosestartups.com
 santasgift.ml
 savetubevideo.info
@@ -7239,6 +7491,7 @@ sexsaoy.com
 sexyali.com
 sexyteens.hol.es
 share-buttons-for-free.com
+share-buttons.xyz
 sharebutton.io
 sharebutton.net
 sharebutton.to
@@ -7250,10 +7503,21 @@ site5.com
 siteripz.net
 sitevaluation.org
 sledstvie-veli.net
+slow-website.xyz
 smailik.org
 smartphonediscount.info
 snip.to
+social-button.xyz
+social-buttons-ii.xyz
 social-buttons.com
+social-traffic-1.xyz
+social-traffic-2.xyz
+social-traffic-3.xyz
+social-traffic-4.xyz
+social-traffic-5.xyz
+social-traffic-7.xyz
+social-widget.xyz
+socialbuttons.xyz
 socialtrade.biz
 sohoindia.net
 sosdepotdebilan.com
@@ -7273,8 +7537,11 @@ top10-way.com
 topquality.cf
 topseoservices.co
 track-rankings.online
+traffic-cash.xyz
 traffic2cash.org
+traffic2cash.xyz
 traffic2money.com
+trafficgenius.xyz
 trafficmonetize.org
 trafficmonetizer.org
 ua.tc
@@ -7292,6 +7559,7 @@ videos-for-your-business.com
 vodaodessa.com
 w3javascript.com
 wallpaperdesk.info
+web-revenue.xyz
 webmaster-traffic.com
 webmonetizer.net
 website-analytics.online
@@ -7474,6 +7742,7 @@ perfectionmarketing.com
 phonebookworld.blogspot.com
 phuket-hello.com
 planet4deal.co.uk
+playretrogames.us
 postadusa.com
 proeroids.com
 proforbes.com
@@ -7778,6 +8047,7 @@ apartments-camps-charter-hotels-rooms-trips-croati
 aprimo.com
 atlascinemas.net
 atsepah.dyali.info
+attociz.nu-jrzy.us
 audio-transcoder.com
 autoodzaraz.com.pl
 autopartsexpress.com
@@ -7828,6 +8098,7 @@ ezsms.co.in
 fashionhobby.com
 fawnandforest.com
 filemytaxesonline.net
+foodsem.hostserve.us
 formup.pl
 freedressupgames.net
 freshlib.com
@@ -8020,6 +8291,7 @@ www.apartments-camps-charter-hotels-rooms-trips-cr
 www.aprimo.com
 www.atlascinemas.net
 www.atsepah.dyali.info
+www.attociz.nu-jrzy.us
 www.audio-transcoder.com
 www.autoodzaraz.com.pl
 www.autopartsexpress.com
@@ -8073,11 +8345,13 @@ www.ezsms.co.in
 www.fashionhobby.com
 www.fawnandforest.com
 www.filemytaxesonline.net
+www.foodsem.hostserve.us
 www.formup.pl
 www.freedressupgames.net
 www.freetelugu.com
 www.freshlib.com
 www.ftbservers.com
+www.funduszeinwestycyjne.us
 www.funrocker.com
 www.gadget-from.info
 www.gdettotam.livejournal.com
