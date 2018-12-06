@@ -6,7 +6,7 @@
 #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_High.txt
 #
 #   comments: info@dshield.org
-#    updated: Sun Dec  2 04:09:41 2018 UTC
+#    updated: Thu Dec  6 04:09:28 2018 UTC
 #   
 #    This list consists of High Level Sensitivity website URLs
 #     Columns (tab delimited):
@@ -481,7 +481,7 @@ hi-j.com
 #
 # END
 #
-#  finished list generation: Sun Dec  2 04:09:41 2018 UTC
+#  finished list generation: Thu Dec  6 04:09:28 2018 UTC
 #
 #   DShield.org Suspicious Domain List
 #    (c) 2018 DShield.org
@@ -490,7 +490,7 @@ hi-j.com
 #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_Medium.txt
 #
 #   comments: info@dshield.org
-#    updated: Sun Dec  2 04:09:41 2018 UTC
+#    updated: Thu Dec  6 04:09:28 2018 UTC
 #   
 #    This list consists of Medium Level Sensitivity website URLs
 #     Columns (tab delimited):
@@ -1022,4 +1022,4 @@ brightqain.com
 #
 # END
 #
-#  finished list generation: Sun Dec  2 04:09:41 2018 UTC
+#  finished list generation: Thu Dec  6 04:09:28 2018 UTC

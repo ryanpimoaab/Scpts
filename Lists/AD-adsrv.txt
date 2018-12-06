@@ -14279,7 +14279,6 @@ js-agent.newrelic.com
 js.agkn.com
 jsak.mmtcdn.com
 js-api-docs.mouseflow.com
-js.braintreegateway.com
 jsc1.mgid.com
 jsc.adskeeper.co.uk
 jsc-cdn.mgid.com
@@ -33947,3 +33946,7 @@ myshopify-admin-privacy.ml
 ec83cce4c209447a2af3d62f2.litix.io
 asia.bm.traakr.com
 js.assets.botman.ninja
+news-speaker.com
+www.news-speaker.com
+s9kkremkr0.com
+www.s9kkremkr0.com

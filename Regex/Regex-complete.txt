@@ -21,7 +21,6 @@
 (^|\.)w$
 (^|\.)loan$
 (^|\.)click$
-(^|\.)xyz$
 ####### End of TLD list #######
 ####### Own WCard list ########
 (^|\.)247realmedia\.com$

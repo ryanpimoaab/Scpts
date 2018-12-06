@@ -90,6 +90,7 @@ log-1.samsungacr.com
 log-2.samsungacr.com
 log-3.samsungacr.com
 log-ingestion.samsungacr.com
+log-ingestion-eu.samsungacr.com
 log.internetat.tv
 multiscreen.samsung.com
 musicid.samsungcloudsolution.com
@@ -102,6 +103,7 @@ oempprd.samsungcloudsolution.net
 openapi.samsung.com
 osb-apps.samsungqbe.com
 osb-krsvc.samsungqbe.com
+osb-eusvc.samsungqbe.com
 osb.samsungqbe.com
 otnprd10.samsungcloudsolution.net
 otnprd11.samsungcloudsolution.net
@@ -128,7 +130,7 @@ sso.internetat.tv
 syncplusconfig.s3.amazonaws.com
 targeted-config-test.samsungacr.com
 test.samsungrm.net
-time.samsungcloudsolution.com
+#time.samsungcloudsolution.com // if blocked, services like plex, youtube and amazon video not working anymore on some samsung tv's
 upu.samsungelectronics.com
 us-api.samsungyosemite.com
 vd.emp.prd.s3.amazonaws.com
