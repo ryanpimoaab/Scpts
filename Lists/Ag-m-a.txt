@@ -765,7 +765,6 @@ revmob.com
 richpays.com
 robocat.me
 rotaban.ru
-rs.mail.ru
 rtb.nexage.com
 rtbimp-loadbalancer-*.amazonaws.com
 rtbpop.com

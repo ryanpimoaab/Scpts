@@ -6,7 +6,7 @@
 #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_High.txt
 #
 #   comments: info@dshield.org
-#    updated: Thu Dec  6 04:09:28 2018 UTC
+#    updated: Sun Dec  9 04:09:54 2018 UTC
 #   
 #    This list consists of High Level Sensitivity website URLs
 #     Columns (tab delimited):
@@ -472,16 +472,17 @@ front.postmaster.services
 grati.cf
 pagaldaily.com
 hi-j.com
+weiye-0fc.com
 #
 # STATISTICS
 #
-# Total In Database: 107115
-# Total In Report:   2198
+# Total In Database: 107226
+# Total In Report:   2199
 # Percent of Total:  2.05 %
 #
 # END
 #
-#  finished list generation: Thu Dec  6 04:09:28 2018 UTC
+#  finished list generation: Sun Dec  9 04:09:54 2018 UTC
 #
 #   DShield.org Suspicious Domain List
 #    (c) 2018 DShield.org
@@ -490,7 +491,7 @@ hi-j.com
 #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_Medium.txt
 #
 #   comments: info@dshield.org
-#    updated: Thu Dec  6 04:09:28 2018 UTC
+#    updated: Sun Dec  9 04:09:54 2018 UTC
 #   
 #    This list consists of Medium Level Sensitivity website URLs
 #     Columns (tab delimited):
@@ -1016,10 +1017,10 @@ brightqain.com
 #
 # STATISTICS
 #
-# Total In Database: 107115
+# Total In Database: 107226
 # Total In Report:   2304
 # Percent of Total:  2.15 %
 #
 # END
 #
-#  finished list generation: Thu Dec  6 04:09:28 2018 UTC
+#  finished list generation: Sun Dec  9 04:09:54 2018 UTC

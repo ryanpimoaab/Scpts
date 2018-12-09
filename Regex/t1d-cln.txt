@@ -7,7 +7,6 @@ link
 pw
 review
 ro
-ru
 su
 tk
 top

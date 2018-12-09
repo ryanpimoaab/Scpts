@@ -169,6 +169,7 @@ www.i.ytimg.com
 www.i1.adis.ws
 www.i1.ytimg.com
 www.icloud.com
+www.im2ss2ss.top
 www.imagesak.secureserver.net
 www.imgs.xkcd.com
 www.imgur.com
@@ -215,6 +216,7 @@ www.nine.plugins.plexapp.com
 www.no-ip.com
 www.node.plexapp.com
 www.noip.com
+www.notepad.pw
 www.notify.xboxlive.com
 www.nrdp.nccp.netflix.com
 www.ns1.dropbox.com
