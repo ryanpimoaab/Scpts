@@ -6,7 +6,7 @@
 #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_High.txt
 #
 #   comments: info@dshield.org
-#    updated: Sun Dec  9 04:09:54 2018 UTC
+#    updated: Thu Dec 13 04:07:42 2018 UTC
 #   
 #    This list consists of High Level Sensitivity website URLs
 #     Columns (tab delimited):
@@ -476,13 +476,13 @@ weiye-0fc.com
 #
 # STATISTICS
 #
-# Total In Database: 107226
+# Total In Database: 107449
 # Total In Report:   2199
 # Percent of Total:  2.05 %
 #
 # END
 #
-#  finished list generation: Sun Dec  9 04:09:54 2018 UTC
+#  finished list generation: Thu Dec 13 04:07:42 2018 UTC
 #
 #   DShield.org Suspicious Domain List
 #    (c) 2018 DShield.org
@@ -491,7 +491,7 @@ weiye-0fc.com
 #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_Medium.txt
 #
 #   comments: info@dshield.org
-#    updated: Sun Dec  9 04:09:54 2018 UTC
+#    updated: Thu Dec 13 04:07:43 2018 UTC
 #   
 #    This list consists of Medium Level Sensitivity website URLs
 #     Columns (tab delimited):
@@ -1017,10 +1017,10 @@ brightqain.com
 #
 # STATISTICS
 #
-# Total In Database: 107226
+# Total In Database: 107449
 # Total In Report:   2304
-# Percent of Total:  2.15 %
+# Percent of Total:  2.14 %
 #
 # END
 #
-#  finished list generation: Sun Dec  9 04:09:54 2018 UTC
+#  finished list generation: Thu Dec 13 04:07:43 2018 UTC

@@ -36214,7 +36214,6 @@ sweeneyxuumfdw.download
 sweepstakes.com
 sweetpacks.go2cloud.org
 swellisholupo.download
-swift.com
 swimsuitnetwork.com
 switch.atdmt.com
 switch.atdmt.net
@@ -42239,7 +42238,6 @@ womanwithinsweepstakes2013.brandmovers.net
 womensforum.us.intellitxt.com
 won.images.streamray.com
 wondrousvalue.com
-woopra.com
 wordwatch.go2cloud.org
 woredi.com
 workflowboard.com
@@ -45735,4 +45733,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45740
+# hosts: 45738
