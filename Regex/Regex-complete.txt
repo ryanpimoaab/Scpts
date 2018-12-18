@@ -4,7 +4,6 @@
 (^|\.)cn$
 (^|\.)kim$
 (^|\.)li$
-(^|\.)link$
 (^|\.)pw$
 (^|\.)review$
 (^|\.)ro$
@@ -173,7 +172,6 @@
 (^|\.)inmobi\.com$
 (^|\.)innovid\.com$
 (^|\.)inspectlet\.com$
-(^|\.)intercom\.io$
 (^|\.)intercomassets\.com$
 (^|\.)invocacdn\.com$
 (^|\.)izatcloud\.net$
@@ -347,7 +345,6 @@
 ^analytics?[-.]
 ^banners?[-.]
 ^beacons?[0-9]*[-.]
-^clicks?[-.]
 ^count(ers?)?[0-9]*[-.]
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[-.]

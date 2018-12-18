@@ -142,6 +142,9 @@ fmovies.to
 fonts.googleapis.com
 fonts.gstatic.com
 forums.sonarr.tv
+freetrade-alternate.app.link
+freetrade-prod.firebaseio.com
+freetrade.app.link
 g.live.com
 gdax.com
 geo-prod.do.dsp.mp.microsoft.com
@@ -326,10 +329,12 @@ update.googleapis.com
 v.firebog.net
 v10.vortex-win.data.microsoft.com
 video-stats.l.google.com
+vidoza.net
 webcache.googleusercontent.com
 widget-cdn.rpxnow.com
 widgetdata.tradingview.com
 win10.ipv6.microsoft.com
+wirex.app.link
 ws.audioscrobbler.com
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
@@ -489,6 +494,9 @@ www.fmovies.to
 www.fonts.googleapis.com
 www.fonts.gstatic.com
 www.forums.sonarr.tv
+www.freetrade-alternate.app.link
+www.freetrade-prod.firebaseio.com
+www.freetrade.app.link
 www.g.live.com
 www.gdax.com
 www.geo-prod.do.dsp.mp.microsoft.com
@@ -673,10 +681,12 @@ www.update.googleapis.com
 www.v.firebog.net
 www.v10.vortex-win.data.microsoft.com
 www.video-stats.l.google.com
+www.vidoza.net
 www.webcache.googleusercontent.com
 www.widget-cdn.rpxnow.com
 www.widgetdata.tradingview.com
 www.win10.ipv6.microsoft.com
+www.wirex.app.link
 www.ws.audioscrobbler.com
 www.xbox.ipv6.microsoft.com
 www.xboxexperiencesprod.experimentation.xboxlive.com

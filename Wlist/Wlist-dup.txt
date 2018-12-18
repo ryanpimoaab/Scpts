@@ -562,3 +562,8 @@ ok.ru
 zoom.us
 notepad.pw
 im2ss2ss.top
+wirex.app.link
+vidoza.net
+freetrade-prod.firebaseio.com
+freetrade-alternate.app.link
+freetrade.app.link

@@ -3,7 +3,6 @@ bid
 cn
 kim
 li
-link
 pw
 review
 ro

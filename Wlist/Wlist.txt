@@ -142,6 +142,9 @@ fmovies.to
 fonts.googleapis.com
 fonts.gstatic.com
 forums.sonarr.tv
+freetrade-alternate.app.link
+freetrade-prod.firebaseio.com
+freetrade.app.link
 g.live.com
 gdax.com
 geo-prod.do.dsp.mp.microsoft.com
@@ -326,10 +329,12 @@ update.googleapis.com
 v.firebog.net
 v10.vortex-win.data.microsoft.com
 video-stats.l.google.com
+vidoza.net
 webcache.googleusercontent.com
 widget-cdn.rpxnow.com
 widgetdata.tradingview.com
 win10.ipv6.microsoft.com
+wirex.app.link
 ws.audioscrobbler.com
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com

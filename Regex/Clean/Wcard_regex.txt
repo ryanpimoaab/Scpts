@@ -150,7 +150,6 @@
 (^|\.)inmobi\.com$
 (^|\.)innovid\.com$
 (^|\.)inspectlet\.com$
-(^|\.)intercom\.io$
 (^|\.)intercomassets\.com$
 (^|\.)invocacdn\.com$
 (^|\.)izatcloud\.net$

@@ -460,6 +460,7 @@ amlt.coinfirm.io
 ammqwpksb.bid
 amnpmitevuxx.com
 ampnkoudpnd.bid
+ams1-ib.adnxs.com
 analitics-service.com
 analytics.blue
 analytics.uax.io
@@ -1000,6 +1001,7 @@ btc.ms
 btc.my-zarinsk.ru
 btc.noobchannel.com
 btc.poolmining.eu
+btc.top
 btc.waterhole.io
 btc.za.com
 btc4clicks.com
@@ -1793,6 +1795,7 @@ down.mys2016.info
 down.oo000oo.club
 dpallyihgtgu.com
 dpkdwhfdrvxzcr.bid
+dpool.top
 dpqytzwxohcd.bid
 dpwmloknxtuw.com
 dqcqavgqk.bid
@@ -2329,6 +2332,7 @@ fqmxwckinopg.com
 fqovfxpsytxf.com
 fqsdlhaffr.bid
 fr33bitco.in
+fra1-ib.adnxs.com
 frczfzikturw.com
 frddujheozns.com
 free-bitcoin.namaidani.com
@@ -2954,6 +2958,7 @@ iaheyftbsn.review
 ialphacoins.com
 iansucrovvzbi.bid
 iapi.uax.io
+ib.adnxs.com
 ibeyqnjfjgsuob.bid
 ibljirpmxvav.bid
 ibqmccuuhjqc.com
@@ -3700,7 +3705,6 @@ ltc.coinat.com
 ltc.ghash.io
 ltc.inet-money.club
 ltc.mintaltco.in
-ltc.viabtc.com
 ltc.waterhole.io
 ltcminer.io
 ltctrain.com
@@ -4848,6 +4852,7 @@ poolbt.com
 poolclr.my-zarinsk.ru
 pooldd.com
 poolhost.com
+poolin.com
 poolisto.com
 poolmin.com
 poolmining.net
@@ -5099,12 +5104,14 @@ qsxggbsthsk.bid
 qtczaglj.bid
 qteoslcm.bid
 quaizzywzluk.com
+qubtc.com
 quckoemdypxoiq.bid
 queenfaucet.website
 queroca.ga
 querodindin.com
 questionfly.com
 quizbtc.com
+qukuai.top
 qupycbhfvqtj.bid
 qveoxhidesgy.bid
 qveuxmbhbhmg.com
@@ -5429,6 +5436,7 @@ searchdf.biz
 seasonaloffers.club
 seaxhrqc.bid
 secumine.net
+secure.adnxs.com
 secure.qp.si
 seed-buyvm.bluematt.me
 seed.bitnodes.io
@@ -6265,6 +6273,7 @@ vhlsrzyt.bid
 vhpqxkhvjgwx.com
 vhuveukirbuz.com
 vhwuphctrfil.com
+viabtc.com
 viaxmr.com
 vicofhozbuaf.com
 video.estream.nu
