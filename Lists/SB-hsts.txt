@@ -27169,15 +27169,15 @@ www.winaproduct.com
 # blocklist for use with hosts files to block ads
 # for more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   mon, 10 dec 2018 12:01:51 gmt
-# entries:        2922
+# last updated:   sat, 15 dec 2018 13:11:04 gmt
+# entries:        2927
 # format:         hosts (hosts -- in hosts file format)
 # credits:        peter lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # patreon:        https://patreon.com/blocklist
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    wed, 16 dec 1998 00:00:00
+# start date:    sun, 20 dec 1998 00:00:00
 101com.com
 101order.com
 123found.com
@@ -27196,6 +27196,7 @@ www.winaproduct.com
 3lift.com
 4affiliate.net
 4d5.net
+4info.com
 4jnzhl0d0.com
 50websads.com
 518ad.com
@@ -27212,7 +27213,6 @@ a.aproductmsg.com
 a.consumer.net
 a.sakh.com
 a135.wftv.com
-a32.g.a.yimg.com
 aaddzz.com
 abacho.net
 abackchain.com
@@ -27313,6 +27313,7 @@ adforce.com
 adform.net
 adformdsp.net
 adgoto.com
+adhaven.com
 adhoc4.net
 adimage.guardian.co.uk
 adimages.been.com
@@ -27676,6 +27677,7 @@ analytics.yahoo.com
 anxiousapples.com
 apathetictheory.com
 api.intensifier.de
+apolloprogram.io
 app.pendo.io
 appsflyer.com
 aps.hearstnp.com
@@ -27791,6 +27793,7 @@ bitmedianetwork.com
 bizrate.com
 blast4traffic.com
 blingbucks.com
+blockadblock.com
 blogcounter.de
 blogherads.com
 blogrush.com
@@ -27854,7 +27857,6 @@ casterist.info
 cdn.onesignal.com
 centerpointmedia.com
 ceskydomov.alias.ngs.modry.cz
-ch.questionmarket.com
 chairscrack.com
 chameleon.ad
 channel1vids.com
@@ -27878,7 +27880,6 @@ cjlog.com
 claria.com
 class-act-clicks.com
 clearcomb.com
-click.absoluteagency.com
 click.fool.com
 click2freemoney.com
 clickability.com
@@ -27912,6 +27913,7 @@ clrstm.com
 cluster.adultworld.com
 cml.sad.ukrd.com
 code-server.biz
+cognitiv.ai
 cointraffic.io
 colonize.com
 comclick.com
@@ -27929,12 +27931,12 @@ confirmed-profits.com
 connextra.com
 consciouscabbage.com
 consciouschairs.com
-consensu.org
 contadores.miarroba.com
 contaxe.de
 content.acc-hd.de
 content.ad
 converge-digital.com
+conversionbet.com
 conversionruler.com
 convrse.media
 coordinatedcub.com
@@ -28031,6 +28033,7 @@ dragzebra.com
 drumcash.com
 drydrum.com
 dsp.io
+dstillery.com
 dyntrk.com
 e-adimages.scrippsnetworks.com
 e-bannerx.com
@@ -28082,7 +28085,6 @@ etracker.de
 eu-adcenter.net
 eu1.madsone.com
 eurekster.com
-euroclick.com
 euros4click.de
 eusta.de
 eventbeacon.ca
@@ -28306,6 +28308,7 @@ invitesugar.com
 ioam.de
 iperceptions.com
 ipro.com
+iqm.com
 ireklama.cz
 itfarm.com
 itop.cz
@@ -28402,6 +28405,7 @@ market-buster.com
 marketing.nyi.net
 marketing.osijek031.com
 marketingsolutions.yahoo.com
+marketo.com
 mas.sector.sk
 matchcraft.com
 matheranalytics.com
@@ -28571,7 +28575,6 @@ pagead.l.google.com
 pagefair.net
 pagerank-ranking.de
 pagerank-submitter.de
-pagerank-united.de
 pagerank4you.com
 pageranktop.com
 paleleaf.com
@@ -28698,7 +28701,6 @@ radiate.com
 railwayrainstorm.com
 rampidads.com
 rank-master.com
-rank-master.de
 rankchamp.de
 ranking-charts.de
 ranking-id.de
@@ -28845,6 +28847,7 @@ sitedataprocessing.com
 sitemeter.com
 sixscissors.com
 sizesidewalk.com
+sizmek.com
 skimresources.com
 skylink.vn
 sleepcartoon.com
@@ -28942,8 +28945,6 @@ supertop100.com
 surfmusik-adserver.de
 swan-swan-goose.com
 swimslope.com
-switchadhub.com
-switchads.com
 swordfishdc.com
 swordgoose.com
 .insigit.com
@@ -28990,6 +28991,7 @@ hirdrespect.com
 hirstytwig.com
 hreechurch.com
 hroattrees.com
+hrotle.io
 ia.timeinc.net
 icklesign.com
 idaltv.com
@@ -29053,6 +29055,7 @@ raffiq.com
 raktrafficflow.com
 ranquilside.com
 ravis.bosscasinos.com
+rekdata.com
 remendoustime.com
 rendcounter.com
 rendmd.com
@@ -29102,6 +29105,7 @@ ventivmedia.com
 verblife-3.co
 vericlick.com
 vertadnet.com
+verticalmass.com
 veruta.com
 vervewireless.com
 videoadex.com
@@ -29133,6 +29137,7 @@ webgains.com
 webmaster-partnerprogramme24.de
 webmasterplan.com
 webmasterplan.de
+weborama.com
 weborama.fr
 webpower.com
 webreseau.com
@@ -34770,8 +34775,8 @@ zymerget.win
 # start lightswitch05
 # collection of analytics, ads, and tracking hosts to block.
 # title: lightswitch05's ads-and-tracking-extended.txt
-# released: 2018-12-11t15:45:58+00:00
-# count: 25695 domains
+# released: 2018-12-13t17:03:00+00:00
+# count: 25696 domains
 # details: https://github.com/lightswitch05/hosts
 # issues: https://github.com/lightswitch05/hosts/issues
 # source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -42649,6 +42654,7 @@ dev.getrockerbox.com
 hindsight.getrockerbox.com
 metrics.getrockerbox.com
 www.getrockerbox.com
+cdn.getshogun.com
 getsitecontrol.com
 app.getsitecontrol.com
 demo.getsitecontrol.com
@@ -44513,7 +44519,6 @@ www.w-tracker.marinsm.com
 w2.marinsm.com
 www.marinsm.com
 x22tracker.marinsm.com
-marketo.com
 abrtp1.marketo.com
 abrtp1-cdn.marketo.com
 alteryx.marketo.com
@@ -46436,7 +46441,6 @@ www.npttech.com
 ntellicast.com
 mx7.ntellicast.com
 ww9.ntellicast.com
-pixel.nymag.com
 peoplegraph.firstpartyapps.oaspapps.com
 omnitagjs.com
 adyoulike-api.omnitagjs.com
@@ -49013,7 +49017,6 @@ ransfer6.silverpop.com
 ransfer8.silverpop.com
 visitorinsight.silverpop.com
 www.silverpop.com
-sizmek.com
 adapi.sizmek.com
 www.adapi.sizmek.com
 adreview.sizmek.com
@@ -57008,6 +57011,7 @@ spicejetlimited.sc.omtrdc.net
 24hourfitness.com.ssl.sc.omtrdc.net
 cbsi.com.ssl.sc.omtrdc.net
 hbonow.com.ssl.sc.omtrdc.net
+shutterfly.com.ssl.sc.omtrdc.net
 hebiglead.com.ssl.sc.omtrdc.net
 valuecityfurniture.com.ssl.sc.omtrdc.net
 windowssecrets.com.ssl.sc.omtrdc.net
@@ -58425,6 +58429,7 @@ video.adsrvr.org
 view.adsrvr.org
 lpweb.altervista.org
 www.lpweb.altervista.org
+consensu.org
 mgr.consensu.org
 admiral.mgr.consensu.org
 www.admiral.mgr.consensu.org
@@ -59187,8 +59192,8 @@ zipzoomfly.122.2o7.net
 # start kadhosts
 # title: kadhosts
 # description: filtr chroniacy przed przekretami takimi jak subskrypcje sms
-# last modified: wed, 05 dec 2018, 13:05:24 utc+01
-# version: 201812051305
+# last modified: tue, 11 dec 2018, 18:25:28 utc+01
+# version: 201812111825
 # expires: 2 days
 # website: https://azet12.github.io/kad/
 # repository: https://github.com/azet12/kadhosts
