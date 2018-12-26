@@ -22794,6 +22794,7 @@ captivau.go2affise.com
 capture.trackjs.com
 carambo.la
 carbonads.com
+carbontraffic.com
 careers.112.2o7.net
 carhopyewiqzlmz.download
 carleton.com
@@ -26238,6 +26239,7 @@ dohillright.com
 dohod-inet.justclick.ru
 doldrumspijyzkdx.download
 doll.home.ro
+dollarcreative.com
 dolphinsfootball.com
 domain.gabia.com
 domainoptions.engine.adglare.net
@@ -27148,6 +27150,7 @@ eyeglassesmlldb.download
 eyescream-com-tw.b.appier.net
 ez-poll.superstats.com
 ez-polls.superstats.com
+ezanmedia.com
 ezbng.voluumtrk.com
 ezcybersearch.com
 ezec.co.uk
@@ -42933,6 +42936,7 @@ www.cantedmxcndjhm.download
 www.canvas-advert.ru
 www.capsizalsoxdxke.download
 www.carambo.la
+www.carbontraffic.com
 www.carhopyewiqzlmz.download
 www.carmunity.de
 www.cartonetwork.com
@@ -43246,6 +43250,7 @@ www.dodkinlsautvfo.download
 www.dohillright.com
 www.doldrumspijyzkdx.download
 www.doll.home.ro
+www.dollarcreative.com
 www.domainsponsor.com
 www.domanialtmiqjsrc.download
 www.donkeymails.com
@@ -45733,4 +45738,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45738
+# hosts: 45743

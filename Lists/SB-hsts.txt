@@ -513,6 +513,8 @@ nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 # telemetry and reporting service for office apps
 elemetry.firstpartyapps.oaspapps.com
+# telemetry reporting 
+browser.pipe.aria.microsoft.com
 # spam domains
 # if your software is able, the below domains and all subdomains should be blocked
 angiemktg.com
@@ -1905,7 +1907,7 @@ www.vydoxtrial.com
 # see below for acknowledgements.
 # please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
-# last updated: mon, 10 dec 2018 at 06:03:53 gmt
+# last updated: sat, 22 dec 2018 at 22:39:18 gmt
 # use this file to prevent your computer from connecting to selected
 # internet hosts. this is an easy and effective way to protect you from 
 # many types of spyware, reduces bandwidth use, blocks certain pop-up 
@@ -4528,6 +4530,7 @@ oolbarmoney.biz
 oolbarnew.biz
 oolbarsale.biz
 oolbarweb.biz
+optypeonlinetheclicks.icu
 orjackan.info
 raffic.adwitty.com
 rialreg.com
@@ -4654,6 +4657,7 @@ www.frequencyscheduler.com
 www.froling.bee.pl
 www.gacatl.com
 www.gezinti.com
+www.globalbuffer.com
 www.gns-consola.com
 www.goggle.com
 www.gozatar.com
@@ -4671,6 +4675,7 @@ www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 www.kbdiu5z8ah.us
 www.keybinary.com
+www.knowinteractive.com
 www.kpremium.com
 www.launchbuffer.com
 www.likeportal.com  # facebook trojan
@@ -9267,6 +9272,7 @@ dl.ncbuy.com
 dl.neodownload.webcam
 dl-plugin.com
 dlvr.readserver.net
+dmxleo.dailymotion.com
 dnads.directnic.com
 dnps.com
 dnse.linkpulse.com
@@ -10910,6 +10916,7 @@ pb.tynt.com
 pc-gizmos-ssl.com
 pcookie.aliexpress.com
 peaky.tags.yield-atx.com
+pebed.dm-event.net
 pei-ads.playboy.com
 people-choice-sites.com
 persgroepadvertising.nl
@@ -13202,7 +13209,6 @@ www.mp3playersource.com
 www.mpression.net
 www.myadsl.co.za
 www.myaffiliateprogram.com
-www.myairbridge.com
 www.mycashback.co.uk
 www.mycelloffer.com
 www.mychoicerewards.com
@@ -27169,15 +27175,15 @@ www.winaproduct.com
 # blocklist for use with hosts files to block ads
 # for more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   sat, 15 dec 2018 13:11:04 gmt
-# entries:        2927
+# last updated:   sun, 23 dec 2018 07:53:03 gmt
+# entries:        2944
 # format:         hosts (hosts -- in hosts file format)
 # credits:        peter lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # patreon:        https://patreon.com/blocklist
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    sun, 20 dec 1998 00:00:00
+# start date:    tue, 29 dec 1998 00:00:00
 101com.com
 101order.com
 123found.com
@@ -27233,7 +27239,6 @@ actuallysheep.com
 actuallysnake.com
 acuityads.com
 ad-center.com
-ad-miner.com
 ad-pay.de
 ad-server.gulasidorna.se
 ad-space.net
@@ -27287,6 +27292,7 @@ ad3.xrea.com
 ad4mat.com
 ad4mat.net
 adaction.de
+adalliance.io
 adboost.de.vu
 adboost.net
 adbooth.net
@@ -27601,7 +27607,6 @@ advertisingbox.com
 advertisingtag.net
 advertmarket.com
 advertmedia.de
-adverts.carltononline.com
 advertserve.com
 advertwizard.com
 advfromnwl.com
@@ -27647,6 +27652,8 @@ affiliates.ultrahosting.com
 affiliatetracking.com
 affiliatetracking.net
 affiliatewindow.com
+affrh2014.com
+affrh2022.com
 agreeableprice.com
 agreeablestew.com
 agreemand.com
@@ -27660,6 +27667,7 @@ ak0gsh40.com
 aktrack.pubmatic.com
 alclick.com
 alenty.com
+alexametrics.com
 alipromo.com
 all4spy.com
 alladvantage.com
@@ -27674,6 +27682,7 @@ anahtars.com
 analytics.adpost.org
 analytics.google.com
 analytics.yahoo.com
+anrdoezrs.net
 anxiousapples.com
 apathetictheory.com
 api.intensifier.de
@@ -27796,7 +27805,6 @@ blingbucks.com
 blockadblock.com
 blogcounter.de
 blogherads.com
-blogrush.com
 blogtoplist.se
 blogtopsites.com
 bluelithium.com
@@ -27880,6 +27888,7 @@ cjlog.com
 claria.com
 class-act-clicks.com
 clearcomb.com
+click.absoluteagency.com
 click.fool.com
 click2freemoney.com
 clickability.com
@@ -27907,6 +27916,9 @@ clients.tbo.com
 clikerz.net
 cliksolution.com
 clixgalore.com
+clk1005.com
+clk1011.com
+clk1015.com
 cloisteredhydrant.com
 cloudcoins.biz
 clrstm.com
@@ -27931,6 +27943,7 @@ confirmed-profits.com
 connextra.com
 consciouscabbage.com
 consciouschairs.com
+consensad.com
 contadores.miarroba.com
 contaxe.de
 content.acc-hd.de
@@ -27964,9 +27977,9 @@ credishe.com
 criteo.com
 critictruck.com
 crownclam.com
-ctnet2.in
 ctnetwork.hu
 cubics.com
+culturedcrayon.com
 cumbersomecloud.com
 curtaincows.com
 customad.cnn.com
@@ -28068,6 +28081,7 @@ emarketer.com
 emediate.dk
 emediate.eu
 emerse.com
+emetriq.de
 encouragingwilderness.com
 endurableshop.com
 enginenetwork.com
@@ -28476,6 +28490,7 @@ mrskincash.com
 mstrlytcs.com
 muwmedia.com
 myaffiliateprogram.com
+mybestmv.com
 mybloglog.com
 mybuys.com
 mydas.mobi
@@ -28525,6 +28540,7 @@ nondescriptstocking.com
 novem.pl
 ns1p.net
 ntv.io
+nugg.ad
 nuggad.net
 numax.nu-1.com
 nuseek.com
@@ -28563,6 +28579,7 @@ optimizely.com
 optimost.com
 optmd.com
 optmstr.com
+optnmstr.com
 ordingly.com
 ota.cartrawler.com
 otto-images.developershed.com
@@ -28753,6 +28770,7 @@ resonantbrush.com
 retargeter.com
 revenue.net
 revenuedirect.com
+revenuehits.com
 revstats.com
 richmails.com
 richstring.com
@@ -29124,6 +29142,7 @@ voicevegetable.com
 vpon.com
 vrs.cz
 vs.tucows.com
+vtracy.de
 vungle.com
 waryfog.com
 watchingthat.com
@@ -29200,6 +29219,7 @@ xxxmyself.com
 y.ibsys.com
 yab-adimages.s3.amazonaws.com
 yabuka.com
+yepads.com
 yesads.com
 yesadvertising.com
 yieldads.com
@@ -32577,6 +32597,7 @@ aalbbh84.info
 aba.ae
 abc.pema.cl
 acbp0020171456.page.tl
+ad-miner.com
 ad.jsecoin.com
 adless.io
 admin.cpufan.club
@@ -34775,8 +34796,8 @@ zymerget.win
 # start lightswitch05
 # collection of analytics, ads, and tracking hosts to block.
 # title: lightswitch05's ads-and-tracking-extended.txt
-# released: 2018-12-13t17:03:00+00:00
-# count: 25696 domains
+# released: 2018-12-21t14:04:19+00:00
+# count: 26055 domains
 # details: https://github.com/lightswitch05/hosts
 # issues: https://github.com/lightswitch05/hosts/issues
 # source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -35551,6 +35572,11 @@ www.adlightning.com
 zam-tagan.adlightning.com
 zippormedia-tagan.adlightning.com
 zlifestyle-tagan.adlightning.com
+adformsync01.admantx.com
+adformui.admantx.com
+euasync01.admantx.com
+usasync01.admantx.com
+www.admantx.com
 _sipfederationtls._tcp.admedia.com
 admin.admedia.com
 adp.admedia.com
@@ -36038,6 +36064,36 @@ rack.adpredictive.com
 rack1.adpredictive.com
 video.adpredictive.com
 www.adpredictive.com
+adpushup.com
+public-webservice.apdc1.adpushup.com
+public-webservice.apdc1n.adpushup.com
+public-webservice.apdc2.adpushup.com
+public-webservice.apdc2n.adpushup.com
+public-webservice.apdc3.adpushup.com
+public-webservice.apdc3n.adpushup.com
+public-webservice.apdc4.adpushup.com
+apex.adpushup.com
+app.adpushup.com
+campaign.adpushup.com
+careers.adpushup.com
+cdn.adpushup.com
+cdn-ads.adpushup.com
+console.adpushup.com
+dev.adpushup.com
+engine.adpushup.com
+e3.geo.adpushup.com
+public-webservice.geo.adpushup.com
+hackers.adpushup.com
+www.hackers.adpushup.com
+inside.adpushup.com
+mediation.adpushup.com
+s2s.adpushup.com
+signup.adpushup.com
+socket.adpushup.com
+start.adpushup.com
+www.start.adpushup.com
+static.adpushup.com
+www.adpushup.com
 adready.com
 48544d4c5.adready.com
 adgainer.adready.com
@@ -37292,7 +37348,6 @@ mail.airvertiseme.com
 webdisk.airvertiseme.com
 www.airvertiseme.com
 adserver.akamanda.com
-alexametrics.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
@@ -37647,6 +37702,7 @@ device-fingerprintdb-v1.s3.amazonaws.com
 www.device-fingerprintdb-v1.s3.amazonaws.com
 or-sponsored-posts.s3.amazonaws.com
 whatcounts_saas.s3.amazonaws.com
+comms-telemetry-service.us-east-1.amazonaws.com
 ambra.com
 .ambra.com
 amplify.amplitude.com
@@ -39679,6 +39735,107 @@ staging.clickconvertsell.com
 www.staging.clickconvertsell.com
 webdisk.clickconvertsell.com
 www.clickconvertsell.com
+clickfunnels.com
+affiliates.clickfunnels.com
+affilify.clickfunnels.com
+alfiobardolla.clickfunnels.com
+anthonyperez.clickfunnels.com
+app.clickfunnels.com
+appassets2.clickfunnels.com
+assets.clickfunnels.com
+assets3.clickfunnels.com
+ateschthing.clickfunnels.com
+babbar89.clickfunnels.com
+bbiz.clickfunnels.com
+bequick.clickfunnels.com
+blogv2new.clickfunnels.com
+blueprint-to-success.clickfunnels.com
+changelog.clickfunnels.com
+o3.sg.clickmail.clickfunnels.com
+o4.sg.clickmail.clickfunnels.com
+o5.sg.clickmail.clickfunnels.com
+o7.sg.clickmail.clickfunnels.com
+countonus.clickfunnels.com
+cszinc.clickfunnels.com
+d1000.clickfunnels.com
+davidgwilliams219.clickfunnels.com
+digitalelites.clickfunnels.com
+digitalmedia.clickfunnels.com
+drlivingood.clickfunnels.com
+eattoperform.clickfunnels.com
+essentialtenniss.clickfunnels.com
+fab.clickfunnels.com
+finleybeach.clickfunnels.com
+fipo.clickfunnels.com
+fitwomenforlife.clickfunnels.com
+fownder.clickfunnels.com
+goto.clickfunnels.com
+grigorikalinski.clickfunnels.com
+growwithgarrett.clickfunnels.com
+hardworkinggent.clickfunnels.com
+hello13a3e5.clickfunnels.com
+images.clickfunnels.com
+influencive.clickfunnels.com
+inform.clickfunnels.com
+internetprofis.clickfunnels.com
+iworkinpjs.clickfunnels.com
+jay7c7d0b.clickfunnels.com
+jaybrown.clickfunnels.com
+jeffaliuche.clickfunnels.com
+john33c271.clickfunnels.com
+juergen-hoeller.clickfunnels.com
+julianrodriguez.clickfunnels.com
+justworkfromhomeinfo.clickfunnels.com
+kevinpitts1958.clickfunnels.com
+kiinganthony11.clickfunnels.com
+kosky.clickfunnels.com
+lloydirvin.clickfunnels.com
+lumen.clickfunnels.com
+makemoneywelding.clickfunnels.com
+market-domination.clickfunnels.com
+markettraders.clickfunnels.com
+medicalsecrets.clickfunnels.com
+micah.clickfunnels.com
+mspell.clickfunnels.com
+musicindustryblueprint.clickfunnels.com
+mvsolutionsplus.clickfunnels.com
+myoffer.clickfunnels.com
+notifications.clickfunnels.com
+opsmgmt.clickfunnels.com
+oregon-01.clickfunnels.com
+pedram1276.clickfunnels.com
+promolabs.clickfunnels.com
+prospectingondemand.clickfunnels.com
+rachelngom.clickfunnels.com
+racinetoussaint.clickfunnels.com
+raelyntan.clickfunnels.com
+randysult.clickfunnels.com
+realestateinvestingmarketer.clickfunnels.com
+richardandjohn.clickfunnels.com
+roxanne.clickfunnels.com
+sabumedia.clickfunnels.com
+salesfunneljedi.clickfunnels.com
+scottrohnnowlifestyles.clickfunnels.com
+sholtmarketing.clickfunnels.com
+signup.clickfunnels.com
+smithlarry55.clickfunnels.com
+specialaccess.clickfunnels.com
+static.clickfunnels.com
+success1.clickfunnels.com
+sweetislandmarketing.clickfunnels.com
+arget.clickfunnels.com
+arget-oregon-01.clickfunnels.com
+errimgilbert.clickfunnels.com
+hewayofthefuture26.clickfunnels.com
+royvalance.clickfunnels.com
+rzypoziomy.clickfunnels.com
+shukelageorge.clickfunnels.com
+yrellwilson.clickfunnels.com
+vertex.clickfunnels.com
+victorywithjordan.clickfunnels.com
+vsncash.clickfunnels.com
+www.clickfunnels.com
+zandersoft.clickfunnels.com
 metrics.cloudflarebolt.com
 mediavine-res.cloudinary.com
 ads.clrstm.com
@@ -42302,6 +42459,7 @@ voc.foresee.com
 webconf.foresee.com
 winexch1dca.foresee.com
 www.foresee.com
+smetrics.foxnews.com
 a.fqtag.com
 b.fqtag.com
 cdn.fqtag.com
@@ -42646,6 +42804,7 @@ zipwhip.getambassador.com
 zogsports.getambassador.com
 zottosleep.getambassador.com
 pixel.getchute.com
+api-telemetry.servers.getgo.com
 lb0-telemetry-prod-us-east-1.servers.getgo.com
 elemetry.servers.getgo.com
 analytics.getpostman.com
@@ -42987,6 +43146,7 @@ doppler.hulu.com
 www.doppler.hulu.com
 vortex.hulu.com
 www.vortex.hulu.com
+iad-apple.com
 links.ibotta.com
 o.ibotta.com
 s.ibotta.com
@@ -43438,6 +43598,8 @@ vb2.installfarm.com
 vic.installfarm.com
 www.installfarm.com
 www2.installfarm.com
+racking.instantcheckmate.com
+c.tracking.instantcheckmate.com
 instartlogic.com
 api.instartlogic.com
 api-dev.instartlogic.com
@@ -46838,7 +47000,6 @@ api.optmstr.com
 app.optmstr.com
 www.optmstr.com
 z.optmstr.com
-optnmstr.com
 a.optnmstr.com
 api.optnmstr.com
 beta-api.optnmstr.com
@@ -48849,6 +49010,7 @@ simba.shopkick.com
 ech.shopkick.com
 web.shopkick.com
 www.shopkick.com
+stats.api.si.com
 siliconorchard.com
 adsdk.siliconorchard.com
 www.adsdk.siliconorchard.com
@@ -49383,6 +49545,7 @@ static.ssacdn.com
 v.ssacdn.com
 vcc.ssacdn.com
 www.ssacdn.com
+analytics.ssbbartgroup.com
 stack-sonar.com
 api.stack-sonar.com
 www.stack-sonar.com
@@ -49522,6 +49685,8 @@ init-latency-test.supersonicads.com
 jsd.supersonicads.com
 na-gateway.supersonicads.com
 nativeapi.supersonicads.com
+outcome-cdn.supersonicads.com
+outcome-ssp.supersonicads.com
 ow-gateway.supersonicads.com
 postback.supersonicads.com
 pub-api.supersonicads.com
@@ -52117,6 +52282,9 @@ rmxbid-dc1.yieldoptimizer.com
 rubicon-dc1.yieldoptimizer.com
 rubicon-dc2.yieldoptimizer.com
 rubicon-dc3.yieldoptimizer.com
+ymstat.com
+dev.ymstat.com
+www.ymstat.com
 yodelmobile.com
 daniel.yodelmobile.com
 www.daniel.yodelmobile.com
@@ -53143,6 +53311,7 @@ wsback-videotracking.presage.io
 www.presage.io
 piwik.privacytools.io
 api.pubwise.io
+api.radar.io
 metrics.readme.io
 rtk.io
 bidder.rtk.io
@@ -54331,6 +54500,8 @@ mads.at.atwola.com.adcom.akadns.net
 madsuk.at.atwola.com.adcom.akadns.net
 stats.gc-apple.com.akadns.net
 vortex.hulu.com.akadns.net
+iad-apple.com.akadns.net
+webproxy-advp.iad-apple.com.akadns.net
 postrelease.com.akadns.net
 jadserve.postrelease.com.akadns.net
 perf.postrelease.com.akadns.net
@@ -54503,7 +54674,52 @@ order.carbonads.net
 www.carbonads.net
 analytics.ccgateway.net
 pespn.chartbeat.net
+suppman26.37days.hop.clickbank.net
+bestbiz.affbootcam.hop.clickbank.net
+ehelpz.andrew1313.hop.clickbank.net
+authnumer.hop.clickbank.net
+kevinpitts.authnumer.hop.clickbank.net
+cbuniv2.hop.clickbank.net
+affbots.cbuniv2.hop.clickbank.net
+cbuacct3.cbuniv2.hop.clickbank.net
+5hh3yf9d.chiaewen.hop.clickbank.net
+chisecret.hop.clickbank.net
+info11.chisecret.hop.clickbank.net
+hwnwmag.cosmicluv.hop.clickbank.net
+kingbubblz.crypsnip.hop.clickbank.net
+crypto3000.hop.clickbank.net
+sph21959.crypto3000.hop.clickbank.net
+kingbubblz.cryptoinst.hop.clickbank.net
+vhs20.edfreedom.hop.clickbank.net
+codai.erectwill.hop.clickbank.net
+forsurveys.hop.clickbank.net
+hooke1.hop.clickbank.net
+inotify.hop.clickbank.net
+info11.inotify.hop.clickbank.net
+xihalife.ipodpsp.hop.clickbank.net
+joanaguide.hop.clickbank.net
+shtmlssl.joanaguide.hop.clickbank.net
+dinbound.leadrocket.hop.clickbank.net
+jimzimm.martin7.hop.clickbank.net
+meetys.hop.clickbank.net
+millionb.hop.clickbank.net
+1secure.millionb.hop.clickbank.net
+millions35.hop.clickbank.net
+pardeep29.millions35.hop.clickbank.net
+xportz.movies01.hop.clickbank.net
+maxworkout.myglutes.hop.clickbank.net
+ipalad.numerology.hop.clickbank.net
+occ2010.hop.clickbank.net
+ecash888.redteax.hop.clickbank.net
+zilmilinc.robotstock.hop.clickbank.net
+7239112.sistemlib.hop.clickbank.net
+7239112.sysdel.hop.clickbank.net
+jasonb25.traffbots.hop.clickbank.net
+heaivideo.traffbots.hop.clickbank.net
+indycar500.tykelly.hop.clickbank.net
+corkdg.zcodesys.hop.clickbank.net
 cookieconsent.cloudapp.net
+pdwuengagementapiwkr.cloudapp.net
 recommenderprodwestus.cloudapp.net
 sconsentit903.cloudapp.net
 sconsentit904.cloudapp.net
@@ -54660,24 +54876,29 @@ www.reports.datamark.net
 www.datamark.net
 127.demdex.net
 aaa.demdex.net
+aaaautoclubsouth.demdex.net
 abc.demdex.net
 abg.demdex.net
 absa.demdex.net
 accenture.demdex.net
 activisionblizzardin.demdex.net
 fast.aexp.demdex.net
+agilent.demdex.net
 aicpa.demdex.net
 airtel.demdex.net
 alitalia.demdex.net
 ally.demdex.net
 amadeusitgroup.demdex.net
 amc.demdex.net
+americanairlines.demdex.net
 amersports.demdex.net
 amplifon.demdex.net
+ancestry-mcsp.demdex.net
 anixterinc.demdex.net
 fast.anshin.demdex.net
 anz.demdex.net
 aoretail.demdex.net
+appleitunes.demdex.net
 asiamiles.demdex.net
 fast.asiamiles.demdex.net
 asos.demdex.net
@@ -54686,19 +54907,25 @@ att.demdex.net
 audible.demdex.net
 aufeminin.demdex.net
 auspost.demdex.net
+avayainc.demdex.net
 aviancaadobe.demdex.net
 axelspringer.demdex.net
+b2w.demdex.net
 ba.demdex.net
 bamtech.demdex.net
 bawagpsk.demdex.net
 bbandt.demdex.net
 bbg.demdex.net
+bellmedia.demdex.net
 bestbuy.demdex.net
 bestbuycanada.demdex.net
+betandwin.demdex.net
 bitdefender.demdex.net
+bizjounals.demdex.net
 bmc.demdex.net
 fast.bmc.demdex.net
 bmofinancial.demdex.net
+boehringer.demdex.net
 bofa.demdex.net
 boncom.demdex.net
 bose.demdex.net
@@ -54714,19 +54941,26 @@ catechnologies.demdex.net
 cdiscount.demdex.net
 centurylink.demdex.net
 cetelemportugal.demdex.net
+christies.demdex.net
 ciena.demdex.net
 cimb.demdex.net
 cisco.demdex.net
 fast.cisco.demdex.net
 ciscolearningnetwork.demdex.net
 ciscowebex.demdex.net
+clydesdalebankplc.demdex.net
+comcastathena.demdex.net
+commerceforward.demdex.net
 fast.computersciencescorporation.demdex.net
+cornerbanca.demdex.net
 costco.demdex.net
 crackle.demdex.net
 creditone.demdex.net
 cru.demdex.net
 csas.demdex.net
 cumminsandpartners.demdex.net
+dardenrestaurants.demdex.net
+darty.demdex.net
 deere.demdex.net
 dell.demdex.net
 delta.demdex.net
@@ -54738,6 +54972,7 @@ distrelec.demdex.net
 douglasgmbh.demdex.net
 dowjones.demdex.net
 dpcomdhl.demdex.net
+dsgretaillimited.demdex.net
 dswinc.demdex.net
 fast.dunbradstreetinc.demdex.net
 ebayinc.demdex.net
@@ -54749,12 +54984,14 @@ efenglishtown.demdex.net
 electro.demdex.net
 elsevier.demdex.net
 equinox.demdex.net
+fast.espn.demdex.net
 euronewsgroup.demdex.net
 expedia.demdex.net
 experticity.demdex.net
 falabella.demdex.net
 fandangollc.demdex.net
 fgh.demdex.net
+fglsports.demdex.net
 fidelity.demdex.net
 fifththird.demdex.net
 findlaw.demdex.net
@@ -54765,6 +55002,8 @@ fordapa.demdex.net
 fortinet.demdex.net
 foxnet.demdex.net
 foxtel.demdex.net
+freescalesemiconduct.demdex.net
+fressnapf.demdex.net
 frontiercomm.demdex.net
 galeriakaufhof.demdex.net
 ggs.demdex.net
@@ -54787,7 +55026,9 @@ hyatt.demdex.net
 hyundai.demdex.net
 iciciprulife.demdex.net
 ihg.demdex.net
+incommholdings.demdex.net
 ingbankslaski.demdex.net
+ingitaly.demdex.net
 ingrammicro.demdex.net
 intelcorp.demdex.net
 intersportfrance.demdex.net
@@ -54796,11 +55037,13 @@ itau.demdex.net
 jcrew.demdex.net
 jet.demdex.net
 johnlewis.demdex.net
+junkeemedia.demdex.net
 kaspersky.demdex.net
 kauflandstiftung.demdex.net
 kijiji.demdex.net
 kohls.demdex.net
 landsend.demdex.net
+lapress.demdex.net
 laredoute.demdex.net
 lcinternational.demdex.net
 ldproducts.demdex.net
@@ -54813,6 +55056,7 @@ makemytrip.demdex.net
 manulife.demdex.net
 marktplaats.demdex.net
 marriottinternationa.demdex.net
+mathrubhumi.demdex.net
 mathworks.demdex.net
 mcafeeinc.demdex.net
 mediaset.demdex.net
@@ -54831,20 +55075,27 @@ nab.demdex.net
 nascardigitalmediallc.demdex.net
 nba.demdex.net
 nbcuni.demdex.net
+nd.demdex.net
+netshoes.demdex.net
 fast.netsuiteinc.demdex.net
 networkappliance.demdex.net
 newegginc.demdex.net
+newpharma.demdex.net
 newscorpau.demdex.net
 newyorklife.demdex.net
+nintendoofamericainc.demdex.net
 nissan-helios-na.demdex.net
 nissanhelioseurope.demdex.net
 nuance.demdex.net
 nutanix.demdex.net
+nyulmc.demdex.net
 officeworks.demdex.net
 okaidi.demdex.net
 omniture.demdex.net
 orange.demdex.net
+ovstk.demdex.net
 pabst.demdex.net
+paloalto.demdex.net
 panasonicglobal.demdex.net
 pcf.demdex.net
 pcl.demdex.net
@@ -54852,13 +55103,17 @@ pepsico.demdex.net
 pfizerpch.demdex.net
 pluralsight.demdex.net
 postoffice.demdex.net
+prisacom.demdex.net
+proximus.demdex.net
 purestorage.demdex.net
 px.demdex.net
 qdg.demdex.net
 questsoftware.demdex.net
+rakutensecurities.demdex.net
 rbs.demdex.net
 rcci.demdex.net
 reagroup-1.demdex.net
+redbox.demdex.net
 redhat.demdex.net
 rei-mcsp.demdex.net
 renault.demdex.net
@@ -54881,6 +55136,7 @@ samsungindiaelectronics.demdex.net
 samsungseao.demdex.net
 sap.demdex.net
 saxo-bank.demdex.net
+scentsy.demdex.net
 scotiabank.demdex.net
 seat.demdex.net
 sensisaustralia.demdex.net
@@ -54903,6 +55159,7 @@ sparknz.demdex.net
 spotify.demdex.net
 spreadshirt.demdex.net
 starbucks.demdex.net
+starkgroup.demdex.net
 subaruofamerica.demdex.net
 subway.demdex.net
 suncorp.demdex.net
@@ -54922,12 +55179,18 @@ imeuk.demdex.net
 fast.timeuk.demdex.net
 mg.demdex.net
 nz.demdex.net
+racfone.demdex.net
 ribunemedia.demdex.net
 rowepriceassociatesinc.demdex.net
+urner2.demdex.net
 ycoelectronicscorporation.demdex.net
 uber.demdex.net
 ubisoftinternational.demdex.net
 ubm.demdex.net
+underarmourinc.demdex.net
+unibet.demdex.net
+unilever.demdex.net
+unitedhealthgroup.demdex.net
 ups.demdex.net
 usaa.demdex.net
 usbank.demdex.net
@@ -54935,24 +55198,34 @@ vanguard.demdex.net
 verizon.demdex.net
 verizoncorp.demdex.net
 verizonenterprise.demdex.net
+verizontelematic.demdex.net
 vfde.demdex.net
 vice.demdex.net
 vidalfrance.demdex.net
+virginaustralia.demdex.net
 vivaki.demdex.net
 vmwareinc.demdex.net
 fast.vmwareinc.demdex.net
+vocento.demdex.net
+vodafonein.demdex.net
 vodafoneuk.demdex.net
 volkswagen.demdex.net
 volvo.demdex.net
+vsctechnologies.demdex.net
 webmd.demdex.net
 wellsfargobankna.demdex.net
 westcon.demdex.net
 westernunion.demdex.net
 wfg.demdex.net
 wileypublishing.demdex.net
+williamhill.demdex.net
 wizink.demdex.net
+wogaa.demdex.net
+worldbank.demdex.net
+www.demdex.net
 xerox.demdex.net
 xfinitydigital.demdex.net
+xingag.demdex.net
 yellspain.demdex.net
 yle.demdex.net
 zebratechnologies.demdex.net
@@ -54969,7 +55242,6 @@ www.swag.districtm.net
 ry-go.districtm.net
 video.districtm.net
 www.districtm.net
-pebed.dm-event.net
 ofu-ssl.dmcdn.net
 accounts.doubleclick.net
 au.doubleclick.net
@@ -55052,6 +55324,7 @@ de.doubleclick.net
 4401979.fls.doubleclick.net
 4440053.fls.doubleclick.net
 4448631.fls.doubleclick.net
+4449091.fls.doubleclick.net
 4457442.fls.doubleclick.net
 4463272.fls.doubleclick.net
 4468061.fls.doubleclick.net
@@ -55216,6 +55489,7 @@ de.doubleclick.net
 6747132.fls.doubleclick.net
 6763511.fls.doubleclick.net
 6854279.fls.doubleclick.net
+685973.fls.doubleclick.net
 6869300.fls.doubleclick.net
 6870903.fls.doubleclick.net
 6883423.fls.doubleclick.net
@@ -58671,9 +58945,11 @@ adj.st
 4h8p.adj.st
 4ku5.adj.st
 4vx2.adj.st
+4zte.adj.st
 582k.adj.st
 5jmg.adj.st
 5mqw.adj.st
+5zte.adj.st
 6hlg.adj.st
 6jaz.adj.st
 6v9z.adj.st
@@ -58709,12 +58985,16 @@ bnee.adj.st
 cxws.adj.st
 dfj5.adj.st
 dxws.adj.st
+dzte.adj.st
+rzt.e.adj.st
 efse.adj.st
 etns.adj.st
+ezte.adj.st
 f886.adj.st
 fawd.adj.st
 flwy.adj.st
 frj4.adj.st
+fzte.adj.st
 h38c.adj.st
 h7z4.adj.st
 hgqg.adj.st
@@ -58739,19 +59019,105 @@ pgwz.adj.st
 pz8q.adj.st
 pzwv.adj.st
 q4mn.adj.st
+r-zte.adj.st
+r2te.adj.st
+r2zte.adj.st
 r3fc.adj.st
+r3te.adj.st
+r3zte.adj.st
 r6nl.adj.st
+r6te.adj.st
+r6zte.adj.st
+r7te.adj.st
+r7zte.adj.st
 r8qs.adj.st
+rate.adj.st
+razte.adj.st
+rete.adj.st
+rezte.adj.st
+rgte.adj.st
+rgzte.adj.st
 rh4x.adj.st
+rhzte.adj.st
 rj3w.adj.st
+rqte.adj.st
+rqzte.adj.st
+rrzte.adj.st
+rste.adj.st
+rszte.adj.st
+rte.adj.st
+rtte.adj.st
+rtze.adj.st
+rtzte.adj.st
+rute.adj.st
+ruzte.adj.st
+rxzte.adj.st
+rz-te.adj.st
+rz2te.adj.st
+rz5e.adj.st
+rz5te.adj.st
+rz6e.adj.st
+rz6te.adj.st
+rz7te.adj.st
+rzate.adj.st
 rzba.adj.st
+rze.adj.st
+rzet.adj.st
+rzete.adj.st
+rzfe.adj.st
+rzfte.adj.st
+rzge.adj.st
+rzgte.adj.st
+rzqte.adj.st
+rzre.adj.st
+rzrte.adj.st
+rzste.adj.st
+rzt.adj.st
+rzt-e.adj.st
+rzt3.adj.st
+rzt3e.adj.st
+rzt4.adj.st
+rzt4e.adj.st
+rzt5e.adj.st
+rzt6e.adj.st
+rztde.adj.st
 rzte.adj.st
+rzte3.adj.st
+rzte4.adj.st
+rzted.adj.st
+rztee.adj.st
+rzter.adj.st
+rztes.adj.st
+rztew.adj.st
+rztez.adj.st
+rztfe.adj.st
+rztge.adj.st
+rzti.adj.st
+rzto.adj.st
+rztr.adj.st
+rztre.adj.st
+rzts.adj.st
+rztse.adj.st
+rztte.adj.st
+rztw.adj.st
+rztwe.adj.st
+rztye.adj.st
+rztz.adj.st
+rztze.adj.st
+rzute.adj.st
+rzxte.adj.st
+rzye.adj.st
+rzyte.adj.st
+rzze.adj.st
+rzzte.adj.st
 xxw.s.adj.st
 saqh.adj.st
 stms.adj.st
 sxj8.adj.st
 sxws.adj.st
 64z.adj.st
+rz.te.adj.st
+zte.adj.st
 u6ek.adj.st
 u955.adj.st
 uqp6.adj.st
@@ -58852,6 +59218,7 @@ xxzws.adj.st
 xyxws.adj.st
 xzxws.adj.st
 y6mq.adj.st
+y9vg.adj.st
 ylcn.adj.st
 ylet.adj.st
 ylqk.adj.st
@@ -58859,6 +59226,8 @@ yplg.adj.st
 ys2v.adj.st
 yymt.adj.st
 zkwk.adj.st
+zrte.adj.st
+r.zte.adj.st
 zuzs.adj.st
 wpad.test
 advertisingbeacon.co.uk
@@ -59192,8 +59561,8 @@ zipzoomfly.122.2o7.net
 # start kadhosts
 # title: kadhosts
 # description: filtr chroniacy przed przekretami takimi jak subskrypcje sms
-# last modified: tue, 11 dec 2018, 18:25:28 utc+01
-# version: 201812111825
+# last modified: tue, 18 dec 2018, 18:25:34 utc+01
+# version: 201812181825
 # expires: 2 days
 # website: https://azet12.github.io/kad/
 # repository: https://github.com/azet12/kadhosts

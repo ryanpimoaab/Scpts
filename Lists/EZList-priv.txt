@@ -321,6 +321,7 @@ bitrix.info
 bizible.com
 bizo.com
 bizspring.net
+bjcathay.com
 bkrtx.com
 bkvtrack.com
 blizzardcheck.com
@@ -1615,7 +1616,6 @@ projectsunblock.com
 promotionengine.com
 proofpositivemedia.com
 provenpixel.com
-proxad.net
 prtracker.com
 pstats.com
 psyma-statistics.com
@@ -2104,6 +2104,7 @@ toplist.cz
 toplist.eu
 topmalaysia.com
 topofblogs.com
+topstat.cn
 torbit.com
 toro-tags.com
 touchclarity.com

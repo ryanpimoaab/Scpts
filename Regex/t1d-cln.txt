@@ -18,3 +18,5 @@ v
 w
 loan
 click
+world
+country

@@ -5053,6 +5053,7 @@ logininpaypal.webcindario.com
 loginmicrosoftsonline.com
 loginpaypal2017.webcindario.com
 loginsauths-paypalinc.idsap945-actualizacion.com
+logintowebsecurepaypal.srvcppl-order.business
 logpaypal.com
 lojadobebe.com.br
 london-apple.com
@@ -5729,6 +5730,7 @@ paypal-ms.getquote.co
 paypal-myaccount.com
 paypal-myaccounts.com
 paypal-no-reply.c1280067.ferozo.com
+paypal-nostroservizioaccount.it
 paypal-notic-com-ajca8wy57agca56f5a8hcabt5a.h2obawang.com
 paypal-ofsupports.com
 paypal-onlineverification.com
@@ -12719,6 +12721,7 @@ www.paypal-money-transfer.com
 www.paypal-myaccount.com
 www.paypal-myaccounts.com
 www.paypal-no-reply.c1280067.ferozo.com
+www.paypal-nostroservizioaccount.it
 www.paypal-onlineverification.com
 www.paypal-pal.com
 www.paypal-pay.net
@@ -24918,7 +24921,6 @@ download.bettercareersearch.com
 download.bgroom.com
 download.biggamecountdown.com
 download.bitcoinpricesearch.com
-download.bjca.org.cn
 download.bringmeapps.com
 download.browseraccelerator.com
 download.camfrog.com
