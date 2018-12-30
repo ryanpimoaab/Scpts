@@ -373,7 +373,6 @@ device-metrics-us.amazon.com
 metrics.adage.com
 ads.feedly.com
 bi-collector.oneapm.com
-lepodownload.mediatek.com
 pixel.realclever.com
 sdktm.w.inmobi.com
 matchmyip.com

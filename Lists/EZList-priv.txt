@@ -1586,6 +1586,7 @@ plugin.ws
 plwosvr.net
 pm0.net
 pm14.com
+pnstat.com
 pntra.com
 pntrac.com
 pntrs.com
@@ -2171,10 +2172,12 @@ triggeredmessaging.com
 triggertag.gorillanation.com
 triggit.com
 triptease.io
+triptease.net
 trkjmp.com
 trklvs.com
 trkn.us
 trksrv44.com
+trmnsite.com
 trovus.co.uk
 trs.cn
 trtl.ws
@@ -2247,6 +2250,7 @@ vantage-media.net
 vbanalytics.com
 vdna-assets.com
 veduy.com
+vee24.com
 veille-referencement.com
 veinteractive.com
 velaro.com

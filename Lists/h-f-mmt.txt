@@ -1061,7 +1061,6 @@ ginniegask.maverick66.hop.clickbank.net
 girlpr.ipodpsp.hop.clickbank.net
 girls.net
 girlsense.com
-giveawayoftheday.com
 gizmo.net
 gizmos4u.respyware.hop.clickbank.net
 gizzelle.com
@@ -1221,7 +1220,6 @@ information-plus.com
 inmate.co
 inmedia.it
 inquire.com
-insidedailyhealth.com
 insidehollywood.info
 insiderpages.com
 install.browsertoolbar.com
@@ -2297,7 +2295,6 @@ teendebate.com
 teenstations.com
 teenzuiger.shareflux.hop.clickbank.net
 teloxtoc.com
-tenforums.com
 terrapaint.com
 testmeout.com
 texasiron.com
@@ -3091,7 +3088,6 @@ www.gifts.com
 www.gim.com
 www.girls.net
 www.girlsense.com
-www.giveawayoftheday.com
 www.gizligercekler.net
 www.gizzelle.com
 www.globalsecrets.com
@@ -3180,7 +3176,6 @@ www.indiamatch.com
 www.inet-pribyl.com
 www.infoaxe.com
 www.infolizer.com
-www.insidedailyhealth.com
 www.insidehollywood.info
 www.insiderpages.com
 www.instantaction.com
@@ -3774,7 +3769,6 @@ www.tearmedia.com
 www.teendebate.com
 www.teenwise.com
 www.teloxtoc.com
-www.tenforums.com
 www.tfuller.com
 www.tgp-world.com
 www.theadultwire.com
@@ -4088,4 +4082,4 @@ zwinky.com
 zwinkycuties.com
 zzzzz.cauction.hop.clickbank.net
 zzzzz.regmum.hop.clickbank.net
-# hosts: 4090
+# hosts: 4084
