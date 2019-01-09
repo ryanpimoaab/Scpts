@@ -20,6 +20,7 @@ analytics.twitter.com
 android.clients.google.com
 android.googleapis.com
 api.coinbase.com
+api.cryptowat.ch
 api.github.com
 api.ipify.org
 api.iris.tv
@@ -93,6 +94,7 @@ copay.io
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
+cryptowat.ch
 cse.google.com
 ctldl.windowsupdate.com
 customerevents.netflix.com
@@ -291,10 +293,13 @@ solaredge.com
 spclient.wg.spotify.com
 ssl.p.jwpcdn.com
 staging.plex.tv
+static.cryptowat.ch
 static.kickstarter.com
 stats.nba.com
 status.plex.tv
 storage.googleapis.com
+stream.cryptowat.ch
+streamate.com
 support.binance.com
 support.microsoft.com
 surveymonkey.com
@@ -372,6 +377,7 @@ www.analytics.twitter.com
 www.android.clients.google.com
 www.android.googleapis.com
 www.api.coinbase.com
+www.api.cryptowat.ch
 www.api.github.com
 www.api.ipify.org
 www.api.iris.tv
@@ -445,6 +451,7 @@ www.copay.io
 www.cpms.spop10.ams.plex.bz
 www.cpms35.spop10.ams.plex.bz
 www.creative.ak.fbcdn.net
+www.cryptowat.ch
 www.cse.google.com
 www.ctldl.windowsupdate.com
 www.customerevents.netflix.com
@@ -643,10 +650,13 @@ www.solaredge.com
 www.spclient.wg.spotify.com
 www.ssl.p.jwpcdn.com
 www.staging.plex.tv
+www.static.cryptowat.ch
 www.static.kickstarter.com
 www.stats.nba.com
 www.status.plex.tv
 www.storage.googleapis.com
+www.stream.cryptowat.ch
+www.streamate.com
 www.support.binance.com
 www.support.microsoft.com
 www.surveymonkey.com

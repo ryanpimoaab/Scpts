@@ -11110,6 +11110,7 @@ speedadvisor.tech
 speedknow.co
 speedpcutils.com
 speedtest-com.com
+speedtest3.com
 speedtest4.me
 speeduppc.download
 speeduppc.host
@@ -24629,6 +24630,7 @@ www.speedroutinesystemmarkup4progressreport.bid
 www.speedroutinesystemmarkup4progressreport.review
 www.speedroutinesystemmarkup4progressreport.stream
 www.speedtest-com.com
+www.speedtest3.com
 www.speedtest4.me
 www.speeduppc.download
 www.speeduppc.host
@@ -29591,4 +29593,4 @@ zzcihevvdigesting.download
 zzdatpatchily.review
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 29596
+# hosts: 29598

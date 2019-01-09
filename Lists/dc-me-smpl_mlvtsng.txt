@@ -2246,7 +2246,6 @@ pubmatic.com
 pubs.lemonde.fr
 pulse360.com
 q.azcentral.com
-q2melbourne.com
 qctop.com
 qnsr.com
 quakemarketing.com
@@ -2576,6 +2575,7 @@ toplistcity.com
 topmmorpgsites.com
 topping.com.ua
 toprebates.com
+topresistor.gotoip2.com
 topsafelist.net
 topsearcher.com
 topsir.com

@@ -567,3 +567,8 @@ vidoza.net
 freetrade-prod.firebaseio.com
 freetrade-alternate.app.link
 freetrade.app.link
+www.streamate.com
+cryptowat.ch
+static.cryptowat.ch
+stream.cryptowat.ch
+api.cryptowat.ch

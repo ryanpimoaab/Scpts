@@ -20,6 +20,7 @@ analytics.twitter.com
 android.clients.google.com
 android.googleapis.com
 api.coinbase.com
+api.cryptowat.ch
 api.github.com
 api.ipify.org
 api.iris.tv
@@ -93,6 +94,7 @@ copay.io
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
+cryptowat.ch
 cse.google.com
 ctldl.windowsupdate.com
 customerevents.netflix.com
@@ -291,10 +293,13 @@ solaredge.com
 spclient.wg.spotify.com
 ssl.p.jwpcdn.com
 staging.plex.tv
+static.cryptowat.ch
 static.kickstarter.com
 stats.nba.com
 status.plex.tv
 storage.googleapis.com
+stream.cryptowat.ch
+streamate.com
 support.binance.com
 support.microsoft.com
 surveymonkey.com

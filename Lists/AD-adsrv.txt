@@ -4,7 +4,7 @@
 # licence: https://github.com/anudeepnd/blacklist/blob/master/license
 # title: anudeep's blacklist
 # hosts contributed by anudeep <anudeep@protonmail.com>
-# domain count: 33,948
+# domain count: 33,628
 # ===================================================================
 0001-cab8-4c8c-43de.reporo.net
 002-slq-470.mktoresp.com
@@ -3601,7 +3601,6 @@ a37c7687-5fbc-42f7-a945-7bf12dc358a1.nuid.imrworldwide.com
 a3c6-8f2f-272c-6c42.reporo.net
 a3.smi2.ru
 a4.smi2.ru
-a4.tl2
 a522-3fae-f6ec-502a.reporo.net
 a553-1676-827a-bc8d.reporo.net
 a5ahe.voluumtrk.com
@@ -3662,10 +3661,6 @@ aa.trafficjunky.net
 aax.amazon.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
-aax-eu-test1.amazon-adsystem.com
-aax-eu-test2.amazon-adsystem.com
-aax-eu-test3.amazon-adsystem.com
-aax-eu-test.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-fe-pek.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
@@ -3675,13 +3670,6 @@ aax-opf-us-east.amazon-adsystem.com
 aax-us.amazon-adsystem.com
 aax-us-east-rtb-adx.amazon-adsystem.com
 aax-us-east-rtb.amazon-adsystem.com
-aax-us-east-test1.amazon-adsystem.com
-aax-us-east-test2.amazon-adsystem.com
-aax-us-east-test3.amazon-adsystem.com
-aax-us-east-test4.amazon-adsystem.com
-aax-us-east-test5.amazon-adsystem.com
-aax-us-east-test6.amazon-adsystem.com
-aax-us-east-test.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
 aax-us-pdx-rtb-adx.amazon-adsystem.com
 aax-us-pdx-rtb.amazon-adsystem.com
@@ -4449,7 +4437,6 @@ adserver-sb-fra.adtech.de
 adserver-sb-wc.adtechus.com
 adserver.smaato.com
 adserver.snapads.com
-adservertest.smaato.com
 adserver.veruta.com
 adserverwc.adtechus.com
 adserver-west1.veruta.com
@@ -5024,7 +5011,6 @@ analytics.snoobi.com
 analytics.spankbang.com
 analytics-static.ugc.bazaarvoice.com
 analytics.supplyframe.com
-analyticstest.localytics.com
 analytics.thevideo.me
 analytics.trendmicro.com
 analytics.twitter.com
@@ -5235,7 +5221,6 @@ api-eu-west-1.petametrics.com
 api.exc.mob.com
 api.exoclick.com
 api.extension.admitad.com
-api-external-test.demandbase.com
 api.flurry.com
 api.fyber.com
 api-gce.petametrics.com
@@ -6140,7 +6125,6 @@ backend.smi2.net
 backend.stage.smi2.net
 backoffice.adiquity.com
 back-office.kameleoon.com
-backstage-demo.taboola.com
 backstage-fail.taboola.com
 backstage.taboola.com
 backup1.brandreachsys.com
@@ -9124,44 +9108,11 @@ de.marketo.com
 dembele.alphonso.tv
 demdex.net
 de.mediaplex.com
-demo.activate.ensighten.com
-demo.adcolony.com
-demo.addesk.advertising.com
-demo.adlearnop.advertising.com
-demo.adportal.advertising.com
-demo.adrecover.com
-demo.adsnative.com
-demo.advertising.com
-demo.alphonso.tv
 demo-api.adsnative.com
 demobox.teads.tv
-demo.brandreachsys.com
 democorp.112.2o7.net
-demo.criteo.com
-demo-dashboard.fyber.com
 demofiles.smaato.com
 demofootballmedia-d.openx.net
-demo.inq.com
-demo-jp.adlearnop.advertising.com
-demo.kissmetrics.com
-demo.mekshq.com
-de.monitoring.teads.tv
-demo.onedisplay.advertising.com
-demo.outbrain.com
-demo-publisher.permutive.com
-demo.pubmatic.com
-demos.demandbase.com
-demo.segment.com
-demos.exoclick.com
-demo.smartadserver.com
-demos.zedo.com
-demo.teads.tv
-demo.touchcommerce.com
-demo.tynt.com
-demo-uk.adlearnop.advertising.com
-demo.v.fwmrm.net
-demo.vidible.tv
-demo.webengage.com
 demox.adk2x.com
 dena.demdex.net
 dena-d.openx.net
@@ -11434,14 +11385,6 @@ fti.inq.com
 ftiresearch.co1.qualtrics.com
 fti.touchcommerce.com
 ftknrau3es.kameleoon.eu
-ftp.advertising.com
-ftp-as.criteo.com
-ftp.fwmrm.net
-ftp.kissmetrics.com
-ftp-static.marketo.com
-ftp.stg.fwmrm.net
-ftp.tugae2.com
-ftp.vidible.tv
 ftrk.crazyegg.com
 fu8zz.6hqk9cjhg.bapb.gdn
 fuersie.de.intellitxt.com
@@ -11530,7 +11473,6 @@ g8.cnzz.com
 g8n-q.tlnk.io
 g9.cnzz.com
 ga87z2o.com
-gaana.helpshift.com
 gadget.mirtesen.ru
 gadgetreview.t.domdex.com
 gads11000c.pubmatic.com
@@ -14126,13 +14068,6 @@ jimajc05d0.kameleoon.eu
 jinjaadvertising.d1.sc.omtrdc.net
 jiodth.new-free-offer.in
 jio-phone.new-free-offer.in
-jira.face2trade.com
-jira.outbrain.com
-jira.revcontent.com
-jira.smaato.net
-jira.taboola.com
-jira.unbounce.com
-jira.zedo.com
 jizvehd.misosoup.io
 jj6rt.voluumtrk.com
 jjiym9vwbkom61w7rpvvidmgqjjhg1505370841.nuid.imrworldwide.com
@@ -16587,8 +16522,6 @@ newlook.d1.sc.omtrdc.net
 newmeasuresoverstock.ca1.qualtrics.com
 newmediagroup-d.openx.net
 newpharma.demdex.net
-newpromo.8mm.shiksha
-newpromo.mumbai-invest.email
 newrosscreditunion.ca.102.112.2o7.net
 newrotationurl.com
 news.advert.mirtesen.ru
@@ -17266,45 +17199,6 @@ oodle-pets.t.domdex.com
 ookla-d.openx.net
 oomiz.voluumtrk.com
 oo.moatads.com
-o-o---preferred---sn-5uaezn7y---v24---cache.c.googlesyndication.com
-o-o---preferred---sn-5uaeznek---v10---cache.c.googlesyndication.com
-o-o---preferred---sn-5uaeznek---v21---cache.c.googlesyndication.com
-o-o---preferred---sn-5uaeznek---v23---cache.c.googlesyndication.com
-o-o---preferred---sn-5uaeznek---v24---cache.c.googlesyndication.com
-o-o---preferred---sn-5uaeznek---v2---cache.c.googlesyndication.com
-o-o---preferred---sn-5uaeznek---v8---cache.c.googlesyndication.com
-o-o---preferred---sn-5uu-vgqe---v10---cache.c.googlesyndication.com
-o-o---preferred---sn-5uu-vgqe---v18---cache.c.googlesyndication.com
-o-o---preferred---sn-5uu-vgqe---v24---cache.c.googlesyndication.com
-o-o---preferred---sn-5uu-vgqe---v6---cache.c.googlesyndication.com
-o-o---preferred---sn-5uu-vgqe---v7---cache.c.googlesyndication.com
-o-o---preferred---sn-5uu-vgqe---v8---cache.c.googlesyndication.com
-o-o---preferred---sn-5uu-vgqe---v9---cache.c.googlesyndication.com
-o-o---preferred---sn-5uu-vgql---v21---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v10---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v11---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v12---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v13---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v14---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v15---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v16---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v17---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v18---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v19---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v1---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v20---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v21---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v23---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v24---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v2---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v3---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v4---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v5---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v6---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v7---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v8---cache.c.googlesyndication.com
-o-o---preferred---sn-o097zne7---v9---cache.c.googlesyndication.com
-o-o---preferred---sn-p5q7yne7---v23---cache.c.googlesyndication.com
 oops.lijit.com
 oo-pulsessp.videoplaza.tv
 open.cnzz.com
@@ -18711,7 +18605,6 @@ privymktg.com
 prize3976.pps-solution-server81.loan
 prizegrab-d.openx.net
 prkhg.voluumtrk.com
-prm.mumbai-invest.email
 prndl.com.102.112.2o7.net
 proactivplus.inq.com
 proactivplus.touchcommerce.com
@@ -19025,7 +18918,6 @@ q.addthis.com
 q.adrta.com
 qadynamics.marketo.com
 qaexpresso.colombiaonline.com
-qa.ftp.advertising.com
 qai-uk.adlearnop.advertising.com
 qa.lijit.com
 qaperf2-h.online-metrix.net
@@ -21095,10 +20987,6 @@ sfrmobile.touchcommerce.com
 sfr.touchcommerce.com
 sfsj106konrxg2ucsbqnyor1h4wbu1509917800.nuid.imrworldwide.com
 sfsu.co1.qualtrics.com
-sftp2.adlooxtracking.com
-sftp3.adlooxtracking.com
-sftp4.adlooxtracking.com
-sftp.adlooxtracking.com
 sfw.adsafeprotected.com
 s.fwmrm.net
 sfwop.voluumtrk.com
@@ -21431,12 +21319,6 @@ smrtpxl-staging.advertising.com
 smsadapter-ps.qualtrics.com
 smsmarket.goforandroid.com
 sms.vidible.tv
-smtp01.datorama.magnetic.com
-smtp2.demandbase.com
-smtp.demandbase.com
-smtp.kissmetrics.com
-smtp.tugae2.com
-smtp.zedo.com
 smtrack.go2affise.com
 smu.az1.qualtrics.com
 smu.qualtrics.com
@@ -22385,7 +22267,6 @@ ssd.qualtrics.com
 ssf.adlooxtracking.com
 ssga.demdex.net
 s-s.goo.gl.prx.proxywebsite.co.uk
-ssh.kissmetrics.com
 sshowads.pubmatic.com
 sshs.qualtrics.com
 s.skimlinks.com
@@ -27955,7 +27836,6 @@ ivid-f9-us-ca.adhigh.net
 ivid-f9-us-va.adhigh.net
 ivid-ft1-hk.adhigh.net
 ivid-px.adhigh.net
-jira.adhigh.net
 mvn.adhigh.net
 puppet2.adhigh.net
 putin.adhigh.net
@@ -28950,7 +28830,6 @@ hookedmediaprod.amobee.com
 intelligence.amobee.com
 political.intelligence.amobee.com
 intranet.amobee.com
-jira.amobee.com
 m.amobee.com
 maigw01.amobee.com
 mmmvar.amobee.com
@@ -29584,7 +29463,6 @@ rt.applvn.com
 www.appnext.com
 admin.appnext.com
 ads.appnext.com
-developers.appnext.com
 discover.appnext.com
 events.appnext.com
 lp1.appnext.com
@@ -29623,7 +29501,6 @@ autodiscover.appnexus.com
 01-prf-test-nym.ad.corp.appnexus.com
 01-rds-dev-nym1.ad.corp.appnexus.com
 01-rds-dr-lax.ad.corp.appnexus.com
-01-sftp-nym2.ad.corp.appnexus.com
 01-spotapp-nym2.ad.corp.appnexus.com
 01-spotdb-nym2.ad.corp.appnexus.com
 01-spotweb-nym2.ad.corp.appnexus.com
@@ -29682,7 +29559,6 @@ lo0.br2.lax1.appnexus.com
 openldap.corp.lax1.appnexus.com
 01.corpidp.lax1.appnexus.com
 01.credentials-api.lax1.appnexus.com
-01.gerrit.lax1.appnexus.com
 ip765621.lax1.appnexus.com
 01.kdc.lax1.appnexus.com
 01.krbize.lax1.appnexus.com
@@ -29798,8 +29674,6 @@ obs02.nym2.appnexus.com
 rt.nym2.appnexus.com
 04.rt.nym2.appnexus.com
 rt-old.nym2.appnexus.com
-01.sftp-sand.nym2.appnexus.com
-01.slack-proxy.nym2.appnexus.com
 stab.nym2.appnexus.com
 02.stab.nym2.appnexus.com
 hesituation.nym2.appnexus.com
@@ -29827,7 +29701,6 @@ lbip228592.sin1.appnexus.com
 summit.appnexus.com
 echblog.appnexus.com
 www.techblog.appnexus.com
-est-console-cdn.appnexus.com
 www.arbor.io
 dashboard.arbor.io
 www.atomex.net
@@ -31569,11 +31442,8 @@ rtr-ny2-01-nlayer.casalemedia.com
 rtr-sv3-01-nlayer.casalemedia.com
 san.casalemedia.com
 sdk.casalemedia.com
-sftp.casalemedia.com
 ssum-sec.casalemedia.com
 system.casalemedia.com
-est113.casalemedia.com
-est37.casalemedia.com
 va00.casalemedia.com
 va01.casalemedia.com
 va04.casalemedia.com
@@ -32634,7 +32504,6 @@ images.clickability.com
 imp.clickability.com
 imware.clickability.com
 info.clickability.com
-jira.clickability.com
 jsonline-cdn-m.clickability.com
 la-gw.clickability.com
 la-secure-origin-c.clickability.com
@@ -32703,8 +32572,6 @@ cnn.travel.savethis.clickability.com
 cnn.worldnews.savethis.clickability.com
 secure.clickability.com
 secure-origin-c.clickability.com
-sftp.clickability.com
-www.sftp.clickability.com
 sj-nagios.clickability.com
 www.sj-nagios.clickability.com
 sso.clickability.com
@@ -33721,10 +33588,33 @@ f0ad.notifychheck.com
 2pn2.notifychheck.com
 z33y.notifychheck.com
 rfpump.com
-www.trfpump com
+www.trfpump.com
 stats.trfpump.com
 c.trfpump.com
-.trfpump com
+.trfpump.com
 cdn.trfpump.com
 media.trfpump.com
 main.exoclick.com
+www.atozdealinfo.com
+atozdealinfo.com
+xgrwjbui.top
+wnzmauurgol.com
+free-download.s0l8ybzj9u.top
+justredirect25.com
+a0hz.sensityimmit.club
+fnra.sensityimmit.club
+hxu2.sensityimmit.club
+lkqs.sensityimmit.club
+oxtk.sensityimmit.club
+w19v.sensityimmit.club
+p8.sensityimmit.club
+w1c1.sensityimmit.club
+zgt5.sensityimmit.club
+www.facebook-info.co
+facebook-info.co
+9j.facebook-info.co
+2o.facebook-info.co
+ci.facebook-info.co
+nj.facebook-info.co
+f4.facebook-info.co
+arc.msn.com
