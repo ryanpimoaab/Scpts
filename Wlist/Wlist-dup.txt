@@ -572,3 +572,4 @@ cryptowat.ch
 static.cryptowat.ch
 stream.cryptowat.ch
 api.cryptowat.ch
+f1.media.brightcove.com

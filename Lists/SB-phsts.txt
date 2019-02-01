@@ -258,8 +258,6 @@ securemetrics.apple.com
 smetrics.bestbuy.com
 srv.pixel.parsely.com
 sdkupgrade.insight.ucweb.com
-vrl.m.conviva.com
-zee.cws.conviva.com
 uop.umeng.com
 wc-tracking.lavasoft.com
 api.cloudmobi.net
@@ -646,6 +644,8 @@ browser.pipe.aria.microsoft.com
 angiemktg.com
 weconfirmyou.com
 cws.conviva.com
+vrl.m.conviva.com
+zee.cws.conviva.com
 beap-bc.yahoo.com
 oken.rubiconproject.com
 fc.yahoo.com
@@ -896,6 +896,10 @@ icloud.com-locations.in
 cradver.livejasmin.com
 freeadult.games
 goooooooooogle.com
+rdi.eu.criteo.com
+ads.samsungads.com
+enabler.datalake.mediaset.it
+hbbtv.mediaset.net
 alpha.telemetry.microsft.com
 eu.vortex-win.data.microsft.com
 oca.telemetry.microsft.com

@@ -4,7 +4,6 @@ coinhive.com
 cnhv.co
 jsecoin.com
 minemytraffic.com
-info
 crypto-loot.com
 2giga.link
 ppoi.org
@@ -63,7 +62,6 @@ altpool.pro
 api.inwemo.com
 azvjudwr.info
 baiduccdn1.com
-cdn.cloudcoins.co
 cloudcoins.co
 coinhive-manager.com
 coinhive-proxy.party
@@ -90,9 +88,6 @@ megabanners.cf
 minecrunch.co
 miner.pr0gramm.com
 minero-proxy-*.sh
-minero-proxy-01.now.sh
-minero-proxy-02.now.sh
-minero-proxy-03.now.sh
 minexmr.com
 mmpool.org
 monerominer.rocks
@@ -100,7 +95,6 @@ now.sh
 onlinereserchstatistics.online
 papoto.com
 podrltid.info
-pool.supportxmr.com
 rapidvideo.com
 rawgit.com
 reactor.cc
@@ -120,9 +114,7 @@ cdn.jquery-uim.download
 cndhit.xyz
 g-content.bid
 statistic.date
-ad.g-content.bid
 cdnfile.xyz
-cnt.statistic.date
 web.clod.pw
 static-net.nut.cc
 static-02.flu.cc
@@ -147,7 +139,6 @@ vidfile.net
 tubetitties.com
 flare-analytics.com
 fileone.tv
-miner.nablabee.com
 m.anyfiles.ovh
 300mbfilms.co
 cryptonoter.com
@@ -192,7 +183,6 @@ upgraderservices.cf
 gramombird.com
 verifier.live
 jshosting.*
-freecontent.*
 hostingcloud.*
 money-maker-default.info
 money-maker-script.info
@@ -211,3 +201,5 @@ flightsy.win
 185.165.169.108
 dragonballzpolo.*
 besstahete.info
+torrentrapid.com
+tercabilis.info

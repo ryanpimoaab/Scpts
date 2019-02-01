@@ -500,6 +500,7 @@ apple-gift.services
 apple-gift.world
 apple-giveaway2018.com
 apple-good.ru
+apple-gpsdw.com
 apple-gpstrack.com
 apple-gsx.com
 apple-gueasxc-doenaskjedanteishasancbenaml02910.securee2checkouts.applecourt.club
@@ -564,6 +565,7 @@ apple-id.biz
 apple-id.cards
 apple-id.email
 apple-id.net
+apple-id.siginin.no-form9587.therockinghorsestable.com.au
 apple-id63aa24501817b1d81fc6e59c22af27c57.uk
 apple-id86a-1h924.com
 apple-ida.com
@@ -696,6 +698,7 @@ apple-maps-localized.com
 apple-maps-online.com
 apple-maps.support
 apple-master.com
+apple-mcc.top
 apple-me.site
 apple-medic.com
 apple-message.com
@@ -726,6 +729,7 @@ apple-notification.com
 apple-notifications-service.app
 apple-notifications-service.com
 apple-novations.com
+apple-oct.top
 apple-oid1s.com
 apple-online-store.com
 apple-online.info
@@ -762,6 +766,7 @@ apple-professional-learning.com
 apple-program.com
 apple-promo.com
 apple-promotion.com
+apple-protects.com
 apple-purchase-icloud2tb.com
 apple-put.top
 apple-questions.com
@@ -817,6 +822,7 @@ apple-security-helpline.com
 apple-security-warning.win
 apple-security.mmingenierie.com
 apple-security.net
+apple-securitys.com
 apple-securitysupport.com
 apple-segundamano.com
 apple-seguridad.com
@@ -981,13 +987,19 @@ apple-y.com
 apple-yard.com
 apple-zh.com
 apple-zone.club
+apple.access-au.com
 apple.appleid.xn--80akq.com
 apple.cat
 apple.ch.webapp.invoice465165.net
+apple.com-1860.safegas.com.au
 apple.com-appleid.live
 apple.com-costumer-service.solutions
 apple.com-iservice.info
 apple.com-location.org
+apple.com-login-online.03tffepu7l82imevskcrjplxixuq5kw97rdamd89d67.premiumexpo.ro
+apple.com-login-online.6bz2drfgegspo5k3ukylp0mcra8fxtw97rdamd89d67.detroit-traffic-tickets.com
+apple.com-login-online.lyxmogrxb05stiqefp1vthbufavqhrw97rdamd89d67.capefearcustomrv.com
+apple.com-login-online.zqjrihu0xaqhdnwi2nvmoye9tlsoztw97rdamd89d67.premiumexpo.ro
 apple.com-store-lockedmail-0587.mail-open-case-id-51896374.net
 apple.com-ydte4jhl6syu0oxhnongmncjl.info
 apple.com.famsa.cn
@@ -1411,6 +1423,7 @@ appleiconnect.com
 appleid-account-verification.com
 appleid-account-verify-apple.com
 appleid-activate.com
+appleid-admin.com
 appleid-ai.com
 appleid-ap.com
 appleid-app1e.com
@@ -1448,6 +1461,7 @@ appleid-apple.store
 appleid-apple.support
 appleid-applela.com
 appleid-appleni.com
+appleid-applesecure.getyourspaymentoke06.com
 appleid-applesoporte.com
 appleid-appleverify.com
 appleid-applle.com
@@ -1638,6 +1652,7 @@ appleid-websecurity.com
 appleid.accountant
 appleid.apple-secure.infocustomer-security.com
 appleid.apple-secure.security-restoreaccess.com
+appleid.apple-suspiciousactivity.com.manuallyserviceandroid.com
 appleid.apple.28234.eu
 appleid.apple.airfarm.co.za
 appleid.apple.amlife.my
@@ -1665,6 +1680,7 @@ appleid.apple.com.billing-rejected.com
 appleid.apple.com.lundesoldm.com
 appleid.apple.com.ogival.com.my
 appleid.apple.com.page-signin.htlm.sessionid.zxo2dnbh.xyz
+appleid.apple.com.page.contact-apples.com
 appleid.apple.com.service-locked-information.com
 appleid.apple.com.service-updates-session-actionid14440.gq
 appleid.apple.com.signin.gwcs.in
@@ -1945,6 +1961,7 @@ applelocation.com
 applelocation.live
 applelockbox.com
 applelogicboardrepaircenter.com
+applelogin-blocked.servebeer.com
 applelogin-details.com
 applelogin-support.com
 appleloginid.com
@@ -2399,6 +2416,7 @@ applesupport-icloud.com
 applesupport-number.com
 applesupport-security-information.com
 applesupport-store.com
+applesupport-system.com
 applesupport-tools.com
 applesupport-verificationaccount.com
 applesupport-verify.com
@@ -2657,6 +2675,7 @@ appsicloud-myscrdata.appsandydata.com
 appsto-icloudfmi.com
 appstore-apple-com.services
 appstore-applecom.app
+appvideoandroid.today
 arabbank.support
 arepaypal.com
 argentinamiapple.com
@@ -2697,6 +2716,7 @@ authentication-text-message-bank.confirm-wells.xyz
 authentications.verify-paypal.serveusers.com
 authentificationpaypal.com
 authflow-paypalservice.com
+authlogin.update.support.appleid.com.secures-login.com
 authorize-apple.com
 authorized-apple.com
 autoappleid.com
@@ -2750,6 +2770,9 @@ bankgrp.com
 bankguarantee.ru
 bankia-es-es.com
 bankieren-triodosclientenidentifiers.nl
+bankiinggoffamerrica.cf
+bankiingoffamerrica.ga
+bankiingoffamerrica.gq
 bankimsardarcollege.org
 bankinclub.com
 banking-alerts.com
@@ -2760,12 +2783,15 @@ banking-fidor.info
 banking-help.com
 banking-wellsfargo.com
 banking.md
+banking.post.bank-de-anmeldung-login-id1232-customer84d.ru
 banking.raiffeisen.at.s61135.top
 banking.westpac.com.au.security-protect.ga
 banking.westpac.com.au.security-protect.ml
 banking.xn--fdor-qpa.de
 banking.xn--fdor-vpa.de
+bankingalertofamierica.ga
 bankingindiaupdate.com
+bankingofamericaservi.ml
 bankline-itau.ddns.net
 banklithuania.com
 banklogin.com
@@ -2781,6 +2807,8 @@ bankofamerica-confirminformation.up-dateyourinfo.com
 bankofamerica-recover-restricted-account.mararu.com
 bankofamerica-secure.com.ocornnells.com
 bankofamerica.abvendingco.com
+bankofamerica.amothersheritage.com
+bankofamerica.com-secure-home-path-userlogin.asl1syis.com
 bankofamerica.com-secure.tumersville.co.za
 bankofamerica.com.account-update.oasisoutsourcingfirm.com
 bankofamerica.com.authentication.validation.mgbursajenerator.com
@@ -2807,6 +2835,7 @@ bankofamerica.lasschel.com
 bankofamerica.locationsmap.com
 bankofamerica.madeincolors.com
 bankofamerica.myaccount.update.jonesrecruitment.com.au
+bankofamerica.ncs-bh.com
 bankofamerica.npoexpo.org
 bankofamerica.onlinebanking.techiguru.com
 bankofamerica.personal578.com
@@ -2821,6 +2850,7 @@ bankofamericasecure-verificationstage.net
 bankofamericasecured.aba.ae
 bankofengland.usa.cc
 bankoffamerica.webcindario.com
+bankofmer.com
 bankohlventures.com
 bankrollers.com
 bankruptcy-atlanta.com
@@ -2926,6 +2956,7 @@ bit-ebay.com
 bitcoin-2-paypal.com
 bitcoin-giveaway.webz.cz
 bitcoin-kaufen-paypal.com
+bitcoin-pro.club
 bitcoin-promo.club
 bitcoin1-btc.site
 bitcoin10-btc.site
@@ -2963,6 +2994,7 @@ bitcoinmegastore.com
 bitcoinmob.com
 bitcoinoutlook.com
 bitcoinpaypal.app
+bitcoinscr.app
 bitcoinstopaypal.com
 bitcoinstransfermoney.com
 bitcointolk.org
@@ -3023,6 +3055,8 @@ cartomantipaypal.com
 cartomanziapaypal.com
 case-summary-acces-paypal-service-account.com
 case10217-apple.com
+case19763-apple.com
+cash-bitcoin.online
 casino-enlignepaypal.com
 casinoswithpaypal.co.uk
 cat.www.apple.com.meowbify.com
@@ -3267,6 +3301,7 @@ cheapnfljerseyspaypalpro.com
 checkapple.com
 checking-apple-forcleaning.com
 checkrepair-apple.com
+chhabank.ddns.net
 china-applelnc.com
 chinaapple.info
 chinaapple.news
@@ -3274,7 +3309,9 @@ chinatwitter.com
 chinawhatsapp.com
 chinesewhatsapp.com
 chromehealth.com
+chromestoresupport.com
 ciaoapple.com
+cibc-bank-support.com
 cibc-online-banking.com
 cibcbankalert.com
 citibank.com.my.betomultimarcas.com
@@ -3434,6 +3471,7 @@ document-adobe.000webhostapp.com
 document-apple.com
 dokuments168onmicrosoft.com
 dompetpaypal.com
+doublebitcoin.cc
 downapple.com
 downlandproduceltd.co.uk
 downlinepress.com
@@ -3444,6 +3482,7 @@ downloadarabicsoft.com
 downloaddropbox.info
 downloadfarcry3.com
 downloadfreefullmovie.com
+downloadinvoice.altervista.org
 downloadmoviefromnetflix.review
 downloads.extafiles.com
 downloads.joomlacode.org
@@ -3743,6 +3782,7 @@ google.com-update.session8738974983749734879ad9awd0dasd34wdawdaad.cafeask.com
 google.com.drive.com.drive.com.drive.com.drive.com.computerpalsmaitland.net
 google.com.drive.com.drive.com.drive.com.drive.com.degrif-auto.fr
 google.com.gohiding.com
+google.drive.serske.com
 google.groups.funds.gp-2017.com
 google.helpsecure-accounts.com
 google.rccgapapafamily.net
@@ -3769,6 +3809,7 @@ googlesupport.xyz
 googletrnslate.com
 googlevideositemap.com
 grabcashpaypal.com
+grenadadevelopmentbank.com
 groupappleapi.com
 growtwitterfollowers.net
 grup.appleid.apple.store.imrjo.elvoceador.net
@@ -3779,6 +3820,7 @@ gsx-apple.info
 gta-5-pc-download.com
 guidapaypalcard.altervista.org
 halifax.mobi
+halifaxentertainment.ca
 halkbank-parafcard-tr.com
 halkbank-puan-tr.com
 halkbank-subesizbankacilik.com
@@ -3834,6 +3876,7 @@ hosticloud.com
 hotelapplevilla.in
 howtohacktwitter.com
 howtomakemoneyonlinewithpaypal.com
+hpchrome.ir
 hsbc-net.com
 hsbc.co.uk.onlinebankingsecurelogin.info.securityonline.onlinebanking.unitedkingdom.working.personal.loginaspreferendent.com
 hsbc.personal-gb.org
@@ -4931,6 +4974,7 @@ ke-appleid.com
 keepthepineapplehustling.com
 keyspaypal.com
 kharideappleid.com
+klik-download.com
 knsapple.com
 kontopruefung-paypal.com.de
 kopotakkhobloodbank.com
@@ -4980,6 +5024,7 @@ limitedsecure-mypaypalsummary.com
 limmitedpaypal.com
 linapple1.com
 linapple2.com
+linkedin.com.download.file.file.file.file.pdf.ufiediqwdjow.wklqwm.kwkjwlqm.kqkkqq.kqkqmmq.kldks.ga
 linkpaypal.com
 listings-ebay.com
 litepaypal.com
@@ -4988,6 +5033,7 @@ live-ebay-auctions.com
 liveadobe-sso-lgn.com
 liveapplemusic.com
 lixing-apple-service.com
+lmap-apple.com
 lnc-apple.com
 lnternetbanking-santander.com
 lntls-appleld.com
@@ -5068,6 +5114,7 @@ login.microsoftonllne.com
 login.microsofts.support
 login.onlinebanking.suntrust.com1domains.ml
 login.paypal.com.webapps.redirecting.to-secure.wildcard.review-limitedaccount.cherrywoodartfair.org
+login.w3microsoftonline.com
 loginapple.com
 loginid-apple.com
 logininpaypal.webcindario.com
@@ -5153,6 +5200,7 @@ manage-appleidsucuenta.com
 manage-appleld-apple.com
 manage-login-activity-apple.com
 manage-secure-service-appleid.com
+manage-service.appleid.apple.com.en-supportcr.com
 manage-settings-appleid.com
 manage-supportid-apple.com
 manage-unlock-apple.com
@@ -5161,6 +5209,7 @@ manage-verify-updateinformationappleid.com
 manage-yourappleid-webappswebscr-icloudappsolved.com
 manage.apple.com.webobjectsd5dbc98dcc983a7028bd82d1a47540.dsiblings.com
 manage.applelb.web0bject.saccountsummary.l3d3dy5hchbszs5jb2trl04.bintang-rinjani.com
+manage.paypal.help-services-info.com
 manage.signin.paypalsecure.com.zfsom.co
 manageaccountapples.com
 manageappleld.com
@@ -5227,6 +5276,7 @@ microsoft.login.dmmdc.edu.bd
 microsoft.outlook.apitech.ca
 microsoft.pixeltogether.com
 microsoft.tl
+microsoft00now.000webhostapp.com
 microsoft0utl00k2018.editor.multiscreensite.com
 microsoft0utl00k20182.editor.multiscreensite.com
 microsoft2018.cdhost.com
@@ -5264,6 +5314,7 @@ microsoftteam.000webhostapp.com
 microsoftvoice.wz.sk
 microsoftvoicedatareceived.com
 microsoftvoicesharedatafiles.com
+microsoftware.moonfruit.com
 microsoftwebaccessowa.editor.multiscreensite.com
 microsoft_excel.de.downloadastro.com
 microsoft_outlook2018.editor.multiscreensite.com
@@ -5609,6 +5660,7 @@ paymentspaypal.com
 paypa-upd.com
 paypa-us-update.vpstrust.com
 paypa.world
+paypa1.neocities.org
 paypa1.org
 paypaal.com-account-system-checkup-updates-561478.pglxc.top
 paypaal.com-account-system-verify-updates-yb936ror.olins.top
@@ -5660,6 +5712,7 @@ paypal-assistenzaclienti.it
 paypal-b2b.com
 paypal-business-account-verification-documents.com
 paypal-business-account-verification-documents.net
+paypal-buyerprotection.com
 paypal-cart.com
 paypal-casino.online
 paypal-casinos.com
@@ -5705,6 +5758,7 @@ paypal-help-team.com
 paypal-help.com
 paypal-home-secure.com
 paypal-homepage.com
+paypal-id-restore.blogspot.com
 paypal-income.com
 paypal-incs.com
 paypal-info.accountveriftinbox.com
@@ -5788,6 +5842,7 @@ paypal-scureity.herokuapp.com
 paypal-seccurty.herokuapp.com
 paypal-secu.red
 paypal-secura-nuovo--aggiornamento-clienti.pagedemo.co
+paypal-secure-login.zinayeem.com
 paypal-secure.co.uk
 paypal-secure.support
 paypal-secure187.com
@@ -5804,6 +5859,7 @@ paypal-service-center.com
 paypal-service-cs.com
 paypal-service-request.com
 paypal-service-validation.com
+paypal-service.co.uk
 paypal-service.com
 paypal-service.ngisinggedi4.com
 paypal-service.quayle-fr.com
@@ -5874,6 +5930,7 @@ paypal-webapps.vertify-updated.com
 paypal-xrp.com
 paypal-zahlung.com.de
 paypal-zhuce.com
+paypal.accountspage.co.uk
 paypal.alteccom.com
 paypal.anamezing.com
 paypal.apply.verifications-identity.co.nz
@@ -5904,10 +5961,12 @@ paypal.co.uk.bagm.pw
 paypal.co.uk.bzu1.pw
 paypal.co.uk.d8cx.pw
 paypal.co.uk.di0b.pw
+paypal.co.uk.ds8q.top
 paypal.co.uk.fchf.pw
 paypal.co.uk.gnxh.pw
 paypal.co.uk.j5lq.pw
 paypal.co.uk.j7rk.pw
+paypal.co.uk.k4s1.top
 paypal.co.uk.m44q.pw
 paypal.co.uk.mt33.pw
 paypal.co.uk.n2s1.ltd
@@ -6013,6 +6072,7 @@ paypal.link
 paypal.login.home.summary.radiolatinadocaribe.com.br
 paypal.login.myaccount.secure.myaccloginsecid.com
 paypal.login.myaccount.secure.webappsmppmaccounts.com
+paypal.me.amyhutchingscasting.com
 paypal.meinkonto-hilfe-ssl.de
 paypal.mtxserv.fr
 paypal.oghacks.org
@@ -6038,6 +6098,7 @@ paypal.verify.colegiooswaldocruz.com.br
 paypal.waclacegh.com
 paypal.webaccountvalidation-services.igg.biz
 paypal.x-signin.e4ed022458ca01f4ad593.appereance.international
+paypal.xdatingroot.com
 paypal.xin
 paypal1.net-br.top
 paypal102.com
@@ -6547,6 +6608,7 @@ safeguard.hsbc.co.uk.2faverify.com
 safeid-apple.com
 safety-apple.com
 safetypaypal.com
+sainbursybank.com
 sainf-apple.com
 sainsburysbankemail.co.uk
 salaambank.so
@@ -6683,6 +6745,7 @@ secure-appleld.com
 secure-appleordercomplete-store.com
 secure-appsappleeid-help.com
 secure-banklogin.com
+secure-bankofamerica.oldcapequarter.com
 secure-idsa-apple.com
 secure-information-paypal.com
 secure-infos-appleid.com
@@ -6722,6 +6785,7 @@ secure.bankofamerica.com-login-sign-onscreen-msg-onlineemptyrequest-locale-token
 secure.bankofamerica.com.2fa-sec.com
 secure.bankofamerica.com.2faverify.com
 secure.bankofamerica.com.recslist.com
+secure.bankofamerica.com.security-identification.page
 secure.bankofamerica.haalcheronabondhu.org
 secure.bankofamerica.rocketmallbd.com
 secure.bankofamerica.secure.sign0n.l0gin289n22.wetrendit.com
@@ -6766,6 +6830,7 @@ secureadobeupdate.com
 secureappleidaccounts.info
 secureapplepay.com
 secureapps-apple.com
+securebanking.gq
 securebankingbarclaysus.com
 secured-microsoftonline.000webhostapp.com
 secured2-apple-appsmanagementstorefraud.com
@@ -6942,6 +7007,7 @@ signin-appleid-us.com
 signin-appleid.live
 signin-ebay.labhireal.desi
 signin-icloud-apple.com
+signin-service-en.appleid.apple.com.shauhe.com
 signin-support-apple.com
 signin-suspicious-activity-review-paypal.case-numb981827-2992.com
 signin-unlock-yourapple.com
@@ -6952,6 +7018,7 @@ signin.ebay-offer.id6576572.en-up.me
 signin.ebay.co.uk.canfra.com
 signin.ebay.co.uk.forum-discussion.bugs3.com
 signin.ebay.co.uk.wabyn.net
+signin.ebay.de-ws1.ebay.isapi.dll-signin.ru.web115.s176.goserver.host
 signin.ebay.de.ebaisapidllocssignindeptnedep.das-kleine-freie.de
 signin.ebay.de.ws.ebayisapi.dll.ju7iayon2ajz3n0.tfg03.hemsida.eu
 signin.ebay.de.ws.ebayisapi.dll.signin.usingssl.9ru4cpo5lfymz3x.nezavisnisindikatbvk.rs
@@ -6960,6 +7027,7 @@ signin.ebay.de.ws.ebayisapi.dll.signin.usingssl.hx3zh3bst8b3woh.nezavisnisindika
 signin.ebay.it.sosa-online.de
 signin.ebay.whsigne.com
 signin.ebayysapidllsignin.ebay.de.drssmuthiah.com
+signin.manage.appleid.apple.com.en-iforgotsapple.com
 signin.paypal.com-country.es-mpp.com
 signin.paypal.com-country.es-pais.com
 signin.paypal.com.kurdiso.com
@@ -7008,6 +7076,7 @@ softupdateadobe.online
 sogin-apple.com
 solucionespaypal.com
 soporte-apple-mexico.com
+soporte-apple.icu
 soporte-apple.info
 soporteapplemx.com
 soportedeapple.ltd
@@ -7080,12 +7149,14 @@ support-apple-id-icloud-update-secure.radixsooq.com
 support-apple-lockedaccount.com
 support-apple-net.com
 support-apple-securedeviceid.com
+support-apple-services.com
 support-apple-updatesecuredatachanged.com
 support-apple.app
 support-apple.appleld.iog-ln.com
 support-apple.email
 support-apple.live
 support-apple.online
+support-apple.store
 support-apple.tools
 support-appleaccountverifyyourdata.net
 support-appleappleid.com
@@ -7422,6 +7493,7 @@ usapaypal-address.com
 usapplepro.com
 usapplesupport.com
 usbank-infocheck.com
+usbank.security.check.jigydi.com
 useless-apple.info
 user-appleloginlockedalerosed-securityomerosure.com
 user-softbank.com
@@ -7522,6 +7594,7 @@ verifyapple.com
 verifycation-appleid-unlocked.com
 verifyclientaccount-paypal.com
 verifylocati0napple.com
+verifypaypailwebappsmyaccountsupdateds.authsloginsaccs.com
 verifypaypal.com
 verifyuser-intlpaypal.com
 verizonicloud.com
@@ -7675,6 +7748,7 @@ www---apple.com
 www--paypal.com
 www-apple-com.info
 www-apple-conact-support.com
+www-apple-store-update-2019.aba.ae
 www-appleid-apple.com
 www-applelnc.com
 www-google-com-0017174001usermail.duckdns.org
@@ -8237,6 +8311,7 @@ www.apple-id.cards
 www.apple-id.cloud
 www.apple-id.email
 www.apple-id.net
+www.apple-id.siginin.no-form9587.therockinghorsestable.com.au
 www.apple-id5.com
 www.apple-id63aa24501817b1d81fc6e59c22af27c57.uk
 www.apple-id86a-1h924.com
@@ -8460,6 +8535,7 @@ www.apple-program.com
 www.apple-promo.com
 www.apple-promos.com
 www.apple-promotion.com
+www.apple-protects.com
 www.apple-question.com
 www.apple-questions.com
 www.apple-re-cover.ru
@@ -8710,6 +8786,7 @@ www.apple-zone.club
 www.apple-zv3.com
 www.apple.cat
 www.apple.ch.webapp.invoice465165.net
+www.apple.com-1860.safegas.com.au
 www.apple.com-infosubt-accountpayment.com
 www.apple.com-ydte4jhl6syu0oxhnongmncjl.info
 www.apple.com.filikz.com
@@ -10390,6 +10467,7 @@ www.apps0serv-signinappleid-serverinc.com
 www.apps0serv-signinpaypal-serverinc.com
 www.appstore-apple-com.services
 www.appstore-applecom.app
+www.appvideoandroid.today
 www.arabbank.support
 www.arepaypal.com
 www.asesoriasgapple.cl
@@ -10489,6 +10567,7 @@ www.bankofamerica-com-login-in-sign.com
 www.bankofamerica-com-update-info-secure.org.uk
 www.bankofamerica-recover-restricted-account.mararu.com
 www.bankofamerica.abvendingco.com
+www.bankofamerica.amothersheritage.com
 www.bankofamerica.com-secure.tumersville.co.za
 www.bankofamerica.com.authentication.validation.mgbursajenerator.com
 www.bankofamerica.com.idkey13za1313.courserasme.be
@@ -10507,6 +10586,7 @@ www.bankofamerica.iyt.org.au
 www.bankofamerica.lasschel.com
 www.bankofamerica.madeincolors.com
 www.bankofamerica.myaccount.update.jonesrecruitment.com.au
+www.bankofamerica.ncs-bh.com
 www.bankofamerica.npoexpo.org
 www.bankofamerica.personal578.com
 www.bankofamerica.santajicollege.ac.in
@@ -10619,6 +10699,7 @@ www.bit-ebay.com
 www.bitcoin-2-paypal.com
 www.bitcoin-giveaway.webz.cz
 www.bitcoin-kaufen-paypal.com
+www.bitcoin-pro.club
 www.bitcoin-promo.club
 www.bitcoinforpaypal.com
 www.bitcoinfundingteam.co.za
@@ -10687,6 +10768,7 @@ www.cartomantipaypal.com
 www.cartomanziapaypal.com
 www.case-summary-acces-paypal-service-account.com
 www.case10217-apple.com
+www.cash-bitcoin.online
 www.casino-enlignepaypal.com
 www.casinoswithpaypal.co.uk
 www.cat-apple.net
@@ -10867,6 +10949,7 @@ www.docs.google.com-filesattachment.themineralqueen.com
 www.document-adobe.000webhostapp.com
 www.document-apple.com
 www.dompetpaypal.com
+www.doublebitcoin.cc
 www.downapple.com
 www.downlandproduceltd.co.uk
 www.downlinepress.com
@@ -10877,6 +10960,7 @@ www.downloadarabicsoft.com
 www.downloaddropbox.info
 www.downloadfarcry3.com
 www.downloadfreefullmovie.com
+www.downloadinvoice.altervista.org
 www.downloaditunesplusaacm4a.com
 www.downloadmoviefromnetflix.review
 www.downloads.extafiles.com
@@ -11149,6 +11233,7 @@ www.googlerankmysite.com
 www.googletrnslate.com
 www.googlevideositemap.com
 www.grabcashpaypal.com
+www.grenadadevelopmentbank.com
 www.groupappleapi.com
 www.growtwitterfollowers.net
 www.grup.appleid.apple.store.imrjo.elvoceador.net
@@ -11160,6 +11245,7 @@ www.gta-5-pc-download.com
 www.guidapaypalcard.altervista.org
 www.habaricloud.com
 www.halifax.mobi
+www.halifaxentertainment.ca
 www.halkbanka-musteridestegi.com
 www.halkbanka.com
 www.hdazppsaflg.paypalbrasil.ygto.com
@@ -11189,6 +11275,7 @@ www.hosticloud.com
 www.hotelapplevilla.in
 www.howtohacktwitter.com
 www.howtomakemoneyonlinewithpaypal.com
+www.hpchrome.ir
 www.hsbc-net.com
 www.hsbc.personal-gb.org
 www.hsbcinter.com
@@ -12171,6 +12258,7 @@ www.ke-appleid.com
 www.keepthepineapplehustling.com
 www.keyspaypal.com
 www.kharideappleid.com
+www.klik-download.com
 www.knsapple.com
 www.kontopruefung-paypal.com.de
 www.koripaypal.com
@@ -12214,6 +12302,7 @@ www.limitedsecure-mypaypalsummary.com
 www.limmitedpaypal.com
 www.linapple1.com
 www.linapple2.com
+www.linkedin.com.download.file.file.file.file.pdf.ufiediqwdjow.wklqwm.kwkjwlqm.kqkkqq.kqkqmmq.kldks.ga
 www.linkpaypal.com
 www.listings-ebay.com
 www.litepaypal.com
@@ -12679,6 +12768,7 @@ www.paymentorderappleid.com
 www.paymentpaypal.info
 www.paymentspaypal.com
 www.paypa-us-update.vpstrust.com
+www.paypa1.neocities.org
 www.paypa1.org
 www.paypabl.com
 www.paypable-4074c4aeda70212.iniapayapreviuw.com
@@ -12714,6 +12804,7 @@ www.paypal-b2b.com
 www.paypal-business-account-verification-documents.com
 www.paypal-business-account-verification-documents.net
 www.paypal-bussiness.com
+www.paypal-buyerprotection.com
 www.paypal-cart.com
 www.paypal-casino.online
 www.paypal-casinos.com
@@ -12743,6 +12834,7 @@ www.paypal-help-team.com
 www.paypal-help.com
 www.paypal-home-secure.com
 www.paypal-homepage.com
+www.paypal-id-restore.blogspot.com
 www.paypal-income.com
 www.paypal-incs.com
 www.paypal-intl.com
@@ -12796,6 +12888,7 @@ www.paypal-safejapan.com
 www.paypal-scureity.herokuapp.com
 www.paypal-secu.red
 www.paypal-secura-nuovo--aggiornamento-clienti.pagedemo.co
+www.paypal-secure-login.zinayeem.com
 www.paypal-secure.co.uk
 www.paypal-secure.support
 www.paypal-secure187.com
@@ -12808,6 +12901,7 @@ www.paypal-secury.herokuapp.com
 www.paypal-service-center.com
 www.paypal-service-request.com
 www.paypal-service-validation.com
+www.paypal-service.co.uk
 www.paypal-service.com
 www.paypal-service.quayle-fr.com
 www.paypal-servicehost.com
@@ -13385,6 +13479,7 @@ www.safeguard.hsbc.co.uk.2faverify.com
 www.safeid-apple.com
 www.safety-apple.com
 www.safetypaypal.com
+www.sainbursybank.com
 www.sainf-apple.com
 www.saleapple.ru
 www.sam-apple.com
@@ -13548,6 +13643,7 @@ www.secureaccountappleid-confirmation.com
 www.secureadobeupdate.com
 www.secureappleidaccounts.info
 www.secureapplepay.com
+www.securebanking.gq
 www.securebankingbarclaysus.com
 www.secured-microsoftonline.000webhostapp.com
 www.secureid-apple.info
@@ -13676,6 +13772,7 @@ www.signin-icloud-apple.com
 www.signin-support-apple.com
 www.signin.ebay.co.uk.canfra.com
 www.signin.ebay.co.uk.wabyn.net
+www.signin.ebay.de-ws1.ebay.isapi.dll-signin.ru.web115.s176.goserver.host
 www.signin.ebay.de.ebaisapidllocssignindeptnedep.das-kleine-freie.de
 www.signin.ebay.de.ws.ebayisapi.dll.ju7iayon2ajz3n0.tfg03.hemsida.eu
 www.signin.ebay.de.ws.ebayisapi.dll.signin.usingssl.fdnmv3ckkxpforv.nezavisnisindikatbvk.rs
@@ -14269,6 +14366,7 @@ www.www-adobe.accountant
 www.www-apple-com.info
 www.www-apple-conact-support.com
 www.www-apple-i.cloud
+www.www-apple-store-update-2019.aba.ae
 www.www-apple.accountant
 www.www-apple.info
 www.www-apple.space
@@ -14536,6 +14634,7 @@ ziraatbank-mobil-kampanya.com
 ziraatbankasi-kartaidati-tr.com
 ziraattbank-e.com
 ziraaturkiyebankasi.com
+zirattbankasi.com
 0-google.com
 00ddns-urlonmicrosoft-net.com
 0twitter.com
@@ -14743,6 +14842,8 @@ androidgta5.com
 androidonwindows.net
 androidrobotsupport.com
 androidsecurity-update.com
+androidupdatecenter.com
+androidupdateonline.com
 androidviruscleaner.download
 andyapple.cloud
 angular-google-maps.org
@@ -15017,6 +15118,7 @@ applestoretabriz.com
 applesuport.bid
 applesupport-br.com
 applesupport-macsupport.com
+applesupport-mchelper.com
 applesupport.co
 applesupport.me.uk
 applesupport.xyz
@@ -17766,6 +17868,8 @@ microsoftvpn.com
 microsoftvr.net
 microsoftwabmoney.club
 microsoftwaresupports.com
+microsoftwarningalertdtx00x2.ml
+microsoftwarningalertdtx00x2.tk
 microsoftweb.live
 microsoftwesscrm.com
 microsoftwindows-securityalert-error0x80016cfa.safe3.xyz
@@ -18780,7 +18884,9 @@ support-security-commbank.com
 support-twitterverification.com
 support-usbank.com
 support-verify-ld-apple.com
+support.apple.com.systemnotificati0n.com
 support.microsoft.error0xc8000222.club
+support.microsoft.systemnotificati0n.com
 support4microsoft.com
 supportandservices.download
 supportapple-verification.com
@@ -18795,6 +18901,7 @@ supportformicrosoft.online
 supporthdfcbank.com
 supporthelp-apple.bid
 supportid-icloud.com
+supportmicrosoft.tracking-redirect.com
 supportmicrosoftprofssional.info
 supportmicrosoftwindows.com
 supportobankdata.site
@@ -19099,6 +19206,8 @@ update-paypai.net
 update-santanderbank.com
 update-whatsapp.com
 update-your-account-apple.com
+update.microsoft.fast-redirect-site.com
+update.microsoft.next-site-social.com
 updatechrome.net
 upgrade-update-android.info
 upgrademyapple.com
@@ -20000,6 +20109,8 @@ www.androidfortniteapk.com
 www.androidgta5.com
 www.androidonwindows.net
 www.androidrobotsupport.com
+www.androidupdatecenter.com
+www.androidupdateonline.com
 www.androidviruscleaner.download
 www.andyapple.cloud
 www.angular-google-maps.org
@@ -20116,6 +20227,7 @@ www.applestar-buynow.info
 www.applestore-forworld.info
 www.applestorecryptocurrencies.com
 www.applestoretabriz.com
+www.applesupport-mchelper.com
 www.applesupport.co
 www.applesupport.me.uk
 www.applesupport247.xyz
@@ -24518,6 +24630,8 @@ adobe.pt.tf
 adobe.vip
 adobe2009.kit.net
 adobeamend.com
+adobedetails.cf
+adobedetails.gq
 adobeflash-ver021.xe.cx
 adobeinform.com
 adobemarketupdate.com
@@ -24534,6 +24648,7 @@ ads.jdownloader.msdwnld.com
 adserving-cpxinteractive.google-feed.net
 advancedandroidcleaner.com
 agoogle.com
+ah.download.cycore.cn
 aiwhevye.applekid.cn
 alert.firewall-corrupted-apple.com
 aljnnusbottled.download
@@ -24571,6 +24686,7 @@ androidcityshop.top
 androidefender.com
 androidhomebase.com
 androidjet.com
+androidmtkbd.com
 androidpirata.com
 androidsathome.com
 androidsecurity.info
@@ -24586,6 +24702,7 @@ antivirus-renewal.mcafee.com.vojusk3ck0azk1jvsut4xzbqnpjei.download
 api.downloadmr.com
 api.downloadnetworkhost.com
 api.microsofts.info
+apktop.downloadatoz.com
 app.fbdownload.top
 app.strikeapple.at
 appdownloadcity.com
@@ -24640,6 +24757,10 @@ apple.com-us4-pad2.awards-for-our-lucky-visitors.loan
 apple.com.id-sign.in
 apple.computersoftwaresecurityinstall.xyz
 apple.internetdocss.com
+apple.net-boost-performance.icu
+apple.net-clean-mac.icu
+apple.net-secure-mac.icu
+apple.net-support-live-for-mac.icu
 apple.net-supportnow-for-mac.icu
 apple.softwarehelpdesksupport.xyz
 apple.windlap.net
@@ -24721,6 +24842,7 @@ banketzalspb.ru
 bankgarantia.ru
 banking-virus-rtx.bid
 banking-virus.bid
+bankingtech.vn
 bankinsurancescore.com
 bankmax.ru
 banknote.ws
@@ -24743,6 +24865,11 @@ baseofdownloads.net
 bddown1.yahamall.xyz
 bearsharedownload.com
 bestdownloadablefiles.com
+betterapplebesttheclicks.live
+betterappledealtheclicks.live
+betterappletypetheclicks.live
+betterbestappletheclicks.live
+bettertypeappletheclicks.live
 bi-apple.net
 bitcoin-mining.biz
 bitcoin.auto
@@ -24854,6 +24981,7 @@ chromewebtb.conduit-download.com
 cibrambbank.com
 cillaangeline.googlepages.com
 citibankvisa.com
+clean.android-phone.icu
 cloud.updflash.trade
 cloudservicedownload.com
 cnetdownloads.com
@@ -24926,6 +25054,7 @@ dosyalar.downloadtr.com
 down.down1024.com
 down.downloadforpl.com
 down1.7654.com
+down1.7654browser.shzhanmeng.com
 down1.abckantu.com
 down1.downshouji.cn
 down1.greenxf.com
@@ -24936,6 +25065,7 @@ down1.xiaoyu.shzhanmeng.com
 down10.zol.com.cn
 down1008.com
 down10b.zol.com.cn
+down11.downyouxi.com
 down13.downyouxi.com
 down16.downyouxi.com
 down1702tech.info
@@ -24980,6 +25110,7 @@ download-virtualbox-vm.com
 download-wap.tk
 download.100sofrecipes.com
 download.1gram.net
+download.1ys.com
 download.2345.cn
 download.2345.com
 download.51.com
@@ -25071,6 +25202,7 @@ download.express-files.com
 download.expressdownload.net
 download.exrnybuf.cn
 download.facewinks.com
+download.fahpvdxw.cn
 download.fairdialer.de
 download.farhkvje.cn
 download.fastandgreatflashupgradecontenting.icu
@@ -25132,6 +25264,7 @@ download.howtosuite.com
 download.html5player.itfolks.mobi
 download.iheartaudiobooks.com
 download.inboxace.com
+download.instalki.org
 download.installspeed.com
 download.instantradioplay.com
 download.internetspeedradar.com
@@ -25151,6 +25284,7 @@ download.m.jj.cn
 download.macdownloadpro.com
 download.magicproject.com
 download.mapmywayfree.com
+download.maxperforma.com
 download.mediaplayercodecpack.com
 download.mergedocsonline.com
 download.messengergeek.com
@@ -25194,6 +25328,7 @@ download.outlook-368.com
 download.pagesummarizer.com
 download.passwordlogic.com
 download.pckeeper.software
+download.pdf00.cn
 download.pdf00.com
 download.pdfconverterhq.com
 download.pdfconverttools.com
@@ -25228,6 +25363,7 @@ download.robotboom.com
 download.rs4u.com
 download.safepcrepair.com
 download.searchformsonline.com
+download.security.baidu.co.th
 download.sharelive.net
 download.shareware.pro
 download.shoppingdealslive.com
@@ -25276,6 +25412,7 @@ download.wefi.com
 download.whenu.com
 download.wifimaster.tech
 download.wildtangent.com
+download.windows10codecpack.com
 download.windows8startbutton.com
 download.winhound.com
 download.worldofnotes.com
@@ -25300,6 +25437,7 @@ download122.com
 download13.subo.me
 download1346.mediafire.com
 download15.com
+download2.biztree.com
 download2.coolwaremax.com
 download2.free-hideip.com
 download2.freemediapack.com
@@ -25378,6 +25516,7 @@ downloadinboxnow.com
 downloadjdownloader.com
 downloadjunction.com
 downloadlagu123.info
+downloadlagu247.com
 downloadmalware.com
 downloadmanagertool.com
 downloadmessengerfree.com
@@ -25405,8 +25544,8 @@ downloads-support.com
 downloads-usa.com
 downloads-whatsapp.com
 downloads.5star-network.com
-downloads.exterminate-it.com
 downloads.funshion.net
+downloads.galaxyrp.xyz
 downloads.getsoftfree.com
 downloads.gingersoftware.com
 downloads.graboidvideo.com
@@ -25420,8 +25559,10 @@ downloads.trymedia.com
 downloads.tweakbit.net
 downloads.updatesoftnow.com
 downloads.webstartpro.com
+downloads.windowbook.com
 downloads1.vertivco.com
 downloads43.com
+downloads4you.uk
 downloads7.com
 downloads9.com
 downloadsafe.org
@@ -25525,10 +25666,15 @@ filestubedownloader.com
 fireapp.download
 firemicrosoft.net
 firequestions.download
+firstzone.download
 flash-ime-update.top
 flash-ioe-update.top
+flash-mini.com
 flash-piayer-update.com.md-90.webhostbox.net
+flash-player-upgrade.icu
+flash-playerupdate.icu
 flash-update.akva-komptlt.ru
+flash-update.icu
 flash-woe-update.win
 flash2update.xyz
 flasharts.de
@@ -25564,7 +25710,9 @@ flashtis2.googlepages.com
 flashtrack.net
 flashtracking.com
 flashupdate.biz
+flashupdate.icu
 flashupdate.online
+flashupgrade.icu
 flashx.tv
 flashy.stream
 flwkausncreesh.download
@@ -25583,7 +25731,11 @@ free-downlod-hotspot.blogspot.co.uk
 free-downlod-hotspot.blogspot.com
 free-vlc-download.com
 free-zone-download.blogspot.com
+free.bitcoinpricesearch.com
+free.downloadinboxnow.com
+free.downloadmanagernow.com
 free.downloadrecipesearch.com
+free.premierdownloadmanager.com
 free4allup.goodcenterfordownloads.icu
 freeapktodownload.com
 freedownload.ir
@@ -25601,6 +25753,7 @@ freetrialdownloads.com
 freeutorrentdownload.com
 freevideotube.googlepages.com
 friends.bitcoinlingo.com
+fristpolychem.download
 fsharpbank.com
 ftobiqq.download
 ftp.google-feed.net
@@ -25639,10 +25792,18 @@ get24update.thestableandgreatflashadsnew.icu
 get24update.thestableandgreatflashadsnow.icu
 get24update.thestableandgreatflashadssnew.icu
 get24update.thestableandgreatflashadssnow.icu
+getapplebesttheclicks.icu
+getappledealtheclicks.icu
+getapplegreattheclicks.icu
+getappletypetheclicks.icu
+getbestappletheclicks.icu
+getdealappletheclicks.icu
 getdownload.net
+getgreatappletheclicks.icu
 getnewsoft.macbest-players.download
 getnewsoft.macbestplayer.download
 gets-adobe.com
+gettypeappletheclicks.icu
 getupgrade.thecentersite-downloadcontentnow.icu
 getupgrade.thecentersite2downloadcontentfree.icu
 getvdownloader.com
@@ -25747,6 +25908,7 @@ il.joydownload.com
 imagesdownloader.com
 img.secureddownloadcdn.com
 imxcsugmmserapes.download
+install-flashplayer.zapto.org
 install.express-downloader.com
 installldownload.com
 installupgradenow.thegreatesthighworking4systems.download
@@ -25839,6 +26001,7 @@ location-icloud.live
 log-in-appleld.com
 log-ln-icloud.com
 logicadownloads.site
+login-mercantilbank.com
 login-us-microsoftonline-officepreviewredir-office365.volvoledus.lt
 lp.downloadsetup.net
 lp.expressdownload.net
@@ -25890,8 +26053,11 @@ megadownloader.appsformega.info
 megafreedownload.com
 megaprodownloads.com
 megasecuredownload.com
+menderesbalabankirdugunsalonu.com
+mgmailverification.adobepdf.settings.iscgdbb2581ci87930.seguridadmobiobio.cl
 microflash.no
 microsof.centra.atendimento.googlepages.com
+microsoft-01.dynamic-dns.net
 microsoft-119-helpline.com
 microsoft-844-829-5569.com
 microsoft-download.pisem.net
@@ -25923,6 +26089,7 @@ microsoft.com-firewall-i6j.info
 microsoft.com-fix-windows.live
 microsoft.com-repair-windows.live
 microsoft.com.zeceftpf7i1m2fxypwmtgw.stream
+microsoft.ddns.us
 microsoft.dumb1.com
 microsoft.serveftp.com
 microsoft.track11.s3.amazonaws.com
@@ -25958,6 +26125,7 @@ microsoftoffice.ns01.us
 microsoftofficeservehttpcom.000webhostapp.com
 microsoftofficesupportnumber.com
 microsoftonline-veri-records-privaa.000webhostapp.com
+microsoftoutlook.ddns.info
 microsoftoutlook.dynamicdns.org.uk
 microsoftpatreon.duckdns.org
 microsoftpro.dns-report.com
@@ -25976,6 +26144,7 @@ microsoftupdate.dns-report.com
 microsoftupdate.dynamicdns.org.uk
 microsoftupdated.net
 microsoftupdatesender.info
+microsoftwarningalertdtx00x2.ga
 microsoft_office.en.downloadastro.com
 minecraftcrackeddownload.com
 miqpylxhdebtors.download
@@ -26009,6 +26178,7 @@ my-adobe.com
 my-softbank-securitys.com
 mybankofgold.com
 mydownloadedfiles.net
+mydownloadorganizer.com
 mydownlodablefiles.com
 mydownlodablefiles.net
 mydownlodablethings.net
@@ -26307,6 +26477,12 @@ pm2bitcoin.com
 pony1.microsoftups.com
 pony2.microsoftups.com
 pony3.microsoftups.com
+pony4.microsoftups.com
+popapplebesttheclicks.icu
+popappledealtheclicks.icu
+popappletypetheclicks.icu
+popgreatappletheclicks.icu
+poptypeappletheclicks.icu
 ppdownload.com
 preparevideo.goodcenterfordownloads.icu
 printerdriversdownload.com
@@ -27863,6 +28039,9 @@ sankbank.com
 satmaster.download
 saveapplebesttheclicks.icu
 saveappledealtheclicks.icu
+saveapplegreattheclicks.icu
+saveappletypetheclicks.icu
+savebestappletheclicks.icu
 savedealappletheclicks.icu
 savegreatappletheclicks.icu
 savetypeappletheclicks.icu
@@ -27900,12 +28079,17 @@ services.downloadsearchy.online
 set4update4u.mysafeplace4contents.download
 set4update4u.mysafeplaceforcontent.download
 set4update4u.yoursecondbestplace-contents.download
+setapplebesttheclicks.icu
+setappledealtheclicks.icu
+setapplegreattheclicks.icu
 setappletypetheclicks.icu
+setbestappletheclicks.icu
 setdealappletheclicks.icu
 setgreatappletheclicks.icu
 settingupdate.freeofcharge-content.download
 settingupdate.thebestsourceofcontent.download
 settingupdate.thebestsourceofcontents.download
+settypeappletheclicks.icu
 setupnow.loadultimatecontent.download
 setupupgrade.yourbestgameplaces.download
 seven.bitcoinracetrack.com
@@ -27914,6 +28098,7 @@ sfile.multimediasoftwaredownload.com
 sfs.ezdownloadpro.info
 sftcdownload.com
 sharecash-downloader.tk
+sharepoddownload.com
 shutupanddownload.com
 signin-appleid.hostitasap.com
 site.androidcityshop.top
@@ -27985,8 +28170,16 @@ thread-z66rqimfrgl9wymxih.download
 ticnofiledownloader.com
 tm.piefwwvirtuous.download
 todownload.com
+topapplebesttheclicks.icu
+topappledealtheclicks.icu
+topapplegreattheclicks.icu
+topappletypetheclicks.icu
+topbestappletheclicks.icu
+topdealappletheclicks.icu
 topdownloads.ru
+topgreatappletheclicks.icu
 topsamsung.bishir.shn-host.ru
+toptypeappletheclicks.icu
 torrentdownload.ddns.net
 torrentdownloads.net
 tr-hsbc.com
@@ -28036,6 +28229,8 @@ upalways.allthebest-update.download
 upalways.allthebestupdates.download
 upalways.allthebestupdating.download
 update-flash-win64.xyz
+update.android-now.icu
+update.android-system.icu
 update.downloadaccelerator.com
 update.ytdownloader.com
 updateflash.pb6xny.xyz
@@ -28046,12 +28241,17 @@ updates2.express-downloader.com
 updating.flash-player-v218.win
 upgrade4life.safedownloadmacandwin.bid
 upgrade4life.safedownloadwinandmac.win
+upgradeappletypetheclicks.icu
+upgradebestappletheclicks.icu
 upgradecheck12.morecheaplinkexchangeperformance.download
+upgradedealappletheclicks.icu
+upgradegreatappletheclicks.icu
 upgradeinstall.themainplacetogetgoodcontent.download
 upgradelive.freeofchargeapp.download
 upgradenow24.mysafeplace4contents.download
 upgradenow24.mysafeplaceforcontent.download
 upgradenow24.mysafeplaceforcontents.download
+upgradetypeappletheclicks.icu
 uploadrobot.download
 upnow.thebestperformacespotforyourpcmacalways.download
 upnow2app.thebestperformacespotforyourpcmacalways.download
@@ -28113,10 +28313,18 @@ whenupgrade.thebestcenteronnetcontents.download
 win-defender-currupt1301.download
 win-system-currupt1312.download
 window-microsoft-issue.s3-website-us-west-2.amazonaws.com
+windowapplebesttheclicks.live
+windowappledealtheclicks.live
+windowapplegreattheclicks.live
+windowappletypetheclicks.live
+windowbestappletheclicks.live
+windowdealappletheclicks.live
+windowgreatappletheclicks.live
 windows-downloads.pop3.ru
 windows-security-error.download
 windowsadobe.ml
 windowsupdate.microsoft.com.ssl3.pop3.ru
+windowtypeappletheclicks.live
 winflashplayer.com
 winmicrosoft.sytes.net
 workingupdate.perfectlysafeandgreatcontentfree.download
@@ -28214,6 +28422,7 @@ www.adobe.vip
 www.adobe2009.kit.net
 www.adobeamend.com
 www.adobedc.cf
+www.adobedetails.cf
 www.adobeflashplayer.slyip.com
 www.adobeinform.com
 www.adobemarketupdate.com
@@ -28230,6 +28439,7 @@ www.aehsfpprxhwlxtexzfcutt8b1pbcw.download
 www.aetbtczdhwrcprr6gu.download
 www.africandevelopmentbank.com
 www.agoogle.com
+www.ah.download.cycore.cn
 www.aiwhevye.applekid.cn
 www.aljnnusbottled.download
 www.allmplayerdownloads.com
@@ -28245,6 +28455,7 @@ www.android-settings.info
 www.androidefender.com
 www.androidhomebase.com
 www.androidjet.com
+www.androidmtkbd.com
 www.androidpirata.com
 www.androidsathome.com
 www.androidsecurity.info
@@ -28382,6 +28593,7 @@ www.bankgarantia.ru
 www.banking-messages.com
 www.banking-virus-rtx.bid
 www.banking-virus.bid
+www.bankingtech.vn
 www.bankinsurancescore.com
 www.banknifty.com
 www.banknote.ws
@@ -28409,6 +28621,11 @@ www.bestwat2addnewmusicdownloads.bid
 www.bestwat2addnewmusicdownloads.date
 www.bestwat2addnewmusicdownloads.download
 www.bestwat2addnewmusicdownloads.win
+www.betterapplebesttheclicks.live
+www.betterappledealtheclicks.live
+www.betterappletypetheclicks.live
+www.betterbestappletheclicks.live
+www.bettertypeappletheclicks.live
 www.bi-apple.net
 www.bikkoypcnzhlvze5conbz6eeiwz3ki.download
 www.biq9aj0qsmlz5izt5400mv6u6uepzq3.download
@@ -28421,6 +28638,7 @@ www.bitcoineasytrader.com
 www.bitcoiners.trade
 www.bitcoinminermachines.com
 www.bitcoinportal.info
+www.bitcoinpricesearch.com
 www.bitcoins-verdienen.at
 www.bitcointalktoday.hol.es
 www.bitcointraf.com
@@ -28561,6 +28779,7 @@ www.download-by.net
 www.download-confirmed.com
 www.download-crack-serial.com
 www.download-files.space
+www.download-freemaps.com
 www.download-help.com
 www.download-lima.com
 www.download-open.com
@@ -28577,6 +28796,7 @@ www.download.extraslot.ru
 www.download.freegpsmap.ru
 www.download.getjar.com
 www.download.glzip.cn
+www.download.instalki.org
 www.download.magicproject.com
 www.download.moori.com
 www.download.novotrac.ch
@@ -28632,11 +28852,14 @@ www.downloadhackcheat.com
 www.downloadhog.com
 www.downloadhosting.com
 www.downloadhs.com
+www.downloadinboxnow.com
 www.downloadjdownloader.com
 www.downloadjunction.com
 www.downloadlagu123.info
+www.downloadlagu247.com
 www.downloadmalware.com
 www.downloadmanagerapp.com
+www.downloadmanagertool.com
 www.downloadmessengerfree.com
 www.downloadmoviedirect.com
 www.downloadmoviehd.info
@@ -28651,6 +28874,7 @@ www.downloadpdf.superweb.ws
 www.downloadplex.com
 www.downloadprovider.me
 www.downloadprovuder.org
+www.downloadrecipesearch.com
 www.downloadroot.com
 www.downloadroute.com
 www.downloads-fast.com
@@ -28662,6 +28886,7 @@ www.downloads.optimize-windows.net
 www.downloads.tweakbit.net
 www.downloads.webstartpro.com
 www.downloads43.com
+www.downloads4you.uk
 www.downloads7.com
 www.downloads9.com
 www.downloadsafe.org
@@ -28743,6 +28968,8 @@ www.filestubedownloader.com
 www.fireapp.download
 www.firemicrosoft.net
 www.firequestions.download
+www.firstzone.download
+www.flash-mini.com
 www.flash-piayer-update.com.md-90.webhostbox.net
 www.flash2update.xyz
 www.flasharts.de
@@ -28793,6 +29020,7 @@ www.freeplayflashgames.com
 www.freetrafficforupdateall.download
 www.freetrialdownloads.com
 www.freeutorrentdownload.com
+www.fristpolychem.download
 www.fsharpbank.com
 www.ftobiqq.download
 www.fulldownload.ws
@@ -28974,9 +29202,12 @@ www.mechodownload.com
 www.megadownloader.appsformega.info
 www.megaprodownloads.com
 www.megasecuredownload.com
+www.menderesbalabankirdugunsalonu.com
 www.mergeloadingnewlayouts4websitedownloads.win
+www.mgmailverification.adobepdf.settings.iscgdbb2581ci87930.seguridadmobiobio.cl
 www.microflash.no
 www.microsof.centra.atendimento.googlepages.com
+www.microsoft-01.dynamic-dns.net
 www.microsoft-119-helpline.com
 www.microsoft-844-829-5569.com
 www.microsoft-error-found0xxx0xxxo0010.info
@@ -29008,6 +29239,7 @@ www.microsoft.com-fix-windows.live
 www.microsoft.com-speed-windows.live
 www.microsoft.com.org
 www.microsoft.com.zeceftpf7i1m2fxypwmtgw.stream
+www.microsoft.ddns.us
 www.microsoft.dumb1.com
 www.microsoft.track11.s3.amazonaws.com
 www.microsoft0x80240033us.ml
@@ -29039,6 +29271,7 @@ www.microsoftoffice.ns01.us
 www.microsoftofficeservehttpcom.000webhostapp.com
 www.microsoftofficesupportnumber.com
 www.microsoftonline-veri-records-privaa.000webhostapp.com
+www.microsoftoutlook.ddns.info
 www.microsoftoutlook.dynamicdns.org.uk
 www.microsoftpatreon.duckdns.org
 www.microsoftpro.dns-report.com
@@ -29055,6 +29288,8 @@ www.microsoftupdate.dns-report.com
 www.microsoftupdate.dynamicdns.org.uk
 www.microsoftupdated.net
 www.microsoftupdatesender.info
+www.microsoftwarningalertdtx00x2.ga
+www.microsoftwarningalertdtx00x2.ml
 www.microsoftwindowshelp.pw
 www.microsoft_office.en.downloadastro.com
 www.minecraftcrackeddownload.com
@@ -29087,6 +29322,7 @@ www.my-soft-bank.com
 www.my-softbank-securitys.com
 www.my-softbank.top
 www.mydownloadedfiles.net
+www.mydownloadorganizer.com
 www.mydownlodablefiles.com
 www.mydownlodablefiles.net
 www.mydownlodablethings.net
@@ -29376,6 +29612,11 @@ www.placmentnextsystembackup4registerpro.download
 www.play-market-android.net
 www.pm2bitcoin.com
 www.pmbbctnxa5jhgqfarotpjclqtyicxmw.download
+www.popapplebesttheclicks.icu
+www.popappledealtheclicks.icu
+www.popappletypetheclicks.icu
+www.popgreatappletheclicks.icu
+www.poptypeappletheclicks.icu
 www.ppdownload.com
 www.printerdriversdownload.com
 www.privat-bankau.com
@@ -30895,6 +31136,7 @@ www.sankbank.com
 www.satmaster.download
 www.savedealappletheclicks.icu
 www.savegreatappletheclicks.icu
+www.savetypeappletheclicks.icu
 www.sbtn0zm0r7wtgthyyjp9g.download
 www.schooolcode.download
 www.scoremoretestexamrulesapplyedexamplecode.download
@@ -30921,6 +31163,7 @@ www.sfile.multimediasoftwaredownload.com
 www.sftcdownload.com
 www.shakay2hrnkbepuzxq.download
 www.sharecash-downloader.tk
+www.sharepoddownload.com
 www.shutupanddownload.com
 www.signin-appleid.hostitasap.com
 www.simoleexcludethesesimplecombinationsgetinstand.download
@@ -31069,6 +31312,7 @@ www.unibank.credit
 www.unlimited-downloads.biz
 www.unlimiteddownloads.com
 www.updating.flash-player-v218.win
+www.upgradetypeappletheclicks.icu
 www.uploadrobot.download
 www.urbankeratin.eu
 www.us-microsoft-alert.s3-website-us-west-2.amazonaws.com
@@ -31129,9 +31373,17 @@ www.win-defender-currupt1301.download
 www.win-security-corrupt-prompts627.download
 www.win-system-currupt1312.download
 www.window-microsoft-issue.s3-website-us-west-2.amazonaws.com
+www.windowapplebesttheclicks.live
+www.windowappledealtheclicks.live
+www.windowapplegreattheclicks.live
+www.windowappletypetheclicks.live
+www.windowbestappletheclicks.live
+www.windowdealappletheclicks.live
+www.windowgreatappletheclicks.live
 www.windows-downloads.pop3.ru
 www.windows-security-error.download
 www.windowsadobe.ml
+www.windowtypeappletheclicks.live
 www.winflashplayer.com
 www.wirejpeg1.download
 www.wk5amak0ysetmt8.download
@@ -32278,6 +32530,7 @@ downloadcorner.info
 downloaddrop.date
 downloaddrop.stream
 downloaddwflash.icu
+downloadelements.com
 downloadflashdw.icu
 downloadflashmo.icu
 downloadflashpo.icu
@@ -33839,6 +34092,7 @@ succinicxwrixtq.download
 sumotoripmoyuavq.download
 suppinglefuvse.download
 support.microsoft.com-securitynotice.info
+support.microsoft.tracking-redirect.com
 supportversion.yourbetterandreliable4update.download
 suspenserdciyfbvjy.download
 suyespwlypila.download
@@ -34882,6 +35136,7 @@ www.downloaddrop.stream
 www.downloaddwflash.club
 www.downloaddwflash.icu
 www.downloaddwflash.xyz
+www.downloadelements.com
 www.downloadflashdw.club
 www.downloadflashdw.icu
 www.downloadflashdw.xyz

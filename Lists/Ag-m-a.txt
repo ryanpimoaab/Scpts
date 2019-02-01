@@ -42,6 +42,10 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+abtest.mistat.intl.xiaomi.com
+abtest.mistat.xiaomi.com
+adsnative.com
+liftoff.io
 tapdaq-adverts.global.ssl.fastly.net
 a.6d47c1118927cf53ba9654931df80e8d.com
 rtb.appbid.com
@@ -332,7 +336,7 @@ adocean.pl
 adonly.com
 adotsolution.com
 adotube.com
-adplay.vm5apis.com
+vm5apis.com
 adprotected.com
 adpublisher.s3.amazonaws.com
 adquota.com
@@ -946,6 +950,7 @@ turner.com
 images-*.ssl-images-amazon.com
 baidu.com
 mobile.donanimhaber.com
+momon-ga.com
 forum.lowyat.net
 mobiltelefon.ru
 blog-sokuhou.com
@@ -1037,6 +1042,7 @@ ymcdn.ymtrack6.co
 static.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
+api2.appscraft.mobi
 etnet.com.hk
 api.rvuzov.ru
 adcs.rqmob.com
@@ -1106,6 +1112,7 @@ do-not-tracker.org
 eviltracker.net
 spotify.com
 trackersimulator.org
+tracking.ws.eurosport.com
 tracker.rqmob.com
 logconfig.polarisoffice.com
 analysis.polarisoffice.com
@@ -1158,7 +1165,6 @@ ploy.batmobi.net
 an.batmobi.net
 ustat.batmobi.net
 analytics.any.do
-data.mistat.intl.xiaomi.com
 zeus.ad.intl.xiaomi.com
 api.ad.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
@@ -1266,7 +1272,6 @@ iapp-cp.nuggad.net
 2o7.net
 4seeresults.com
 abcd.mdc.akamaized.net
-abtest.mistat.xiaomi.com
 ad-analytics-bootstrap.metaps.com
 adash.m.taobao.com
 adfuture.cn
@@ -1323,6 +1328,7 @@ crasheye.cn
 e.crashlytics.com
 crittercism.com
 crwdcntrl.net
+data.mistat.*.xiaomi.com
 data.mistat.xiaomi.com
 data.sec.miui.com
 dc.services.visualstudio.com
