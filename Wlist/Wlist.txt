@@ -302,6 +302,7 @@ storage.googleapis.com
 stream.cryptowat.ch
 streamate.com
 support.binance.com
+support.coinbase.com
 support.microsoft.com
 surveymonkey.com
 swcdn.apple.com

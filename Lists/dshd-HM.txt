@@ -6,7 +6,7 @@
 #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_High.txt
 #
 #   comments: info@dshield.org
-#    updated: Fri Feb  1 04:04:02 2019 UTC
+#    updated: Sat Feb  2 04:04:01 2019 UTC
 #   
 #    This list consists of High Level Sensitivity website URLs
 #     Columns (tab delimited):
@@ -14,217 +14,22 @@
 #      (1) site
 #
 Site
-wasabi.mine.nu
-preapprovedloansonline.kz
-tekcharles.xyz
-ingenicopads.kz
-links.heliohost.org
-resr.configure.8c1.net
-canadianonlineagreementservices.kz
-storroliko.club
-diguing-store.net
-emaillifecoaching.com.au
-juanadearco.com.uy
-z0bu.dynu.com
-server.bovine-mena.com
-frank1.ddf.al
-igor32.herbalbrasil.com.br
-naijabids.co.uk
-apple-trusted.com
-prtscrinsertcn.net
-spartanr.5gbfree.com
-updateacces.org
-jazmany.cu.ma
-machine.cu.ma
-panel.vargakragard.se
-s1.eyeonmusica.it
-felanco.heliohost.org
-hotelavalon.org
-ahmedashid.com
-presleywebs.uk.pn
-bots.configbinbots.info
-tekchuks.xyz
-interlogistics.com.vn
-www.tekyalhaja.xyz
-lion.web2.0campus.net
-auto-fx.fr
-rexafajay.axfree.com
-sub.beirinckx.be
-z3us1.z-ed.info
-micheal766.info
-secufast.bplaced.net
-techmag.space
-franka.in.net
-ijoe.xyz
-tradecharm.lt
-updating-flash.cloudapp.net
-jgworldupd.com
-xclones.in.net
-domnicpeter.in.net
-felceconserve.com
-hruner.com
-krestenbv.nl
-aljazeera.kz
-prk.firstconf.3gb.biz
-cy-m0ld.com
-tekjoe.space
-ugwebz.uk.pn
-littwronthath.net
-ns416017.ip-37-187-144.eu
-suryapolix.club
-dino1.ddf.al
-vegantravelshow.com
-junllian.net
-mm266.bplaced.com
-0if1nl6.org
-serversss.biz
-www.antibasic.ga
-illinoisnets.net
-www.rimmugygur.is
-arcelikpendikservisi.gen.tr
-burgerspendingbusiness.kz
-joejdbjrmrkklfnmf.usr.me
-secure.lynxbowlingservices.com
-chhathpuja.com
-teachgalaxys.website
-fileserver03.com
-weporsche.com
-kudrnwosas.faith
-allfortune777.biz
-programtotalatoma.esy.es
-slot.sub-zero.it
-gate.timstackleshop.es
-liveresellerweb.eu
-ns511849.ip-192-99-19.net
-rhwndkf45.codns.com
 g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com
-extremesports.kz
-hillalala.com
-zetes.vdsinside.com
-0x.x.gg
-porschecosv.com
-blog.raw-recruits.com
-servmill.com
-teeth.co.jp
-tronuprising.heliohost.org
-fretiolo.com
-www.basecinco.com.ar
-www.riverwalktrader.co.za
-leon10.5gbfree.com
-arvision.com.co
-registerdrivegoogle.sytes.net
-ssl.sinergycosmetics.com
-sandokan66.no-ip.info
-securetalk.cwsurf.de
-tech-dan.xyz
-winhelptech.xyz
-www.orquestanacaona.cult.cu
-analiticwebexperience.com
-projects.globaltronics.net
-smartfoodsglutenfree.kz
-telefonfiyatlari.org
-update.rifugiopontese.it
-genteatsss.com
-jangasm.org
-ns513726.ip-192-99-148.net
-baliwag.xyz
-ricasad.sx
-sv1.eyeonmusica.it
-dlauten.bplaced.net
-holydoome.co.uk
-katagi-weblogs.lolipop.jp
-movieofgoodies.kz
-portal.100am100.kz
-tt.onmypc.org
-frevolore.com
-lifeisgoodwhenu2.info
-neorandom.dothome.co.kr
-ashoesheestono.eu
-bytes.darktech.org
-sslsam.com
-developer.cdn.com.kz
-pharmaspan.com
-sanyai-love.rmu.ac.th
-wor6.b6dfnahea.ns2.name
-dattinggate.com
-tesab.org.uk
-update.saintfrancoisath.be
-go.everli-killz.xyz
-svitor.hostev.net
-domifondery.com
-warriorinjapan.hostjava.net
-homedeco.com.bo
-www.mauritaniecoeur.org
-kesikelyaf.com
-moviepaidinfullsexy.kz
-preapprovedloansoffline.kz
-shaktitextileengr.com
-tekadrian.xyz
-newversionpdun.in.net
-reserve.jumpingcrab.com
-stats.lead.mysitehosted.com
-joyclasses.eu
-yamleg.fu8.com
-phimsex4u.biz
-bibrath.eu
-ice.ip64.net
-www.personxing.in.net
-update.timstackleshop.es
-jayboyd.t15.org
-www.witkey.com
-luenhinpearl.com
-p-alpha.ooo.al
-baoshlda.com
-systemhelpr.com
-trust-s-b.com
-lzediamike.trade
-jaaphram.com
-vodahelp.sytes.net
-citricbenz.website
-kaydayeuti.axfree.com
-dbimbem.axfree.com
-qbhcsope.com
-www.slapintins.publicvm.com
-avast-mail-security.download
-hanocomin.com
-monsierdroider.wang
-afobal.cl
 i01001.dgn.vn
 x5sbb5gesp6kzwsh.homewind.pl
-ebesee.com
-bikeshophaidli.com
-fmarchzeetequwxtw.wang
-ddobnajanu.club
-code.blaztech.gdn
-alvoportas.com.br
 nlpqflkbvkdde.eu
-gmailsecurityteam.com
-me.centronind.club
-treatstartaugusth.info
-zadmj.cp-addltives.com
-burn.settingsdata.store
-anderlechti.com
-malikshabas.com
-pandyi.com
 uuwflbmjmi.eu
-slanted.excelonlinereader.services
-jad.fisbonline.com
-slap.alliancekl.com
-kjkdndskjl.info
-froshserv.com
-freshwork.email-accountsettings.online
-deradprash.com
 pagaldaily.com
 #
 # STATISTICS
 #
 # Total In Database: 107914
-# Total In Report:   363
-# Percent of Total:  0.34 %
+# Total In Report:   19
+# Percent of Total:  0.02 %
 #
 # END
 #
-#  finished list generation: Fri Feb  1 04:04:02 2019 UTC
+#  finished list generation: Sat Feb  2 04:04:01 2019 UTC
 #
 #   DShield.org Suspicious Domain List
 #    (c) 2019 DShield.org
@@ -233,7 +38,7 @@ pagaldaily.com
 #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_Medium.txt
 #
 #   comments: info@dshield.org
-#    updated: Fri Feb  1 04:04:02 2019 UTC
+#    updated: Sat Feb  2 04:04:02 2019 UTC
 #   
 #    This list consists of Medium Level Sensitivity website URLs
 #     Columns (tab delimited):
@@ -759,4 +564,4 @@ dupionet.com
 #
 # END
 #
-#  finished list generation: Fri Feb  1 04:04:02 2019 UTC
+#  finished list generation: Sat Feb  2 04:04:02 2019 UTC
