@@ -155,6 +155,7 @@ affistats.com
 africal.info
 afsanalytics.com
 agencytradingdesk.net
+agentanalytics.com
 agentinteractive.com
 agilecrm.com
 agilone.com
@@ -483,6 +484,7 @@ clicktale.net
 clicktrack1.com
 clicktracks.com
 clicktrkservices.com
+clickx.io
 clickzs.com
 clickzzs.nl
 clixcount.com
@@ -1042,6 +1044,7 @@ iclive.com
 ics0.com
 icstats.nl
 id-visitors.com
+id5-sync.com
 ideoclick.com
 idio.co
 idtargeting.com
@@ -1338,6 +1341,7 @@ mialbj6.com
 micpn.com
 midas-i.com
 midkotatraffic.net
+mieru-ca.com
 millioncounter.com
 minewhat.com
 mixpanel.com
@@ -2099,6 +2103,7 @@ testin.cn
 testpixel.net
 tetoolbox.com
 tgdaudience.com
+tglyr.co
 theadex.com
 theagency.com
 thebestlinks.com
