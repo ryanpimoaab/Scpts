@@ -4,7 +4,7 @@
 # licence: https://github.com/anudeepnd/blacklist/blob/master/license
 # title: anudeep's blacklist
 # hosts contributed by anudeep <anudeep@protonmail.com>
-# domain count: 32,349
+# domain count: 32,405
 # ===================================================================
 0001-cab8-4c8c-43de.reporo.net
 002-slq-470.mktoresp.com
@@ -32348,4 +32348,59 @@ ouch.myntra.com
 rack.tcppu.com
 sapi.wynk.in
 ms-ads.presage.io
-
+pubmine.com
+www.pubmine.com
+s.pubmine.com
+cy2.vortex.data.microsoft.com.akadns.net
+modern.watson.data.microsoft.com.akadns.net
+ceuswatcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
+eaus2watcab01.blob.core.windows.net
+eaus2watcab02.blob.core.windows.net
+weus2watcab01.blob.core.windows.net
+weus2watcab02.blob.core.windows.net
+ecommerce.iap.unity3d.com
+config.uca.cloud.unity3d.com
+cdp.cloud.unity3d.com
+www.a-ads.com
+a-ads.com
+acceptable.a-ads.com
+ad.a-ads.com
+ad001.a-ads.com
+ad004.a-ads.com
+ad005.a-ads.com
+ad007.a-ads.com
+ad009.a-ads.com
+ad011.a-ads.com
+ad012.a-ads.com
+ad013.a-ads.com
+ad014.a-ads.com
+ad015.a-ads.com
+ad203.a-ads.com
+ad210.a-ads.com
+ad212.a-ads.com
+ad217.a-ads.com
+ad218.a-ads.com
+ad222.a-ads.com
+ad302.a-ads.com
+adv0.a-ads.com
+adv1.a-ads.com
+adv2.a-ads.com
+adv3.a-ads.com
+adv4.a-ads.com
+adv5.a-ads.com
+adv6.a-ads.com
+adv7.a-ads.com
+app0.a-ads.com
+blog.a-ads.com
+chef.a-ads.com
+click.a-ads.com
+da.a-ads.com
+files.a-ads.com
+int.a-ads.com
+lb4.a-ads.com
+mm.a-ads.com
+ns2.a-ads.com
+s.a-ads.com
+ad.s.a-ads.com
+static.a-ads.com

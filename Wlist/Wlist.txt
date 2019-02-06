@@ -37,6 +37,7 @@ appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 appspot-preview.l.google.com
 apt.sonarr.tv
+assets.adobedtm.com
 assets.coinbase.com
 attestation.xboxlive.com
 ax.phobos.apple.com.edgesuite.net

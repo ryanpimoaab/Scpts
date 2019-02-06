@@ -1237,6 +1237,7 @@ gj.applog.uc.cn
 gjapplog.uc.cn
 mazu.sec.miui.com
 shenghuo.xiaomi.com
+globalapi.ad.xiaomi.com
 api.ad.xiaomi.com
 a.bitmango.com
 bitmango.com

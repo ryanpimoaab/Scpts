@@ -574,3 +574,4 @@ stream.cryptowat.ch
 api.cryptowat.ch
 f1.media.brightcove.com
 support.coinbase.com
+assets.adobedtm.com
