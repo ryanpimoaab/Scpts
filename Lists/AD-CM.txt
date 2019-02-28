@@ -3,6 +3,7 @@
 # project home page: https://github.com/anudeepnd/blacklist
 # licence: https://github.com/anudeepnd/blacklist/blob/master/license
 # title: anudeep's blacklist
+# expires: 1 days
 # hosts contributed by anudeep <anudeep@protonmail.com>
 # domain count: 5,940
 # ===============================================================

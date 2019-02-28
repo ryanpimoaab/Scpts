@@ -3,6 +3,7 @@
 140proof.com
 180hits.de
 180searchassistant.com
+191gm.com
 1x1rank.com
 207.net
 247media.com
@@ -960,7 +961,6 @@ ah-ha.com
 ahalogy.com
 aidu-ads.de
 aim4media.com
-aipp-italia.it
 airbrake.io
 airpush.com
 aistat.net
@@ -976,7 +976,6 @@ allosponsor.com
 allstarmediagroup.com
 amazingcounters.com
 amazon-adsystem.com
-amo122.com
 amobee.com
 amung.us
 an.tacoda.net
@@ -984,7 +983,6 @@ anahtars.com
 analytics.adpost.org
 analytics.live.com
 analytics.yahoo.com
-ancientroom.com
 anm.intelli-direct.com
 annonser.dagbladet.no
 apex-ad.com
@@ -1050,7 +1048,6 @@ b4psads.com
 ba.afl.rakuten.co.jp
 babs.tv2.dk
 backbeatmedia.com
-banana.automaxcenter.ro
 bango.combango.org
 bango.net
 banik.redigy.cz
@@ -1179,7 +1176,6 @@ bitads.net
 bitmedianetwork.com
 bizad.nikkeibp.co.jp
 bizrate.com
-bjhmt.com
 bkrtx.com
 blast4traffic.com
 blingbucks.com
@@ -1272,7 +1268,6 @@ chartbeat.com
 chartbeat.net
 chartboost.com
 cheapness.byefelicia.fr
-check-updates.net
 checkm8.com
 checkstat.nl
 chestionar.ro
@@ -1413,7 +1408,6 @@ custom-blacklisted-tracking-example.com
 customad.cnn.com
 cyberbounty.com
 cybermonitor.com
-czmlfc.sxtm30.badudns.cc
 d.adroll.com
 dakic-ia-300.com
 danban.com
@@ -1461,7 +1455,6 @@ doublepimp.com
 drawbrid.ge
 drumcash.com
 druming.free.fr
-dtstesting.com
 dwcreations.net
 dynamic.fmpub.net
 e-adimages.scrippsnetworks.com
@@ -1519,7 +1512,6 @@ eur.a1.yimg.com
 eurekster.com
 euro-linkindex.de
 euroclick.com
-eurocompkft.hu
 european-toplist.de
 euroranking.de
 euros4click.de
@@ -1633,13 +1625,11 @@ gpr.hu
 gqwhyjh.com
 grafstat.ro
 greystripe.com
-gsimon.edu.free.fr
 gtop.ro
 gtop100.com
 gtsads.com
 gtsmobi.com
 guppymedia.com
-hairtease.com
 harrenmedia.com
 harrenmedianetwork.com
 havamedia.net
@@ -1775,7 +1765,6 @@ jatxt.com
 jbeet.cjt1.net
 jcount.com
 jedonkey.cjt1.net
-jefaerosol.free.fr
 jinkads.de
 jiwire.com
 jkazaa.cjt1.net
@@ -1792,11 +1781,9 @@ justwebads.com
 k.iinfo.cz
 kanoodle.com
 kargo.com
-kele1688.web23.badudns.cc
 keymedia.hu
 keynotedeviceanywhere.com
 kindads.com
-kineclick.free.fr
 kissmetrics.com
 kliks.nl
 komoona.com
@@ -1856,7 +1843,6 @@ localytics.com
 location.fashionises.com
 log.btopenworld.com
 logua.com
-londparig.ga
 loopme.biz
 lop.com
 lucidmedia.com
@@ -2004,7 +1990,6 @@ myaffiliateprogram.com
 mybloglog.com
 mycounter.ua
 mydas.mobi
-myfileupload.ru
 mypagerank.net
 mypagerank.ru
 mypowermall.com
@@ -2240,7 +2225,6 @@ pubmatic.com
 pubs.lemonde.fr
 pulse360.com
 q.azcentral.com
-q2melbourne.com
 qctop.com
 qnsr.com
 quakemarketing.com
@@ -2325,7 +2309,6 @@ rle.ru
 rmads.msn.com
 rmedia.boston.com
 roar.com
-robinkornett.com
 robotreplay.com
 rocketfuel.com
 roia.biz
@@ -2333,7 +2316,6 @@ rok.com.com
 rose.ixbt.com
 rotabanner.com
 roxr.net
-royalair.koom.ma
 rtbidder.net
 rtbpop.com
 rtbpopd.com
@@ -2344,7 +2326,6 @@ rythmxchange.com
 s.adroll.com
 s2d6.com
 sageanalyst.net
-sam-sdelai.blogspot.com
 sbx.pagesjaunes.fr
 scambiobanner.aruba.it
 scanscout.com
@@ -2438,7 +2419,6 @@ spywarenuker.com
 spywords.com
 srbijacafe.org
 srwww1.com
-sso.anbtr.com
 star-advertising.com
 starffa.com
 start.freeze.com
@@ -2478,7 +2458,6 @@ statxpress.com
 steelhouse.com
 steelhousemedia.com
 stickyadstv.com
-stoneb.cn
 strikead.com
 strikeiron.com
 suavalds.com
@@ -2690,7 +2669,6 @@ visual-pagerank.fr
 visualrevenue.com
 voicefive.com
 vpon.com
-vrot.stervapoimenialena.info
 vrs.cz
 vs.tucows.com
 vungle.com
@@ -2755,7 +2733,6 @@ www.dnps.com
 www.kaplanindex.com
 www.money4exit.de
 www.photo-ads.co.uk
-www.yserch.com
 www1.gto-media.com
 www8.glam.com
 x-traceur.com
@@ -2778,7 +2755,6 @@ xxxcounter.com
 xxxmyself.com
 xy7elite.com
 y.ibsys.com
-ya-googl.ws
 yab-adimages.s3.amazonaws.com
 yabuka.com
 yadro.ru
@@ -2795,7 +2771,6 @@ yoc-performance.com
 yoc.mobi
 yoggrt.com
 yserch.com
-yttestsite.com
 yuilop.com
 yume.com
 z5x.net

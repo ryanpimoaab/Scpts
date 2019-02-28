@@ -179,11 +179,11 @@ tv-static.scdn.co
 tv.deezer.com
 xml.opera.com
 # netflix
-# secure, api-global, ichnaea, and appboot break netflix
+# secure, api-global, and appboot break netflix
 #secure.netflix.com                   
 #api-global.netflix.com
-#ichnaea.netflix.com
 #appboot.netflix.com
+ichnaea.netflix.com
 customerevents.netflix.com
 nrdp.nccp.netflix.com
 # spotify

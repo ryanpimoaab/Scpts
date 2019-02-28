@@ -3,8 +3,9 @@
 # project home page: https://github.com/anudeepnd/blacklist
 # licence: https://github.com/anudeepnd/blacklist/blob/master/license
 # title: anudeep's blacklist
+# expires: 1 days
 # hosts contributed by anudeep <anudeep@protonmail.com>
-# domain count: 32,405
+# domain count: 32,454
 # ===================================================================
 0001-cab8-4c8c-43de.reporo.net
 002-slq-470.mktoresp.com
@@ -4054,7 +4055,7 @@ admarvel.mads.advertising.com
 admaster.union.ucweb.com
 admaven.adk2x.com
 admaym.com
-admaym.com cs.genieesspv.jp
+cs.genieesspv.jp
 adm.cnzz.com
 ad.mediaplex.com
 admediaspace-d.openx.net
@@ -9374,7 +9375,6 @@ dlrvrtqkfw.mentalist.kameleoon.com
 dl.urbanairship.com
 dlyads.adk2.co
 dmacc.co1.qualtrics.com
-dmd.metaservices.microsoft.com
 dmhsg.voluumtrk.com
 dmis0q5xqsmjcljialdnz6r0wej7c1507006611.nuid.imrworldwide.com
 d-misc.t.domdex.com
@@ -12300,11 +12300,7 @@ hlcommission.co1.qualtrics.com
 hl-img.download.9appsinstall.com
 hl-img.peco.uodoo.com
 hlrke.voluumtrk.com
-hlsrv-a.prod.vidible.tv
-hlsrv.prod.vidible.tv
-hlsrv.vidible.tv
 hls.v.fwmrm.net
-hls.vidible.tv
 hm1.cnzz.com
 hm2.cnzz.com
 hm3.cnzz.com
@@ -20456,7 +20452,6 @@ settings-1475741074.mtraction.com
 settings-1476442757.mtraction.com
 settings-1479276883.mtraction.com
 settings.crashlytics.com
-settings.data.microsoft.com
 settings.outbrain.com
 settings-sandbox.data.microsoft.com
 settings-win-ppe.data.microsoft.com
@@ -23592,7 +23587,7 @@ ultrabook-king.de.intellitxt.com
 ultradentproductsinc.demdex.net
 ultraoranges.com
 um2.eqads.com
-um2.eqads.com x.skimresources.com
+x.skimresources.com
 umassamherst.co1.qualtrics.com
 umasspsych.co1.qualtrics.com
 umass.qualtrics.com
@@ -25816,7 +25811,6 @@ www.spyoff.com
 www.sshowads.pubmatic.com
 www.sslads.vizury.com
 www.ssl.vizury.com
-www.stackpath.com
 www.start.adrecover.com
 www.startup.inmobi.com
 www.startups.unbounce.com
@@ -26055,7 +26049,6 @@ xrci4tvq4xsyoaobbl5ihw71ryvyk1507508600.nuid.imrworldwide.com
 xrxdiuijt3.kameleoon.eu
 xrxdiuijt3.mentalist.kameleoon.com
 xsdk.adkmob.com
-x.skimresources.com
 xsltbfhmda.mentalist.kameleoon.com
 xslt.mediaplex.com
 xslttest.la.mediaplex.com
@@ -32404,3 +32397,86 @@ ns2.a-ads.com
 s.a-ads.com
 ad.s.a-ads.com
 static.a-ads.com
+gameanalytics.com
+www.gameanalytics.com
+api.gameanalytics.com
+api-eu.gameanalytics.com
+api-us.gameanalytics.com
+cdn.gameanalytics.com
+cn.gameanalytics.com
+download.gameanalytics.com
+easy.gameanalytics.com
+go.gameanalytics.com
+go-export.gameanalytics.com
+maven.gameanalytics.com
+ops-query-0.gameanalytics.com
+ops-query-1.gameanalytics.com
+ops-query-2.gameanalytics.com
+ops-query-3.gameanalytics.com
+public.gameanalytics.com
+query-0.gameanalytics.com
+query-1.gameanalytics.com
+query-2.gameanalytics.com
+query-3.gameanalytics.com
+ru.gameanalytics.com
+rubick.gameanalytics.com
+sandbox-api.gameanalytics.com
+13.mizdok.com
+17.mizdok.com
+1phads.com
+45eijvhgj2.com
+48.mizdok.com
+49oa3o49b6.com
+52.mizdok.com
+53ba35bdfd7dc70def9fe8cd6644caff.s.adsco.re
+56.mizdok.com
+62.mizdok.com
+65.mizdok.com
+81.mizdok.com
+87.mizdok.com
+a63t9o1azf.com
+ads.exoclick.com
+adsco.re
+adt.shuzilm.cn
+bodelen.com
+c.adsco.re
+hbk.shuzilm.cn
+p8.hecherthepar.pro
+pixel.hecherthepar.pro
+uxbpnne.com
+uhughed.club
+workersimkf.com
+abtest.mistat.india.xiaomi.com
+api.input.intl.miui.com
+cdnegc.trafficfactory.biz
+data.mistat.india.xiaomi.com
+events.launchdarkly.com
+insurplan.info
+aax-eu.amazon-adsystem.com
+api.sms.intl.miui.com
+in.o2o.api.xiaomi.com
+mads.amazon-adsystem.com
+analytics.tercept.com
+analytics2.tercept.com
+api.tercept.com
+b-s.tercept.com
+cdn.tercept.com
+monitor.tercept.com
+optimize.tercept.com
+rial.tercept.com
+clicktripz.com
+entitlements.jwplayer.com
+client-event-reporter.twitch.tv
+pushno.com
+imesnow.pushengage.com
+onclkds.com
+www.onclkds.com
+dts.innovid.com
+rtr.innovid.com
+s-static.innovid.com
+s.innovid.com
+cdn.innovid.com
+ag.innovid.com
+ad.bullguard.com
+adv.bullguard.com
+deals.bullguard.com

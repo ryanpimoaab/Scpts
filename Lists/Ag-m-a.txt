@@ -42,6 +42,11 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+data2.doodlemobile.com
+d239g0z67jcted.cloudfront.net
+newfeatureview.perfectionholic.com
+featured.perfectionholic.com
+crosspromo.voodoo.io
 abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
 adsnative.com
@@ -1123,6 +1128,7 @@ plbslog.umeng.com
 analysys.cn
 logs.supersonic.com
 adj.st
+track.tenjin.io
 stats.abbi.io
 api.goodbarber.net
 tr.snapchat.com
@@ -1144,7 +1150,6 @@ ue.flipboard.com
 helpshift.com
 mobileapptracking.com
 mobile.bigfishgames.com
-startup.mobile.yandex.net
 ilyonanalytics.herokuapp.com
 register.appsflyer.com
 kaffnet.com
@@ -1160,7 +1165,6 @@ sdks.stats-locations.com
 imp.startappservice.com
 tracking.intl.miui.com
 storeconfig.mistat.intl.xiaomi.com
-urbanairship.com
 ploy.batmobi.net
 an.batmobi.net
 ustat.batmobi.net

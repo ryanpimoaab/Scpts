@@ -217,10 +217,10 @@ answerscloud.com
 anti-cheat.info
 ape78cn2.com
 apexstats.com
+apextag.com
 apextwo.com
 apicit.net
 apollofind.com
-app.link
 appared.online
 appboycdn.com
 appn.center
@@ -347,7 +347,6 @@ bm23.com
 bm324.com
 bmlmedia.com
 bmmetrix.com
-bnc.lt
 bookforest.biz
 boomerang.com.au
 boomtrain.com
@@ -356,7 +355,6 @@ botsvisit.com
 bouncepilot.com
 bouncex.com
 bpmonline.com
-branch.io
 brat-online.ro
 brcdn.com
 bridgevine.com
@@ -803,6 +801,7 @@ fastly-insights.com
 fastonlineusers.com
 fastwebcounter.com
 fathomseo.com
+fbgpnk.com
 fcs.ovh
 fdxstats.xyz
 feathr.co
@@ -834,6 +833,7 @@ flurry.com
 flx1.com
 flxpxl.com
 flyingpt.com
+fn-pz.com
 followercounter.com
 fonderredd.info
 footprintdns.com
@@ -1186,6 +1186,7 @@ klldabck.com
 km-sea.net
 knowlead.io
 knowledgevine.net
+koddi.com
 komtrack.com
 kontagent.net
 kopsil.com
@@ -1295,7 +1296,6 @@ marketo.com
 marketo.net
 marketshot.com
 marketshot.fr
-markitondemand.com
 maropost.com
 martianstats.com
 maryneallynndyl.com
@@ -1337,6 +1337,7 @@ metricool.com
 metricsdirect.com
 meyersdalebixby.com
 mezzobit.com
+mfadsrvr.com
 mialbj6.com
 micpn.com
 midas-i.com
@@ -1465,6 +1466,7 @@ nik.io
 nile.works
 noowho.com
 nordicresearch.com
+northstartravelmedia.com
 notifyvisitors.com
 novately.com
 nowinteract.com
@@ -1938,6 +1940,7 @@ smileyhost.net
 smrk.io
 smrtlnks.com
 snapdeal.biz
+snapsmedia.io
 sniperlog.ru
 sniphub.com
 snoobi.com
@@ -2281,6 +2284,7 @@ users-api.com
 usuarios-online.com
 v12group.com
 v3cdn.net
+va-endpoint.com
 valaffiliates.com
 valuedopinions.co.uk
 vantage-media.net

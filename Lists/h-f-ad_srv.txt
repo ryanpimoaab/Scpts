@@ -22481,7 +22481,6 @@ buy.thetrackr.com
 buy2.go2cloud.org
 buyhitscheap.com
 buystream.com
-buysub.com
 buytraf.ru
 buzz.igg.com
 buzzadnetwork.com
@@ -25934,7 +25933,6 @@ de.tynt.com
 de.web.planet49.com
 de2.ipinkvisualpass.com
 de8of677fyt0b.cloudfront.net
-dealcatcher.com
 dealchicken.go2cloud.org
 dealhelper.com
 dealmedia.utsandiego.com
@@ -31230,7 +31228,6 @@ mcp8f.voluumtrk.com
 mcpaz.voluumtrk.com
 mcpvkhoven.review
 mcs.delvenetworks.com
-mcssl.com
 mctracking.go2cloud.org
 mdamarillo.112.2o7.net
 mdataroom.com
@@ -36288,6 +36285,9 @@ t.extreme-dm.com
 t.flux.com
 t.formalyzer.com
 t.frtyi.com
+t.frtyk.com
+t.frtyo.com
+t.hrtya.com
 t.hypers.com.cn
 t.insigit.com
 t.irtya.com
@@ -37014,7 +37014,6 @@ tracker.calameo.com
 tracker.cds-tracking.com
 tracker.clicktrade.com
 tracker.com
-tracker.cztorrent.net
 tracker.divvit.com
 tracker.drippler.com
 tracker.egora.fr
@@ -44065,7 +44064,6 @@ www.mbixuxsfeoutfields.review
 www.mbotvisit.com
 www.mckygschalalled.review
 www.mcpvkhoven.review
-www.mcssl.com
 www.media-clic.com
 www.media-code.info
 www.media.net
@@ -45739,4 +45737,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45744
+# hosts: 45742
