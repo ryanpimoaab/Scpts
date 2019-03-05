@@ -1932,7 +1932,7 @@ www.vydoxtrial.com
 # see below for acknowledgements.
 # please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
-# last updated: tue, 19 feb 2019 at 10:44:01 gmt
+# last updated: thu, 28 feb 2019 at 16:43:05 gmt
 # use this file to prevent your computer from connecting to selected
 # internet hosts. this is an easy and effective way to protect you from 
 # many types of spyware, reduces bandwidth use, blocks certain pop-up 
@@ -2015,6 +2015,7 @@ www.shafou.com
 4girlsfingerpaint.org
 bagslap.com
 ballsack.org
+bestgore.com
 bestshockers.com
 bluewaffle.biz
 bottleguy.com
@@ -2067,6 +2068,7 @@ prolapseman.com
 scrollbelow.com
 selfpwn.org
 sexitnow.com
+shockgore.com
 sourmath.com
 strawpoii.me
 suckdude.com
@@ -6223,6 +6225,7 @@ ad.dic.nicovideo.jp
 ad.directmirror.com
 ad.directrev.com
 ad.doganburda.com
+ad.doublemax.net
 ad.download.net
 addserver.mtv.com.tr
 addthiscdn.com
@@ -6235,6 +6238,7 @@ ad.ekonomikticaret.com
 ad.eporner.com
 ad.espn.starwave.com
 ad.e-sport.com
+ad.ettoday.net
 ad.eurosport.com
 adexchangegate.com
 adexchangeprediction.com
@@ -27171,14 +27175,14 @@ www.winaproduct.com
 # for more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   fri, 22 feb 2019 13:15:56 gmt
-# entries:        2962
+# entries:        2954
 # format:         hosts (hosts -- in hosts file format)
 # credits:        peter lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # patreon:        https://patreon.com/blocklist
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    tue, 02 mar 1999 00:00:00
+# start date:    sun, 07 mar 1999 00:00:00
 101com.com
 101order.com
 123found.com
@@ -27213,6 +27217,7 @@ a.aproductmsg.com
 a.consumer.net
 a.sakh.com
 a135.wftv.com
+aaddzz.com
 abacho.net
 abackchain.com
 abandonedaction.com
@@ -27276,7 +27281,6 @@ ad.weatherbug.com
 ad1.emule-project.org
 ad1.kde.cz
 ad2.iinfo.cz
-ad2.linxcz.cz
 ad2.lupa.cz
 ad2.xrea.com
 ad2flash.com
@@ -27287,8 +27291,6 @@ ad4mat.com
 ad4mat.net
 adaction.de
 adalliance.io
-adboost.de.vu
-adboost.net
 adbooth.net
 adbot.com
 adbrn.com
@@ -27385,7 +27387,6 @@ ads-click.com
 ads.activestate.com
 ads.administrator.de
 ads.affiliates-spinit.com
-ads.ak.facebook.com.edgesuite.net
 ads.allvatar.com
 ads.appsgeyser.com
 ads.batpmturner.com
@@ -27661,7 +27662,6 @@ alert.com.mt
 alexametrics.com
 alipromo.com
 all4spy.com
-alladvantage.com
 allosponsor.com
 amazingcounters.com
 ambiguousquilt.com
@@ -27881,7 +27881,6 @@ cjlog.com
 claria.com
 class-act-clicks.com
 clearcomb.com
-click.absoluteagency.com
 click.fool.com
 click2freemoney.com
 clickability.com
@@ -27954,7 +27953,6 @@ coremetrics.com
 count.west263.com
 counted.com
 coupling-media.de
-cowledges.com
 cpays.com
 cpmstar.com
 cpx.to
@@ -28080,7 +28078,6 @@ emetriq.de
 encouragingwilderness.com
 endurableshop.com
 enginenetwork.com
-enlarget.com
 enquisite.com
 ensighten.com
 entercasino.com
@@ -29027,7 +29024,6 @@ ia.timeinc.net
 icklesign.com
 idaltv.com
 inybar.com
-izers.net
 lvmedia.com
 nkexchange.com
 ntclix.co.uk
@@ -29069,7 +29065,6 @@ rackingsoft.com
 rackmysales.com
 radeadexchange.com
 raffic-exchange.com
-rafficadept.com
 rafficfactory.biz
 rafficholder.com
 raffichunt.com
@@ -35092,8 +35087,8 @@ zipzoomfly.122.2o7.net
 # start kadhosts
 # title: kadhosts
 # description: filtr chroniacy przed przekretami takimi jak subskrypcje sms
-# last modified: thu, 21 feb 2019, 20:52 utc+01
-# version: 2019.2.21.9
+# last modified: fri, 01 mar 2019, 10:46 utc+01
+# version: 2019.3.1.1
 # expires: 2 days
 # website: https://kadantiscam.netlify.com/
 # repository: https://github.com/polishfiltersteam/kadhosts
@@ -35461,7 +35456,6 @@ konferencje.vantis.pl
 konkursy24.ml
 korphan.pl
 krdn.pl
-krebsmethod.com
 kredyt-na-pesel.pl
 kryptochemik.pl
 kupujemy24.net
@@ -35691,6 +35685,7 @@ serwis-laptopow.warszawa.pl
 serwis-laptopow24.pl
 serwis-laptopow-powisle.pl
 shiporama.com
+shopsneakers.pl
 shop.dr-rath.com
 showup-tv.com.pl
 silvets.pl
@@ -35720,7 +35715,6 @@ sug.com.pl
 sukces.pl
 sundaycashsaver.com
 superfiles.pl
-supermedia24.pl
 super-tania-chwilowka.pl
 swiezaki.weebly.com
 szaloneupusty.pl
@@ -35803,7 +35797,6 @@ wifiprotector.com
 wirtualna-polska.site
 wirtuozseksu.pl
 wizjatv-kody.pl
-wniosek-24h.pl
 wooptrk.com
 workwolf.pl
 worldinfoclub.com
@@ -35954,7 +35947,6 @@ wyleczpc.pl
 wyspaofert.com
 xbox1emulator.org
 xbox360emulator.com
-xkomp.net
 xmlgrab.com
 xtrak.me
 yotafiles.com
@@ -36166,7 +36158,6 @@ astrocash.org
 bazafilmowa.org
 beka.pl
 bemydate.mobi
-best-wygrane.com.pl
 bonypodarunkowe.com.pl
 bramka-sms-za-darmo.pl
 buz2mobile.com

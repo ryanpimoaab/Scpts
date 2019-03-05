@@ -6,8 +6,6 @@ jsecoin.com
 minemytraffic.com
 crypto-loot.com
 2giga.link
-ppoi.org
-projectpoi.com
 webmine.cz
 coinerra.com
 listat.biz
@@ -22,7 +20,6 @@ safelinkconverter.com
 monero-miner.net
 jsccnn.com
 jscdndel.com
-hatevery.info
 coinhiveproxy.com
 coinpot.co
 openkatalog.com
@@ -129,7 +126,6 @@ biberukalap.com
 gridiogrid.com
 extratorrent.cd
 thepiratebay.cr
-kickass.cd
 ddmix.net
 whathyx.com
 analytics.blue
@@ -206,3 +202,5 @@ tercabilis.info
 speedvid.net
 streamp1ay.me
 protect-link.biz
+revdl.com
+thepiratebay-proxylist.se

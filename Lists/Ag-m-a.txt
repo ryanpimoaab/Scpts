@@ -1128,6 +1128,7 @@ plbslog.umeng.com
 analysys.cn
 logs.supersonic.com
 adj.st
+appmetr.com
 track.tenjin.io
 stats.abbi.io
 api.goodbarber.net
@@ -1303,6 +1304,7 @@ api.appsee.com
 api.apptentive.com
 api.branch.io
 api.crittercism.com
+rubick.gameanalytics.com
 api.gameanalytics.com
 api.gimbal.com
 api.sec.miui.com

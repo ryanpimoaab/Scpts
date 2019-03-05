@@ -377,7 +377,6 @@ konferencje.vantis.pl
 konkursy24.ml
 korphan.pl
 krdn.pl
-krebsmethod.com
 kredyt-na-pesel.pl
 kryptochemik.pl
 kupujemy24.net
@@ -626,6 +625,7 @@ serwis-laptopow.warszawa.pl
 serwis-laptopow24.pl
 serwis-laptopow-powisle.pl
 shiporama.com
+shopsneakers.pl
 shop.dr-rath.com
 showup-tv.com.pl
 silvets.pl
@@ -655,7 +655,6 @@ sug.com.pl
 sukces.pl
 sundaycashsaver.com
 superfiles.pl
-supermedia24.pl
 super-tania-chwilowka.pl
 swiezaki.weebly.com
 szaloneupusty.pl
@@ -747,7 +746,6 @@ wifiprotector.com
 wirtualna-polska.site
 wirtuozseksu.pl
 wizjatv-kody.pl
-wniosek-24h.pl
 wooptrk.com
 workwolf.pl
 worldinfoclub.com
@@ -898,7 +896,6 @@ wyleczpc.pl
 wyspaofert.com
 xbox1emulator.org
 xbox360emulator.com
-xkomp.net
 xmlgrab.com
 xtrak.me
 yotafiles.com
@@ -1133,7 +1130,6 @@ astrocash.org
 bazafilmowa.org
 beka.pl
 bemydate.mobi
-best-wygrane.com.pl
 bonypodarunkowe.com.pl
 bramka-sms-za-darmo.pl
 buz2mobile.com

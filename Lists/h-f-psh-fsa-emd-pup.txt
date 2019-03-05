@@ -218,6 +218,7 @@ adobelink.com
 adobemail-com.000webhostapp.com
 adobemarketingtraining.com
 adobemax.000webhostapp.com
+adobemeeting.ir
 adobeonline-cardreaderfile-pdf.000webhostapp.com
 adobeonline-reader-file-document-pdf-cn.000webhostapp.com
 adobeonline-secured-file-reader-pdf.000webhostapp.com
@@ -541,6 +542,7 @@ apple-icloudca.com
 apple-icloudid.com
 apple-icoin.com
 apple-id-9217618412148e11e-appstore.com
+apple-id-accounts.com
 apple-id-accountt.com
 apple-id-apple-accounts-support.com
 apple-id-apple-support-account.com
@@ -947,6 +949,7 @@ apple-tjkifx.top
 apple-tlt.ru
 apple-token.com
 apple-tr.com
+apple-tt.com
 apple-tuscolana.com
 apple-ua.com
 apple-ue.com
@@ -1060,6 +1063,7 @@ apple.sevin.pw
 apple.soporte-verificacion.com
 apple.support.com.traking-location.ml
 apple.toys
+apple.tracking-id-account.com
 apple.uk.id-user-access.com
 apple.unblock-user.com
 apple002.com
@@ -5043,12 +5047,14 @@ justpetsappleton.com
 k-softbank.com
 kabinet-npf-sberbank.info
 kabinet-online-sberbank.com
+kallicloud.com
 katilimbankalari.com
 kauferschutz-ebay.com
 kbanka.com
 kbzpaypal.com
 ke-appleid.com
 keepthepineapplehustling.com
+keycorbank.com
 keyspaypal.com
 kharideappleid.com
 klik-download.com
@@ -5369,6 +5375,7 @@ microsoft.tl
 microsoft00now.000webhostapp.com
 microsoft0utl00k2018.editor.multiscreensite.com
 microsoft0utl00k20182.editor.multiscreensite.com
+microsoft1.moonfruit.com
 microsoft2018.cdhost.com
 microsoft365-secured-documentfile.000webhostapp.com
 microsoft831-software.moonfruit.com
@@ -6694,6 +6701,7 @@ report.icloud.com-lastlocation.info
 reportaccountapple.com
 reportapple.info
 reportapple.net
+reportesappleid.com
 resetpassword-appleid-apple.com
 resolutioncenter.com.plpobjects.microsoftsms.com
 resolve-paypal-com.signin.homesupprt.com
@@ -22104,6 +22112,7 @@ www.microsoft-xboxlive.com
 www.microsoft-youtube.com
 www.microsoft-zeus-virus-helpline-aus-1.com
 www.microsoft.cat
+www.microsoft.com-fast-windows-system.live
 www.microsoft.com-repair-windows.live
 www.microsoft.ovh
 www.microsoft.ts365.us
@@ -25252,6 +25261,7 @@ cnetdownloads.com
 cntb.express-downloader.com
 codwellbanker.com
 combo-fix-download.blogspot.com
+commbank-netcode.cloud
 compusemsem.googlepages.com
 computersecuritywarning.download
 comunidadtwitter.com.ar
@@ -25327,6 +25337,7 @@ down1.7654browser.shzhanmeng.com
 down1.abckantu.com
 down1.downshouji.cn
 down1.greenxf.com
+down1.mqego.com
 down1.topsadon1.com
 down1.ucweb.com
 down1.wukongtv.com
@@ -25414,6 +25425,7 @@ download.biggamecountdown.com
 download.bitcoinpricesearch.com
 download.bringmeapps.com
 download.browseraccelerator.com
+download.byeerror.com
 download.camfrog.com
 download.cardesales.com
 download.cashsurfers.com
@@ -26165,6 +26177,7 @@ gimpdownloads.com
 globalbank.us
 goglechrome1147.comxa.com
 gonorthhalifax.com
+goodappledigital.com
 goodsoft.download
 goodsystemtoupgrading.download
 google-analyitics.org
@@ -29398,6 +29411,7 @@ www.cloudapplesoftwarestorageinternalerroralertsecurewaring.xyz
 www.cloudservicedownload.com
 www.cnetdownloads.com
 www.codwellbanker.com
+www.commbank-netcode.cloud
 www.computersecuritywarning.download
 www.comunidadtwitter.com.ar
 www.contact-help-fatal-error4021.download
@@ -29898,6 +29912,7 @@ www.gimpdownloads.com
 www.globalbank.us
 www.goglechrome1147.comxa.com
 www.gonorthhalifax.com
+www.goodappledigital.com
 www.goodsoft.download
 www.goodsystemtoupgrading.download
 www.google-analyitics.org

@@ -3,7 +3,6 @@
 140proof.com
 180hits.de
 180searchassistant.com
-191gm.com
 1x1rank.com
 207.net
 247media.com
@@ -14,7 +13,6 @@
 2o7.net
 360yield.com
 3cinteractive.com
-3e1.cn
 4affiliate.net
 4d5.net
 4info.com
@@ -24,13 +22,11 @@
 51yes.com
 5thfinger.com
 600z.com
-720movies.net
 777partner.com
 777seo.com
 77tracking.com
 7bpeople.com
 7search.com
-941jz.cn
 980media.com
 99count.com
 adsatt.abcnews.starwave.com
@@ -965,7 +961,6 @@ airbrake.io
 airpush.com
 aistat.net
 ajouter.net
-akshatadesigns.in
 aktrack.pubmatic.com
 alclick.com
 alenty.com
@@ -1155,11 +1150,9 @@ begun.ru
 behave.nualias.com
 belstat.com
 belstat.nl
-benstock.free.fr
 berp.com
 best-pr.info
 best-top.ro
-bestpons.net
 bestsearch.net
 bhclicks.com
 bidclix.com
@@ -1454,8 +1447,6 @@ doubleclick.net
 doublepimp.com
 drawbrid.ge
 drumcash.com
-druming.free.fr
-dwcreations.net
 dynamic.fmpub.net
 e-adimages.scrippsnetworks.com
 e-bannerx.com
@@ -1765,6 +1756,7 @@ jatxt.com
 jbeet.cjt1.net
 jcount.com
 jedonkey.cjt1.net
+jefaerosol.free.fr
 jinkads.de
 jiwire.com
 jkazaa.cjt1.net
@@ -1772,7 +1764,6 @@ jnova.cjt1.net
 joetec.net
 jokedollars.com
 js.users.51.la
-jtti.net
 juicyads.com
 julysystems.com
 jumptap.com
@@ -1793,7 +1784,6 @@ kt-g.de
 ktu.sv2.biz
 ladybug.gutterheatersus.com
 lakequincy.com
-lavoixdesmots.free.fr
 layer-ad.de
 layer-ads.de
 lbn.ru
@@ -1807,7 +1797,6 @@ leadingedgecash.com
 leadzupc.com
 lean.com
 leanoisgo.com
-lectscalimertdr43.land.ru
 legolas-media.com
 levelrate.de
 lfstmedia.com
@@ -1843,6 +1832,7 @@ localytics.com
 location.fashionises.com
 log.btopenworld.com
 logua.com
+londparig.ga
 loopme.biz
 lop.com
 lucidmedia.com
@@ -1862,7 +1852,6 @@ magnetic.com
 malware-check.disconnect.me
 malware-scan.com
 manage.com
-mandarin.aquamarineku.com
 maplefarmmedia.com
 marchex.com
 market-buster.com
@@ -2155,7 +2144,6 @@ pillscash.com
 pimproll.com
 pixel.adsafeprotected.com
 pixel.jumptap.com
-pizzotti.net
 placeplay.com
 planetactive.com
 play4traffic.com
@@ -2274,8 +2262,6 @@ reduxmediagroup.com
 reedbusiness.com
 reefaquarium.biz
 referralware.com
-reflexonature.free.fr
-regis.foultier.free.fr
 regnow.com
 reinvigorate.net
 reklam.rfsl.se
@@ -2287,7 +2273,6 @@ reklamer.com.ua
 relevanz10.de
 relmaxtop.com
 remotead.cnet.com
-remyyadan.online.fr
 republika.onet.pl
 retargeter.com
 rev2pub.com
@@ -2419,6 +2404,7 @@ spywarenuker.com
 spywords.com
 srbijacafe.org
 srwww1.com
+sso.anbtr.com
 star-advertising.com
 starffa.com
 start.freeze.com
@@ -2570,7 +2556,6 @@ trackalyzer.com
 tracker.icerocket.com
 tracker.marinsm.com
 trackersimulator.org
-tracking.checkmygirlfriend.net
 tracking.crunchiemedia.com
 tracking.gajmp.com
 tracking.internetstores.de
@@ -2771,6 +2756,7 @@ yoc-performance.com
 yoc.mobi
 yoggrt.com
 yserch.com
+yttestsite.com
 yuilop.com
 yume.com
 z5x.net
