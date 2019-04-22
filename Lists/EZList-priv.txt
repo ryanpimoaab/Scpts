@@ -7,6 +7,7 @@
 11nux.com
 123count.com
 149.13.65.144
+15gifts.com
 168logger.com
 195.10.245.55
 1freecounter.com
@@ -117,6 +118,7 @@ adku.co
 adku.com
 admantx.com
 admaster.com.cn
+admetric.io
 admitad.com
 admother.com
 adobedtm.com
@@ -126,6 +128,8 @@ adoric-om.com
 adpaths.com
 adpies.com
 adprotraffic.com
+adregain.com
+adregain.ru
 adrizer.com
 adrta.com
 adsensedetective.com
@@ -141,6 +145,7 @@ adunity.com
 advanced-web-analytics.com
 advconversion.com
 advertising.com
+adways.com
 adwstats.com
 adyapper.com
 afairweb.com
@@ -269,6 +274,7 @@ awasete.com
 awesomelytics.com
 awin1.com
 awmcounter.de
+awstrack.me
 axf8.net
 azalead.com
 azera-s014.com
@@ -338,7 +344,6 @@ blogreaderproject.com
 blogscounter.com
 blogsontop.com
 blogtoplist.com
-bloomjoy.com
 bluecava.com
 blueconic.net
 bluekai.com
@@ -400,6 +405,7 @@ calltracks.com
 calltrk.com
 campaigncog.com
 canddi.com
+canlytics.com
 canopylabs.com
 caphyon-analytics.com
 captify.co.uk
@@ -577,6 +583,7 @@ csdata1.com
 csi-tracking.com
 ctnsnet.com
 cttracking02.com
+curalate.com
 customer.io
 customerconversio.com
 customerdiscoverytrack.com
@@ -779,6 +786,7 @@ exelator.com
 exitbee.com
 exitmonitor.com
 exovueplatform.com
+experianmarketingservices.digital
 explore-123.com
 exposebox.com
 extole.com
@@ -817,6 +825,7 @@ finderlocator.com
 fishhoo.com
 fitanalytics.com
 flagcounter.com
+flaghit.com
 flash-counter.com
 flash-stat.com
 flashadengine.com
@@ -844,7 +853,6 @@ foreseeresults.com
 forkcdn.com
 formalyzer.com
 formisimo.com
-forter.com
 foundry42.com
 fout.jp
 fpctraffic2.com
@@ -1110,7 +1118,6 @@ invoca.net
 invoca.solutions
 iocnt.net
 ionmvdpifz.com
-ip-api.com
 ip-label.net
 ip2location.com
 ip2map.com
@@ -1256,6 +1263,7 @@ loggly.com
 logmatic.io
 lognormal.net
 logrocket.com
+logrocket.io
 logsss.com
 lookery.com
 loopfuse.net
@@ -1278,6 +1286,7 @@ lypn.net
 lytics.io
 lytiks.com
 m-pathy.com
+m-t.io
 m1ll1c4n0.com
 m6r.eu
 mabipa.com
@@ -1302,6 +1311,7 @@ maryneallynndyl.com
 masterstats.com
 matheranalytics.com
 mathtag.com
+matomo.cloud
 maxtracker.net
 maxymiser.com
 maxymiser.net
@@ -1410,6 +1420,7 @@ myseostats.com
 mysitetraffic.net
 mysocialpixel.com
 mytictac.com
+mytrack.pro
 myusersonline.com
 myvisualiq.net
 mywebstats.com.au
@@ -1539,6 +1550,7 @@ optorb.com
 optreadetrus.info
 oranges88.com
 orcapia.com
+oribi.io
 os-data.com
 ositracker.com
 ospserver.net
@@ -1555,6 +1567,7 @@ p-td.com
 p.l1v.ly
 p.raasnet.com
 p0.raasnet.com
+p2r14.com
 pa-oa.com
 pagefair.com
 pages05.net
@@ -1567,6 +1580,7 @@ pc1.io
 pclicks.com
 pcspeedup.com
 pdbu.net
+peep1alea.com
 peerius.com
 pega.com
 percentmobile.com
@@ -1753,6 +1767,7 @@ retags.us
 retargetly.com
 retargettracker.com
 retentionscience.com
+rettica.com
 reussissonsensemble.fr
 revdn.net
 revenuepilot.com
@@ -2084,6 +2099,7 @@ taplytics.com
 taps.io
 tapstream.com
 targetfuel.com
+taskanalytics.com
 tcactivity.net
 tcimg.com
 tctm.co
@@ -2175,6 +2191,7 @@ trackkas.com
 trackmytarget.com
 trackmyusers.com
 trackmyweb.net
+trackonomics.net
 trackset.com
 tracksy.com
 tracktrk.net
@@ -2202,11 +2219,11 @@ transactionale.com
 traversedlp.com
 trbas.com
 treasuredata.com
-treehousei.com
 trekmedia.net
 trendcounter.com
 trendemon.com
 trgtcdn.com
+tribl.io
 triggeredmessaging.com
 triggertag.gorillanation.com
 triggit.com
@@ -2268,6 +2285,7 @@ urlbrief.com
 urlself.com
 usabilitytools.com
 usabilla.com
+useinsider.com
 useitbetter.com
 user-api.com
 user-clicks.com
@@ -2282,6 +2300,7 @@ userreplay.net
 userreport.com
 users-api.com
 usuarios-online.com
+uuxnwoevyb.com
 v12group.com
 v3cdn.net
 va-endpoint.com
@@ -2421,6 +2440,7 @@ worldlogger.com
 wowanalytics.co.uk
 wp-stats.com
 wpdstat.com
+wpfc.ml
 wrating.com
 wredint.com
 wt-eu02.net
@@ -2994,12 +3014,10 @@ pool.hws.ru
 poolmining.eu
 poolmining.net
 porkypool.com
-ppoi.org
 pr0gram.org
 premiumstats.xyz
 presjots.ga
 proj2018.xyz
-projectpoi.com
 proofly.win
 pzoifaum.info
 rand.com.ru

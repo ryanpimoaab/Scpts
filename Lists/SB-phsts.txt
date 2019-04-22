@@ -900,6 +900,10 @@ rdi.eu.criteo.com
 ads.samsungads.com
 enabler.datalake.mediaset.it
 hbbtv.mediaset.net
+amazonco.uk 
+www.myishop.co.uk
+www2.myishop.co.uk
+ads30.adcolony.com
 alpha.telemetry.microsft.com
 eu.vortex-win.data.microsft.com
 oca.telemetry.microsft.com
@@ -930,3 +934,4 @@ iplogger.org
 iplogger.com
 iplogger.ru
 yip.su
+parentelement.tk

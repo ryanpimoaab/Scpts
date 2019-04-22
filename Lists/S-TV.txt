@@ -156,6 +156,9 @@ hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
 scheduler.hbbtv.smartclip.net
 stats.hbbtv.smartclip.net
+hbbtv.superrtl.de
+p-hbbtv.superrtl.de
+hbbtv.3sat.de
 # other useless connections from smart-tv
 ad.71i.de
 api.nfl.com
@@ -164,7 +167,7 @@ cdn.smartclip.net
 cdns-content.dzcdn.net
 database01p.anixe.net
 de.ioam.de
-drscdn.500px.org
+#drscdn.500px.org # blocks 500px on desktop
 geo.opera.com
 googleads.g.doubleclick.net
 itv.ard.de

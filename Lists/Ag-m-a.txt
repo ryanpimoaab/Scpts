@@ -42,6 +42,10 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+zhfosenghtr.com
+ads.edadeal.ru
+adsrvr.io
+t7z.cupid.iqiyi.com
 data2.doodlemobile.com
 d239g0z67jcted.cloudfront.net
 newfeatureview.perfectionholic.com
@@ -955,6 +959,7 @@ turner.com
 images-*.ssl-images-amazon.com
 baidu.com
 mobile.donanimhaber.com
+static-cl.xhcdn.com
 momon-ga.com
 forum.lowyat.net
 mobiltelefon.ru
@@ -1128,6 +1133,10 @@ plbslog.umeng.com
 analysys.cn
 logs.supersonic.com
 adj.st
+gameanalisys.appcpi.net
+adsaccount.appcpi.net
+adtrack.appcpi.net
+remain.appcpi.net
 appmetr.com
 track.tenjin.io
 stats.abbi.io
