@@ -233,6 +233,7 @@ o2.sg0.plex.tv
 office.com
 officeclient.microsoft.com
 ok.ru
+openload.co
 openphish.com
 outlook.office365.com
 ow.ly
