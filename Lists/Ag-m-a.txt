@@ -21,6 +21,9 @@ ads-chunks.prod.ihrhls.com
 api.ads.watchabc.go.com
 ad.prismamediadigital.com
 ad2play.ftv-publicite.fr
+socdm.com
+criteo.com
+criteo.net
 mblapi.ssl2.duapps.com
 api.mobula.ds.duapps.com
 noxagile.duapp.com
@@ -1341,7 +1344,6 @@ collector.brandify.com
 config2.mparticle.com
 counter.kingsoft.com
 crasheye.cn
-e.crashlytics.com
 crittercism.com
 crwdcntrl.net
 data.mistat.*.xiaomi.com

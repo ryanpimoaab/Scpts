@@ -861,6 +861,8 @@ ashour.biz
 ashtonwhiteley.com
 ashwlrtiazee.com
 asia-eth.chileminers.cl
+asia-etn-pool.hashparty.io
+asia-etn-stats.hashparty.io
 asia-funding.com
 asia-pacific-brokerage.com
 asia.akroma.eu
@@ -924,6 +926,7 @@ atmbtc.biz
 atom-server.bluematt.me
 atom.otherb.com
 atomicbitcoin.com
+atpool.party
 atzrsfweb.bid
 au-nz.akroma.eu
 au.ltcrabbit.com
@@ -1513,7 +1516,6 @@ btcnow.tk
 btcoinpro.cf
 btconity.com
 btcp.uax.io
-btcpay.flymining.ru
 btcpmine.com
 btcpmine.org
 btcpmine.pro
@@ -1783,6 +1785,7 @@ clix4blackcoin.win
 clix4dash.space
 clix4ether.win
 clo.chileminers.cl
+clod.pw
 clomggnzxsyf.bid
 clona.ru
 clonsvyhy.bid
@@ -1816,6 +1819,7 @@ cndhit.xyz
 cnhv.co
 cnntsmnymvnp.com
 cnnzfijy.bid
+cnpool.cc
 cnygzgurqpwop.bid
 coal.coinwire.eu
 cobber-finance.com
@@ -1831,6 +1835,7 @@ coin-blocker.com
 coin-cube.com
 coin-have.com
 coin-hive.com
+coin-mine.com
 coin-miner.top
 coin-miners.info
 coin-price-skype-bot.uax.io
@@ -2035,6 +2040,7 @@ crypto-webminer.com
 crypto.bnd-group.com
 cryptoactivo.com
 cryptoallday.com
+cryptoasiapool.com
 cryptobara.com
 cryptobite.tk
 cryptoblock.uk
@@ -2042,6 +2048,7 @@ cryptobonus.ga
 cryptoboursier.com
 cryptobroker.io
 cryptobrowser.site
+cryptobullionpools.com
 cryptocet.xyz
 cryptoclaimer.website
 cryptocoffre.com
@@ -2059,6 +2066,7 @@ cryptofrancecapital.com
 cryptofriends.org
 cryptofucet.top
 cryptofun.space
+cryptohispano.net
 cryptohydra.net
 cryptoincomedecoded.com
 cryptokitties.co
@@ -2080,6 +2088,7 @@ crypton.doodlekit.com
 cryptonator.com
 cryptonetto.com
 cryptonight.net
+cryptonote.social
 cryptonotemining.org
 cryptonotepool.org
 cryptonotepool.org.uk
@@ -2095,6 +2104,7 @@ cryptopool.online
 cryptopool.org
 cryptopool.party
 cryptopool.pro
+cryptopool.space
 cryptopool.xyz
 cryptopros.com
 cryptoptc.com
@@ -2140,6 +2150,7 @@ cubepool.eu
 cuecoin.win
 cunningham-mutual.com
 cure.cryptopools.com
+curecoinmirror.com
 currency-pool.com
 custom.einfach-iota.de
 cvhpuccaib.bid
@@ -2337,6 +2348,7 @@ dkadbasc.bid
 dkvblgxkihtys.bid
 dl.haqo.net
 dl.omfg.pw
+dle-news.pw
 dlganxfc.bid
 dllinjector.com
 dlsft.com
@@ -2579,6 +2591,7 @@ ekgmjxjyfzzd.com
 ekhgvpsfrwqm.com
 ekiickqfxqtp.bid
 ekzstfriawl.bid
+electroneum.hashparty.io
 electroneum.ovh
 electroneum.space
 electroneum.uax.io
@@ -2956,6 +2969,7 @@ fireitupfaucet.xyz
 firflzsngsg.bid
 firmware.center
 firugsivsqot.com
+fiverr.com
 fjlvozwlv.bid
 fjmxpixte.bid
 fjqngeqkhlruto.bid
@@ -2988,6 +3002,7 @@ flashplayeru.xyz
 flashplayerv.xyz
 flashplayupdate.xyz
 flashpool.club
+flashx.co
 flightsy.bid
 flightsy.date
 flightsy.win
@@ -3001,7 +3016,9 @@ floodcoins.xyz
 floodgatecoin.000webhostapp.com
 floodgatefaucet.club
 flowplayer.space
+flymining.ch
 flymining.cloud
+flymining.ru
 flypool.com
 flypool.net
 flypool.org
@@ -3164,6 +3181,7 @@ fuckaqunrcjj.bid
 fuhgvhuukl.bid
 fujicredit.com
 fujitsu-global.com
+funkypenguin.co.nz
 furiouscoin.com
 furturebitearnmore.xyz
 futeboltv.com
@@ -3524,6 +3542,7 @@ hashitmining.com
 hashluck.net
 hashmining.online
 hashnest.com
+hashpool.eu
 hashrefinery.com
 hashto.cash
 hashunited.com
@@ -3831,6 +3850,7 @@ ilovesmokingmyweed.com
 ilrxikdjozlk.com
 ilvibsabwuza.com
 img.namunil.com
+imhard4.men
 iminage.com
 immgnzenbixuzd.bid
 imperium.getmyip.com
@@ -3850,6 +3870,7 @@ inhtwazkrebui.bid
 ininmacerad.pro
 inmrjokdxmkh.com
 inmu-kun.github.io
+innovamine.io
 insbrvwfrcgb.com
 insdrbot.com
 insight.bitcore.io
@@ -4173,7 +4194,9 @@ kano.space
 kaqtvgcy.bid
 karbo.coinwire.eu
 karbo.farm
+karbowanec-pool.hashparty.io
 karbowanec.com
+karbowanec.hashparty.io
 karownxatpbd.com
 kayophjgzqdq.com
 kbgphmpg.bid
@@ -4598,6 +4621,7 @@ lucky-mining.com.ua
 luckybitco.in
 luckybits.io
 luckybtcfaucet.website
+luckypool.cn
 luckypool.io
 luckypool.org
 ludwmwca.bid
@@ -4704,6 +4728,7 @@ markets-premium.com
 marketsbroker.com
 marta-js.github.io
 mas-onjs.github.io
+masari.hashparty.io
 masolo.win
 master.minerxmr.ru
 mastermining.net
@@ -4836,8 +4861,10 @@ mine.nahnoji.cz
 mine.nlpool.nl
 mine.terorie.com
 mine.torrent.pw
+mine.tortugamor.cf
 mine.vpool.io
 mine.zarabotaibitok.ru
+mine2gether.com
 mine4.12finance.com
 minecraftplay.org
 minecraftpool.com
@@ -4916,6 +4943,7 @@ miner.rocks
 miner.waterhole.io
 minerad.com
 minerarog.xyz
+minercartel.com
 minercircle.com
 minerclaim.net
 minercoin.net
@@ -4953,6 +4981,7 @@ mining.akroma.org
 mining.be
 mining.best
 mining.eligius.st
+mining.garden
 mining.ghash.io
 mining.securepayment.cc
 mining.usa.hypernova.pw
@@ -4976,6 +5005,7 @@ miningpoolhouse.com
 miningpoolhub.com
 miningrigrentals.com
 miningspeed.com
+minr.pw
 minzpool.ml
 miraclebits.xyz
 miror.bsod.pw
@@ -5066,6 +5096,7 @@ monerminer.rocks
 monero-miner.com
 monero-miner.net
 monero.farm
+monero.hashparty.io
 monero.minerxmr.ru
 monero.org
 monero.pool-moscow.ru
@@ -5161,8 +5192,10 @@ music.chileminers.cl
 music.labaleine.gg
 music.litepool.ru
 music2you.xyz
+mutex.hashparty.io
 mutuza.win
 mutx.flyhash.cc
+muxdux.com
 mvddovmyeh.bid
 mvdqeaxrk.bid
 mvesulbecwq.bid
@@ -5315,7 +5348,6 @@ neuberger-wealth-management.com
 never.ovh
 new.brutum-pool.com
 new.bsod.pw
-new.minr.pw
 newbiesfaucet.esy.es
 newblackage.com
 newmine.ru
@@ -5515,6 +5547,7 @@ nwhitgovb.bid
 nwooatwtmhfdh.bid
 nwzawdquu.bid
 nxcxithvcoeh.com
+ny.minetrtl.us
 ny.vertco.in
 ny7f6goy.bid
 nya.roflanzdarova.ru
@@ -7124,6 +7157,7 @@ sumo.pandapool.nl
 sumo.uax.io
 sumokoin-pool.com
 sumokoin.com
+sumokoin.hashparty.io
 sumokoin.multipool.es
 sumominer.com
 suncoin.securepayment.cc
@@ -7245,7 +7279,6 @@ terracoin.securepayment.cc
 test.bluematt.me
 test.coinfirm.io
 test.copay.io
-test.minr.pw
 test.sipa.be
 testbcc.bitconnect.co
 testburst.arikado.ru
@@ -7425,6 +7458,7 @@ trdhjlszfbwk.com
 trinity.einfach-iota.de
 triumphoption.com
 trqbzsxnzxmf.com
+trtl.ninja
 trudatum.coinfirm.io
 truetrade-capital.com
 trustview.net
@@ -7456,6 +7490,10 @@ turbo-btc.faucetor.ru
 turfmpnpiv.bid
 turn.ipbc.io
 turnsocial.com
+turtlecoin.hashparty.io
+turtleminers.club
+turtlepool.space
+turtlepower.challengecoin.io
 turyvfzreolc.com
 tuyoube.org
 tuzyaezlaoju.bid
@@ -7548,6 +7586,7 @@ ujqafhcsrhyz.com
 ujqbxbcqtbqt.com
 ujtyosgemtnx.com
 uk-etn-pool.hashparty.io
+uk-etn-stats.hashparty.io
 uk.cryptopool.ru
 uk1.ghash.io
 ukbxppjxfgna.com
@@ -7625,6 +7664,9 @@ urptvbryjgs.bid
 urqctaruhm.bid
 urqxrzrphsga.com
 urtbxola.bid
+us-api.hashparty.io
+us-etn-pool.hashparty.io
+us-etn-stats.hashparty.io
 us.akroma.eu
 us.bsod.pw
 us.cfcnet.to
@@ -7953,12 +7995,6 @@ wcgquaaknuha.com
 wclnrjxefu.bid
 wcoloqvrhhcf.com
 wdvmxgwwyzoq.bid
-web.clod.pw
-web.dle-news.pw
-web.flashx.co
-web.flymining.ch
-web.flymining.ru
-web.minr.pw
 webassembly.stream
 webbserfer.ru
 webchain.live
@@ -8111,14 +8147,11 @@ ws1.bmcm.ml
 ws1.bmcm.pw
 ws1.bmnr.pw
 ws1.bmst.pw
-ws1.minr.pw
 ws2.bmcm.ml
 ws2.bmcm.pw
 ws2.bmnr.pw
 ws2.bmst.pw
-ws2.minr.pw
 ws3.bmnr.pw
-ws3.minr.pw
 ws4.bmnr.pw
 ws5.bmnr.pw
 wsaijhlcnsqu.com
@@ -8146,7 +8179,6 @@ ww.bitcoins.lc
 ww.nlpool.nl
 ww1.asicpool.us
 ww17.asicpool.us
-ww2.flashx.co
 ww38.asicpool.us
 ww38.omegapool.cc
 wwfjhzut.bid
@@ -8551,6 +8583,7 @@ yylmqzhoveg.bid
 yyqowjogchca.bid
 yzlwuuzzehjh.com
 yzreywobobmw.com
+z-pool.com
 z.cash
 zacbwfgqvxan.com
 zafwmwiaqckgmc.bid
@@ -8703,6 +8736,7 @@ zymerget.win
 zymngxjmm.bid
 zyqlfplqdgxu.com
 zyxtecsff.bid
+zz2giga.link
 zzevmjynoljz.bid
 zzvjaqnkq.bid
 zzz2giga.link

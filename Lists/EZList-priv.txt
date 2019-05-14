@@ -364,6 +364,7 @@ brat-online.ro
 brcdn.com
 bridgevine.com
 brightedge.com
+brightfunnel.com
 brilig.com
 browser-statistik.de
 brsrvr.com
@@ -504,11 +505,13 @@ cmptch.com
 cnt1.net
 cnxweb.com
 cnzz.com
+cobaltgroup.com
 codata.ru
 cogmatch.net
 cognitivematch.com
 collarity.com
 collserve.com
+colossusssp.com
 commander1.com
 company-target.com
 compteur.cc
@@ -627,6 +630,7 @@ deepattention.com
 dejavu.mlapps.com
 demandbase.com
 demdex.net
+departapp.com
 deqwas.net
 devatics.com
 device9.com
@@ -724,6 +728,7 @@ embeddedanalytics.com
 emediatrack.com
 emjcd.com
 emltrk.com
+emxdgt.com
 enecto.com
 enectoanalytics.com
 engageclick.com
@@ -883,7 +888,9 @@ freshmarketer.com
 freshplum.com
 friendbuy.com
 fruitflan.com
+fsd2.digital
 fshka.com
+fstrk.net
 ftbpro.com
 fueldeck.com
 fugetech.com
@@ -929,6 +936,7 @@ globel.co.uk
 globetrackr.com
 gnpge.com
 go-mpulse.net
+goadservices.com
 goaltraffic.com
 godhat.com
 goingup.com
@@ -988,6 +996,7 @@ heatmap.services
 hellosherpa.com
 hentaicounter.com
 hexagon-analytics.com
+heyhelga.net
 heystaks.com
 hiconversion.com
 higherengine.com
@@ -1303,6 +1312,7 @@ market2lead.com
 marketizator.com
 marketo.com
 marketo.net
+marketperf.com
 marketshot.com
 marketshot.fr
 maropost.com
@@ -1587,6 +1597,7 @@ percentmobile.com
 perfdrive.com
 perfectaudience.com
 perfiliate.com
+perfops.net
 performanceanalyser.net
 performancerevenues.com
 performtracking.com
@@ -1803,6 +1814,7 @@ roitesting.com
 roivista.com
 rollingcounters.com
 roosterfirework.com
+rp-rep.net
 rpdtrk.com
 rqtrk.eu
 rrimpl.com
@@ -1907,6 +1919,7 @@ silvergamed.com
 silverpop.com
 silverpush.co
 simility.com
+simonsignal.com
 simpleanalytics.io
 simpleheatmaps.com
 simplehitcounter.com
@@ -1967,6 +1980,7 @@ socialtrack.co
 socialtrack.net
 sociaplus.com
 socketanalytics.com
+socketviking.net
 sodoit.com
 soflopxl.com
 softonic-analytics.net
@@ -2054,7 +2068,6 @@ stormiq.com
 storygize.net
 streamsend.com
 streem.com.au
-stripe.network
 stripedcollar.net
 stroeerdigitalmedia.de
 strossle.it
@@ -2376,6 +2389,7 @@ walmeric.com
 waplog.net
 waudit.cz
 waust.at
+wbdx.fr
 wbtrk.net
 web-boosting.net
 web-counter.net

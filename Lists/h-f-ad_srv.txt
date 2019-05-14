@@ -23121,7 +23121,6 @@ cdn.viglink.com
 cdn.vipboxoc.co
 cdn.viralmint.com
 cdn.vlexokrako.com
-cdn.voscast.com
 cdn.w55c.net
 cdn.widgets.webengage.com
 cdn.wigetmedia.com
@@ -43054,7 +43053,6 @@ www.companiedhhplrdpp.download
 www.compete.com
 www.competeinc.com
 www.comscore.com
-www.comunedeicittadini.it
 www.concealedffvqfx.download
 www.concinnousaepwnh.download
 www.condonenawphf.download
@@ -45732,4 +45730,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45737
+# hosts: 45735
