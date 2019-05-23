@@ -147,6 +147,7 @@ advconversion.com
 advertising.com
 adways.com
 adwstats.com
+adxadtracker.com
 adyapper.com
 afairweb.com
 affilae.com
@@ -519,6 +520,7 @@ comradepony.com
 conductrics.com
 confirmational.com
 confirmit.com
+contactatonce.com
 contactmonkey.com
 contemporaryceremonies.ca
 content-square.net
@@ -532,6 +534,7 @@ conversionfly.com
 conversionlogic.net
 conversionly.com
 conversionruler.com
+convertcart.com
 convertexperiments.com
 convertglobal.com
 convertmarketing.net
@@ -626,6 +629,7 @@ decdna.net
 decibelinsight.net
 decideinteractive.com
 declaredthoughtfulness.co
+deep.bi
 deepattention.com
 dejavu.mlapps.com
 demandbase.com
@@ -954,6 +958,7 @@ google-analytics.com
 google-analytics.com
 google-analytics.com
 google-analytics.com
+google-analytics.com
 googleadservices.com
 googlerank.info
 googletagmanager.com
@@ -964,6 +969,7 @@ gostats.com
 gostats.org
 gostats.ro
 govmetric.com
+granify.com
 grapheffect.com
 gravity4.com
 grepdata.com
@@ -1092,6 +1098,7 @@ infinity-tracking.net
 inflectionpointmedia.com
 influid.co
 infopro-insight.com
+infoprodata.com
 informz.net
 inimbus.com.au
 innomdc.com
@@ -1275,6 +1282,7 @@ logrocket.com
 logrocket.io
 logsss.com
 lookery.com
+loopa.net.au
 loopfuse.net
 lopley.com
 losstrack.com
@@ -1686,6 +1694,7 @@ ptp123.com
 ptrk-wn.com
 publicidees.com
 publishflow.com
+pubstack.io
 pulleymarketing.com
 pulselog.com
 pulsemaps.com
@@ -1797,6 +1806,7 @@ riastats.com
 richard-group.com
 richmetrics.com
 ritecounter.com
+rivrai.com
 rkdms.com
 rktu.com
 rlcdn.com
@@ -2200,6 +2210,7 @@ trackedweb.net
 tracking100.com
 tracking202.com
 trackinglabs.com
+trackingpro.pro
 trackkas.com
 trackmytarget.com
 trackmyusers.com
@@ -2255,6 +2266,7 @@ truconversion.com
 truehits.in.th
 truehits1.gits.net.th
 truoptik.com
+trustedform.com
 tscapeplay.com
 tscounter.com
 tsk4.com
@@ -2621,6 +2633,7 @@ bewaslac.com
 bewhoyouare.gq
 bhzejltg.info
 biberukalap.com
+binarybusiness.de
 bitclub.network
 bitclubnetwork.com
 bitcoin-pay.eu
@@ -2899,6 +2912,7 @@ lightminer.co
 lindon-pool.win
 listat.biz
 livestatsnet.services
+lmiutil.com
 lmodr.biz
 losital.ru
 m.anyfiles.ovh
