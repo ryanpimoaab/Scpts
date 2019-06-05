@@ -45,6 +45,12 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+activity.browser.intl.miui.com
+api.brs.intl.miui.com
+api.newsfeed.intl.miui.com
+huangye.miui.com
+file.market.xiaomi.com
+adv.sec.intl.miui.com
 zhfosenghtr.com
 ads.edadeal.ru
 adsrvr.io
@@ -331,7 +337,6 @@ adition.com
 adkmob.com
 adleads.com
 adlibr.com
-admail.am
 adman.gr
 admarketing.yahoo.net
 admarvel.s3.amazonaws.com

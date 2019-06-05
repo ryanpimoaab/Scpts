@@ -5,7 +5,7 @@
 # title: anudeep's blacklist
 # expires: 1 days
 # hosts contributed by anudeep <anudeep@protonmail.com>
-# domain count: 32,489
+# domain count: 32,506
 # ===================================================================
 0001-cab8-4c8c-43de.reporo.net
 002-slq-470.mktoresp.com
@@ -876,7 +876,6 @@
 1f64-9327-ddd3-a591.reporo.net
 1f75-e88d-2066-72b2.reporo.net
 1faax-us-east.amazon-adsystem.com
-1fgqfml.oloadcdn.net
 1gbits.com
 1lmypt5lkypfvm2y98mx5emgrh5x61511354991.nuid.imrworldwide.com
 1mnrrpufkundgozvwuo9bipgzzxfx1504894620.nuid.imrworldwide.com
@@ -4919,20 +4918,14 @@ ampwn6ng4yqu9xb.co1.qualtrics.com
 amrytt.adk2x.com
 ams01-bfp01.mediaplex.com
 ams01-bfp02.mediaplex.com
-ams01-login.dotomi.com
-ams01-login-ds.dotomi.com
 ams01-usadmm.dotomi.com
 ams01-usadmm-ds.dotomi.com
 ams02-bfp01.mediaplex.com
 ams02-bfp02.mediaplex.com
-ams02-login.dotomi.com
-ams02-login-ds.dotomi.com
 ams02-usadmm.dotomi.com
 ams02-usadmm-ds.dotomi.com
 ams03-bfp01.mediaplex.com
 ams03-bfp02.mediaplex.com
-ams03-login.dotomi.com
-ams03-login-ds.dotomi.com
 ams03-usadmm.dotomi.com
 ams03-usadmm-ds.dotomi.com
 ams1ns1.pubmatic.com
@@ -4946,7 +4939,6 @@ ams.eu.crittercism.com
 ams.fyber.com
 ams-goog.applovin.com
 amsgslb1.fwmrm.net
-ams-login.dotomi.com
 amsprod-rtbwin.applovin.com
 ams-rtb.applovin.com
 amsstage-rtb.applovin.com
@@ -10947,7 +10939,6 @@ fe16.brandreachsys.com
 fe1.brandreachsys.com
 fe1x.brandreachsys.com
 fe2.brandreachsys.com
-fe2.update.microsoft.com.akadns.net
 fe2x.brandreachsys.com
 fe3.brandreachsys.com
 fe3x.brandreachsys.com
@@ -11554,6 +11545,7 @@ gdsns2.cnzz.com
 g.dyn.crwdcntrl.net
 ge-2007.112.2o7.net
 ge6e4.voluumtrk.com
+getclicky.com
 ge-ar2006.112.2o7.net
 gearburn.za.intellitxt.com
 gebadu.com
@@ -14854,7 +14846,6 @@ localfusion.secure.ownlocal.com
 local.t.domdex.com
 location.appcloudbox.net
 location.data.cnzz.com
-location.services.mozilla.com
 location.tabletwise.com
 location.wynk.in
 locker.data.ksmobile.net
@@ -14882,20 +14873,6 @@ log.hiido.com
 log.hm.baidu.com
 logicimmoloc.widget.criteo.com
 logicimmoneuf.widget.criteo.com
-login.adtech.de
-login.adtechus.com
-login.beta.mobileapptracking.com
-login-canary.flurry.com
-login.dotomi.com
-login-ds.dotomi.com
-login.flurry.com
-login.marketo.com
-login.mobileapptracking.com
-login.qualtrics.com
-login.rubiconproject.com
-login.stage.mobileapptracking.com
-login.teads.tv
-login.vidible.tv
 log-live.direct.ly
 log.mobpowertech.com
 log.musical.ly
@@ -20672,13 +20649,6 @@ siemens.tt.omtrdc.net
 siena.qualtrics.com
 sifma.co1.qualtrics.com
 sig.appsflyer.com
-signin.kissmetrics.com
-signin.unbounce.com
-sign-up.optimonk.com
-signupservice.appsflyer.com
-signup.snoobi.com
-signup.taboola.com
-signup.tynt.com
 silberpreise.de.intellitxt.com
 silva.alphonso.tv
 silverline.t.domdex.com
@@ -20793,7 +20763,6 @@ sll50czh1kh1lohwsidn5mnvhjwa91516627824.nuid.imrworldwide.com
 sloanreview-d.openx.net
 s.logsss.com
 slot.union.ucweb.com
-sls.update.microsoft.com.akadns.net
 sltrib-d.openx.net
 slu.az1.qualtrics.com
 slx4o1meprwg0pg5edxy1qbsupltd1507558400.nuid.imrworldwide.com
@@ -21846,7 +21815,8 @@ s-s.www.google-analytics.com.prx.proxywebsite.co.uk
 s-s.www.spyoff.com.prx.proxywebsite.co.uk
 st3.qualtrics.com
 st.adriver.ru
-st.adxxx.o0.0.0.0 www.deployads.com
+st.adxxx.o
+www.deployads.com
 staffordshire.eu.qualtrics.com
 staffordshire.qualtrics.com
 staffpicks.outbrain.com
@@ -22034,7 +22004,6 @@ stats.cnzz.com
 statserv.net
 stats.exoclick.com
 statsfe1.ws.microsoft.com
-statsfe2.update.microsoft.com.akadns.net
 statsfe2.ws.microsoft.com
 stats.g.doubleclick.net
 stats.jpush.cn
@@ -25608,9 +25577,6 @@ www.lijit.com
 www.live.unbounce.com
 www.load.exelator.com
 www.localytics.com
-www.login.dotomi.com
-www.login.flurry.com
-www.login.rubiconproject.com
 www.lp.outbrain.com
 www.lunkydkokpg.bid
 www.magnetic.t.domdex.com
@@ -25781,8 +25747,6 @@ www.sheshine.com
 www.shipit.unbounce.com
 www.shoelace.com
 www.shutter.unbounce.com
-www.signin.unbounce.com
-www.signup.taboola.com
 www.sionicmedia.com
 www.sip.touchcommerce.com
 www.siteimproveanalytics.com
@@ -31631,7 +31595,6 @@ ssl.vizury.com
 usllpic0-bbd3fb6c4f9537740a098408f1e14a19b015517b-sac.d.aa.online-metrix.net
 pixel.bild.de
 rem-track.bild.de
-bilder.bild.de
 json.bild.de
 ags.tiqcdn.com
 axel-springer-d.openx.net
@@ -32484,3 +32447,25 @@ config.safedk.com
 mobile-sdk-data-trends.safedk.com
 mp.safedk.com
 pr.safedk.com
+www.carbonads.com
+carbonads.com
+ads.carbonads.com
+cdn.carbonads.com
+engine.carbonads.com
+fallbacks.carbonads.com
+manage.carbonads.com
+static.carbonads.com
+www.amplitude.com
+amplitude.com
+amplify.amplitude.com
+analytics.amplitude.com
+cdn.amplitude.com
+cerulean.amplitude.com
+crash.amplitude.com
+events.amplitude.com
+get.amplitude.com
+go.amplitude.com
+info.amplitude.com
+promo.amplitude.com
+ref.amplitude.com
+spinnaker.amplitude.com

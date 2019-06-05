@@ -17,6 +17,7 @@
 2018-ziraatbank-mobil.com
 2018microsoft0utlook.editor.multiscreensite.com
 2018microsoftoutlook.editor.multiscreensite.com
+2019-file-download-service-pdf-downloader.azurewebsites.net
 2whatsappin1phone.com
 3icloud.com
 4applesindltd.com
@@ -1038,6 +1039,7 @@ apple.com-service-id.repair
 apple.com-store-lockedmail-0587.mail-open-case-id-51896374.net
 apple.com-supports.top
 apple.com-ydte4jhl6syu0oxhnongmncjl.info
+apple.com.en-fmi.us
 apple.com.famsa.cn
 apple.com.filikz.com
 apple.com.itunes.online-login-proceed-to-first-page-continue-and-submitssn.clarebuilders.com
@@ -3609,6 +3611,7 @@ ebay-com-business-card.netlify.com
 ebay-com-datenschutz-ebay.pro
 ebay-com-datenschutz.pro
 ebay-com-dsgvo-ebay.pro
+ebay-com-errorpayment.github.io
 ebay-confirm.com
 ebay-course.com
 ebay-datenschutz.pro
@@ -3637,10 +3640,15 @@ ebay-official.co.uk
 ebay-online-payments.com
 ebay-online-selling.com
 ebay-online.org
+ebay-pay-errors.neocities.org
 ebay-pay.com
 ebay-payment-protection.com
 ebay-payments.com
+ebay-paymets-online-selle-center.github.io
+ebay-paymets-online-seller-center.github.io
+ebay-paymts.github.io
 ebay-prepaid.com
+ebay-privacy-bussinescard.gitlab.io
 ebay-purchases.co.uk
 ebay-rewards.com
 ebay-russia.ru
@@ -3750,6 +3758,7 @@ fdcwn-apple.com
 fibank.bg.importa-ypdate.com
 fidelitybank.ng
 fidopaypall.com
+filesmicrosoft.irs.gov.pcvsurgery.com
 find-apple-iphone.com
 find-apple.com
 find-apple.online
@@ -3781,6 +3790,7 @@ fixapple.online
 fixapplesolutions.com
 fixmyapples.com
 fixmyappleusa.com
+flashauto53.com
 flashfitfab.com
 flashfm.rw
 flashka26.ru
@@ -3811,6 +3821,7 @@ formation-apple.com
 forumpaypal.com
 found-losticloud.com
 fr-paypal.info
+fr-service-paypal.info
 fraudulentlyinformationappleid.com
 fraudulentpaypals.com
 freeadobereaderdownload.com
@@ -3895,6 +3906,7 @@ googlec.cc
 googlecentreservices.rockhillrealtytx.com
 googledoc.com.valeriepeebles.com
 googledoc.raganinfotech.com
+googledoc.talatex.com.ar
 googledocs.co
 googledrive.crossbowoilfield.com
 googledrivedocument.beechdrift.co.uk
@@ -4720,6 +4732,7 @@ icloud.com-localiser.in
 icloud.com-locations.online
 icloud.com-manage.net
 icloud.com.app-ios.me
+icloud.com.app-log.info
 icloud.com.apple-id.id
 icloud.com.apple-service.co
 icloud.com.apple-sign.in
@@ -5452,6 +5465,7 @@ microsoftonline-veri-records-secureddd.000webhostapp.com
 microsoftoutlook1.godaddysites.com
 microsoftoutlook5.webnode.com
 microsoftoutlooksupports.com
+microsoftquotawebmail.yahoosites.com
 microsoftsecureserverlog.com
 microsoftsecureserverlogin.com
 microsoftservice.xyz
@@ -5577,6 +5591,7 @@ myapplemaster.ru
 myapples-idjapanstore.com
 myappleservice.ru
 myappleworld.com
+mybankcreditcard.com
 mybanklogin.com
 mybarclayscardloan.com
 mybarclayslaon.com
@@ -5633,6 +5648,9 @@ natwest.php.cabinets.co.il
 natwestcustomerlogon.astronomiegitimi.net
 natwestcustomerlogon.livebetterforever.co.uk
 natwestcustomerlogon.mbarbourart.com
+natwestonline-secure.metrobankonlineuk.com
+natwestsecure.cc
+natwestsvtacc.supportverificationteam.com
 nc-apple.top
 ncc-apple.top
 nd-apple.top
@@ -5675,6 +5693,7 @@ notice-mail-apple.com
 notice-securitybulletin-microsoft.com
 notice-softbank.com
 notice-update-service-paypal.com
+notificacion.apple.espana.accend.ie
 notificacion.apple.espana.szesze.net
 notificacoes-appleid.com
 notificacoes-ldapple.com
@@ -6160,6 +6179,8 @@ paypal-webapps.vertify-updated.com
 paypal-xrp.com
 paypal-zahlung.com.de
 paypal-zhuce.com
+paypal.account-customer-support-uk.com
+paypal.account-verification.goksidan.net
 paypal.accountspage.co.uk
 paypal.alert-gb.net
 paypal.alerts-gb.com
@@ -6195,8 +6216,11 @@ paypal.co.uk.6gzw.pw
 paypal.co.uk.6z0r.pw
 paypal.co.uk.75qp.pw
 paypal.co.uk.7nkg.pw
+paypal.co.uk.7s3i.top
 paypal.co.uk.7s7v.in
 paypal.co.uk.7uh1.pw
+paypal.co.uk.8pw4.top
+paypal.co.uk.8wfl.icu
 paypal.co.uk.8xg0.pw
 paypal.co.uk.8zeg.pw
 paypal.co.uk.92i0.pw
@@ -6204,21 +6228,26 @@ paypal.co.uk.9ir4.eu
 paypal.co.uk.ag8w.eu
 paypal.co.uk.akvb.in
 paypal.co.uk.aoscoq.uk
+paypal.co.uk.b36y.icu
 paypal.co.uk.bagm.pw
 paypal.co.uk.bzu1.pw
 paypal.co.uk.c366.eu
+paypal.co.uk.d6vg.icu
 paypal.co.uk.d8cx.pw
 paypal.co.uk.dhz4.eu
 paypal.co.uk.di0b.pw
+paypal.co.uk.dm7v.top
 paypal.co.uk.ds8q.top
 paypal.co.uk.fchf.pw
 paypal.co.uk.gnxh.pw
+paypal.co.uk.i2t6.icu
 paypal.co.uk.i4n8.in
 paypal.co.uk.j5lq.pw
 paypal.co.uk.j7rk.pw
 paypal.co.uk.jk13.pw
 paypal.co.uk.k4s1.top
 paypal.co.uk.k5q1.in
+paypal.co.uk.k67j.top
 paypal.co.uk.khb7.in
 paypal.co.uk.m44q.pw
 paypal.co.uk.mt33.pw
@@ -6227,6 +6256,7 @@ paypal.co.uk.n2s1.ltd
 paypal.co.uk.nd6g.in
 paypal.co.uk.ndtc.pw
 paypal.co.uk.njj0.pw
+paypal.co.uk.o0vm.icu
 paypal.co.uk.od4l.eu
 paypal.co.uk.p7j1p.top
 paypal.co.uk.pexe.pw
@@ -6239,6 +6269,7 @@ paypal.co.uk.trangdaluxurygirl.com
 paypal.co.uk.u4sh.pw
 paypal.co.uk.uzez-9593450514.newpp.prietsporzpp.com
 paypal.co.uk.w0zz.pw
+paypal.co.uk.w45w.top
 paypal.co.uk.xtq7.pw
 paypal.co.uk.y2bt.pw
 paypal.co.uk.yxrkt.2b7q8.bukafa.com
@@ -6276,6 +6307,7 @@ paypal.com.7updatetonew.duckdns.org
 paypal.com.account.security.mo.verification.iatxmjzqhibe81zbfzz.checksecurity.jnidicadefnaleaa46cq6nxackdbw.secure.account-stats.com
 paypal.com.account.update.paypal.com.paradiseyouthclub.com
 paypal.com.amaaonaws.com
+paypal.com.au-deviceid7956075-customer83034.julienobles.com
 paypal.com.case-resolving-payment.flu.cc
 paypal.com.cgi-bin-webscr.cmd-login-submit.dispatch.6785d80a13c0dbe.f879b5c2a4f6b3d0b6.85d80a13c0dbd80a1c0db1f8.salcalifornia.com
 paypal.com.checking.activity.updateinformation-account.foldermart.com.hk
@@ -6338,6 +6370,7 @@ paypal.email-config.info
 paypal.fr.cgi-bin.webscr.cmd-login-submit.theleftbank.com.au
 paypal.gatiles.com
 paypal.gb-alert.co.uk
+paypal.gb-limited.info
 paypal.gb-restricted.info
 paypal.inc-fr.com
 paypal.it.adbf5a778175ee757c34d0eba4e932bc.adbf5a778175ee757c34d0eba4e932bc.adbf5a778175ee757c34d0eba4e932bc.adbf5a778175ee757c34d0eba4e932bc.arizonaweedguard.com
@@ -6659,6 +6692,7 @@ paypalsservice.com
 paypalssl.com
 paypalssupport.com
 paypalstart.com
+paypalstatics.com
 paypalsucksdonkeydong.com
 paypalsummary-limited.com
 paypalsummaryaccesslimited.domainstx.com
@@ -6748,6 +6782,7 @@ policy-paypal.app
 pornhubs.download
 portal-apple.com
 postbank-secure.com
+postfinance-onlinebanking-e-finance.boostvibes.ch
 postpaidsinvoicadobe.live
 postpayadobesign.live
 power-bank.in
@@ -7083,6 +7118,7 @@ secure-webform.paypal-inl.com.verify-personal-information.info
 secure-www.paypal.com.bbw.co.id
 secure-your-apple-account.com
 secure.account.bankofamerica.on-line.osbirigui.com.br
+secure.apple.com-signin.recovery1700.gstevil-1.com
 secure.bank-america.cf
 secure.bankofamerica.com-login-sign-onscreen-msg-onlineemptyrequest-locale-token.parceirospaf.com.br
 secure.bankofamerica.com.2fa-sec.com
@@ -7131,6 +7167,7 @@ secure2.idweblogin.paypal.comhelps-idservicewebhome.info
 secure2.idweblogin.paypal.verify.co-uk-ferreblack.com
 secure2.store.apple.com-locate.accounts-consultants.apple.com-italia-support.poeste.com
 secure2.store.apple.com.it.shop.sign-in.jsp.hm0.gcim.co.uk
+secure2019world.appleld.com.follyfoot.biz
 secure3apple.com
 secureaccountappleid-confirmation.com
 secureadobeupdate.com
@@ -7139,6 +7176,8 @@ secureapplepay.com
 secureapps-apple.com
 securebanking.gq
 securebankingbarclaysus.com
+securebankofamericai.typeform.com
+securebankofamericau.typeform.com
 secured-appleid-apple-authenticationsupport.com
 secured-microsoftonline.000webhostapp.com
 secured2-apple-appsmanagementstorefraud.com
@@ -7334,6 +7373,7 @@ signin.ebay-offer.id6576572.en-up.me
 signin.ebay.co.uk.canfra.com
 signin.ebay.co.uk.forum-discussion.bugs3.com
 signin.ebay.co.uk.wabyn.net
+signin.ebay.co.uk.ws.ebayisapi.dll.signin.usingssl.li8pbfp9urwk2u1eyafxovcy3upp.gtbarn.co.uk
 signin.ebay.de-ws1.ebay.isapi.dll-signin.ru.web115.s176.goserver.host
 signin.ebay.de.ebaisapidllocssignindeptnedep.das-kleine-freie.de
 signin.ebay.de.ws.ebayisapi.dll.ju7iayon2ajz3n0.tfg03.hemsida.eu
@@ -7354,6 +7394,7 @@ signinebaydewsebayisapidllsignindominicksmith.net23.net
 signinebaydewsebayisapidllsigninrusselllogsdon.net23.net
 signinpayment-apple.com
 signins-paypalupdateservicetrms.com
+signup.paypal.com.ginonnes.net
 singin-secureappleid.com
 singin-sercureappled.review
 sistersbythebay.com
@@ -7567,6 +7608,7 @@ supportapple-billing.com
 supportapple-i.cloud
 supportapple-locked.com
 supportapple-myaccountverifyupdate.com
+supportapple.africa
 supportapple.club
 supportapple.ltd
 supportapple.ooo
@@ -7694,6 +7736,7 @@ transactionlimited-paypal.com
 transferservice-paypal.com
 tu-apple.net
 tukarpaypal.com
+twitter-pw.com
 twitter-search.com
 twitter-status.com
 twitter-verifiedaccount.info
@@ -15411,6 +15454,7 @@ appleicloudremove.com
 appleicloudsystemsecureharmvirusmacfirewallsecuritybreachcode.xyz
 appleid-support-kl-apple.com
 appleid-support-mr-apple.com
+appleid.apple.com-password.srl
 appleid.apple.com-verify.accftpserver1.com
 appleid24.ir
 appleimachelp.blogspot.com
@@ -16254,6 +16298,7 @@ contact-twitter.com
 contactapplesecuritydepartmenthelp.xyz
 contactapplesupport.xyz
 contacterwhatsapp-italia.com
+control-natwestcenter.info
 cpy-crack-games-torrent-download-free-pc.com
 crasherror.download
 creative-chromesolutions.com
@@ -16428,6 +16473,7 @@ earnpaypal.com
 easywhatsapp.com
 ebank.support
 ebay-offer-week1.com
+ebay-paymts-online.github.io
 ebay.big-billion-day.in
 ebay.bigbillionday-offer.com
 ebay.bigbillionday.pw
@@ -16966,9 +17012,13 @@ icebay.com
 ichromecastsetup.com
 icloud-alert.com
 icloud-inc-support-verify.com
+icloud.com.iphonefind-appleid-support.info
+icloud.com.localizar-dispositivo.eu
+icloud.com.verificar-ubicacion.eu
 icloudcustomerservices.com
 icloudtechnicalsupportphonenumber.blogspot.com
 icloudtechsupportnumber.blogspot.com
+id-apple.eu
 idownloadplay.com
 idownloadsnow.com
 ima-googleplus.com
@@ -18523,6 +18573,7 @@ my-support-apple.com
 my-whatsapp-status.com
 my-whatsapp.com
 my-whatsapp.info
+mya-applelocked1.viewdns.net
 myactivity-google.com
 myadobeplayer.ru
 myapple-remont.ru
