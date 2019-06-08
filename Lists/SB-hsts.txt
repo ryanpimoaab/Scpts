@@ -26974,21 +26974,22 @@ www.winaproduct.com
 # blocklist for use with hosts files to block ads
 # for more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   wed, 29 may 2019 14:39:19 gmt
-# entries:        2946
+# last updated:   wed, 05 jun 2019 09:11:26 gmt
+# entries:        2951
 # format:         hosts (hosts -- in hosts file format)
 # credits:        peter lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # patreon:        https://patreon.com/blocklist
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    thu, 03 jun 1999 00:00:00
+# start date:    thu, 10 jun 1999 00:00:00
 101com.com
 101order.com
 123found.com
 123freeavatars.com
 180hits.de
 180searchassistant.com
+1rx.io
 207.net
 247media.com
 24log.com
@@ -27679,7 +27680,6 @@ cjlog.com
 claria.com
 class-act-clicks.com
 clearcomb.com
-click.absoluteagency.com
 click.fool.com
 click2freemoney.com
 clickability.com
@@ -27696,6 +27696,7 @@ clickhype.com
 clicklink.jp
 clickonometrics.pl
 clicks.mods.de
+clicktag.de
 clicktrack.ziyu.net
 clicktrade.com
 clickxchange.com
@@ -28182,6 +28183,7 @@ liverail.com
 lizardslaugh.com
 lkqd.com
 log.logrocket.io
+log.pinterest.com
 logger.snackly.co
 logs.roku.com
 logua.com
@@ -28196,6 +28198,7 @@ lwfjd.today
 lytics.io
 lzjl.com
 m.trb.com
+m2.ai
 m32.media
 m4n.nl
 m6r.eu
@@ -28274,6 +28277,7 @@ mixtraffic.com
 mlm.de
 mmismm.com
 mmtro.com
+moat.com
 moatads.com
 moatpixel.com
 mobclix.com
@@ -28488,12 +28492,14 @@ promote.pair.com
 promotion-campaigns.com
 pronetadvertising.com
 propellerads.com
+proper.io
 props.id
 proton-tm.com
 protraffic.com
 provexia.com
 prsitecheck.com
 ps7894.com
+pstmrk.it
 pub.chez.com
 pub.club-internet.fr
 pub.hardware.fr
@@ -28634,7 +28640,6 @@ sedotracker.com
 selectionsugar.com
 selectivesummer.com
 sendmepixel.com
-sendpulse.com
 sensismediasmart.com.au
 separatesilver.com
 serv0.com
@@ -28719,6 +28724,7 @@ spywords.com
 squirrelhands.com
 srvmath.com
 srwww1.com
+stack-sonar.com
 stackadapt.com
 stakingscrew.com
 stakingslope.com
@@ -28952,6 +28958,7 @@ web.informer.com
 web2.deja.com
 webads.co.nz
 webcash.nl
+webcontentassessor.com
 webcounter.cz
 webgains.com
 webmaster-partnerprogramme24.de
@@ -29013,7 +29020,6 @@ xg4ken.com
 xovq5nemr.com
 xplusone.com
 xponsor.com
-xq1.net
 xtendmedia.com
 xtremetop100.com
 xxxmyself.com
@@ -29067,7 +29073,7 @@ zy16eoat1w.com
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 ##### version information #
 ###################################################
-### version: v1.2019.05.7897
+### version: v1.2019.06.7903
 ##### version information ##
 # use this file to prevent your computer or server from connecting to selected
 # many types of spyware, adware, malware, click-jacking and porn sites and reduces 
@@ -29958,7 +29964,6 @@ ideas.com.uy
 ideationary.com
 ideawheel.com
 idecoideas.com
-idegenvezeto.eu
 idkom.com
 ido3.com
 idolax.com
@@ -30221,6 +30226,7 @@ mhtr.be
 myadultdiary.com
 myadultempire.com
 myaf.pl
+my-aladin.com
 myaloevera.com
 myamateurvideos.com
 myanmardream.com
@@ -30341,7 +30347,6 @@ smokesonstate.com
 smtp.potinsnews.com
 snkschool.com
 snooze.de
-snow.nvr163.com
 soellas.com
 sofortsexx.com
 softclit.com
@@ -30416,7 +30421,6 @@ yuniomy88.000webhostapp.com
 yupdduk.co.kr
 zambrana.com
 za-music.mymobiplanet.com
-zaobao.com.sg
 zapme.net
 zapreal.com
 zarabiaj-dzis.pl
@@ -33301,8 +33305,8 @@ zipzoomfly.122.2o7.net
 # start kadhosts
 # title: kadhosts
 # description: filtr chroniacy przed przekretami takimi jak subskrypcje sms
-# last modified: tue, 28 may 2019, 23:44 utc+02
-# version: 2019.5.28.1
+# last modified: wed, 05 jun 2019, 20:27 utc+02
+# version: 2019.6.5.1
 # expires: 2 days
 # website: https://kadantiscam.netlify.com/
 # repository: https://github.com/polishfiltersteam/kadhosts
@@ -33326,6 +33330,7 @@ acneuro.pl
 acninc.com
 act-natural-sklep.pl
 adblock-listefr.com
+adidasterrex.pl
 adworkmedia.com
 africanmango.pl
 africanmango900.pl
@@ -33333,6 +33338,7 @@ agdeer.com
 agdkom.net
 agdrtv.net
 agdrtv24.net
+airhuarache.pl
 airmax97.pl
 akademianaukowa.pl
 akademiazarabianiawinternecie.pl
@@ -33364,6 +33370,7 @@ ariix.com
 arkonfinance.pl
 aromagroup.pl
 artstructures.pl
+assat.pl
 atcofiles.com
 atlanticgam.online
 audio-book.net.pl
@@ -33377,7 +33384,6 @@ bartekzukiewicz.pl
 bazasprawdzianow.pl
 bc43.pl
 becconet.com
-bellsandroses.pl
 berryen.com
 besavia.pl
 best2018games.com
@@ -33399,7 +33405,6 @@ blogchanie.com
 blogonews.com
 blog-in.biz
 blos24.pl
-bluertvagd.pl
 bnewsb.com
 bodysecretrevelation.com
 bonydodrogerii.eu
@@ -33412,7 +33417,6 @@ botifiles.com
 brumflix.com
 bustcream-pro.com
 butypremium.pl
-butyua.pl
 calivita.com
 casada.pl
 cavotel.com
@@ -33467,11 +33471,11 @@ dasecosystem.pl
 dassystem.eu
 daswallet.com
 davor.io
+decynsire.com
 dirtyhood.pl
 dlagier.com
 dlf.pl
 dlmyfile.com
-dnizbiotrue.pl
 dofinansowania-jezykowe.pl
 dofinansowanie-dolnoslaskie.pl
 dofinansowanie-kujawsko-pomorskie.pl
@@ -33491,10 +33495,12 @@ downloadtuesday.com
 downloaduj.pl
 dragonflym.com
 dragonist.pl
+dresysklep.pl
 drnona.com
 drnona.pl
 dsa.pl
 dwnlad.ws
+dworekmirachowo.pl
 dzisiejszefakty.xyz
 earthpowerint.com
 easynet.pierre-lang.com
@@ -33527,7 +33533,6 @@ euresco.pl
 euronicspl.net
 europronet.net
 eurortv.net
-eurortvagd24.pl
 excelz.com
 exitopolska.com
 expresowezakupy.net
@@ -33636,7 +33641,6 @@ heredatetime.com
 hibids10.com
 hksfa.org
 holdenavenue.pl
-hollistersklep.pl
 hollisterwarszawa.pl
 homeagd.in.net
 homeekspert.net
@@ -33651,12 +33655,12 @@ ibrainer.net
 ifilefinder.com
 imperiumobuwia.pl
 inagrody.pl
+infogrypa.pl
 infolinia-kontakt-telefon.pl
 instantgiftcodes.com
 instantreward.site
 instytutmed.pl
 instytut-pomocy.pl
-intconnectltd.com
 intelligenttechnologies.pl
 interbuty.pl
 inwestujwrozwoj.pl
@@ -33685,8 +33689,8 @@ kinujemy.pl
 kirchbaum.pl
 kixshop.pl
 kl21.pl
-klimstat.pl
 klub13.pl
+klubpracyrodzica.pl
 kodyrabatowe.16mb.com
 kodyumyslu.pl
 kofiup.pl
@@ -33697,6 +33701,8 @@ korphan.pl
 krdn.pl
 kredyt-na-pesel.pl
 kryptochemik.pl
+krzyjahu.pl
+ksiazkiokomunikacji.pl
 kupgo.net
 kupujemy.to
 kupujemy24.net
@@ -33707,7 +33713,6 @@ laptemex.net
 las-rp.pl
 lauretta-larix.eu
 ldrcp.pl
-leadmy.pl
 leadn.pl
 leadzu.com
 legitstore.pl
@@ -33754,12 +33759,12 @@ mobverify.com
 modimoda.pl
 modnakolekcja.com
 mojadietanamase.pl
-mojeklocki.com
 mojepc.net
 mojezakupy.net
 moje-iq.pl
 mon.trackmysales.website
 monitcomplex.net
+morceko.pl
 morele.info
 motifiles.com
 moviestarplanetcheatstool.com
@@ -33772,7 +33777,6 @@ muverbo.pl
 myacn.eu
 mylocker.pl
 myway.com
-m-electro.pl
 nameguess.com
 nametests.com
 namierzanie-telefonu.pl
@@ -33794,6 +33798,7 @@ newmediaz.com
 newpassporn.com
 newtechagd.net
 niechoruje.pl
+nikeairpresto.pl
 normour.com
 norton.pl
 novumedical.pl
@@ -33838,7 +33843,6 @@ pl.lider.pl
 pl.melaleuca.com
 pl.oriflame.com
 pl.siberianhealth.com
-plajerek.pl
 playfilm.pl
 playgames4u.com
 playmax.co
@@ -33894,7 +33898,6 @@ przyspieszkomputer.pl
 puna.pl
 punkt-pozyczka.pl
 px1alsry.com
-pynio.pl
 pyracity.info
 pz21.pl
 questraworld.es
@@ -33910,6 +33913,7 @@ rectangledownloads.com
 redirectzone.com
 redrct.online
 reducelant.com
+reeboknpcii.pl
 refundacjeregionalne.pl
 reimageplus.com
 rep.privatesearch.club
@@ -33941,19 +33945,19 @@ shoegallery.com.pl
 shopsneakers.pl
 shop.dr-rath.com
 showup-tv.com.pl
-silawejherowo.pl
 silvets.pl
 siniaki.pl
 skidrowreloaded.pl
 sklep466452.shoparena.pl
-sklepfer.pl
+skleprtvagd24.pl
 skleptiande.pl
 sklep-colway.com
 sklep-colway.pl
 skutecznesrodki-tabletkinapotencje.ovh
-slavcomp.pl
+slowkariera.pl
 sms-z-internetu.pl
 sneakerstore.com.pl
+sneakersypuma.pl
 solvusoft.com
 spatiumdg.pl
 speedyshare.com
@@ -33965,6 +33969,7 @@ sprawdzianyodpowiedzi.pl
 sprawdzianyonline.pl
 sprawdzianyszkolne.pl
 spreadyourtentacles.com
+starshipsanctuary.pl
 star-life.pl
 stenplus.onewaywinner.com
 stop-sms.pl
@@ -33986,6 +33991,7 @@ szybkapozyczkateraz.pl
 szybka-pozyczka.com
 szybka-wyplata.pl
 alkfusion.com
+aniebutyonlinesklep.pl
 eespoon.co
 eleaudio.pl
 elecop.in.net
@@ -34025,8 +34031,8 @@ usunwirusa.pl
 vapormax.pl
 vasco-group.eu
 vegatestsklep.pl
+vemini.pl
 verifycaptcha.com
-veristo.pl
 verypl.net
 vesda.pl
 vfastdownload.com
@@ -34042,6 +34048,7 @@ vodplay.pl
 votum-sa.pl
 w2mobile.com
 w65.pl
+wartomiec.pl
 web-online.pl
 wellstar-company.com
 wellu.eu
@@ -34074,7 +34081,6 @@ www.amc.info
 www.amway.com
 www.amway.pl
 www.aquacell.pl
-www.artandevent.pl
 www.avita.net.pl
 www.awin.com
 www.bazartani.pl
@@ -34245,7 +34251,6 @@ www.xruletka.pl
 www.zaho.pl
 www.zarobek4u.com
 www.zarobicpieniadze.com
-www.zarobicprzezinternet.com
 www.zebrapozyczki.pl
 www.zennoa.com
 www.zespolbefree.pl
@@ -34293,6 +34298,7 @@ xbox1emulator.org
 xbox360emulator.com
 xmlgrab.com
 xn--pandorabiuteria-qkd.pl
+xpeanuts.pl
 xtrak.me
 ychicenter.com
 yotafiles.com
@@ -34325,7 +34331,6 @@ zyski-z-innowacji.pl
 biotalerz.pl
 bio-chemik24.pl
 jerzyzieba.com
-odpowiedzialni-rodzice.pl
 paulinajanowicz.pl
 planetazdrowia.com
 polakuleczsiesam.pl
@@ -34344,9 +34349,13 @@ clic-douaisis.fr
 d8x.pl
 eeu.pl
 firecpa.com
+fomaska.com
 gamefiles.pl
+getalinkandshare.com
 go2cloud.org
+go-rilla.offerstrack.net
 grynanecie.pl
+heckcallohertons.info
 liin.ml
 localmeets.club
 mobile-redirection.com
@@ -34354,6 +34363,7 @@ mobstarr.com
 monetizer.info
 mordi.fun
 myaff.pl
+nbryb.com
 nu7.pl
 oo.waw.pl
 pay.onebip.com
@@ -34505,7 +34515,6 @@ astrocash.org
 bazafilmowa.org
 beka.pl
 bemydate.mobi
-bonypodarunkowe.com.pl
 bookbugg.com
 bramka-sms-za-darmo.pl
 btc-forum.pl
@@ -34600,7 +34609,6 @@ giveskincs.nd.pl
 globile.co
 gogameportal.com
 hackerbot.net
-harddayforall4.life
 hdseriale.pl
 hitfilm.pl
 host1.5v.pl
@@ -34657,8 +34665,6 @@ msphackonline.com
 multico.5v.pl
 mundialove.pl
 myeforsa.pl
-mylead.eu
-mylead.global
 nagroda-sms.pl
 najlepszewrozby.pl
 namierz-telefon.pl
@@ -34673,13 +34679,11 @@ onliine.pl
 onlinewideo.pl
 onlyfiles.net
 openwrt.com
-oppineo.com
 orange-kodzik.890m.com
 pakiet-steam.pl
 paraphingxmfevapk.xyz
 pay.mobiltek.pl
 pay2me.pl
-pay24iv.com
 pinamo.pl
 pinkstar.pl
 pko-bp.pl
@@ -34718,11 +34722,7 @@ quiz-fun.com.my
 rap-share.pl
 relayimmo.com
 restricted.pl
-reward2496.harddayforall9.icu
-reward5191.srli20.agency
-reward6918.linetotime2.agency
 rzeczyzadarmo.pl
-sadman2.agency
 searchrapid.pl
 secure4app.com
 secure-eplatnosc.com
@@ -34770,7 +34770,6 @@ upshare.org
 uzupelniajdane.ga
 uzupelniajdane.gq
 videorazr.com
-videoway.net
 vidnet.pl
 vidplayer.pl
 vimeoo.net
@@ -34778,11 +34777,11 @@ vod24.pl
 wapster.malutki.pl
 wapster.pl
 weryfikacjadanych.ml
-whoisyourd34.icu
 wiadomosci-onet24.ml
 wiadomosci-onet24.pl
 wiadomosci-tv24-onet.eu
 widget-eforsa.pl
+wincleanerpro.com
 wisdementive.info
 www.doladowywacztel.pl
 www.easypdfcombine.com
@@ -34881,7 +34880,6 @@ adpro.futurenet.club
 adsheads.go2affise.com
 aoc.teleaudio.pl
 api.myeforsa.pl
-app8671.something-wrong5.agency
 bigbangads.go2cloud.org
 buzz.mobiapp-games.com
 cdnrep.reimageplus.com
@@ -34898,13 +34896,11 @@ fcolors.blogspot.com
 fejsopodgladacz.blogspot.com
 fejs-colors.blogspot.com
 freeiqtest.blogspot.com
-game9346.sadman2.agency
 gw.firesub.pl
 hc2izgmnmnqs.lwfjd.today
 hp.myway.com
 kaufland.gift-cards.co.pl
 m.pl.failmobile.net
-mobile0363.harddayforall4.life
 odzyskajsnapy.blogspot.com
 pakiety-lte-5gb.blogspot.com
 pakiety-pokemon-go.blogspot.com
@@ -34912,7 +34908,6 @@ pl.centrumofert.com
 pl.gamemine.com
 pl.longup.co
 pl.patterntrader.biz
-pl.testony.com
 pl1.slimg0ji-berry.com
 pl1.the-titanium.com
 pl2.slimg0ji-berry.com
@@ -34928,8 +34923,6 @@ premiumlink.7tools.eu
 prezent.odchudzaniezpasja.pl
 promotions.monthlywinners.com
 r.clube62.date
-reward4071.whoisyourd34.icu
-sweeps3093.something-wrong9.agency
 hecryptogenius.com
 web.cellfun.mobi
 web.yuppipuppy.com

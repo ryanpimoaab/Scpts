@@ -161,6 +161,7 @@ www.goo.gl
 www.google.com
 www.googleapis.com
 www.googleweblight.com
+www.gounlimited.to
 www.graph.facebook.com
 www.graph.instagram.com
 www.gravatar.com
@@ -260,6 +261,7 @@ www.proxy02.pop.ord.plex.bz
 www.pubsub.plex.bz
 www.pubsub.plex.tv
 www.ransomwaretracker.abuse.ch
+www.rapidvideo.com
 www.raw.githubusercontent.com
 www.reddestdream.github.io
 www.redditmedia.com
@@ -337,6 +339,7 @@ www.uk.tradingview.com
 www.update.googleapis.com
 www.v.firebog.net
 www.v10.vortex-win.data.microsoft.com
+www.verystream.com
 www.video-stats.l.google.com
 www.vidoza.net
 www.webcache.googleusercontent.com

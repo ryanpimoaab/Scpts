@@ -31303,7 +31303,6 @@ media.onlinewelten.com
 media.origin.doublepimp.com
 media.pointroll.com
 media.popuptraffic.com
-media.richrelevance.com
 media.salemwebnetwork.com
 media.snowball.com
 media.superstats.com
@@ -45730,4 +45729,4 @@ zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 45735
+# hosts: 45734

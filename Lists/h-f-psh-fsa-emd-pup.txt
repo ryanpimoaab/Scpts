@@ -768,6 +768,7 @@ apple-phone134.ru
 apple-phone61.ru
 apple-phone77.ru
 apple-phones.com
+apple-pi.top
 apple-pineapple.com
 apple-pjj.com
 apple-plaza.com
@@ -3623,6 +3624,7 @@ ebay-deuschland-datenschutz.pro
 ebay-direct.co.uk
 ebay-e1.info
 ebay-error-and-pay6585.neocities.org
+ebay-error-payment-seller.github.io
 ebay-error-store.webcindario.com
 ebay-eu.com
 ebay-expert.com
@@ -5103,6 +5105,7 @@ katilimbankalari.com
 kauferschutz-ebay.com
 kbanka.com
 kbzpaypal.com
+kc-apple.top
 ke-appleid.com
 keepthepineapplehustling.com
 keycorbank.com
@@ -6209,6 +6212,7 @@ paypal.co.uk.3im9.nl
 paypal.co.uk.3ret.pw
 paypal.co.uk.3y6j.pw
 paypal.co.uk.47l0.eu
+paypal.co.uk.4d7u.top
 paypal.co.uk.4tdc.pw
 paypal.co.uk.65a8.in
 paypal.co.uk.6g1x.pw
@@ -6225,11 +6229,13 @@ paypal.co.uk.8xg0.pw
 paypal.co.uk.8zeg.pw
 paypal.co.uk.92i0.pw
 paypal.co.uk.9ir4.eu
+paypal.co.uk.9xv4.top
 paypal.co.uk.ag8w.eu
 paypal.co.uk.akvb.in
 paypal.co.uk.aoscoq.uk
 paypal.co.uk.b36y.icu
 paypal.co.uk.bagm.pw
+paypal.co.uk.bo4i.top
 paypal.co.uk.bzu1.pw
 paypal.co.uk.c366.eu
 paypal.co.uk.d6vg.icu
@@ -6249,6 +6255,7 @@ paypal.co.uk.k4s1.top
 paypal.co.uk.k5q1.in
 paypal.co.uk.k67j.top
 paypal.co.uk.khb7.in
+paypal.co.uk.kw4i.top
 paypal.co.uk.m44q.pw
 paypal.co.uk.mt33.pw
 paypal.co.uk.n1kt.in
@@ -15386,6 +15393,7 @@ apple.news-flash.link
 apple.support-for-me.com
 apple174.ru
 apple21trade.com
+apple24seven.com
 apple30.net
 apple30.org
 appleaddicted.life
@@ -39005,6 +39013,7 @@ www.microsoft.com-repair-pc.live
 www.microsoft.com-repair-windows-system.live
 www.microsoft.com-repairing-pc.live
 www.microsoft.com-repairing-windows-system.live
+www.microsoft.com-shields-devices.live
 www.microsoft.com-windows-booster.live
 www.microsoft.com-windows-clean-system.live
 www.microsoft.com-windows-clean-systems.live

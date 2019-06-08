@@ -161,6 +161,7 @@ goo.gl
 google.com
 googleapis.com
 googleweblight.com
+gounlimited.to
 graph.facebook.com
 graph.instagram.com
 gravatar.com
@@ -260,6 +261,7 @@ proxy02.pop.ord.plex.bz
 pubsub.plex.bz
 pubsub.plex.tv
 ransomwaretracker.abuse.ch
+rapidvideo.com
 raw.githubusercontent.com
 reddestdream.github.io
 redditmedia.com
@@ -337,6 +339,7 @@ uk.tradingview.com
 update.googleapis.com
 v.firebog.net
 v10.vortex-win.data.microsoft.com
+verystream.com
 video-stats.l.google.com
 vidoza.net
 webcache.googleusercontent.com
