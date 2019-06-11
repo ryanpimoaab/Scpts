@@ -1,11 +1,10 @@
 # host file to block ads, tracking and more! updated daily
-#
 # homepage: https://github.com/anudeepnd/blacklist
 # licence: https://github.com/anudeepnd/blacklist/blob/master/license
 # title: anudeep's blacklist
 # expires: 1 days
 # hosts contributed by anudeep <anudeep@protonmail.com>
-# domain count: 33,106
+# domain count: 33,153
 # ===================================================================
 0001-cab8-4c8c-43de.reporo.net
 002-slq-470.mktoresp.com
@@ -6395,7 +6394,6 @@ beta.api.adlearnop.advertising.com
 beta-api.pubmatic.com
 betachic.com
 beta-dashboard.mgid.com
-beta.developers.marketo.com
 betadfp.doubleclick.net
 beta-editorial.outbrain.com
 beta-imageserver.adtechus.com
@@ -7119,12 +7117,6 @@ care2.112.2o7.net
 careerbliss-careers.t.domdex.com
 careerbuilderca.sl.advertising.com
 careerbuilder.sl.advertising.com
-careers.hotjar.com
-careers.inmobi.com
-careers.media.net
-careers.taboola.com
-careers.unbounce.com
-careers.yieldmo.com
 carey.qualtrics.com
 carfax250.112.2o7.net
 cargurus-d.openx.net
@@ -8424,11 +8416,7 @@ cur.lv
 curse-d.openx.net
 curtaincows.com
 custom2.supersonicads.com
-customer.cludo.com
 customerexperience.co1.qualtrics.com
-customer-pages.leanplum.com
-customers.kameleoon.com
-customersupport.fyber.com
 custom.exoclick.com
 custom.supersonicads.com
 cutecushion.com
@@ -9404,8 +9392,6 @@ doane.qualtrics.com
 dobriymir.mirtesen.ru
 doc.adtech.de
 doc.cnzz.com
-docker.smartlook.com
-docker.vidible.tv
 docking.co1.qualtrics.com
 dock.inmobi.com
 docksalmon.com
@@ -10094,7 +10080,6 @@ es-suncopperland.videoplaza.tv
 es-sunicontent_test.videoplaza.tv
 es-sunicontent.videoplaza.tv
 es-suntaringa.videoplaza.tv
-e.staging.usefomo.com
 es.tubemogul.com
 es.unbounce.com
 esurance.inq.com
@@ -10296,7 +10281,6 @@ experience.contextly.com
 experience.teads.tv
 expertode.widget.criteo.com
 experts-exchange.hostedcart.buysellads.com
-explorer-staging.flurry.com
 export.admitad.com
 express.mgid.com
 ext.admitad.com
@@ -10411,7 +10395,6 @@ faa.co1.qualtrics.com
 faa.demdex.net
 faas.mtraction.com
 fabric8.default.console.ws.adacts.com
-fabric8-docker-registry.default.console.ws.adacts.com
 fabzwh3g40zxurch0mow7itnwehtc1516628654.nuid.imrworldwide.com
 fac.co1.qualtrics.com
 facebook.co1.qualtrics.com
@@ -11359,7 +11342,6 @@ fs.moatads.com
 fsnecommerce.demdex.net
 fsres.advertising.com
 fsr.lenovomm.com
-f.staging.usefomo.com
 fstt4.voluumtrk.com
 fsu.qualtrics.com
 fsuser.advertising.com
@@ -11637,10 +11619,6 @@ girjn.voluumtrk.com
 girlscoutsusa.ca1.qualtrics.com
 girlshideout.us.intellitxt.com
 giswd40.112.2o7.net
-git.01l.xyz
-git.petametrics.com
-git.pubmatic.com
-git.ws.adacts.com
 giymdemo.pubmatic.com
 gj.applog.uc.cn
 gjapplog.uc.cn
@@ -11932,11 +11910,6 @@ grade-my-app.leanplum.com
 grader.localytics.com
 grady.co1.qualtrics.com
 gradyhealth.co1.qualtrics.com
-grafana.fyber.com
-grafana.prod.leanplum.com
-grafana.segment.com
-grafana.staging.leanplum.com
-grafana.stickyadstv.com
 grahammedia-d.openx.net
 gran-canaria-virtuell.de.intellitxt.com
 grandonmedia.com
@@ -13690,7 +13663,6 @@ insights-dc.hotjar.com
 insights.hotjar.com
 insights.parsely.com
 insights.sokrati.com
-insights-staging.hotjar.com
 insightstatistical.co1.qualtrics.com
 insight-test.magnetic.com
 insight.ucweb.com
@@ -25320,7 +25292,6 @@ www.buzzadnetwork.com
 www.buzzclicks.com
 www.bw.bidder.inmobi.com
 www.c2.popads.net
-www.careers.unbounce.com
 www.ccde.events.marketo.com
 www.cdn02.adriver.ru
 www.cdn.adsnative.com
@@ -25833,10 +25804,6 @@ www.trafficshop.com
 www.training.demandbase.com
 www.treasuredata.com
 www.triplelift.com
-www.try.getsocial.io
-www.try.treasuredata.com
-www.try.unbounce.com
-www.tryzapier.unbounce.com
 www.t.skimresources.com
 www.t.teads.tv
 www.tt.onthe.io
@@ -26585,8 +26552,6 @@ contentrequest.act-on.com
 www.contentrequest.act-on.com
 cp.act-on.com
 de.act-on.com
-developer.act-on.com
-www.developer.act-on.com
 es.act-on.com
 gamma.act-on.com
 interactive.act-on.com
@@ -28304,7 +28269,6 @@ confluence.amobee.com
 crowd.amobee.com
 crush.amobee.com
 devsite.amobee.com
-docker-registry.amobee.com
 dsp.amobee.com
 eqix-ema-dc.amobee.com
 eqix-ema-sv.amobee.com
@@ -28344,8 +28308,6 @@ pulsedm-ap.amobee.com
 www.pulsedm-ap.amobee.com
 pulsedm-ap-test.amobee.com
 repo.amobee.com
-docker.repo.amobee.com
-docker-registry.repo.amobee.com
 reports.amobee.com
 www.reports.amobee.com
 rrmprod.amobee.com
@@ -33100,3 +33062,93 @@ nova.collect.igodigital.com
 producebreed.com
 ibeat.indiatimes.com
 s3.buysellads.com
+vrtzads.com
+www.vrtzads.com
+adm.vrtzads.com
+adm-cdn.vrtzads.com
+betabanner.vrtzads.com
+bidder.vrtzads.com
+bidwin.vrtzads.com
+c.vrtzads.com
+cltr.vrtzads.com
+conv.vrtzads.com
+cookie.vrtzads.com
+creative.vrtzads.com
+dspimp.vrtzads.com
+hb.vrtzads.com
+mobile.vrtzads.com
+ron.vrtzads.com
+estcookie.vrtzads.com
+rack.vrtzads.com
+video.vrtzads.com
+vu.vrtzads.com
+main.dynsrvbaa.com
+www.ezoic.com
+e.serverbid.com
+gift-connect-d.openx.net
+pixel.advertising.com
+sbnationbidder-d.openx.net
+serverbid-sync.nyc3.cdn.digitaloceanspaces.com
+sync.go.sonobi.com
+sofia.trustx.org
+cgi.connect.qq.com
+g.3gl.net
+ecdn.liveclicker.net
+consumable.com
+concertads-configs.vox-cdn.com
+optimize-stats.voxmedia.com
+meter-svc.nytimes.com
+cdneast2-xch.media.net
+js-sec.indexww.com
+contextual.media.net
+pbs01.automatad.com
+a.opmnstr.com
+3dp-s.tlnk.io
+click.inplayable.com
+click.howdoesin.net
+cdn.mediavoice.com
+c.o5o4o6.com
+c.snnd.co
+clk.cpi.leapmobs.com
+clk.ecsdk.com
+clk.hopemobi.net
+clk.imobsky.com
+collector-pxss13u803.perimeterx.net
+det.hasmobi.net
+heapanalytics.com
+iapclick.gowadogo.com
+racking.icubeswire.com
+racking.lenzmx.com
+rk.aduclick.club
+rk.superads.cn
+pl-065.aflemy.com
+www.apptrk.io
+apptrk.io
+c.apptrk.io
+d.apptrk.io
+go.apptrk.io
+www.ad4game.com
+ad4game.com
+ads.ad4game.com
+cdn.ad4game.com
+delivery01.ad4game.com
+delivery02.ad4game.com
+delivery03.ad4game.com
+delivery04.ad4game.com
+delivery05.ad4game.com
+dev01.ad4game.com
+haproxy1.ad4game.com
+haproxy2.ad4game.com
+monitor.ad4game.com
+mpe.ad4game.com
+report.ad4game.com
+racking01.ad4game.com
+racking02.ad4game.com
+raffic.ad4game.com
+vip5.afdorigin-prod-am02.afdogw.com
+co4.telecommand.telemetry.microsoft.com
+cs1137.wpc.gammacdn.net
+modern.watson.data.microsoft.com
+wpc.v0cdn.net
+iriscoremetadataprod.blob.core.windows.net
+cs11.wpc.v0cdn.net

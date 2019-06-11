@@ -6,7 +6,7 @@
 #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_High.txt
 #
 #   comments: info@dshield.org
-#    updated: Sat Jun  8 04:04:02 2019 UTC
+#    updated: Tue Jun 11 04:04:02 2019 UTC
 #   
 #    This list consists of High Level Sensitivity website URLs
 #     Columns (tab delimited):
@@ -15,29 +15,21 @@
 #
 Site
 g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com
-spotmarka.ap0x.com
-bin1.kns1.al
 i01001.dgn.vn
 x5sbb5gesp6kzwsh.homewind.pl
 nlpqflkbvkdde.eu
-dzitech.net
-gyalkingerz.com
 uuwflbmjmi.eu
-front.postmaster.services
-grati.cf
 pagaldaily.com
-hi-j.com
-weiye-0fc.com
 #
 # STATISTICS
 #
 # Total In Database: 107981
-# Total In Report:   30
-# Percent of Total:  0.03 %
+# Total In Report:   19
+# Percent of Total:  0.02 %
 #
 # END
 #
-#  finished list generation: Sat Jun  8 04:04:02 2019 UTC
+#  finished list generation: Tue Jun 11 04:04:02 2019 UTC
 #
 #   DShield.org Suspicious Domain List
 #    (c) 2019 DShield.org
@@ -46,7 +38,7 @@ weiye-0fc.com
 #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_Medium.txt
 #
 #   comments: info@dshield.org
-#    updated: Sat Jun  8 04:04:02 2019 UTC
+#    updated: Tue Jun 11 04:04:02 2019 UTC
 #   
 #    This list consists of Medium Level Sensitivity website URLs
 #     Columns (tab delimited):
@@ -368,7 +360,6 @@ omeaswslhgdw.xyz
 k47d3.proporr.com
 rbg4hfbilrf7to452p89hrfq.boonmower.com
 fyqtguo.biz
-spotmarka.ap0x.com
 uhhvhjqowpgopq.xyz
 bddadevlpkwrrmud.xyz
 kcdfajaxngiff.info
@@ -382,7 +373,6 @@ ohplsuljopekq.biz
 gfkuwflbhsjdabnu4nfukerfqwlfwr4rw.ringbalor.com
 y4bxj.adozeuds.com
 ltpwqva.xyz
-bin1.kns1.al
 sdwempsovemtr.yt
 u24er.ovaarmor.com
 blxbymhjva.info
@@ -528,7 +518,6 @@ alvoportas.com.br
 nlpqflkbvkdde.eu
 gmailsecurityteam.com
 me.centronind.club
-dzitech.net
 treatstartaugusth.info
 p27dokhpz2n7nvgr.1eeb86.to
 p27dokhpz2n7nvgr.1dyzdh.to
@@ -539,7 +528,6 @@ malikshabas.com
 pandyi.com
 vujqbcditgsqxe.fr
 aqmip.fr
-gyalkingerz.com
 dmwajvm.fr
 uuwflbmjmi.eu
 qfuxosx.eu
@@ -554,20 +542,16 @@ froshserv.com
 freshwork.email-accountsettings.online
 deradprash.com
 all-texproducts.com
-front.postmaster.services
 casaroyai.com
 www.newtonpaiva.br
-grati.cf
 www.1axb.com
 pagaldaily.com
-hi-j.com
 mecod.expresslinkcourier.online
 sqxflow.com
 high-light-tw.com
 cartopei.com
 etete.eu
 clnp.eu
-weiye-0fc.com
 brightqain.com
 cji1.com
 dupionet.com
@@ -583,9 +567,9 @@ smai1.com
 # STATISTICS
 #
 # Total In Database: 107981
-# Total In Report:   2314
-# Percent of Total:  2.14 %
+# Total In Report:   2303
+# Percent of Total:  2.13 %
 #
 # END
 #
-#  finished list generation: Sat Jun  8 04:04:02 2019 UTC
+#  finished list generation: Tue Jun 11 04:04:02 2019 UTC

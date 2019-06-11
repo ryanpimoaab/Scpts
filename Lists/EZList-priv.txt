@@ -249,6 +249,7 @@ ascend.ai
 assoctrac.com
 astro-way.com
 atatus.com
+atgsvcs.com
 athenainstitute.biz
 atoshonetwork.com
 atticwicket.com
@@ -1931,7 +1932,6 @@ signup-way.com
 silvergamed.com
 silverpop.com
 silverpush.co
-simility.com
 simonsignal.com
 simpleanalytics.io
 simpleheatmaps.com
@@ -2303,6 +2303,7 @@ unicaondemand.com
 uniqodo.com
 unknowntray.com
 upapi.net
+upscore.com
 upstats.ru
 uptain.de
 uptimeviewer.com
