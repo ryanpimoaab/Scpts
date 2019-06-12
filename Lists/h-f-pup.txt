@@ -288,6 +288,7 @@ acrgttrait.review
 acrolithzilyzj.download
 acropolisadvnw.website
 acs.sup0rt-servidre0ver.bremkontlo.com
+activationerror.net
 activeakamaigreatflash.icu
 activealwaysdealflash.icu
 activebestalwaysflash.icu
@@ -13915,6 +13916,7 @@ tryallowflash.review
 tryallowflash.stream
 tryallowflash.trade
 tryallowflash.win
+trybxaccent.tech
 tseht.review
 tslwvbmyqbaldmoney.review
 tsulvnuvdraffish.download
@@ -32193,4 +32195,4 @@ zzcihevvdigesting.download
 zzdatpatchily.review
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 32198
+# hosts: 32200
