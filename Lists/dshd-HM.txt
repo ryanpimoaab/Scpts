@@ -6,7 +6,7 @@
 #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_High.txt
 #
 #   comments: info@dshield.org
-#    updated: Wed Jun 12 04:04:01 2019 UTC
+#    updated: Thu Jun 13 04:04:01 2019 UTC
 #   
 #    This list consists of High Level Sensitivity website URLs
 #     Columns (tab delimited):
@@ -29,7 +29,7 @@ pagaldaily.com
 #
 # END
 #
-#  finished list generation: Wed Jun 12 04:04:01 2019 UTC
+#  finished list generation: Thu Jun 13 04:04:01 2019 UTC
 #
 #   DShield.org Suspicious Domain List
 #    (c) 2019 DShield.org
@@ -38,7 +38,7 @@ pagaldaily.com
 #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_Medium.txt
 #
 #   comments: info@dshield.org
-#    updated: Wed Jun 12 04:04:02 2019 UTC
+#    updated: Thu Jun 13 04:04:01 2019 UTC
 #   
 #    This list consists of Medium Level Sensitivity website URLs
 #     Columns (tab delimited):
@@ -572,4 +572,4 @@ smai1.com
 #
 # END
 #
-#  finished list generation: Wed Jun 12 04:04:02 2019 UTC
+#  finished list generation: Thu Jun 13 04:04:01 2019 UTC
