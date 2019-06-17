@@ -40,6 +40,7 @@ acc-apple.com
 accc-appleid.com
 acccountsverif.verify-paypal.serveusers.com
 access-apple.com
+accesscontroldocsharefiles-supportacceessseverdownl6783.azurewebsites.net
 accesspaypalinformation.com
 account-activity-apple.com
 account-apple-service.com
@@ -64,6 +65,7 @@ account-verify-your-appleid.com
 account.google.com.signup.identifier.value.add.session.postmarkapiservice.com
 account.paypal.manage.verification.vgai.center
 account.paypal.roadwingbike.com
+account.paypal.verify.randjekla.info
 accountadobe.com
 accounte.paypal.verification.manage.cdrt.center
 accountlogin-appleid.com
@@ -603,6 +605,7 @@ apple-inc-customer.com
 apple-incm.com
 apple-info.us
 apple-inform.com
+apple-information-account.info
 apple-information-si-update.com
 apple-ink-store.com
 apple-ins-verify.com
@@ -771,6 +774,7 @@ apple-phones.com
 apple-pi.top
 apple-pineapple.com
 apple-pjj.com
+apple-pl.top
 apple-plaza.com
 apple-poc.top
 apple-pocc.top
@@ -1078,6 +1082,7 @@ apple.toys
 apple.tracking-id-account.com
 apple.uk.id-user-access.com
 apple.unblock-user.com
+apple.varifidogioez.com
 apple.varifidogione.com
 apple002.com
 apple03.com
@@ -2835,6 +2840,7 @@ banking.westpac.com.au.security-protect.ml
 banking.xn--fdor-qpa.de
 banking.xn--fdor-vpa.de
 bankingalertofamierica.ga
+bankingbnl.itloginprivatecontiservizi.privatibancariopalme.clinetireserva.originwise.co.nz
 bankingindiaupdate.com
 bankingofamericaservi.ml
 bankline-itau.ddns.net
@@ -3465,6 +3471,7 @@ contact-paypal.com
 contact-paypal.info
 contactapple.co.uk
 contacto-paypal.com
+control-natwestcenter.top
 controlmicuenta-appleid.com
 coombank-support-update.com
 copyrights-apple.com
@@ -3609,6 +3616,7 @@ ebay-beschwerdestelle.com
 ebay-business-card-safee.neocities.org
 ebay-buyer-protection-consultant.com
 ebay-com-business-card.netlify.com
+ebay-com-bussiness.neocities.org
 ebay-com-datenschutz-ebay.pro
 ebay-com-datenschutz.pro
 ebay-com-dsgvo-ebay.pro
@@ -3692,6 +3700,7 @@ ebay.com.selling-payment-center.ga
 ebay.de-item323747.com
 ebay.of.by
 ebay.rygconstruction.com
+ebay.stock-store.site
 ebay.uk-9368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675799398146.freshvalu.com
 ebay.viewitm.com
 ebay5.com
@@ -4745,6 +4754,7 @@ icloud.com.isupport-verify.com
 icloud.com.login-en.me
 icloud.com.login.surtoqui.com
 icloud.com.my.id-verify.space
+icloud.com.servicelock.com.es
 icloud.com.sign-id.us
 icloud.fasate.com.cn
 icloud.findmyiphone.y3zw96dakdu6cc1a96dibm1w6v5gp0f41a0e19cq631dc.cl2.eu
@@ -4959,6 +4969,7 @@ info.bankofamerica-secure.com
 infoappleid.com
 infoapplenl.cloud
 infobarclays.co.uk
+infonatwestsecuressl.website
 information-account-apple.com
 information-apple-account.com
 informationapple.com
@@ -5408,6 +5419,7 @@ mdg-apple.com
 mdg-apple.net
 media-sberbank.site
 medpaypal.com
+meinkonto-appleid-requiredsauthentication.com
 memberaccountapple.com
 members.flashblogg.com
 mepaypal.com
@@ -5647,6 +5659,7 @@ namikebayabali.com
 narodabank.in
 naturianes-apple.com
 natwest.kristydanagish.com
+natwest.online.authentications.now.kennethsseyeu.net
 natwest.php.cabinets.co.il
 natwestcustomerlogon.astronomiegitimi.net
 natwestcustomerlogon.livebetterforever.co.uk
@@ -5968,6 +5981,7 @@ paypal-eby.com
 paypal-eby.net
 paypal-egiftcard.gitlab.io
 paypal-egiftscard.gitlab.io
+paypal-formuk.com
 paypal-gb.co.uk
 paypal-gb.uk
 paypal-gestisci.site
@@ -6141,6 +6155,7 @@ paypal-suspended.shiksha
 paypal-suvmir-service.center
 paypal-track.com
 paypal-uk.co.uk
+paypal-ukform.com
 paypal-unlock-account.com
 paypal-upadte.com
 paypal-update.com.pajaza.com
@@ -6394,6 +6409,7 @@ paypal.meinkonto-hilfe-ssl.de
 paypal.mtxserv.fr
 paypal.oghacks.org
 paypal.online-customer-account-support.com
+paypal.onlinegb.org
 paypal.open-case-id-5022-2511-7122-5124.com
 paypal.party
 paypal.paypallsecure.com
@@ -6747,6 +6763,7 @@ paypalverifyservice.com
 paypalviaebay.com
 paypalw.herokuapp.com
 paypalwd.com
+paypalwebapps.buyer-protections.servcescustomers.dynv6.net
 paypangya.com
 payparl-com-home-logon.service-homeclount.com
 paypaxl.com
@@ -7126,6 +7143,7 @@ secure-www.paypal.com.bbw.co.id
 secure-your-apple-account.com
 secure.account.bankofamerica.on-line.osbirigui.com.br
 secure.apple.com-signin.recovery1700.gstevil-1.com
+secure.apple.com.accenture.co.tz
 secure.bank-america.cf
 secure.bankofamerica.com-login-sign-onscreen-msg-onlineemptyrequest-locale-token.parceirospaf.com.br
 secure.bankofamerica.com.2fa-sec.com
@@ -7562,6 +7580,7 @@ support-find-device-apple.com
 support-fmi-icloud.com
 support-google-account.email
 support-help-icloud.com
+support-icloud-id.com
 support-icloud-maps.com
 support-icloud-net.com
 support-icloud.net
@@ -7793,6 +7812,7 @@ ulticloud.com
 ultimate-apple.com
 umix-apple.com
 unconfirm-appleld.servehttp.com
+unionstandardonlinebanking.com
 unitedbanksverify.bid
 unlia-apple.top
 unlic-apple.top
@@ -7961,6 +7981,7 @@ verifyacc-apple.com
 verifyaccount-apple.com
 verifyaccount-appleidapple.com
 verifyapple.com
+verifyappleid.com
 verifycation-appleid-unlocked.com
 verifyclientaccount-paypal.com
 verifylocati0napple.com
@@ -15305,6 +15326,7 @@ antivirusandroid.net
 antivirusapp.download
 antivirusappsdownload.com
 antiviruscontrol.download
+antivirusdownload555.blogspot.com
 antivirusdownloadfree.com
 antivirusdownloadz.com
 antivirusforandroid.com
@@ -15865,6 +15887,7 @@ bitcoinlitecoin.win
 bitcoinloginsupport.online
 bitcoinmicrosoft.com
 bitcoinmicrosoft.ru
+bitcoinmoneysoftware.com
 bitcoinonlinesupport.com
 bitcoinonlinesupports.com
 bitcoinparadise.net
@@ -16378,6 +16401,7 @@ download-mac-apps.com
 download-messenger.me
 download-msdn-microsoft.com
 download-new-skype.ru
+download-officesetup.com
 download-skype-new.com
 download-skype.com
 download-teamviewer.com
@@ -17889,6 +17913,7 @@ microsoftemailsupport.com
 microsoftemsdemo.com
 microsoftengagementportal.com
 microsofteonline.com
+microsofterror.com
 microsofterror.xyz
 microsofterrorawz.com
 microsofterrore.com
@@ -20573,6 +20598,7 @@ www.antivirusandroid.net
 www.antivirusapp.download
 www.antivirusappsdownload.com
 www.antiviruscontrol.download
+www.antivirusdownload555.blogspot.com
 www.antivirusdownloadfree.com
 www.antivirusdownloadz.com
 www.antivirusforandroid.com
@@ -20942,6 +20968,7 @@ www.bitcoinlitecoin.win
 www.bitcoinloginsupport.online
 www.bitcoinmicrosoft.com
 www.bitcoinmicrosoft.ru
+www.bitcoinmoneysoftware.com
 www.bitcoinonlinesupport.com
 www.bitcoinonlinesupports.com
 www.bitcoinparadise.net
@@ -26245,7 +26272,6 @@ download1.coupons.com
 download1.freemediapack.com
 download1.mediaget.com
 download1.speedbit.com
-download1.zoner.com
 download10.freemediapack.com
 download101.org
 download121.com

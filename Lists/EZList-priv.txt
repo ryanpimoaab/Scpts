@@ -1317,7 +1317,6 @@ magnify360.com
 mailstat.us
 maploco.com
 mapmyuser.com
-marfeelcache.com
 marinsm.com
 market015.com
 market2lead.com
@@ -1971,6 +1970,7 @@ smartctr.com
 smarterhq.io
 smarterremarketer.net
 smartlook.com
+smartocto.com
 smartology.co
 smartracker.net
 smartsuppchat.com
@@ -2660,11 +2660,8 @@ candid.zone
 cashbeet.com
 cc.gofile.io
 ccvwtdtwyu.trade
-cdn-analytics.pl
 cdn-code.host
 cdn-jquery.host
-cdn.cloudcoins.co
-cdn.static-cnt.bid
 cdnfile.xyz
 cfcdist.gdn
 cfcdist.loan
@@ -2713,7 +2710,6 @@ crypto-coins.info
 crypto-loot.com
 crypto-pool.fr
 crypto-webminer.com
-crypto.csgocpu.com
 cryptobara.com
 cryptoloot.pro
 cryptomine.pro
@@ -2794,7 +2790,6 @@ freecontent.stream
 freecontent.trade
 freecontent.win
 freshrefresher.com
-fruitice.realnetwrk.com
 g-content.bid
 g1thub.com
 gasolina.ml
@@ -2806,8 +2801,6 @@ giml.ml
 gitgrub.pro
 gnrdomimplementation.com
 go.bestmobiworld.com
-go.megabanners.cf
-go.megabanners.cf
 gobba.myeffect.net
 goldoffer.online
 googleanalytcs.com
@@ -3149,7 +3142,6 @@ vzzexalcirfgrf.ru
 wasm.stream
 wasm24.ru
 wbmwss.beetv.net
-web.dle-news.pw
 webassembly.stream
 webmine.cz
 webmine.pro
