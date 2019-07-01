@@ -24,6 +24,13 @@ ad2play.ftv-publicite.fr
 socdm.com
 criteo.com
 criteo.net
+ad.auditude.com
+adfiles.auditude.com
+cdn.auditude.com
+cdn2.auditude.com
+otcdn2.auditude.com
+www.auditude.com
+manifest.auditude.com
 mblapi.ssl2.duapps.com
 api.mobula.ds.duapps.com
 noxagile.duapp.com
@@ -45,6 +52,7 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+vennala.pw
 promoted.soundcloud.com
 activity.browser.intl.miui.com
 api.brs.intl.miui.com
@@ -463,7 +471,6 @@ atdmt.com
 atemda.com
 ato.mx
 atti.com
-auditude.com
 avazutracking.net
 awltovhc.com
 axonix.com
@@ -973,6 +980,8 @@ static-cl.xhcdn.com
 momon-ga.com
 forum.lowyat.net
 mobiltelefon.ru
+e.z091u.cn
+m.sdxlglm.cn
 blog-sokuhou.com
 korewaeroi.com
 motherless.com

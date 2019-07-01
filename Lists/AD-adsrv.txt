@@ -10857,7 +10857,6 @@ fast.webmotors.demdex.net
 fast.websenseinc.demdex.net
 fast.westthomson.demdex.net
 fast.williamhill.demdex.net
-fast.wistia.com
 fast.wnzl.demdex.net
 fast.wogaa.demdex.net
 fast.wolterskluwermedical.demdex.net
@@ -26057,7 +26056,6 @@ yandex.st
 yapi.apk.v-mate.mobi
 yardbarker.tags.crwdcntrl.net
 yashin.alphonso.tv
-yastatic.net
 yatra.demdex.net
 yatraonline.sc.omtrdc.net
 yauc11mqs7i.proxy.teads.tv
@@ -33153,4 +33151,3 @@ wpc.v0cdn.net
 iriscoremetadataprod.blob.core.windows.net
 cs11.wpc.v0cdn.net
 racking-opi.fonpit.de
-

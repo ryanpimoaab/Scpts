@@ -6,7 +6,7 @@
 #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_High.txt
 #
 #   comments: info@dshield.org
-#    updated: Mon Jun 17 04:04:02 2019 UTC
+#    updated: Mon Jul  1 04:04:01 2019 UTC
 #   
 #    This list consists of High Level Sensitivity website URLs
 #     Columns (tab delimited):
@@ -23,13 +23,13 @@ pagaldaily.com
 #
 # STATISTICS
 #
-# Total In Database: 107983
+# Total In Database: 107986
 # Total In Report:   19
 # Percent of Total:  0.02 %
 #
 # END
 #
-#  finished list generation: Mon Jun 17 04:04:02 2019 UTC
+#  finished list generation: Mon Jul  1 04:04:01 2019 UTC
 #
 #   DShield.org Suspicious Domain List
 #    (c) 2019 DShield.org
@@ -38,7 +38,7 @@ pagaldaily.com
 #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_Medium.txt
 #
 #   comments: info@dshield.org
-#    updated: Mon Jun 17 04:04:02 2019 UTC
+#    updated: Mon Jul  1 04:04:01 2019 UTC
 #   
 #    This list consists of Medium Level Sensitivity website URLs
 #     Columns (tab delimited):
@@ -565,13 +565,15 @@ hsiehy-vn.com
 smai1.com
 br1vo.com
 www.br1vo.com
+starsducks.com
+activescrews.com
 #
 # STATISTICS
 #
-# Total In Database: 107983
-# Total In Report:   2305
-# Percent of Total:  2.13 %
+# Total In Database: 107986
+# Total In Report:   2307
+# Percent of Total:  2.14 %
 #
 # END
 #
-#  finished list generation: Mon Jun 17 04:04:02 2019 UTC
+#  finished list generation: Mon Jul  1 04:04:01 2019 UTC
