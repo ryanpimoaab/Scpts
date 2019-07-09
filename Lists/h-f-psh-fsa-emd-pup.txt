@@ -295,6 +295,18 @@ alert-applemaps.com
 alert-applesupport.com
 alert-icloud.com
 alert-network-apple.com
+alertloginauthbankaccwellsrestrictedverifyid.xyz
+alertloginauthbankwellsaccountrestricted.xyz
+alertloginauthsecuritywellsbankaccountrestricted.xyz
+alertloginauthwellbankaccountrestricted.xyz
+alertloginauthwellsbankaccesssuspended.xyz
+alertloginauthwellsbankacclocked.xyz
+alertloginauthwellsbankaccountauthrestricted.xyz
+alertloginauthwellsbankaccountlocked.xyz
+alertloginauthwellsbankaccountonhold.xyz
+alertloginauthwellsbankaccountonholdveryid.xyz
+alertloginauthwellsbankaccountrestricted.xyz
+alertloginauthwellsbankaccrestricted.xyz
 alerts-icloud.com
 alipaypal.vip
 allertwellsbankaccountlocked.xyz
@@ -1542,6 +1554,7 @@ appleid-csecuresintlusa.com
 appleid-cssupport-secure-data-manageid.com
 appleid-cuenta-confirmacion-locked-apple.com
 appleid-delayed.com
+appleid-department.com
 appleid-detail.com
 appleid-edit.com
 appleid-enus.com
@@ -1703,6 +1716,7 @@ appleid-verifyaccountstatement.com
 appleid-verifydata.com
 appleid-webscr-verify-account.com
 appleid-websecurity.com
+appleid.3dscure-support-review.toythieves.com
 appleid.accountant
 appleid.apple-secure.infocustomer-security.com
 appleid.apple-secure.security-restoreaccess.com
@@ -1747,6 +1761,7 @@ appleid.apple.com.supportverificationbillinginformation.com
 appleid.apple.com.thenicholls.net
 appleid.apple.com.toko-gblk.com
 appleid.apple.com.verlfy-secures.com
+appleid.apple.com.weedassembly.com
 appleid.apple.comll.org
 appleid.apple.glammamomma.com
 appleid.apple.iforgot-bgfids.gq
@@ -2839,6 +2854,7 @@ banking-bancofalabellaperu.fn-onlin.com
 banking-fidor.info
 banking-help.com
 banking-wellsfargo.com
+banking.bnl.it.login.login.banca.multicanale.online667876543254.homayungas.com
 banking.md
 banking.post.bank-de-anmeldung-login-id1232-customer84d.ru
 banking.raiffeisen.at.s61135.top
@@ -3529,6 +3545,7 @@ dailypaypalprofits.com
 dailypaypalprofits.info
 dasboard-securemanage-update-account-apple.com
 daten-paypal.com.de
+dbs-ibanking-demo.herokuapp.com
 de-appleid.com
 de-paypa.l-centerguard.info
 deals-ebay.com
@@ -3609,6 +3626,7 @@ e-qnbfinansbankasi.com
 e-reputation-apple.com
 e-softbank.com
 e-ziraatnetbank.com
+ealerts.bankofamerica.com.steelphase.com.au
 ealertsbankofarnerica.com
 eappleid.com
 earnfreebitcoins.org
@@ -3936,6 +3954,7 @@ googledrive.crossbowoilfield.com
 googledrivedocument.beechdrift.co.uk
 googleemaps.com
 googlemailaccounts.com
+googlepaycustomersupport.com
 googleplay.subsgifts.com
 googleplaycodes.extafiles.com
 googleplaysto.red
@@ -4055,6 +4074,7 @@ https.danskebank.no-tavbqx.casulodigital.com
 https.danskebank.no-uiqpyh.casulodigital.com
 https.office.microsoftonline.mail.default.error.a35ot1s6dhy84si7et7jv7.h1qahhah1c8v3gkdvkhlj37i1.dla9zhsj7pskhn.k8k4hc79ld1h41hk8dsdf.h5sshthh5s6hektjbdshhyta11k9.1qfku7a2dshlds.o3so0fhc2dshgthetk5lfkudyu.blesspaylines.duckdns.org
 https.office.microsoftonline.mail.default.error.wd4stddyh2k049ffsjhfjh.mje46suk2hj4a8jfy288yqe9g.4k93jt73hjh1gi.4afeak3k8fghdkqfu1d5g.mdudh7s3sc7oa1ndssk9dz89sh5s.6181wgdus4dkzs.hehthdj7shxdvsqtsussd47hdf.lossaa.duckdns.org
+https.office.microsoftonline.mail.default.error.ztv2jso6af43tldk2vh86h7y7tf.0jkxjwhxhhk9jw6ndau.w7j4vkfkj76of.obchsulds9wrkdhwsiu9af.8i9c66fjlf4od4p0az.kcqsvdp6zklaybuh.shqk98h6tsaq8x8btxd.facem.duckdns.org
 https.pay-pal-account.attiazione-id-9829839s837r6s4g4555so9o0s933eh23kk43.miocontopaypal.it
 https.paypal.com.webapps-mpp-home.account-support-login-now.schweidenback.com
 https.secure.bank-of-america.login.sign.aepsumtzlh.underpains.duckdns.org
@@ -4766,6 +4786,7 @@ icloud.com.find-location.in
 icloud.com.find-service.info
 icloud.com.ht
 icloud.com.id-onlinemap.info
+icloud.com.in-auth.us
 icloud.com.isupport-verify.com
 icloud.com.login-en.me
 icloud.com.login.surtoqui.com
@@ -4905,6 +4926,7 @@ idms-apple-pay.club
 idmsa-accounts-apple.com
 idmsa-apple.com
 idmsa-appleid-managetoyouraccount-lockednotifications.com
+idmsa.apple.com.idmswebautha123.eltrailer.cl
 idmsapple.systems
 idoapple.ru
 idsa-secure-update-management-id-idapple.com
@@ -6035,6 +6057,7 @@ paypal-incs.com
 paypal-info.accountveriftinbox.com
 paypal-info.webappswadminlogin.com
 paypal-information.net23.net
+paypal-informations-update.com.1dream.org
 paypal-infosigninacces-com-cauica8hr5bh182bd8b18b81bd821b8b1d.reconeclimit.info
 paypal-infoupdate.xyz
 paypal-infoupdater.xyz
@@ -6124,6 +6147,7 @@ paypal-secura-nuovo--aggiornamento-clienti.pagedemo.co
 paypal-secure-login.zinayeem.com
 paypal-secure.account.setegaitukah.info
 paypal-secure.co.uk
+paypal-secure.icu
 paypal-secure.support
 paypal-secure187.com
 paypal-secured.com
@@ -6183,6 +6207,7 @@ paypal-suvmir-service.center
 paypal-track.com
 paypal-uk.co.uk
 paypal-ukform.com
+paypal-united-state-service.fsnursing.com
 paypal-unlock-account.com
 paypal-upadte.com
 paypal-update.com.pajaza.com
@@ -6215,6 +6240,7 @@ paypal-vrfication.herokuapp.com
 paypal-vrfiication.herokuapp.com
 paypal-vrfiications.herokuapp.com
 paypal-vrification.herokuapp.com
+paypal-wallsecure.serveftp.com
 paypal-web.com
 paypal-webapps-intil.ctrale.com
 paypal-webapps-secure-payment.com
@@ -6247,6 +6273,7 @@ paypal.ch.webscr.objectsupports.com
 paypal.clientsbilling.info
 paypal.co.uk.009e.in
 paypal.co.uk.01ll.pw
+paypal.co.uk.076b.icu
 paypal.co.uk.088c.pw
 paypal.co.uk.1nqf.pw
 paypal.co.uk.1ulj.pw
@@ -6292,6 +6319,7 @@ paypal.co.uk.dm7v.top
 paypal.co.uk.ds8q.top
 paypal.co.uk.fchf.pw
 paypal.co.uk.gnxh.pw
+paypal.co.uk.h4if.icu
 paypal.co.uk.i2t6.icu
 paypal.co.uk.i4n8.in
 paypal.co.uk.j5lq.pw
@@ -19417,6 +19445,7 @@ support-twitterverification.com
 support-usbank.com
 support-verify-ld-apple.com
 support.apple.com.systemnotificati0n.com
+support.microsoft.call-helpdesk.site
 support.microsoft.error0xc8000222.club
 support.microsoft.systemnotificati0n.com
 support4microsoft.com

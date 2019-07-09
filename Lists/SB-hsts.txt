@@ -2231,7 +2231,7 @@ www.vydoxtrial.com
 # see below for acknowledgements.
 # please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
-# last updated: thu, 27 jun 2019 at 07:18:52 gmt
+# last updated: wed, 03 jul 2019 at 14:12:58 gmt
 # use this file to prevent your computer from connecting to selected
 # internet hosts. this is an easy and effective way to protect you from 
 # many types of spyware, reduces bandwidth use, blocks certain pop-up 
@@ -4741,6 +4741,7 @@ phpancake.com
 picture-uploads.com
 pigredoben12.sytes.net
 pilltabletsrxbargain.net
+play6932.fuckingmonday113.agency
 pop.net21pk.com
 powabcyfqe.com
 pple.com.virus-mac.com
@@ -4767,6 +4768,7 @@ rd.alphabirdnetwork.com
 reacherinst.com
 readheadstick.biz
 regardens.info
+reward5363.hardmonday53.agency
 reward-survey.net
 rickrolling.com
 rocks.io
@@ -27004,15 +27006,15 @@ www.winaproduct.com
 # blocklist for use with hosts files to block ads
 # for more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   wed, 05 jun 2019 09:11:26 gmt
-# entries:        2947
+# last updated:   thu, 04 jul 2019 12:00:47 gmt
+# entries:        2984
 # format:         hosts (hosts -- in hosts file format)
 # credits:        peter lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this url:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # patreon:        https://patreon.com/blocklist
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
-# start date:    sat, 03 jul 1999 00:00:00
+# start date:    sat, 10 jul 1999 00:00:00
 101com.com
 101order.com
 123found.com
@@ -27168,7 +27170,6 @@ adk2.com
 adk2ads.tictacti.com
 adledge.com
 adlegend.com
-adlightning.com
 adloox.com
 adlooxtracking.com
 adlure.net
@@ -27214,6 +27215,7 @@ adrotate.de
 adrotic.girlonthenet.com
 adrta.com
 ads-click.com
+ads-game-187f4.firebaseapp.com
 ads-twitter.com
 ads.activestate.com
 ads.administrator.de
@@ -27600,6 +27602,7 @@ bawdybeast.com
 beamincrease.com
 bebi.com
 bedsbreath.com
+beemray.com
 behavioralengine.com
 belstat.com
 belstat.nl
@@ -27667,6 +27670,7 @@ calculatingtoothbrush.com
 calculatorcamera.com
 callousbrake.com
 callrail.com
+callstats.io
 campaign.bharatmatrimony.com
 caniamedia.com
 capablecows.com
@@ -27741,11 +27745,11 @@ cloisteredhydrant.com
 cloudcoins.biz
 clrstm.com
 cluster.adultworld.com
-cml.sad.ukrd.com
 code-server.biz
 cognitiv.ai
 cointraffic.io
 colonize.com
+colpirio.com
 comclick.com
 comfortablecheese.com
 commindo-media-ressourcen.de
@@ -27898,6 +27902,8 @@ emediate.dk
 emediate.eu
 emerse.com
 emetriq.de
+emltrk.com
+en25.com
 encouragingwilderness.com
 endurableshop.com
 enginenetwork.com
@@ -28009,6 +28015,7 @@ globaltakeoff.net
 globe7.com
 globus-inter.com
 glossysense.com
+gml.email
 go-clicks.de
 go-mpulse.net
 go-rank.de
@@ -28116,6 +28123,7 @@ innocentwax.com
 innovid.com
 inquisitiveinvention.com
 inringtone.com
+insgly.net
 insightexpress.com
 inspectlet.com
 inspectorclick.com
@@ -28126,6 +28134,7 @@ instrumentsponge.com
 intentmedia.com
 intentmedia.net
 interactive.forthnet.gr
+intercom-mail.com
 intergi.com
 internetfuel.com
 interreklame.de
@@ -28138,6 +28147,7 @@ ipredictive.com
 ipro.com
 iqm.com
 ireklama.cz
+is-tracking-pixel-api-prod.appspot.com
 itfarm.com
 itop.cz
 its-that-easy.com
@@ -28172,6 +28182,8 @@ kniverto.com
 knorex.com
 komoona.com
 kompasads.com
+krxd.net
+l1.britannica.com
 lakequincy.com
 laughablecopper.com
 laughcloth.com
@@ -28186,6 +28198,21 @@ leaplunchroom.com
 lettucelimit.com
 levelrate.de
 lfstmedia.com
+li.alibris.com
+li.azstarnet.com
+li.dailycaller.com
+li.gatehousemedia.com
+li.gq.com
+li.hearstmags.com
+li.livingsocial.com
+li.mw.drhinternet.net
+li.onetravel.com
+li.patheos.com
+li.pmc.com
+li.purch.com
+li.realtor.com
+li.walmart.com
+li.ziffimages.com
 liadm.com
 liftdna.com
 ligatus.com
@@ -28302,6 +28329,7 @@ mixedreading.com
 mixpanel.com
 mixtraffic.com
 mlm.de
+mltrk.io
 mmismm.com
 mmtro.com
 moat.com
@@ -28630,6 +28658,7 @@ rose.ixbt.com
 rotabanner.com
 roughroll.com
 roxr.net
+rs6.net
 rtbpop.com
 rtbpopd.com
 rtmark.net
@@ -28663,6 +28692,7 @@ searchmarketing.com
 searchramp.com
 secretivecub.com
 secretspiders.com
+securedopen-bp.com
 sedotracker.com
 selectionsugar.com
 selectivesummer.com
@@ -28695,6 +28725,7 @@ sidebar.angelfire.com
 silkysquirrel.com
 sillyscrew.com
 similarsabine.com
+simpleanalytics.io
 sincerebuffalo.com
 sincerespy.com
 sinefight-skinesia.com
@@ -28763,6 +28794,7 @@ stat.pl
 stat.zenon.net
 stat24.com
 static.itrack.it
+statistic.ads24h.net
 statm.the-adult-company.com
 stats.blogger.com
 stats.hyperinzerce.cz
@@ -28803,8 +28835,10 @@ swan-swan-goose.com
 swimslope.com
 swordfishdc.com
 swordgoose.com
+.eloqua.com
 .insigit.com
 aboola.com
+agan.adlightning.com
 agular.com
 ailsweep.com
 ailsweep.se
@@ -28887,6 +28921,7 @@ racker-pm2.spilleren.com
 racker.trackerfix.com
 racking.crunchiemedia.com
 racking.ibxlink.com
+racking01.walmart.com
 racking101.com
 rackingsoft.com
 rackmysales.com
@@ -29102,7 +29137,7 @@ zy16eoat1w.com
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 ##### version information #
 ###################################################
-### version: v1.2019.06.7921
+### version: v1.2019.07.7924
 ##### version information ##
 # use this file to prevent your computer or server from connecting to selected
 # many types of spyware, adware, malware, click-jacking and porn sites and reduces 
@@ -33332,8 +33367,8 @@ zipzoomfly.122.2o7.net
 # start kadhosts
 # title: kadhosts
 # description: filtr chroniacy przed przekretami takimi jak subskrypcje sms
-# last modified: fri, 28 jun 2019, 16:52 utc+02
-# version: 2019.6.28.1
+# last modified: thu, 04 jul 2019, 12:47 utc+02
+# version: 2019.7.4.1
 # expires: 2 days
 # website: https://kadantiscam.netlify.com/
 # repository: https://github.com/polishfiltersteam/kadhosts
@@ -33349,7 +33384,6 @@ zipzoomfly.122.2o7.net
 7tools.eu
 24hoursready.cf
 24-fakty.pl
-1050-sklep.com
 3000-od-reki.pl
 ablip.pl
 acaiberryextreme.pl
@@ -33392,6 +33426,8 @@ appcaptcha.com
 appfox.org
 appgasstation.com
 apteka2000.pl
+aquafit.sklep.pl
+aquafit24.pl
 areyouabot.net
 areyouahuman.co
 ariix.com
@@ -33467,6 +33503,7 @@ cinemateka.pl
 cinema-online.pl
 classicleather.pl
 cobra-siedlce.pl
+codeandwork.pl
 colway.pl
 colwayinternational.com
 colway-sklep.com
@@ -33481,12 +33518,12 @@ cpbldi.com
 cpm10.com
 crediko.pl
 cristianlay.com
+crocsoutletpolska.pl
 csgoskinsproject.pl
 cultland.pl
 czyjtonumertel.pl
 dagcoin.org
 dailyadultnews.com
-dampozyczke.pl
 darmowefilmy.eu
 darmowe-ebooki.com.pl
 darmowe-ebooki.net
@@ -33624,7 +33661,6 @@ garciniacambogiaactives.pl
 gazetainfo.pl
 gazeta-pl.site
 gbptest.net
-gdb-finance.pl
 gemverify.com
 generatorkodow.hpu.pl
 gerotel.com
@@ -33776,6 +33812,7 @@ megazakupy.net
 menshealthweb.co
 mezczyzna-trendy.pl
 mieszkania-pokoje-wynajem.pl
+mikro24.pl
 minirtvshop.pl
 mmajerski.pl
 mobiapp-games.com
@@ -33865,6 +33902,7 @@ phytolast.com
 pitbull.ek1.pl
 pl.fmworld.com
 pl.fohow.eu
+pl.gvgmall.com
 pl.lider.pl
 pl.melaleuca.com
 pl.oriflame.com
@@ -33882,7 +33920,6 @@ pobierzse.pl
 pobierz-online.co.pl
 pobraniowo.pl
 poland.fizzyslim.biz
-pole-henny.com
 polska-tv.pl
 polskifilm.com.pl
 pol.boobs-xl.com
@@ -34141,6 +34178,8 @@ www.appfox.org
 www.appgasstation.com
 www.apteka2000.pl
 www.aquacell.pl
+www.aquafit24.pl
+www.aquafit.sklep.pl
 www.areyouabot.net
 www.areyouahuman.co
 www.ariix.com
@@ -34213,6 +34252,7 @@ www.cichodaje.pl
 www.ciekawinki.pl
 www.cinemateka.pl
 www.classicleather.pl
+www.codeandwork.pl
 www.colorcredit.pl
 www.colwayinternational.com
 www.colway.pl
@@ -34225,12 +34265,12 @@ www.cpbld.co
 www.crediko.pl
 www.credy.pl
 www.cristianlay.com
+www.crocsoutletpolska.pl
 www.csgoskinsproject.pl
 www.cultland.pl
 www.czyjtonumertel.pl
 www.dagcoin.org
 www.dailyadultnews.com
-www.dampozyczke.pl
 www.darmowefilmy.eu
 www.das33.io
 www.dascoingroup.com
@@ -34280,7 +34320,6 @@ www.eglobalcentral.pl
 www.ekstrafilmy24.pl
 www.electrocity24.pl
 www.elektro24h.pl
-www.elektrostar.com.pl
 www.elepta.pl
 www.enbutique.com
 www.energetix.com.pl
@@ -34520,6 +34559,7 @@ www.megachiny.eu
 www.megadownloader.co
 www.megazakupy.net
 www.menshealthweb.co
+www.mikro24.pl
 www.minirtvshop.pl
 www.mistrzmotywacji.pl
 www.mkaltenpflege24h.pl
@@ -34869,7 +34909,6 @@ www.wszystkododomu.net
 www.wybierzpieniadze.pl
 www.wyjazd24.pl
 www.wyleczpc.pl
-www.wylogujsiezmatrixa.pl
 www.wyspaofert.com
 www.xbox1emulator.org
 www.xbox360emulator.com
@@ -34890,7 +34929,6 @@ www.zakupeo.com
 www.zakupyagd.net
 www.zakupymax.net
 www.zalukajfilmy.pl
-www.zantech.pl
 www.zapraszamybowarto.pl
 www.zaprojektujiwybuduj.pl
 www.zarobek4u.com
@@ -34914,7 +34952,6 @@ www.7tools.eu
 www.20pascals.nl
 www.24hoursready.cf
 www.24-fakty.pl
-www.1050-sklep.com
 www.3000-od-reki.pl
 www.act-natural.pl
 www.act-natural-sklep.pl
@@ -34983,7 +35020,6 @@ www.games-solution.com
 www.game-hack.biz
 www.gano-excel.pl
 www.gazeta-pl.site
-www.gdb-finance.pl
 www.gift-cards.co.pl
 www.gotowka-doreki.eu
 www.go.co-aa831.stream
@@ -35036,7 +35072,6 @@ www.play-tube.pl
 www.plik-pobierz.pl
 www.pm-international.com
 www.pobierz-online.co.pl
-www.pole-henny.com
 www.polska-tv.pl
 www.pol.boobs-xl.com
 www.pozyczka-minutowa.pl
@@ -35066,7 +35101,6 @@ www.skutecznesrodki-tabletkinapotencje.ovh
 www.slimak-pozyczki.pl
 www.smart-m-system.com
 www.sms-z-internetu.pl
-www.sos-info-migrator.pl
 www.star-life.pl
 www.stop-sms.pl
 www.strefa-filmu.pl
@@ -35120,7 +35154,6 @@ zakupeo.com
 zakupyagd.net
 zakupymax.net
 zalukajfilmy.pl
-zantech.pl
 zapraszamybowarto.pl
 zaprojektujiwybuduj.pl
 zdaj-to.pl
@@ -35528,6 +35561,7 @@ dark-forum.net
 darmowetesty.com
 darmowe-doladowania.net.pl
 darmowe-doladowanie.pl
+derikaosos.info
 doladowania-telefonu.pl
 doladujfona.net
 doladujfona.org
@@ -35637,6 +35671,9 @@ konkursy.de
 ksiazka-telefoniczna-online.pl
 ktopodgladamnienafacebooku.wordpress.com
 kurierania.com
+kurierinpost.info
+kurierstas.info
+l00tfiilues.lepfj.site
 learn2upgrade.find4bettervideoing.info
 lesemerick.com
 letswinstuff.com
@@ -35762,6 +35799,7 @@ steam-wallet-money.com
 streamgo.pl
 streamuj.org
 superserwisy.pl
+s-pay24.com
 eenzforfun.com
 elewizja-internetowa24.pl
 hemovienation.com
@@ -35787,6 +35825,7 @@ vidnet.pl
 vidplayer.pl
 vimeoo.net
 vod24.pl
+vtopiuops.info
 wapster.malutki.pl
 wapster.pl
 weartexhibitions.com
@@ -35828,6 +35867,7 @@ www.cpagrip.com
 www.cs.nailrr.com
 www.cybermagicindia.com
 www.darmowetesty.com
+www.derikaosos.info
 www.doladowywacztel.pl
 www.doladujfona.net
 www.doladujfona.org
@@ -35920,6 +35960,9 @@ www.kolor.oq.pl
 www.konkursy.de
 www.ktopodgladamnienafacebooku.wordpress.com
 www.kurierania.com
+www.kurierinpost.info
+www.kurierstas.info
+www.l00tfiilues.lepfj.site
 www.leadzupc.com
 www.learn2upgrade.find4bettervideoing.info
 www.lesemerick.com
@@ -36046,6 +36089,7 @@ www.vidnet.pl
 www.vidplayer.pl
 www.vimeoo.net
 www.vod24.pl
+www.vtopiuops.info
 www.wapster.malutki.pl
 www.wapster.pl
 www.weartexhibitions.com
@@ -36132,6 +36176,7 @@ www.ssl.bezpieczne-platnosci.pl
 www.ssl.full-secure-payments.online
 www.steam-wallet-gifts.com
 www.steam-wallet-money.com
+www.s-pay24.com
 www.telewizja-internetowa24.pl
 www.token-interia.pl
 www.tv-internetowa.pl
@@ -36332,6 +36377,7 @@ prezent.odchudzaniezpasja.pl
 prod.letswinstuff.com
 promotions.monthlywinners.com
 r.clube62.date
+secure.s-pay24.com
 hecryptogenius.com
 web.cellfun.mobi
 web.yuppipuppy.com
@@ -36389,6 +36435,7 @@ www.kaufland.gift-cards.co.pl
 www.pakiety-lte-5gb.blogspot.com
 www.pakiety-pokemon-go.blogspot.com
 www.premiumlink.7tools.eu
+www.secure.s-pay24.com
 zmienkolory.blogspot.com
 # end kadhosts
 # start adaway.org
@@ -39492,7 +39539,6 @@ komachi.yomiuri.co.jp
 komostyle.com
 kotoran.com
 koukoku.red
-krxd.net
 kushyma.com
 l.logly.co.jp
 ladsp.com

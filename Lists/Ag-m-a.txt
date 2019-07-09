@@ -52,6 +52,7 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+casino-ad-mediation.me2zengame.com
 vennala.pw
 promoted.soundcloud.com
 activity.browser.intl.miui.com
@@ -975,6 +976,7 @@ turner.com
 images-*.ssl-images-amazon.com
 baidu.com
 mobile.donanimhaber.com
+mamibai.com
 eporner.com
 static-cl.xhcdn.com
 momon-ga.com
