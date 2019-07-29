@@ -36,9 +36,9 @@ mhc-sec-us.myhomescreen.tv
 #mhc-xpana-eu.myhomescreen.tv  //  if blocked, unable to use smarttv apps e.g. netflix, amazonvideo as tv calls home for connection check
 mhc-xpana-us.myhomescreen.tv
 occ-0-399-783.1.nflxso.net
-#vcs.vdspf.com  // if blocked, notified of new firmware but unable to download/install
+#vcs.vdspf.com  //  if blocked, notified of new firmware but unable to download/install
 x2.vindicosuite.com
-# sony bavaria
+# sony bravia
 # needed for applications
 # needed for applications, if blocked error "no internet connection"
 #applicast.ga.sony.net
@@ -92,6 +92,7 @@ d1jwpcr0q4pcq0.cloudfront.net
 d1oxlq5h9kq8q5.cloudfront.net
 d2tnx644ijgq6i.cloudfront.net
 d3mjsomixevyw7.cloudfront.net
+d37ju0xanoz6gh.cloudfront.net
 dev-multiscreen.samsung.com
 device-metrics-us.amazon.com
 fkp.samsungcloudsolution.com
@@ -136,7 +137,6 @@ samsungacr.com
 samsungadhub.com
 samsungcloudsolution.com
 samsungcloudsolution.net
-samsungelectronics.com
 samsungosp.com
 samsungotn.net
 samsungqbe.com
@@ -148,14 +148,21 @@ syncplusconfig.s3.amazonaws.com
 targeted-config-test.samsungacr.com
 test.samsungrm.net
 #time.samsungcloudsolution.com // if blocked, services like plex, youtube and amazon video not working anymore on some samsung tv's
-upu.samsungelectronics.com
 us-api.samsungyosemite.com
 vd.emp.prd.s3.amazonaws.com
 vdterms.samsungcloudsolution.com
 www.samsungotn.net
 www.samsungrm.net
+samsungelectronics.com
+apu.samsungelectronics.com
+bpu.samsungelectronics.com
+dpu.samsungelectronics.com
+kpu.samsungelectronics.com
+upu.samsungelectronics.com
+zpu.samsungelectronics.com
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
+vd.contents.prod.eu.s3.amazonaws.com
 # hbbtv
 cdn.hbbtv.smartclip.net
 hbbtv-1.eurosport.com
@@ -179,7 +186,7 @@ hbbtv.3sat.de
 # other useless connections from smart-tv
 ad.71i.de
 api.nfl.com
-apicache.vudu.com
+# apicache.vudu.com # needed for vudu app see issue22
 cdn.smartclip.net
 cdns-content.dzcdn.net
 database01p.anixe.net

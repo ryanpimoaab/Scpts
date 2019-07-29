@@ -856,7 +856,6 @@ telemetryverification.net
 teracreative.com
 terraclicks.com
 thetrafficstat.net
-theylike.org
 thoughtleadr.com
 thoughtsondance.info
 tidaltv.com
@@ -976,6 +975,7 @@ turner.com
 images-*.ssl-images-amazon.com
 baidu.com
 mobile.donanimhaber.com
+m.mylust.com
 mamibai.com
 eporner.com
 static-cl.xhcdn.com
@@ -990,7 +990,6 @@ motherless.com
 anyporn.com
 firebaseio.com
 m.ithome.com
-m.mylust.com
 mylust.com
 dastelefonbuch.de
 m.txxx.com
@@ -1071,6 +1070,7 @@ www.a4yy.top
 xxhrd.com
 ymcdn.ymtrack6.co
 static.wi-fi.ru
+wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
 api2.appscraft.mobi
@@ -1135,7 +1135,9 @@ staticaws.365scores.com
 eamobile.com
 mobile-global.baidu.com
 d27tpsznug51gz.cloudfront.net
+v.lvlt.crcdn.net
 vcdn.biz
+cdn-ugc.brainient.com
 dfs.digitalaccess.ru
 gameloft.com
 adeventtracker.spotify.com
@@ -1143,6 +1145,8 @@ do-not-tracker.org
 eviltracker.net
 spotify.com
 trackersimulator.org
+analytics.kidoz.net
+tracker.mtrtb.com
 tracking.ws.eurosport.com
 tracker.rqmob.com
 logconfig.polarisoffice.com

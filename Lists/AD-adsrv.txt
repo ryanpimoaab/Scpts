@@ -4,7 +4,7 @@
 # title: anudeep's blacklist
 # expires: 1 days
 # hosts contributed by anudeep <anudeep@protonmail.com>
-# domain count: 33,153
+# domain count: 33,226
 # ===================================================================
 0001-cab8-4c8c-43de.reporo.net
 002-slq-470.mktoresp.com
@@ -767,11 +767,6 @@
 192023.engine.mobileapptracking.com
 192081.engine.mobileapptracking.com
 192103.tlnk.io
-192.168.ads2.contentabc.com
-192.168.ads.trafficjunky.net
-192.168.cdn11.contentabc.com
-192.168.cdn-a2.contentabc.com
-192.168.media.trafficjunky.net
 192183.engine.mobileapptracking.com
 192217.engine.mobileapptracking.com
 192299.tlnk.io
@@ -7283,7 +7278,11 @@ cdn11.trafficjunky.net
 cdn12.contentabc.com
 cdn12.vizury.com
 cdn18.vizury.com
+cdn.ads.contentabc.com
 cdn1.ads.contentabc.com
+cdn2.ads.contentabc.com
+ads.contentabc.com
+ads2.contentabc.com
 cdn1.clksite.com
 cdn1.ctxt.tribalfusion.com
 cdn1-f1.stickyadstv.com
@@ -8944,7 +8943,6 @@ dealographycom.t.domdex.com
 dealply-pricerabbit.t.domdex.com
 deals.deployads.com
 dealspricer.t.domdex.com
-deals.thehackernews.com
 dealzon-electronics.t.domdex.com
 de.at.atwola.com
 debug.engine.mobileapptracking.com
@@ -21784,7 +21782,6 @@ s-s.www.google-analytics.com.prx.proxywebsite.co.uk
 s-s.www.spyoff.com.prx.proxywebsite.co.uk
 st3.qualtrics.com
 st.adriver.ru
-st.adxxx.o
 www.deployads.com
 staffordshire.eu.qualtrics.com
 staffordshire.qualtrics.com
@@ -33150,3 +33147,64 @@ wpc.v0cdn.net
 iriscoremetadataprod.blob.core.windows.net
 cs11.wpc.v0cdn.net
 racking-opi.fonpit.de
+www.heapanalytics.com
+cdn.heapanalytics.com
+content.heapanalytics.com
+data.heapanalytics.com
+dataproxy.heapanalytics.com
+dre.heapanalytics.com
+go.heapanalytics.com
+marketing.heapanalytics.com
+pantheon.heapanalytics.com
+socket.heapanalytics.com
+status.heapanalytics.com
+ad.ettoday.net
+ssh.mi61l.cn
+www.ailiyou1999.com
+www.concert.io
+concert.io
+api.concert.io
+cdn.concert.io
+create.concert.io
+mocks.concert.io
+www.superads.cn
+superads.cn
+adm-product.superads.cn
+events.superads.cn
+frontend.superads.cn
+postback.superads.cn
+product.superads.cn
+rack.superads.cn
+racking.superads.cn
+www.adxxx.com
+adxxx.com
+aab.adxxx.com
+b.adxxx.com
+cn.adxxx.com
+cs.adxxx.com
+de.adxxx.com
+endpoint.adxxx.com
+es.adxxx.com
+iframe.adxxx.com
+iframe2.adxxx.com
+n.adxxx.com
+pl.adxxx.com
+pr.adxxx.com
+ru.adxxx.com
+samples.adxxx.com
+scan.adxxx.com
+self-service.adxxx.com
+self-service-adm.adxxx.com
+self-service-pay.adxxx.com
+st.adxxx.com
+st-n.adxxx.com
+static.adxxx.com
+static-src.adxxx.com
+static2-src.adxxx.com
+easers.adxxx.com
+r.adxxx.com
+rack.adxxx.com
+racking.adxxx.com
+vi.adxxx.com
+cint.insightexpressai.com
+secure.insightexpressai.com
