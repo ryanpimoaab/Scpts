@@ -4,7 +4,7 @@
 # title: anudeep's blacklist
 # expires: 1 days
 # hosts contributed by anudeep <anudeep@protonmail.com>
-# domain count: 33,226
+# domain count: 33,242
 # ===================================================================
 0001-cab8-4c8c-43de.reporo.net
 002-slq-470.mktoresp.com
@@ -33208,3 +33208,16 @@ racking.adxxx.com
 vi.adxxx.com
 cint.insightexpressai.com
 secure.insightexpressai.com
+clinkadtracking.com
+www.clinkadtracking.com
+www.inplayable.com
+inplayable.com
+www.leapmobs.com
+leapmobs.com
+click.leapmobs.com
+rack.cpi.leapmobs.com
+www.hopemobi.net
+hopemobi.net
+adjs.hopemobi.net
+mgr.hopemobi.net
+rack.hopemobi.net

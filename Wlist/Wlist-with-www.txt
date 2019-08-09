@@ -64,6 +64,7 @@ www.camo.stream.highwebmedia.com
 www.captive.apple.com
 www.cdn.embedly.com
 www.cdn.optimizely.com
+www.cdn.samsungcloudsolution.com
 www.cdn2.optimizely.com
 www.cdn3.optimizely.com
 www.cdnjs.cloudflare.com
@@ -99,6 +100,7 @@ www.cryptowat.ch
 www.cse.google.com
 www.ctldl.windowsupdate.com
 www.customerevents.netflix.com
+www.d1oxlq5h9kq8q5.cloudfront.net
 www.d2c8v52ll5s99u.cloudfront.net
 www.dashboard.plex.tv
 www.dataplicity.com
@@ -228,9 +230,11 @@ www.notepad.pw
 www.notify.xboxlive.com
 www.nrdp.nccp.netflix.com
 www.ns1.dropbox.com
+www.ns11.whois.co.kr
 www.ns2.dropbox.com
 www.o1.email.plex.tv
 www.o2.sg0.plex.tv
+www.oempprd.samsungcloudsolution.com
 www.office.com
 www.officeclient.microsoft.com
 www.ok.ru
@@ -306,6 +310,7 @@ www.storage.googleapis.com
 www.stream.cryptowat.ch
 www.streamate.com
 www.support.binance.com
+www.support.bitfinex.com
 www.support.coinbase.com
 www.support.microsoft.com
 www.surveymonkey.com

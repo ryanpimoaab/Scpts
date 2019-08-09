@@ -194,3 +194,7 @@ sexpennyauctions.com
 
 5fd74.v.fwmrm.net
 static.vrv.co
+
+#TV
+c5ads.ott.skymedia.co.uk
+cdn.http.anno.channel4.com

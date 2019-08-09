@@ -4,9 +4,11 @@
 0apple0.com
 1-paypal.com
 111appleton-1.com
+123.login-bankofamerica-com-security-dsa2.com
 1241thornappleln.info
 126apple.com
 128bitsecured-googledocreview.idsei.net
+174.79.235.35.bc.googleusercontent.com
 176apple.com
 1apple1.com
 1appleod.com
@@ -42,6 +44,7 @@ acccountsverif.verify-paypal.serveusers.com
 access-apple.com
 accesscontroldocsharefiles-supportacceessseverdownl6783.azurewebsites.net
 accesspaypalinformation.com
+accnts-appleid-data-verification.sscomeback05.com
 account-activity-apple.com
 account-apple-service.com
 account-appleid-apple.com
@@ -928,6 +931,7 @@ apple-store-roma-tuscolana.com
 apple-store-roma.cloud
 apple-store-services.com
 apple-store-terbaru.info
+apple-store-update.appservices-verify.com
 apple-store-valencia.com
 apple-store.cloud
 apple-store66.ru
@@ -953,6 +957,7 @@ apple-support-care.com
 apple-support-cloud.com
 apple-support-com.info
 apple-support-help-247.com
+apple-support-icloud.com
 apple-support-inc.com
 apple-support-information.com
 apple-support-not-helpful.com
@@ -1068,6 +1073,7 @@ apple.com-store-lockedmail-0587.mail-open-case-id-51896374.net
 apple.com-supports.top
 apple.com-ydte4jhl6syu0oxhnongmncjl.info
 apple.com-zhn.cn
+apple.com.br3.support
 apple.com.en-fmi.us
 apple.com.famsa.cn
 apple.com.filikz.com
@@ -1084,8 +1090,10 @@ apple.com.sivecs.pw
 apple.com.sveien.pw
 apple.com.svies.pw
 apple.com.verfy-id.us
+apple.com.ytusxe.cn
 apple.fmi.services
 apple.found-idevice.com
+apple.icloud.ytusxe.cn
 apple.id-auth-secure.com
 apple.id-loginauth.com
 apple.id-user-access.com
@@ -1093,8 +1101,10 @@ apple.id.apple.com.account.manage.login.page.signin.ciptapurnamasamudera.co.id.r
 apple.id.com.atpmq.cn
 apple.id.com.aut5.com
 apple.imagineenergy.com.au
+apple.ios.snrgax.cn
 apple.jonesnewsletter.com
 apple.jtle0.cn
+apple.lnc.ytusxe.cn
 apple.location-lost.com
 apple.mac-xperts.com
 apple.manage.cancelation.secure302.com
@@ -1114,6 +1124,7 @@ apple.varifidogioio.com
 apple.varifidogioit.com
 apple.varifidogione.com
 apple.varifidogiooq.com
+apple.varifidogioot.com
 apple.varifidogioox.com
 apple.varifidogioui.com
 apple002.com
@@ -1762,6 +1773,9 @@ appleid.apple.com-verification-account-secure.igg.biz
 appleid.apple.com-verify.dellshowroominhyderabad.co.in
 appleid.apple.com.028a.co
 appleid.apple.com.allcookerrepairs.co.uk
+appleid.apple.com.apple.com1.hagelmayerconsult.ro
+appleid.apple.com.apple.hagelmayerconsult.ro
+appleid.apple.com.atetewxyz.com
 appleid.apple.com.billing-rejected.com
 appleid.apple.com.lundesoldm.com
 appleid.apple.com.ogival.com.my
@@ -1786,6 +1800,7 @@ appleid.apple.iforgot-bgfids.gq
 appleid.apple.lundesoldm.com
 appleid.com-appletracker.com
 appleid.com-signin-update.verificationx8489nc7ns7693j376d.gpt.vn
+appleid.com.rebuild-support-fround.ga
 appleid.love
 appleid.poconggalls.com
 appleid.sccd-com.cn
@@ -2278,6 +2293,7 @@ applerentcar.com
 applerepair.services
 applerepair.solutions
 applerepairandmore.com
+applerepaircentre.org
 applerepairmontreal.com
 applerepairnewyork.com
 applerepairs.info
@@ -2612,6 +2628,7 @@ appleunlockhelp.com
 appleunlockingservice.com
 appleunlockservermm.com
 appleupdate.org
+appleupdatemarket.com
 appleuser-idlocked-icloudapple.com
 appleuser-support-validate-accountreview-8vewu9vyv-billing.com
 appleuser.site
@@ -2893,11 +2910,14 @@ bankloginonline.com
 bankloginus.com
 bankmaluku.co.id
 bankoboya.com
+bankofameric-com-update-login-new-security.com
 bankofamerica-account-verication0.ns1.dnsbankofamerica.com-importantupdate.kinerjadatacenter.com
 bankofamerica-account-verication0.ns1.dnsbankofamerica.com-importantupdate.umptechnology.com
 bankofamerica-c7c21dcd.upgrade-14a202c3.jmlcivil.com.au
 bankofamerica-com-login-in-account-email.com
 bankofamerica-com-login-in-sign.com
+bankofamerica-com-login-in-update.dadsadqw.com
+bankofamerica-com-update-email.sdaadsasdeqqew.com
 bankofamerica-com-update-info-secure.org.uk
 bankofamerica-comp-login-sec-hold.com
 bankofamerica-confirminformation.up-dateyourinfo.com
@@ -2940,6 +2960,7 @@ bankofamerica.personal578.com
 bankofamerica.plw.com.br
 bankofamerica.santajicollege.ac.in
 bankofamerica.secure.online.viacaoariranha.com.br
+bankofamerica.smeoba.com
 bankofamerica.verify478.com
 bankofamerica24hservice.qgsm.ro
 bankofamericaar1.webcindario.com
@@ -3724,6 +3745,7 @@ ebay-sell.com
 ebay-seller-amm-g.com
 ebay-servicios.com
 ebay-shop-login-confirmation.com
+ebay-signin.com
 ebay-sitepaycardbussines.gitlab.io
 ebay-support-service-error1001.github.io
 ebay-support.co.uk
@@ -3737,6 +3759,7 @@ ebay.co.uk.18851436708.bid
 ebay.co.uk.37519065590.bid
 ebay.co.uk.isapiddl.com
 ebay.co.uk.pratapgarhmandi.com
+ebay.co.uk.web-article-contact.ga
 ebay.com-2007-john-deere-utility-tractor.item-4751.bid
 ebay.com-motors-itms-iron-bull-dump-trailer-used.scuo.top
 ebay.com.daily-deals-today.bid
@@ -3755,12 +3778,20 @@ ebay.com.payments-seller-center.gq
 ebay.com.payserror.cf
 ebay.com.productpayment.ga
 ebay.com.selling-payment-center.ga
+ebay.com.us.contact-web-sellers.gq
 ebay.de-item323747.com
+ebay.de.3zno.icu
+ebay.de.69wl.icu
+ebay.de.mqpq.icu
+ebay.de.mxbk.icu
 ebay.de.sofort-kaufen.gq
+ebay.de.vfpe.icu
 ebay.of.by
 ebay.rygconstruction.com
 ebay.stock-store.site
 ebay.uk-9368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675799398146.freshvalu.com
+ebay.us.article-seller-reviews.gq
+ebay.us.contact-web-article.gq
 ebay.viewitm.com
 ebay5.com
 ebayalert.com
@@ -3842,6 +3873,7 @@ find-new-bank-account-us.com
 find-new-bank-account.com
 findii-apple.com
 findingmy-apple.com
+findip-apple.com
 findll-apple.com
 findly-apple.com
 findmyapplecare-br.com
@@ -4817,10 +4849,13 @@ icloud.com.apple-sign.in
 icloud.com.find-iphone-device.info
 icloud.com.find-location.in
 icloud.com.find-service.info
+icloud.com.find.signto.us
 icloud.com.ht
+icloud.com.i-location.info
 icloud.com.id-onlinemap.info
 icloud.com.in-auth.us
 icloud.com.isupport-verify.com
+icloud.com.ldapple.in
 icloud.com.login-en.me
 icloud.com.login.surtoqui.com
 icloud.com.maps-log-in.us
@@ -4832,7 +4867,10 @@ icloud.com.support-log.in
 icloud.com.user-log-in.us
 icloud.com.useraccount-log.in
 icloud.fasate.com.cn
+icloud.findmy-iphone.cn
 icloud.findmyiphone.y3zw96dakdu6cc1a96dibm1w6v5gp0f41a0e19cq631dc.cl2.eu
+icloud.ifuid.cn
+icloud.iphone.ytusxe.cn
 icloud.party
 icloud05.com
 icloud84.com
@@ -4963,6 +5001,7 @@ idms-apple-pay.club
 idmsa-accounts-apple.com
 idmsa-apple.com
 idmsa-appleid-managetoyouraccount-lockednotifications.com
+idmsa.apple.com.idmsw.hagelmayerconsult.ro
 idmsa.apple.com.idmswebautha123.eltrailer.cl
 idmsapple.systems
 idoapple.ru
@@ -4986,6 +5025,7 @@ ifogtapple.com
 iforgatapple.com
 iforget-apple.com
 iforget.apple.com.anaksultan.business
+iforgetappleconfig.com
 iforgort-apple.com
 iforgot-apple-support.com
 iforgot-apple.com
@@ -5205,6 +5245,7 @@ kontopruefung-paypal.com.de
 kopotakkhobloodbank.com
 koripaypal.com
 kostenloses.paypal-kontopaypal-online-zahlungen.lipay.solutions
+kreditkarten-banking.lbb.de
 kunde-paypa.l-centerguard.info
 kundenservice-paypal-sicherheit.com
 kundenservice-paypal-sicherheit.net
@@ -5317,6 +5358,8 @@ login-icloud-appleid-us.com
 login-icloud-locked.com
 login-icloud-us.com
 login-idapplesecure-account-locked.com
+login-microsoftonline-com-oauth-adcfbb759597384794827274627481.netlify.com
+login-microsoftonline-com-oauth-b4391d598504857394782749264721.netlify.com
 login-microsoftonline-corn.alltimelista.com
 login-microsoftonline.lokantuneraz.com
 login-payment-paypal.com
@@ -5723,6 +5766,7 @@ mypaypal0nline.com
 mypaypalcash.com
 mypaypall-limited-security-chcek.com
 mypaypalprofits.com
+mypaypalsertcure.ddns.net
 mypaypaltestingdomain.com
 mypaypaltestingdomain.net
 mypaypalverification.co.uk
@@ -6000,11 +6044,13 @@ paypai-login.com.peternigido.com
 paypai-restore-user.com
 paypai-secure.com
 paypai-supportactiveyour-account.com
+paypai.co.uk-account.net
 paypai.com-access.resolvee.lmitied-access.234552345234asw.1987.nexusoilandgas.com
 paypai.com-account.net
 paypai.com.info.secure.update-acc-sit.duckdns.org
 paypai.receiptorder.com
 paypai.requestfailed.com
+paypai.user-security-check.com
 paypaiiyl.com
 paypail-idpaycheck.info
 paypail.co.uk
@@ -6033,6 +6079,7 @@ paypal-account.com
 paypal-account.info
 paypal-account.live
 paypal-accountinfo.net
+paypal-accountlimited.shrisaiacademymhow.in
 paypal-accounts-reset.rabacom.com
 paypal-accounts.ogspy.net
 paypal-acesso-es.com
@@ -6103,6 +6150,7 @@ paypal-home-secure.com
 paypal-homepage.com
 paypal-id-restore.blogspot.com
 paypal-id.co
+paypal-id.secure2-log-in.cf
 paypal-income.com
 paypal-incs.com
 paypal-info.accountveriftinbox.com
@@ -6115,6 +6163,7 @@ paypal-infoupdater.xyz
 paypal-inotecficaiton-an5915n9sny9s8vsvjs9s8b629nfs8vc.pencengbarus.com
 paypal-intl-webapps.apliteaz.com
 paypal-invoice.iakcm.com
+paypal-issues.cf
 paypal-konto-sicherheitsdienst.com.de
 paypal-kundencenter.com
 paypal-kundenidentifikation.com
@@ -6145,6 +6194,7 @@ paypal-login.airsupplycompany.com
 paypal-login.co.uk
 paypal-login.infosite.co
 paypal-login.serveuser.com
+paypal-login.u4385421br.ha003.t.justns.ru
 paypal-mailer.com
 paypal-manage-support.com
 paypal-management.com
@@ -6210,6 +6260,8 @@ paypal-securityreport.com
 paypal-securrty.herokuapp.com
 paypal-secury.herokuapp.com
 paypal-servauths.myftp.org
+paypal-service-01.com
+paypal-service-account.com
 paypal-service-automatic-pay-ment-centralserver-paypal.com.automaticsentcveriv.com
 paypal-service-automatic-pay-ment-centralserver-paypal.com.automaticsfdsent.com
 paypal-service-center.com
@@ -6350,6 +6402,7 @@ paypal.co.uk.4tdc.pw
 paypal.co.uk.65a8.in
 paypal.co.uk.6g1x.pw
 paypal.co.uk.6gzw.pw
+paypal.co.uk.6ykt.icu
 paypal.co.uk.6z0r.pw
 paypal.co.uk.75qp.pw
 paypal.co.uk.7e38.icu
@@ -6392,6 +6445,7 @@ paypal.co.uk.jk13.pw
 paypal.co.uk.k4s1.top
 paypal.co.uk.k5q1.in
 paypal.co.uk.k67j.top
+paypal.co.uk.kcfs.icu
 paypal.co.uk.khb7.in
 paypal.co.uk.kw4i.top
 paypal.co.uk.m44q.pw
@@ -6415,8 +6469,10 @@ paypal.co.uk.u4sh.pw
 paypal.co.uk.uzez-9593450514.newpp.prietsporzpp.com
 paypal.co.uk.w0zz.pw
 paypal.co.uk.w45w.top
+paypal.co.uk.w5z6.icu
 paypal.co.uk.xtq7.pw
 paypal.co.uk.y2bt.pw
+paypal.co.uk.ywzv.icu
 paypal.co.uk.yxrkt.2b7q8.bukafa.com
 paypal.com-092018.me
 paypal.com-accountlimited-verification.net
@@ -6449,6 +6505,7 @@ paypal.com-webapps.updated.iletraza-179916262.info
 paypal.com-webbs-apps-secure-updates.com.supportsecurityupdate.igg.biz
 paypal.com-x-signin.review-case.a882888cfdf8e2a355b768086dfb58a0.info
 paypal.com.0.confirmation.account-security.39612823e89e12155115a36a9b9328ae39612823e89e12155115a36a9b932.3233.privado.info
+paypal.com.798273.ml
 paypal.com.7updatetonew.duckdns.org
 paypal.com.account.security.mo.verification.iatxmjzqhibe81zbfzz.checksecurity.jnidicadefnaleaa46cq6nxackdbw.secure.account-stats.com
 paypal.com.account.update.paypal.com.paradiseyouthclub.com
@@ -6520,11 +6577,13 @@ paypal.gatiles.com
 paypal.gb-alert.co.uk
 paypal.gb-limited.info
 paypal.gb-restricted.info
+paypal.id.security-sign-in.tk
 paypal.inc-fr.com
 paypal.it.adbf5a778175ee757c34d0eba4e932bc.adbf5a778175ee757c34d0eba4e932bc.adbf5a778175ee757c34d0eba4e932bc.adbf5a778175ee757c34d0eba4e932bc.arizonaweedguard.com
 paypal.jmpdesign.co.uk
 paypal.kansalpankki.com
 paypal.kharas.ps
+paypal.kidoo.ro
 paypal.kunden-sicherheit-daten.icu
 paypal.kunden-validierung.icu
 paypal.kundendienst-check-sicherheit.icu
@@ -6567,6 +6626,8 @@ paypal.ueberpruefung-datenschutz.icu
 paypal.uk-verifications.com
 paypal.ukaccount-checks.com
 paypal.up-with.com
+paypal.user-veri-ssl.icu
+paypal.veri-user-ssl.icu
 paypal.verif-id-010518.com
 paypal.verif-purchase-id-020318-160515.com
 paypal.verification-ref237.com
@@ -6577,6 +6638,7 @@ paypal.webaccountvalidation-services.igg.biz
 paypal.x-signin.e4ed022458ca01f4ad593.appereance.international
 paypal.xdatingroot.com
 paypal.xin
+paypal.yamahatrisaktimotor.com
 paypal1.net-br.top
 paypal102.com
 paypal168.com
@@ -6632,6 +6694,7 @@ paypalbusinessaccountverificationdocument.com
 paypalbusinessaccountverificationdocuments.com
 paypalbusinessaccountverificationgeneralcontact.com
 paypalbusinessaccountverificationinformation.com
+paypalbusinesscard-227f.restdb.io
 paypalbusinessonline.com
 paypalbussiness.com
 paypalbux.com
@@ -6961,6 +7024,7 @@ privacy-apple.cloud
 privacy-policy-updateinfoappleid.com
 privacypolici-appleid.info
 privacypoliciestermsandconditionsofapple.com
+private.account-disable.icloud.skipappap.com
 privateswissbarclays.com
 proappleservice.ru
 problem-support-appleid-apple.com
@@ -7266,6 +7330,7 @@ secure-login-apple-support.top
 secure-login-appleid-verification-account-mailconfirmations.cloud
 secure-login-applemyjoss.com
 secure-loginicloud.com
+secure-manage.limited-paypalaccounts.purapurapoho.com
 secure-missinginformation-appleid.com
 secure-paypage.com
 secure-paypal-intl.com
@@ -7318,6 +7383,7 @@ secure.paypal.verifyinformationdetails.com
 secure.paypalobjeets.com
 secure.server.login.paypal.email.validation.pono-pau.com
 secure0-apple-signin.com
+secure01-paypal-signin.nethabertr.com
 secure01-store-apple.com
 secure01bankofamerica.birdslisten.com
 secure1-apple-payment.com
@@ -7666,6 +7732,7 @@ subscription-apple-com.management
 subscription-apple.app
 subscription-store-apple.com
 subscriptions-secure-apple.com
+subscriptions.compras-apple.com
 summary-apple.com.verifyouraccount.info
 summary.paypai.resolve.tekantombolnya.com
 summaryapplesupport.com
@@ -8144,6 +8211,7 @@ verifyappleid.com
 verifycation-appleid-unlocked.com
 verifyclientaccount-paypal.com
 verifylocati0napple.com
+verifyme-apple.com
 verifypaypailwebappsmyaccountsupdateds.authsloginsaccs.com
 verifypaypal.com
 verifyuser-intlpaypal.com
@@ -18127,6 +18195,7 @@ microsofthelpline2017.blogspot.com
 microsofthelplinenumber.blogspot.com
 microsofthelplinenumber.com
 microsofthelplinenumbers.com
+microsofthelpnsupport.xyz
 microsofthelpnumber.wordpress.com
 microsofthelpnumbers.com
 microsofthelpstore.com
@@ -18402,6 +18471,7 @@ microsoftsupport-co-uk-priority-helpline-numberfkfkkfkfk433.com
 microsoftsupport-co-uk-priority-helplinek6k6k6k622433.com
 microsoftsupport-co-uk-priority-helplinek7k7k67k22433.com
 microsoftsupport-co-uk-priority-helplinekjkjkjkjk433.com
+microsoftsupport-number.com
 microsoftsupport.center
 microsoftsupport.co
 microsoftsupport.co.uk

@@ -3,7 +3,6 @@
 4ksport.pl
 4shoes.pl
 5k-player.com
-6j4cea2ybg.pl
 7tools.eu
 20pascals.nl
 24hoursready.cf
@@ -45,6 +44,7 @@ antyspam.net
 anuluj-dlug.pl
 anuluj-mandat.pl
 anuluj-natreta.pl
+anwan.pl
 apartamentypoleska.pl
 appcaptcha.com
 appfox.org
@@ -57,7 +57,6 @@ areyouahuman.co
 ariix.com
 arkonfinance.pl
 aromagroup.pl
-artstructures.pl
 assat.pl
 atcofiles.com
 atlanticgam.online
@@ -100,7 +99,6 @@ blubox.pl
 bmgrp.tk
 bnewsb.com
 bodysecretrevelation.com
-bony-zakupowe.pl
 boobi.biz
 bootstraplugin.com
 boryskowalski.pl
@@ -109,6 +107,7 @@ browsergames2018.com
 brumflix.com
 btcprofitnow.pro
 bustcream-pro.com
+butyasicsgel.pl
 butypremium.pl
 buzzonclick.com
 calivita.com
@@ -202,6 +201,7 @@ ebeautyportal.com
 ebook4all.com.pl
 ebookipdf.pl
 ebuty.net.pl
+ecomotto.pl
 ecoslimmer.pro
 eco-flow.pl
 ecpp.pl
@@ -261,7 +261,6 @@ filmowo.com.pl
 filmyfilmy.pl
 filmyiseriale.pw
 filmy-premium.pl
-findgiftcode.com
 firead.org
 fireads.online
 fireads.pl
@@ -276,8 +275,6 @@ foreverliving.com
 fortnitehack2018.com
 fortnite-vbuck.com
 fotowalkowska.pl
-foto-office.pl
-freevbucks-fortnite.pl
 freevbuckx.com
 free-gg.com
 full-movies-online.cba.pl
@@ -299,6 +296,7 @@ gbptest.net
 gemverify.com
 generatorkodow.hpu.pl
 gerotel.com
+getdataback.pl
 getleads.pl
 getthesneakers.pl
 gift-cards.co.pl
@@ -336,12 +334,14 @@ heredatetime.com
 hibids10.com
 hitlog.tk
 hksfa.org
+hokaeshop.com
 holdenavenue.pl
 hollisterwarszawa.pl
 homeagd.in.net
 homeekspert.net
 homeexpres.net
 homejailbreak.com
+homgar.pl
 hotokazje.com
 huit.re
 humanverify.net
@@ -368,7 +368,6 @@ i-mobi.pl
 i-store365.com
 jacketspolska.cn
 jakpodrywacnatinderze.pl
-jete.pl
 jezyckiszuszwol.pl
 jordenmadsen.com
 judomiedzyrzecz.pl
@@ -428,12 +427,14 @@ livioon.com
 lnaff.pl
 lnpush.pl
 loktrk.com
+lomzynskie.pl
 longup.co
 lopon.pl
 lottoland.pl
 loveaholics.com
 lovemyshoes.pl
 lp-wip.pl
+maczyn.pl
 maendo.tv
 magiskmanager.com
 manaslu.pl
@@ -464,11 +465,11 @@ mobila.pl
 mobilerewards.io
 mobile-app.pl
 mobverify.com
+model-agd.pl
 mojadietanamase.pl
 mojapsina.com
 mojepc.net
 mojezakupy.net
-moje-iq.pl
 mon.trackmysales.website
 morceko.pl
 morele.info
@@ -554,6 +555,7 @@ pl.melaleuca.com
 pl.oriflame.com
 pl.siberianhealth.com
 pl.superando.net
+plastiquedesign.pl
 playfilm.pl
 playgames4u.com
 playmax.co
@@ -582,12 +584,12 @@ pozyczki-prywatne.com.pl
 xn--poyczaj-xwb.online.pl
 pracowniaciala.pl
 prawdziwyrozwoj.pl
+prdplock.pl
 premium.ihuh.pl
 premiumlinkgenerator.online
 premium-offers.space
 prime-management-ltd.com
 princessmask.pro
-pritom.pl
 private.atlanticgam.es
 prizelava.com
 probolan50.pl
@@ -632,7 +634,6 @@ refundacjeregionalne.pl
 reimageplus.com
 rep.privatesearch.club
 rezacze.pl
-roaringcash.com
 robloxhack.pl
 rosalieeve.pl
 roulettenumber.com
@@ -666,7 +667,6 @@ showup-tv.com.pl
 silvets.pl
 siniaki.pl
 sklep466452.shoparena.pl
-skleplara.pl
 skleptiande.pl
 sklep-colway.com
 sklep-colway.pl
@@ -697,12 +697,12 @@ stuntoffer.com
 sug.com.pl
 sukces.pl
 sundaycashsaver.com
+swietna-pozyczka.pl
 swiezaki.weebly.com
 szaloneupusty.pl
 szamponrevita.pl
 szczesliwagotowka.pl
 szoping.net
-szybkanaukapro.pl
 szybkapozyczkateraz.pl
 szybka-pozyczka.com
 szybka-wyplata.pl
@@ -726,6 +726,7 @@ ilido.com
 niemyceny.net
 omaszrabinski.pl
 opseans.pl
+op-oferty.net
 orrenty--org.pl
 rack.adsfast.com
 rackgsm.co.uk
@@ -774,7 +775,7 @@ wartomiec.pl
 web-online.pl
 wellstar-company.com
 wellu.eu
-weon.pl
+wernet.pl
 wesklan.pl
 westcoastboxerclub.com
 wielkanagroda.com
@@ -831,6 +832,7 @@ www.amway.pl
 www.androidgameshacks.com
 www.antontech.pl
 www.antyspam.net
+www.anwan.pl
 www.apartamentypoleska.pl
 www.appcaptcha.com
 www.appfox.org
@@ -844,7 +846,6 @@ www.areyouahuman.co
 www.ariix.com
 www.arkonfinance.pl
 www.aromagroup.pl
-www.artstructures.pl
 www.assat.pl
 www.atcofiles.com
 www.atlanticgam.online
@@ -895,6 +896,7 @@ www.brumflix.com
 www.btcprofitnow.pro
 www.bueongi.pl
 www.butyadidas.pl
+www.butyasicsgel.pl
 www.butypremium.pl
 www.buzzonclick.com
 www.calivita.com
@@ -983,6 +985,7 @@ www.ebook4all.com.pl
 www.ebookipdf.pl
 www.ebuty.net.pl
 www.ecoflow.pl
+www.ecomotto.pl
 www.ecoslimmer.pro
 www.ecoworld24.com
 www.ecpp.pl
@@ -1041,7 +1044,6 @@ www.filmyfilmy.pl
 www.filmyiseriale.pw
 www.finansedladziecka.pl
 www.finclub.pl
-www.findgiftcode.com
 www.fireads.online
 www.fireads.pl
 www.firead.org
@@ -1077,6 +1079,7 @@ www.genetrk.com
 www.geniustrainer.net
 www.gerotel.com
 www.getcouponsfast.com
+www.getdataback.pl
 www.getleads.pl
 www.getthesneakers.pl
 www.gikon.pl
@@ -1110,14 +1113,15 @@ www.heredatetime.com
 www.hibids10.com
 www.hitlog.tk
 www.hksfa.org
+www.hokaeshop.com
 www.holdenavenue.pl
-www.hollisterskleponline.pl
 www.hollistersklep.com
 www.hollisterwarszawa.pl
 www.homeagd.in.net
 www.homeekspert.net
 www.homeexpres.net
 www.homejailbreak.com
+www.homgar.pl
 www.hostedfiles.net
 www.hotokazje.com
 www.huit.re
@@ -1144,7 +1148,6 @@ www.jacketspolska.cn
 www.jakpodrywacnatinderze.pl
 www.jasnypoker.pl
 www.jelitto.pl
-www.jete.pl
 www.jeunesseglobal.com
 www.jezyckiszuszwol.pl
 www.jordenmadsen.com
@@ -1208,6 +1211,7 @@ www.lnaff.pl
 www.lnktime.com
 www.lnpush.pl
 www.loktrk.com
+www.lomzynskie.pl
 www.longup.co
 www.lopon.pl
 www.lottoland.pl
@@ -1216,6 +1220,7 @@ www.lovemyshoes.pl
 www.lrworld.com
 www.lucyfeed.com
 www.lyoness.com
+www.maczyn.pl
 www.madagascaroasis.org
 www.maendo.tv
 www.magiskmanager.com
@@ -1247,7 +1252,6 @@ www.mmajerski.pl
 www.mobicpi.com
 www.mobila.pl
 www.mobilerewards.io
-www.mobiluj.eu
 www.mobiluj.sk
 www.mobverify.com
 www.modi4moda.com
@@ -1346,6 +1350,7 @@ www.petshooop.com
 www.photook.vxm.pl
 www.phytolast.com
 www.pitbull.ek1.pl
+www.plastiquedesign.pl
 www.playfilm.pl
 www.playgames4u.com
 www.playmax.co
@@ -1366,11 +1371,11 @@ www.pozyczkiprywatne.com
 www.pracowniabajka.pl
 www.pracowniaciala.pl
 www.prawdziwyrozwoj.pl
+www.prdplock.pl
 www.premiumlinkgenerator.online
 www.premium.ihuh.pl
 www.prevalue.pl
 www.princessmask.pro
-www.pritom.pl
 www.private.atlanticgam.es
 www.prizelava.com
 www.pro102.pl
@@ -1422,7 +1427,6 @@ www.reimageplus.com
 www.rep.privatesearch.club
 www.rezacze.pl
 www.riverparkbaseball.org
-www.roaringcash.com
 www.robloxhack.pl
 www.rosalieeve.pl
 www.roulettenumber.com
@@ -1454,7 +1458,6 @@ www.shopsneakers.pl
 www.silvets.pl
 www.siniaki.pl
 www.sklep466452.shoparena.pl
-www.skleplara.pl
 www.skleptiande.pl
 www.slawop.net
 www.slowkariera.pl
@@ -1496,7 +1499,6 @@ www.szamponrevita.pl
 www.szczesliwagotowka.pl
 www.szczesliwydzien.com
 www.szoping.net
-www.szybkanaukapro.pl
 www.szybkapozyczkateraz.pl
 www.talkfusion.com
 www.taniebutymaster.com
@@ -1508,7 +1510,6 @@ www.teespoon.co
 www.teleaudio.pl
 www.telecop.in.net
 www.telemediaa.pl
-www.telescopethesky.com
 www.tembakan.pl
 www.tengofoxfiles.com
 www.terrex.pl
@@ -1581,7 +1582,7 @@ www.w2mobile.com
 www.w65.pl
 www.wartomiec.pl
 www.wellu.eu
-www.weon.pl
+www.wernet.pl
 www.wesklan.pl
 www.westcoastboxerclub.com
 www.wiecznieczwarty.com.pl
@@ -1619,7 +1620,6 @@ www.zaho.pl
 www.zakupeo.com
 www.zakupyagd.net
 www.zakupymax.net
-www.zakupyrtvagd.pl
 www.zalukajfilmy.pl
 www.zapraszamybowarto.pl
 www.zarobek4u.com
@@ -1637,7 +1637,6 @@ www.4ksport.pl
 www.4life.com
 www.4shoes.pl
 www.5k-player.com
-www.6j4cea2ybg.pl
 www.7tools.eu
 www.20pascals.nl
 www.24hoursready.cf
@@ -1658,7 +1657,6 @@ www.bestbook-library.com
 www.be-wild.pl
 www.bit-coin-trader.com
 www.blog-in.biz
-www.bony-zakupowe.pl
 www.bustcream-pro.com
 www.cda-bez-limitu.pl
 www.cda-filmy.com.pl
@@ -1695,8 +1693,6 @@ www.fabryka-nagrod.com
 www.filmy-premium.pl
 www.fit-buzz.com
 www.fortnite-vbuck.com
-www.foto-office.pl
-www.freevbucks-fortnite.pl
 www.free-gg.com
 www.fresh-finance.pl
 www.full-movies-online.cba.pl
@@ -1716,7 +1712,6 @@ www.health-partner.net
 www.infolinia-kontakt-telefon.pl
 www.informacja-dnia.com
 www.instytut-pomocy.pl
-www.international-free-bank.com
 www.i-cda.pl
 www.i-mobi.pl
 www.i-store365.com
@@ -1736,7 +1731,7 @@ www.mezczyzna-trendy.pl
 www.mieszkania-pokoje-wynajem.pl
 www.mobiapp-games.com
 www.mobile-app.pl
-www.moje-iq.pl
+www.model-agd.pl
 www.moviestarplanet-hack.org.pl
 www.moviestarplanet-haki-i-kody.crazylife.pl
 www.music.jbl-solo.com
@@ -1790,9 +1785,11 @@ www.sms-z-internetu.pl
 www.star-life.pl
 www.stop-sms.pl
 www.strefa-filmu.pl
+www.swietna-pozyczka.pl
 www.szybka-pozyczka.com
 www.szybka-wyplata.pl
 www.the-titanium.com
+www.top-oferty.net
 www.torrenty--org.pl
 www.tri-book.pl
 www.twoja-wygrana.com
@@ -1835,7 +1832,6 @@ zabawekswiat.eu
 zakupeo.com
 zakupyagd.net
 zakupymax.net
-zakupyrtvagd.pl
 zalukajfilmy.pl
 zapraszamybowarto.pl
 zdaj-to.pl
@@ -2263,6 +2259,7 @@ zgarniij_vouchher.skroc.pl
 1freesoftwareonline.com
 4kplayer.pl
 4kstream.pl
+50kaweek.live
 7228.eu
 abbp35.com
 adamdelivery.pl
@@ -2306,6 +2303,7 @@ buz2mobile.com
 captainquizz.de
 carambaba.com
 catsplit.com
+cda-flix.pl
 centrumplay.pl
 challengeforme.com
 check-prizes-now2.life
@@ -2351,11 +2349,25 @@ esemeso.pl
 exeos.ws
 ezdownloadpro.info
 e-podgladaj.pl
+faccebook.5v.pl
 faceapp.eu
+facebbook.5v.pl
+facebook-login.5v.pl
+facebook-profile.5v.pl
+facebook.5v.pl
 facewatch.borec.cz
 failmobile.net
 fajne-filmy.pl
 faktopedia.com.pl
+fakturownia-pl.cf
+fakturownia-pl.ga
+fakturownia-pl.gq
+fakturownia-pl.ml
+fakturownia-pl.tk
+fakturo-wnia.cf
+fakturo-wnia.ga
+fakturo-wnia.gq
+fakturo-wnia.ml
 favoriteadrequest.com
 fbpodgladacz.wordpress.com
 fernanosood.info
@@ -2433,7 +2445,6 @@ i-chomikuj.pl
 i-podgladacz.pl
 jamba.pl
 jamster.pl
-jedz-eco.pl
 juicywin.pl
 kasa-sms.pl
 kasiakurier.info
@@ -2482,7 +2493,6 @@ moviestarplanethackers.co
 msphack.com.pl
 msphackonline.com
 multico.5v.pl
-mundialove.pl
 myeforsa.pl
 nagroda-sms.pl
 najlepszewrozby.pl
@@ -2493,6 +2503,7 @@ newszone.pro
 news-onet24.pl
 nonstopvideos.pl
 n-mobile.net
+ogladaj-online24.pl
 ollando.com
 olx-platnosci.online
 onliine.pl
@@ -2572,6 +2583,7 @@ skinycs.pl
 skippyfile.com
 smsiaki.eu
 sms-za-darmo.pl
+socialbump.hekko24.pl
 sofaforlife.com
 soft4click.com
 softsmart.mobi
@@ -2634,6 +2646,7 @@ wiadomosci-tv24-onet.eu
 widget-eforsa.pl
 wincleanerpro.com
 wisdementive.info
+wplogin.5v.pl
 wwebsservice.info
 www.abbp35.com
 www.adamdelivery.pl
@@ -2801,7 +2814,6 @@ www.movienet.pl
 www.moviestarplanethackers.co
 www.msphackonline.com
 www.msphack.com.pl
-www.mundialove.pl
 www.myeforsa.pl
 www.m.smsquiz.pl
 www.najlepszewrozby.pl
@@ -2867,6 +2879,7 @@ www.skidrowcrack.com
 www.skinycs.pl
 www.skippyfile.com
 www.smsiaki.eu
+www.socialbump.hekko24.pl
 www.sofaforlife.com
 www.soft4click.com
 www.softmania.pl
@@ -2933,6 +2946,7 @@ www-apple-com-virus-removal-systems.fixingit.solutions
 www.1freesoftwareonline.com
 www.4kplayer.pl
 www.4kstream.pl
+www.50kaweek.live
 www.7218.pl
 www.7228.eu
 www.adidas-collection.club
@@ -2956,6 +2970,7 @@ www.apple.com-speed-macos.live
 www.bramka-sms-za-darmo.pl
 www.brave-browser.info
 www.btc-forum.pl
+www.cda-flix.pl
 www.check-prizes-now2.life
 www.chomik-24.pl
 www.chron-telefon.com
@@ -2970,7 +2985,21 @@ www.doladowania-telefonu.pl
 www.downloads-mobile.com
 www.ero-tv.pl
 www.e-podgladaj.pl
+www.faccebook.5v.pl
+www.facebbook.5v.pl
+www.facebook-login.5v.pl
+www.facebook-profile.5v.pl
+www.facebook.5v.pl
 www.fajne-filmy.pl
+www.fakturownia-pl.cf
+www.fakturownia-pl.ga
+www.fakturownia-pl.gq
+www.fakturownia-pl.ml
+www.fakturownia-pl.tk
+www.fakturo-wnia.cf
+www.fakturo-wnia.ga
+www.fakturo-wnia.gq
+www.fakturo-wnia.ml
 www.file-share.pl
 www.file-share365.com
 www.filmy-i-seriale.pl
@@ -2985,7 +3014,6 @@ www.interia-zabezpieczenia.pl
 www.i-chomik.pl
 www.i-chomikuj.pl
 www.i-podgladacz.pl
-www.jedz-eco.pl
 www.kasa-sms.pl
 www.kocham-cie.c0.pl
 www.ksiazka-telefoniczna-online.pl
@@ -2999,6 +3027,7 @@ www.namierz-telefon.pl
 www.newsy-onet24.pl
 www.news-onet24.pl
 www.n-mobile.net
+www.ogladaj-online24.pl
 www.olx-platnosci.online
 www.oplac-zaleglosc.eu
 www.orange-kodzik.890m.com
@@ -3031,6 +3060,7 @@ www.wiadomosci-onet24.pl
 www.wiadomosci-onet24.tk
 www.wiadomosci-tv24-onet.eu
 www.widget-eforsa.pl
+www.wplogin.5v.pl
 www.wybierz-nagrode.pl
 www.your-mac-security-analysis.net.guygr.upnpuqimdqnghau.icu
 www.your-movies.pl
@@ -3200,7 +3230,6 @@ fejs-colors.blogspot.com
 freeiqtest.blogspot.com
 go.bestmobiworld.com
 gw.firesub.pl
-hc2izgmnmnqs.lwfjd.today
 hp.myway.com
 hwww.zweryfiikujdane.tk
 kaufland.gift-cards.co.pl
@@ -3223,6 +3252,7 @@ pl2.slimg0ji-berry.com
 play.appiq.mobi
 play.leadzu.com
 play.mobsfun.net
+pl.50kaweek.live
 pl.bustcream-pro.com
 pl.health-line.me
 pl.mobile-redirection.com
@@ -3263,7 +3293,6 @@ www.fejsopodgladacz.blogspot.com
 www.freeiqtest.blogspot.com
 www.go.bestmobiworld.com
 www.gw.firesub.pl
-www.hc2izgmnmnqs.lwfjd.today
 www.hp.myway.com
 www.hwww.zweryfiikujdane.tk
 www.klikijuz.com

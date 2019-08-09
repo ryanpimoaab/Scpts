@@ -59,6 +59,7 @@ activity.browser.intl.miui.com
 api.brs.intl.miui.com
 api.newsfeed.intl.miui.com
 huangye.miui.com
+eihjefbbbbddeiacedb.ru
 file.market.xiaomi.com
 adv.sec.intl.miui.com
 zhfosenghtr.com
@@ -975,6 +976,7 @@ turner.com
 images-*.ssl-images-amazon.com
 baidu.com
 mobile.donanimhaber.com
+m.salihlisektorgazetesi.com
 m.mylust.com
 mamibai.com
 eporner.com
