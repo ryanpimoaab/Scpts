@@ -1,9 +1,9 @@
+! IP Regex (commonly used, hax'd IP addresses)
 ! IP addresses
+
+
 0755.pics
 07zq44y2tmru.xyz
-104.154.
-104.197.
-104.198.
 11c9e55308a.com
 11x11.com
 123vidz.com
@@ -24,13 +24,6 @@
 30daychange.co
 321j1157ftjd.tech
 32d1d3b9c.se
-35.184.
-35.188.
-35.193.
-35.194.
-35.225.
-35.226.
-35.239.
 360adshost.net
 360adstrack.com
 3a5be2a583475ea31b.com
@@ -246,6 +239,7 @@ blinkogold.es
 blizardom.com
 blockthis.es
 blogscash.info
+bnjuhrbpdjtjul.com
 bobtrk.com
 bongacams.com
 bonzuna.com
@@ -667,6 +661,7 @@ oratosaeron.com
 origer.info
 otnolabttmup.com
 outdm.tmslinks.info
+outhulem.net
 overturs.com
 oxybe.com
 oxyes.work
@@ -961,6 +956,7 @@ utarget.ru
 v3rjvtt.com
 vacroz.xyz
 vamartin.work
+vcommission.com
 vdtrack.com
 vdztrack.com
 venturead.com

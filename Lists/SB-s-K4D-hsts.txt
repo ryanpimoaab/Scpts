@@ -126,6 +126,7 @@ cheats4u.pl
 chocoslim.pro
 chomikui.pl
 chris-jasnowidz.pl
+chucktaylor.pl
 chukka.pl
 chytrus.com
 ciekawinki.pl
@@ -324,7 +325,6 @@ halodzwonek.pl
 halopozyczka.pl
 happach.pl
 havemeforfree.com
-hd.serial.h2g.pl
 hdmovies.pl
 healthy-news.biz
 health-line.me
@@ -379,8 +379,8 @@ kajakiperkoz.pl
 kancelariaae.pl
 kancelariakufieta.pl
 kancelarialewickich.pl
-karela-sklep.eu
 kartavisa.pl
+kelerisriders.pl
 kickz4u.pl
 kiddabadam.com
 kimera.pl
@@ -448,6 +448,7 @@ mediaekspert24.pl
 mediaexpres.in.net
 mediamanago.pl
 mediamax.in.net
+mediartvagd.in.net
 mediasam.net
 medicreporters.com
 medios.in.net
@@ -457,6 +458,7 @@ menshealthweb.co
 mezczyzna-trendy.pl
 mgid.com
 mieszkania-pokoje-wynajem.pl
+milletpolska.pl
 minirtvshop.pl
 mmajerski.pl
 mobiapp-games.com
@@ -465,7 +467,6 @@ mobila.pl
 mobilerewards.io
 mobile-app.pl
 mobverify.com
-model-agd.pl
 mojadietanamase.pl
 mojapsina.com
 mojepc.net
@@ -479,7 +480,7 @@ moviestarplanethacks.pl
 moviestarplanet-hack.org.pl
 moviestarplanet-haki-i-kody.crazylife.pl
 msphacks.net
-music.jbl-solo.com
+muflena.pl
 muverbo.pl
 myacn.eu
 mylocker.pl
@@ -532,6 +533,7 @@ oplacalna-gotowka.pl
 optimask-pro.com
 oswieconykochanek.pl
 oszukacruletke.like.pl
+outletowo.com
 outletto24.com
 paifemouchoa.com
 papla.pl
@@ -544,7 +546,6 @@ pc-serwis-brzozow.pl
 pdf.com.pl
 pegasuswebco.com
 perfect-coll.pl
-photook.vxm.pl
 phytolast.com
 pitbull.ek1.pl
 pl.fmworld.com
@@ -672,6 +673,7 @@ sklep-colway.com
 sklep-colway.pl
 skutecznesrodki-tabletkinapotencje.ovh
 slowkariera.pl
+smallshop.pl
 smartfonmedia.com
 sms-z-internetu.pl
 sneakersshop.pl
@@ -914,6 +916,7 @@ www.centrumofert.com
 www.cheats4u.pl
 www.chocoslim.pro
 www.chomikui.pl
+www.chucktaylor.pl
 www.chukka.pl
 www.chytrus.com
 www.cichodaje.pl
@@ -1106,7 +1109,6 @@ www.halopozyczka.pl
 www.happach.pl
 www.havemeforfree.com
 www.hdmovies.pl
-www.hd.serial.h2g.pl
 www.herbalife.pl
 www.herbeauty.co
 www.heredatetime.com
@@ -1162,6 +1164,7 @@ www.kancelariaae.pl
 www.kancelariakufieta.pl
 www.kancelarialewickich.pl
 www.kartavisa.pl
+www.kelerisriders.pl
 www.kenseeart.pl
 www.kickz4u.pl
 www.kiddabadam.com
@@ -1237,6 +1240,7 @@ www.mediaekspert24.pl
 www.mediaexpres.in.net
 www.mediamanago.pl
 www.mediamax.in.net
+www.mediartvagd.in.net
 www.mediasam.net
 www.medicreporters.com
 www.medios.in.net
@@ -1245,6 +1249,7 @@ www.megadownloader.co
 www.megazakupy.net
 www.menshealthweb.co
 www.mgid.com
+www.milletpolska.pl
 www.minirtvshop.pl
 www.mistrzmotywacji.pl
 www.mkaltenpflege24h.pl
@@ -1273,6 +1278,7 @@ www.moviestarplanethack.info
 www.mozebyctwoje.com
 www.mspbooster.com
 www.msphacks.net
+www.muflena.pl
 www.muverbo.pl
 www.myacn.eu
 www.myduolife.com
@@ -1334,6 +1340,7 @@ www.organogold.com
 www.oswieconykochanek.pl
 www.oszukacruletke.like.pl
 www.oszukacruletke.pl
+www.outletowo.com
 www.outletto24.com
 www.ovb.pl
 www.paifemouchoa.com
@@ -1346,8 +1353,6 @@ www.pcmban.com
 www.pcspeedup.com
 www.pdf.com.pl
 www.pegasuswebco.com
-www.petshooop.com
-www.photook.vxm.pl
 www.phytolast.com
 www.pitbull.ek1.pl
 www.plastiquedesign.pl
@@ -1413,7 +1418,6 @@ www.ralphlaurenskleponline.pl
 www.ralplauran.com
 www.ramissio.com
 www.raypath.eu
-www.rbhth.com
 www.rbxfree.com
 www.realgift.men
 www.recommendedlab.com
@@ -1461,6 +1465,7 @@ www.sklep466452.shoparena.pl
 www.skleptiande.pl
 www.slawop.net
 www.slowkariera.pl
+www.smallshop.pl
 www.smartfonmedia.com
 www.sneakersshop.pl
 www.sneakerstore.com.pl
@@ -1716,7 +1721,6 @@ www.i-cda.pl
 www.i-mobi.pl
 www.i-store365.com
 www.jak-szybko-zarobic.com
-www.karela-sklep.eu
 www.kinoman-tv.pl
 www.kino-tv.pl
 www.klikasz-i-masz.com
@@ -1731,10 +1735,8 @@ www.mezczyzna-trendy.pl
 www.mieszkania-pokoje-wynajem.pl
 www.mobiapp-games.com
 www.mobile-app.pl
-www.model-agd.pl
 www.moviestarplanet-hack.org.pl
 www.moviestarplanet-haki-i-kody.crazylife.pl
-www.music.jbl-solo.com
 www.namierzanie-telefonu.pl
 www.namierz-telefon.com.pl
 www.napraw-laptopa.waw.pl
@@ -2029,7 +2031,6 @@ www.usa.dauid-iep.com
 www.usa.odysseus-nua.com
 # szybko wygaszajace
 4ur.click
-10gb.6ka.info
 15b37.skroc.pl
 4332.ws
 ab4hr.com
@@ -2069,7 +2070,6 @@ hitvisit.com
 informujemy24h.cba.pl
 iotiot.cf
 iqtestuj.glt.pl
-isamuxpompapsc50.6ka.info
 karta-podarunkowa-podaj-dane.gq
 kjhkgh.skroc.pl
 kmavj.ab4all.com
@@ -2079,7 +2079,6 @@ lci1a.voluumtrk.com
 legalizacja.5v.pl
 lnktk.com
 mecz.ujm.pl
-mecze24.6ka.info
 mememakers.mobi
 mobileofferplace.site
 mobisex.pieprz.pl
@@ -2202,7 +2201,6 @@ www.xzegarsmiercix.prv.pl
 www.zbierajnagrody.bo.pl
 www.zcontentlocker7gpa8a.xyz
 www.4ur.click
-www.10gb.6ka.info
 www.15b37.skroc.pl
 www.4332.ws
 www.ac-feedback.com
@@ -2217,11 +2215,9 @@ www.fidgetspinner.5v.pl
 www.fizjoterapia.5v.pl
 www.fun-clix.com
 www.galeria-zdjec-ola.pl
-www.isamuxpompapsc50.6ka.info
 www.karta-podarunkowa-podaj-dane.gq
 www.konkursbiedronka.5v.pl
 www.legalizacja.5v.pl
-www.mecze24.6ka.info
 www.newsy-ben24.ml
 www.odbierz-paysafecard.ujm.pl
 www.pila-dziedzictwo-2017-online.5v.pl
@@ -2274,7 +2270,6 @@ androidsecurityplus.com
 appandroider.com
 appiq.mobi
 apple.com-care-macbook-system.live
-apple.com-fasting.live
 apple.com-improve-macos.live
 apple.com-macos-clean-systems.live
 apple.com-mac-booster.live
@@ -2284,7 +2279,6 @@ apple.com-repair-os.live
 apple.com-scan.live
 apple.com-scan-mac.live
 apple.com-shield.live
-apple.com-shield-device.live
 apple.com-speedup-macbook.live
 apple.com-speedup-macos.live
 apple.com-speed-macos.live
@@ -2307,7 +2301,6 @@ cda-flix.pl
 centrumplay.pl
 challengeforme.com
 check-prizes-now2.life
-childcaredaycare.ca
 chomik24.com.pl
 chomik-24.pl
 chron-telefon.com
@@ -2362,8 +2355,6 @@ faktopedia.com.pl
 fakturownia-pl.cf
 fakturownia-pl.ga
 fakturownia-pl.gq
-fakturownia-pl.ml
-fakturownia-pl.tk
 fakturo-wnia.cf
 fakturo-wnia.ga
 fakturo-wnia.gq
@@ -2460,9 +2451,7 @@ kurierania.com
 kurierinpost.info
 kurierr.eu
 kurierstas.info
-l00tfiilues.lepfj.site
 leadzupc.com
-learn2upgrade.find4bettervideoing.info
 lesemerick.com
 letswinstuff.com
 lifehackz.net
@@ -2472,7 +2461,6 @@ losowa-gra.pl
 m.smsquiz.pl
 macandwin.theforcontentingvideosystems.icu
 maccleaner.space
-maccleaner3.r.worldssl.net
 maciekkurier.info
 mackeeperapp.mackeeper.com
 magadownloader.com
@@ -2594,7 +2582,6 @@ sportowy-stream.pl
 sportplus.pro
 sprawdzikk.v0r.org
 ssl.bezpieczne-platnosci.pl
-ssl.full-secure-payments.online
 statusnim.info
 steamco.de
 steam-wallet-gifts.com
@@ -2621,7 +2608,6 @@ v-internetowa.pl
 wojeartykuly.com
 wojhoroskop.com
 ulink.pl
-updatenewversion.thewebsitetofindplayersbest.info
 update-1.com
 update-flash.s0l8ybzj9u.top
 upshare.org
@@ -2671,7 +2657,6 @@ www.carambaba.com
 www.catsplit.com
 www.centrumplay.pl
 www.challengeforme.com
-www.childcaredaycare.ca
 www.chomik24.com.pl
 www.circultural.com
 www.colormessa.info
@@ -2784,16 +2769,13 @@ www.kurierania.com
 www.kurierinpost.info
 www.kurierr.eu
 www.kurierstas.info
-www.l00tfiilues.lepfj.site
 www.leadzupc.com
-www.learn2upgrade.find4bettervideoing.info
 www.lesemerick.com
 www.letswinstuff.com
 www.lifehackz.net
 www.lightcloud.pl
 www.liversely.com
 www.macandwin.theforcontentingvideosystems.icu
-www.maccleaner3.r.worldssl.net
 www.maccleaner.space
 www.maciekkurier.info
 www.mackeeperapp.mackeeper.com
@@ -2908,7 +2890,6 @@ www.tvnewtop.pro
 www.twojeartykuly.com
 www.twojhoroskop.com
 www.ulink.pl
-www.updatenewversion.thewebsitetofindplayersbest.info
 www.upshare.org
 www.uzupelniajdane.ga
 www.uzupelniajdane.gq
@@ -2930,7 +2911,6 @@ www.wwebsservice.info
 www.wygrajpsc.eu
 www.wygrania.com
 www.wygrywa.pl
-www.wykreslanka.com.pl
 www.yotefiles.com
 www.yourfiles.pl
 www.yuppipuppy.com
@@ -2953,7 +2933,6 @@ www.adidas-collection.club
 www.adobe.5v.pl
 www.all-player.pl
 www.apple.com-care-macbook-system.live
-www.apple.com-fasting.live
 www.apple.com-improve-macos.live
 www.apple.com-macos-clean-systems.live
 www.apple.com-mac-booster.live
@@ -2963,7 +2942,6 @@ www.apple.com-repair-os.live
 www.apple.com-scan.live
 www.apple.com-scan-mac.live
 www.apple.com-shield.live
-www.apple.com-shield-device.live
 www.apple.com-speedup-macbook.live
 www.apple.com-speedup-macos.live
 www.apple.com-speed-macos.live
@@ -2994,8 +2972,6 @@ www.fajne-filmy.pl
 www.fakturownia-pl.cf
 www.fakturownia-pl.ga
 www.fakturownia-pl.gq
-www.fakturownia-pl.ml
-www.fakturownia-pl.tk
 www.fakturo-wnia.cf
 www.fakturo-wnia.ga
 www.fakturo-wnia.gq
@@ -3045,7 +3021,6 @@ www.secure-eplatnosc.com
 www.sms-za-darmo.pl
 www.sportowy-stream.pl
 www.ssl.bezpieczne-platnosci.pl
-www.ssl.full-secure-payments.online
 www.steam-wallet-gifts.com
 www.steam-wallet-money.com
 www.super-pay.me
@@ -3238,7 +3213,6 @@ mediamarkt.pl.dailyoffer.top
 odzyskajsnapy.blogspot.com
 pakiety-lte-5gb.blogspot.com
 pakiety-pokemon-go.blogspot.com
-payment.super-pay.me
 ping.ublock.org
 pl.centrumofert.com
 pl.gamemine.com
@@ -3259,12 +3233,10 @@ pl.mobile-redirection.com
 pl.slimg0ji-berry.com
 poland.calivita.com
 premiumlink.7tools.eu
-prezent.odchudzaniezpasja.pl
 prod.letswinstuff.com
 promotions.monthlywinners.com
 publisher.lead.network
 r.clube62.date
-secure.s-pay24.com
 hecryptogenius.com
 vpt58.tvnewtop.pro
 web.cellfun.mobi
@@ -3304,7 +3276,6 @@ www.play.appiq.mobi
 www.play.leadzu.com
 www.play.mobsfun.net
 www.poland.calivita.com
-www.prezent.odchudzaniezpasja.pl
 www.prod.letswinstuff.com
 www.promotions.monthlywinners.com
 www.publisher.lead.network
@@ -3326,9 +3297,7 @@ www.fejs-colors.blogspot.com
 www.kaufland.gift-cards.co.pl
 www.pakiety-lte-5gb.blogspot.com
 www.pakiety-pokemon-go.blogspot.com
-www.payment.super-pay.me
 www.premiumlink.7tools.eu
-www.secure.s-pay24.com
 wydawca.lead.network
 zmienkolory.blogspot.com
 # uzupelnienie hosts do promocji pseudonauki / fake newsow
