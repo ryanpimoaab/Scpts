@@ -298,6 +298,7 @@ basilic.io
 baynote.net
 bdash-cloud.com
 beacon.kmi-us.com
+beaconstreetservices.com
 beampulse.com
 beanstalkdata.com
 beanstock.com
@@ -460,6 +461,7 @@ christiantop1000.com
 christmalicious.com
 chrumedia.com
 cint.com
+cintnetworks.com
 circular-counters.com
 ck-cdn.com
 clarifyingquack.com
@@ -735,6 +737,7 @@ ecsanalytics.com
 ecustomeropinions.com
 edgeadx.net
 edigitalsurvey.com
+eggplant.cloud
 ekmpinpoint.co.uk
 ekmpinpoint.com
 ela-3-tnk.com
@@ -1389,6 +1392,7 @@ mediaweaver.jp
 mediego.com
 mega-stats.com
 memecounter.com
+memo.co
 mercadoclics.com
 mercent.com
 metakeyproducer.com
@@ -1439,6 +1443,7 @@ mparticle.com
 mplxtms.com
 mppapi.io
 mpstat.us
+mql5.com
 msecure108.com
 msgapp.com
 msgtag.com
@@ -1726,6 +1731,7 @@ ptmind.com
 pto-slb-09.com
 ptp123.com
 ptrk-wn.com
+publicgood.com
 publicidees.com
 publishflow.com
 pubplus.com
@@ -1812,6 +1818,7 @@ remarketingpixel.com
 remarketstats.com
 rep0pkgr.com
 repixel.co
+report-uri.com
 report-uri.io
 res-x.com
 research-tool.com
@@ -1909,7 +1916,6 @@ scrippscontroller.com
 script.ag
 scripts21.com
 scriptshead.com
-scroll.com
 sddan.com
 sea-nov-1.com
 searchfeed.com
@@ -2318,6 +2324,7 @@ tst14netreal.com
 tstlabs.co.uk
 tsw0.com
 tubetrafficcash.com
+tuinfra.com
 tunnl.com
 tw.cx
 twcount.com
@@ -2397,6 +2404,7 @@ vi-serve.com
 video.oms.eu
 videos.oms.eu
 videostat.com
+vilynx.com
 vinlens.com
 vinub.com
 viralninjas.com
@@ -2506,6 +2514,7 @@ wildxtraffic.com
 wiredminds.de
 wisetrack.net
 wishloop.com
+withcubed.com
 womtp.com
 woopra-ns.com
 woopra.com
@@ -3229,6 +3238,7 @@ zymerget.party
 zymerget.stream
 zymerget.win
 6ldu6qa.com
+acridtwist.com
 aheadday.com
 anxiousapples.com
 awzbijw.com
@@ -3246,6 +3256,7 @@ delegatediscussion.com
 desiredirt.com
 detectdiscovery.com
 ejyymghi.com
+endurablecrayon.com
 familiarfloor.com
 fearfulflag.com
 flakyfeast.com
@@ -3258,6 +3269,7 @@ hammerhearing.com
 hilariouszinc.com
 horsenectar.com
 importedincrease.com
+intelligentscissors.com
 jadeitite.com
 jewelcheese.com
 leaplunchroom.com
@@ -3284,6 +3296,7 @@ sharppatch.com
 shelterstraw.com
 shermore.info
 sicksmash.com
+sombersurprise.com
 spiffymachine.com
 spottysense.com
 spurioussteam.com
@@ -3295,4 +3308,5 @@ suddensidewalk.com
 sugarcurtain.com
 ticklesign.com
 truthfulturn.com
+untidyrice.com
 womanear.com
