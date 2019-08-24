@@ -590,6 +590,7 @@ fp-analytics.hotstar.com
 hb-analytics.hotstar.com
 in-viacom18.videoplaza.tv
 www.in-viacom18.videoplaza.tv
+market.moonicorn.network
 adn.insight.ucweb.com
 convhkmp.taboola.com
 www.convhkmp.taboola.com

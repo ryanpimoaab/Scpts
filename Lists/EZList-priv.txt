@@ -62,6 +62,7 @@ a-cast.jp
 a-counters.com
 a-pagerank.net
 a013.com
+a4b-tracking.com
 a8.net
 a8ww.net
 aaddzz.com
@@ -940,6 +941,7 @@ gemtrackers.com
 geni.us
 genieesspv.jp
 geobytes.com
+geoedge.be
 geoip-db.com
 geoplugin.net
 georiot.com
@@ -2048,6 +2050,7 @@ spamanalyst.com
 spectate.com
 speed-trap.com
 speedcurve.com
+sphereup.com
 spklw.com
 splittag.com
 splurgi.com

@@ -158,6 +158,7 @@ toots-a.akamaihd.net
 tqeobp89axcn.com
 track-eu.adformnet.akadns.net
 tracking112.com
+traffichaus.com
 upgradecheck12.greatgradeserviceforupdates.host
 v2t5re6z.review
 video-edge-c61b30.lhr03.hls.ttvnw.net
@@ -339,6 +340,7 @@ www.toots-a.akamaihd.net
 www.tqeobp89axcn.com
 www.track-eu.adformnet.akadns.net
 www.tracking112.com
+www.traffichaus.com
 www.upgradecheck12.greatgradeserviceforupdates.host
 www.v2t5re6z.review
 www.video-edge-c61b30.lhr03.hls.ttvnw.net
