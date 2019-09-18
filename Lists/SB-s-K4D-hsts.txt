@@ -76,6 +76,7 @@ as-chwilowka.pl
 atcofiles.com
 atlanticgam.online
 audio-book.net.pl
+audmax.pl
 aveplay.com
 aveprize.com
 avita.net.pl
@@ -99,7 +100,6 @@ bestphoneapps.mobi
 bestpromocenter.com
 bestselections.top
 betterware.pl
-bewox.net
 beyourbest.pl
 bezbiku.pro
 be-wild.pl
@@ -134,6 +134,7 @@ butypremium.pl
 buty-shoes4u.pl
 buzzonclick.com
 calivita.com
+calzini.org
 casada.pl
 casadasklep.pl
 cashbackworld.com
@@ -142,6 +143,7 @@ cbldc.io
 cda-bez-limitu.pl
 cda-filmy.com.pl
 cedino.pl
+cello24.net
 centrumdxn.pl
 centrumfantastyki.pl
 centrummarek.pl
@@ -204,6 +206,7 @@ dassystem.eu
 daswallet.com
 davor.io
 decynsire.com
+deloxar.pl
 derotel.com
 dietovo.pl
 dietstars.pro
@@ -238,8 +241,10 @@ dzisiejszefakty.xyz
 earthpowerint.com
 easynet.pierre-lang.com
 ebeautyportal.com
+ebobel.pl
 ebook4all.com.pl
 ebuty.net.pl
+ebuty.org.pl
 ecoflow.pl
 ecomotto.pl
 ecoslimmer.pro
@@ -250,6 +255,7 @@ eglobalcentral.pl
 ekstrafilmy24.pl
 electrocity24.pl
 elektro24h.pl
+elektromax.in.net
 elepta.pl
 elite-crack.ml
 emobi-sys.com
@@ -454,7 +460,6 @@ kancelarialewickich.pl
 kartavisa.pl
 kenseeart.pl
 kickz4u.pl
-kiddabadam.com
 killingtonchukka.pl
 kimera.pl
 kinoman-tv.pl
@@ -472,6 +477,7 @@ kodyumyslu.pl
 kofiup.pl
 kolaseum.pl
 kompansmaku.pl
+kompresjanml.pl
 konferencje.vantis.pl
 konkursy24.ml
 konkursynagrody.pl
@@ -494,6 +500,7 @@ laolle.com
 las-rp.pl
 lauretta-larix.eu
 lavylites.com
+ldrcp.pl
 lead.network
 leadn.pl
 leadzu.com
@@ -522,6 +529,7 @@ madagascaroasis.org
 maendo.tv
 magiskmanager.com
 manaslu.pl
+manilis.com
 marekporwol.pl
 mariuszpelczarski.pl
 mariza.com.pl
@@ -556,7 +564,6 @@ mobila.pl
 mobilerewards.io
 mobiluj.sk
 mobverify.com
-modi4moda.com
 modwebpro.pl
 mojadedra.pl
 mojadietanamase.pl
@@ -576,11 +583,11 @@ moviestarplanethacks.pl
 moviestarplanet-hack.org.pl
 moviestarplanet-haki-i-kody.crazylife.pl
 mozebyctwoje.com
-mspbooster.com
 msphacks.net
 muflena.pl
 muverbo.pl
 myacn.eu
+mydlokreacja.pl
 myduolife.com
 mylocker.pl
 myway.com
@@ -605,7 +612,6 @@ neopozyczki.pl
 neospes.com
 neotech.in.net
 netleaders.com
-nevotel.com
 newmediaz.com
 newpassporn.com
 newtechagd.net
@@ -634,6 +640,7 @@ offerzone.click
 ogladaj.online
 ogladamy24.pl
 okazyjnie.net
+olbart.pl
 olubin.pl
 olympus-markets.com
 omega-best.org
@@ -645,6 +652,7 @@ onlinerekruter.com
 online-ruletka.pl
 oplacalna-gotowka.pl
 oplaca-sie.pl
+oponykarbownik.pl
 optidee.nl
 optimask-pro.com
 organiclife.com.pl
@@ -771,6 +779,7 @@ reeboknpcii.pl
 refundacjeregionalne.pl
 reimageplus.com
 rep.privatesearch.club
+retrortv.in.net
 rezacze.pl
 riverparkbaseball.org
 robloxhack.pl
@@ -829,6 +838,7 @@ sneakersshop.pl
 sneakerstore.com.pl
 sneakersypuma.pl
 sneakervclub.com
+societyjezuufamtobie.pl
 solvusoft.com
 souvre.pl
 spatiumdg.pl
@@ -847,6 +857,7 @@ star-life.pl
 stenplus.onewaywinner.com
 stopkomornikowi.pl
 stop-sms.pl
+streetrulez.pl
 strefa-filmu.pl
 stuntoffer.com
 stylovemeble.pl
@@ -874,6 +885,7 @@ aniebutymaster.com
 aniebutyonlinesklep.pl
 aniebutysportowe.com
 aniemedia.pl
+anie-wapnowanie.pl
 eamworkmlm.pl
 eespoon.co
 eleaudio.pl
@@ -903,6 +915,7 @@ otucafe.pl
 rack.adsfast.com
 rackgsm.co.uk
 racksms.pl
+ransegz.pl
 riggerinstalls.com
 ri-book.pl
 rustedirectdownload.com
@@ -931,6 +944,7 @@ updatestar.com
 urwijnagrody.pl
 usa.cc
 usunwirusa.pl
+vadecorso.pl
 vansallegro.pl
 vanssk8hi.pl
 vantis-holding.com
@@ -963,6 +977,8 @@ vseobuch.ru
 w2mobile.com
 w65.pl
 wartomiec.pl
+wdrodzenaratunek.pl
+websuit.pl
 web-online.pl
 wellstar-company.com
 wellu.eu
@@ -973,8 +989,10 @@ wiecznieczwarty.com.pl
 wielkanagroda.com
 wielkaniespodzianka.pl
 wifiprotector.com
+winfactory.pl
 wirtuozseksu.pl
 wisebanc.com
+wlatech.pl
 wolysport.pl
 wooptrk.com
 workwolf.pl
@@ -1040,6 +1058,7 @@ www.aromagroup.pl
 www.assat.pl
 www.atcofiles.com
 www.atlanticgam.online
+www.audmax.pl
 www.aveplay.com
 www.aveprize.com
 www.avita.net.pl
@@ -1062,7 +1081,6 @@ www.bestphoneapps.mobi
 www.bestpromocenter.com
 www.bestselections.top
 www.betterware.pl
-www.bewox.net
 www.beyourbest.pl
 www.bezbiku.pro
 www.bialoruskieprodukty.pl
@@ -1092,12 +1110,14 @@ www.butyasicsgel.pl
 www.butypremium.pl
 www.buzzonclick.com
 www.calivita.com
+www.calzini.org
 www.casadasklep.pl
 www.casada.pl
 www.cashbackworld.com
 www.cavotel.com
 www.cbldc.io
 www.cedino.pl
+www.cello24.net
 www.centrumdxn.pl
 www.centrumfantastyki.pl
 www.centrummarek.pl
@@ -1146,6 +1166,7 @@ www.dassystem.eu
 www.daswallet.com
 www.davor.io
 www.decynsire.com
+www.deloxar.pl
 www.derotel.com
 www.dietovo.pl
 www.dietstars.pro
@@ -1175,8 +1196,10 @@ www.dxn2u.com
 www.dzisiejszefakty.xyz
 www.earthpowerint.com
 www.ebeautyportal.com
+www.ebobel.pl
 www.ebook4all.com.pl
 www.ebuty.net.pl
+www.ebuty.org.pl
 www.ecoflow.pl
 www.ecomotto.pl
 www.ecoslimmer.pro
@@ -1186,6 +1209,7 @@ www.eglobalcentral.pl
 www.ekstrafilmy24.pl
 www.electrocity24.pl
 www.elektro24h.pl
+www.elektromax.in.net
 www.elepta.pl
 www.enbutique.com
 www.energetix.com.pl
@@ -1354,7 +1378,6 @@ www.kancelarialewickich.pl
 www.kartavisa.pl
 www.kenseeart.pl
 www.kickz4u.pl
-www.kiddabadam.com
 www.killingtonchukka.pl
 www.kimera.pl
 www.kinotek.pl
@@ -1368,6 +1391,7 @@ www.kodyumyslu.pl
 www.kofiup.pl
 www.kolaseum.pl
 www.kompansmaku.pl
+www.kompresjanml.pl
 www.konferencje.vantis.pl
 www.konkursy24.ml
 www.konkursynagrody.pl
@@ -1387,6 +1411,7 @@ www.kyani.com
 www.lampeberger.com.pl
 www.laolle.com
 www.lavylites.com
+www.ldrcp.pl
 www.leadn.pl
 www.leadzu.com
 www.lead.network
@@ -1413,6 +1438,7 @@ www.madagascaroasis.org
 www.maendo.tv
 www.magiskmanager.com
 www.manaslu.pl
+www.manilis.com
 www.marekporwol.pl
 www.mariuszpelczarski.pl
 www.mariza.com.pl
@@ -1443,7 +1469,6 @@ www.mobila.pl
 www.mobilerewards.io
 www.mobiluj.sk
 www.mobverify.com
-www.modi4moda.com
 www.modwebpro.pl
 www.mojadedra.pl
 www.mojadietanamase.pl
@@ -1461,11 +1486,11 @@ www.moviestarplanetcheatstool.com
 www.moviestarplanethacks.pl
 www.moviestarplanethack.info
 www.mozebyctwoje.com
-www.mspbooster.com
 www.msphacks.net
 www.muflena.pl
 www.muverbo.pl
 www.myacn.eu
+www.mydlokreacja.pl
 www.myduolife.com
 www.mylocker.pl
 www.myway.com
@@ -1487,7 +1512,6 @@ www.neopozyczki.pl
 www.neospes.com
 www.neotech.in.net
 www.netleaders.com
-www.nevotel.com
 www.newmediaz.com
 www.newpassporn.com
 www.newtechagd.net
@@ -1514,12 +1538,14 @@ www.offerzone.click
 www.ogladaj.online
 www.ogladamy24.pl
 www.okazyjnie.net
+www.olbart.pl
 www.olubin.pl
 www.onecoin.eu
 www.onelife.eu
 www.onlineappcheats.com
 www.onlinerekruter.com
 www.online.pro
+www.oponykarbownik.pl
 www.optidee.nl
 www.organiclife.com.pl
 www.organogold.com
@@ -1614,6 +1640,7 @@ www.reeboknpcii.pl
 www.refundacjeregionalne.pl
 www.reimageplus.com
 www.rep.privatesearch.club
+www.retrortv.in.net
 www.rezacze.pl
 www.riverparkbaseball.org
 www.robloxhack.pl
@@ -1658,6 +1685,7 @@ www.sneakersshop.pl
 www.sneakerstore.com.pl
 www.sneakersypuma.pl
 www.sneakervclub.com
+www.societyjezuufamtobie.pl
 www.solvusoft.com
 www.souvre.pl
 www.spatiumdg.pl
@@ -1674,6 +1702,7 @@ www.starlife.eu
 www.starshipsanctuary.pl
 www.stenplus.onewaywinner.com
 www.stopkomornikowi.pl
+www.streetrulez.pl
 www.stuntoffer.com
 www.stylovemeble.pl
 www.sug.com.pl
@@ -1723,6 +1752,7 @@ www.totucafe.pl
 www.trackgsm.co.uk
 www.tracksms.pl
 www.track.adsfast.com
+www.transegz.pl
 www.triggerinstalls.com
 www.trustedirectdownload.com
 www.trusttastic.com
@@ -1745,6 +1775,7 @@ www.updatestar.com
 www.urwijnagrody.pl
 www.usa.cc
 www.usunwirusa.pl
+www.vadecorso.pl
 www.vansallegro.pl
 www.vanssk8hi.pl
 www.vapormax.pl
@@ -1774,6 +1805,8 @@ www.vseobuch.ru
 www.w2mobile.com
 www.w65.pl
 www.wartomiec.pl
+www.wdrodzenaratunek.pl
+www.websuit.pl
 www.wellu.eu
 www.wernet.pl
 www.wesklan.pl
@@ -1782,8 +1815,10 @@ www.wiecznieczwarty.com.pl
 www.wielkanagroda.com
 www.wielkaniespodzianka.pl
 www.wifiprotector.com
+www.winfactory.pl
 www.wirtuozseksu.pl
 www.wisebanc.com
+www.wlatech.pl
 www.wolysport.pl
 www.wooptrk.com
 www.workwolf.pl
@@ -1978,6 +2013,7 @@ www.strefa-filmu.pl
 www.swietna-pozyczka.pl
 www.szybka-pozyczka.com
 www.szybka-wyplata.pl
+www.tanie-wapnowanie.pl
 www.the-titanium.com
 www.top-oferty.net
 www.torrenty--org.pl
@@ -2140,6 +2176,7 @@ oo.waw.pl
 pay.onebip.com
 pliki.pw
 pobieralnia.com.pl
+pobieram-plik.pl
 poprof.com
 ppl3.pl
 qwer3.pl
@@ -2221,17 +2258,20 @@ www.uvy3.pl
 www.vcxz.pl
 www.vexacion.com
 www.wap.mobiltek.pl
+www.yourfiles.pl
 www.9xa.pl
 www.clic-douaisis.fr
 www.go-rilla.offerstrack.net
 www.mobile-redirection.com
 www.news-paperz.com
+www.pobieram-plik.pl
 www.securecloud-smart.com
 www.skroc-link.ga
 www.track-enable.com
 www.traffic-c.com
 www.usa.dauid-iep.com
 www.usa.odysseus-nua.com
+yourfiles.pl
 # szybko wygaszajace
 4ur.click
 15b37.skroc.pl
@@ -2456,7 +2496,6 @@ zcontentlocker7gpa8a.xyz
 zejrzyj-zdjecia.bo.pl
 zgarniij_vouchher.skroc.pl
 # przekrety
-1freesoftwareonline.com
 4kplayer.pl
 4kstream.pl
 50kaweek.live
@@ -2474,19 +2513,6 @@ all-player.pl
 androidsecurityplus.com
 appandroider.com
 appiq.mobi
-apple.com-care-macbook-system.live
-apple.com-improve-macos.live
-apple.com-macos-clean-systems.live
-apple.com-mac-booster.live
-apple.com-repair.live
-apple.com-repair-macbook.live
-apple.com-repair-os.live
-apple.com-scan.live
-apple.com-scan-mac.live
-apple.com-shield.live
-apple.com-speedup-macbook.live
-apple.com-speedup-macos.live
-apple.com-speed-macos.live
 apps.co.pl
 appsdorado.com
 aseanlegaltech.com
@@ -2515,6 +2541,7 @@ colormessa.info
 cool4mob.com
 coreplays.com
 cpagrip.com
+credito.com.pl
 cs.nailrr.com
 cybermagicindia.com
 daily-jokes.net
@@ -2539,6 +2566,7 @@ download24.site
 downloadfiles.pl
 downloads-mobile.com
 drmarins.com
+dspinner.net
 durakbufecengelkoy.com
 easydownload.pl
 easypdfcombine.com
@@ -2551,6 +2579,7 @@ esemeso.pl
 exeos.ws
 ezdownloadpro.info
 e-podgladaj.pl
+faberville.com
 faccebook.5v.pl
 faceapp.eu
 facebbook.5v.pl
@@ -2622,6 +2651,7 @@ gigup.net
 giveskincs.nd.pl
 globile.co
 gogameportal.com
+gratissos.com
 grybow24.pl
 gryjava.gsm.pl
 hackerbot.net
@@ -2655,7 +2685,9 @@ kasa-sms.pl
 kasiakurier.info
 kdplay.net
 kekuko.com
+kiepscy.evai.pl
 kipokahynr.xyz
+kitchencollectivecool.info
 kocham-cie.c0.pl
 kolor.oq.pl
 konkursy.de
@@ -2702,9 +2734,11 @@ multico.5v.pl
 myeforsa.pl
 nagroda-sms.pl
 najlepszewrozby.pl
+naleznoscgov.eu
 namierz-telefon.pl
 nataliaporwana.biz
 needforfile.net
+newsinsider.me
 newsy-onet24.pl
 newszone.pro
 news-onet24.pl
@@ -2718,6 +2752,7 @@ onliine.pl
 onlinewideo.pl
 onlyfiles.net
 openwrt.com
+oplac24.com
 oplac-zaleglosc.eu
 oplatyi.pl
 orange-kodzik.890m.com
@@ -2728,6 +2763,7 @@ pay.mobiltek.pl
 pay2me.pl
 performancevitality.net
 performquickintenselyfile.icu
+phonenewmessage.com
 pinamo.pl
 pinkstar.pl
 pko-bp.pl
@@ -2767,11 +2803,15 @@ przesyleczki.com
 psialapka.pl
 ptcspy.com
 ptgame.eu
+pulsebiznesu.xyz
+pulse-biznesowe.xyz
+puls-sukcesu.net
 qubble.com
 quiz-fun.com.my
 randewoo.ir
 rap-share.pl
 ravlw.nearbysluts.net
+realnyzarobek.pl
 relayimmo.com
 restricted.pl
 rewardrey.com
@@ -2782,6 +2822,7 @@ sarnisas.info
 searchrapid.pl
 secure4app.com
 secure-eplatnosc.com
+secure-pge.eu
 seriale.org.pl
 serialowo.pl
 sexmonitor.net
@@ -2832,6 +2873,7 @@ vnewtop.pro
 v-internetowa.pl
 wojeartykuly.com
 wojhoroskop.com
+udater.net
 ulink.pl
 update-1.com
 update-flash.s0l8ybzj9u.top
@@ -2890,6 +2932,7 @@ www.colormessa.info
 www.cool4mob.com
 www.coreplays.com
 www.cpagrip.com
+www.credito.com.pl
 www.cs.nailrr.com
 www.cybermagicindia.com
 www.darmowetesty.com
@@ -2905,6 +2948,7 @@ www.download24.site
 www.downloadfiles.pl
 www.download.televisionfanatic.com
 www.drmarins.com
+www.dspinner.net
 www.durakbufecengelkoy.com
 www.easydownload.pl
 www.easypdfcombine.com
@@ -2915,6 +2959,7 @@ www.elememory.com
 www.esemeso.pl
 www.exeos.ws
 www.ezdownloadpro.info
+www.faberville.com
 www.faceapp.eu
 www.facewatch.borec.cz
 www.failmobile.net
@@ -2964,6 +3009,7 @@ www.gigup.net
 www.giveskincs.nd.pl
 www.globile.co
 www.gogameportal.com
+www.gratissos.com
 www.grybow24.pl
 www.gryjava.gsm.pl
 www.hackerbot.net
@@ -2991,7 +3037,9 @@ www.jutup.pl
 www.kasiakurier.info
 www.kdplay.net
 www.kekuko.com
+www.kiepscy.evai.pl
 www.kipokahynr.xyz
+www.kitchencollectivecool.info
 www.kolor.oq.pl
 www.konkursy.de
 www.ktopodgladamnienafacebooku.wordpress.com
@@ -3030,8 +3078,10 @@ www.msphack.com.pl
 www.myeforsa.pl
 www.m.smsquiz.pl
 www.najlepszewrozby.pl
+www.naleznoscgov.eu
 www.nataliaporwana.biz
 www.needforfile.net
+www.newsinsider.me
 www.newszone.pro
 www.nonstopvideos.pl
 www.ollando.com
@@ -3040,12 +3090,14 @@ www.onliine.pl
 www.onlinewideo.pl
 www.onlyfiles.net
 www.openwrt.com
+www.oplac24.com
 www.oplatyi.pl
 www.paraphingxmfevapk.xyz
 www.pay2me.pl
 www.pay.mobiltek.pl
 www.performancevitality.net
 www.performquickintenselyfile.icu
+www.phonenewmessage.com
 www.pinamo.pl
 www.pinkstar.pl
 www.pkworld.com.pk
@@ -3075,9 +3127,11 @@ www.przesyleczki.com
 www.psialapka.pl
 www.ptcspy.com
 www.ptgame.eu
+www.pulsebiznesu.xyz
 www.qubble.com
 www.randewoo.ir
 www.ravlw.nearbysluts.net
+www.realnyzarobek.pl
 www.relayimmo.com
 www.restricted.pl
 www.rewardrey.com
@@ -3126,6 +3180,7 @@ www.truegamers.ga
 www.tvnewtop.pro
 www.twojeartykuly.com
 www.twojhoroskop.com
+www.udater.net
 www.ulink.pl
 www.upshare.org
 www.uwagaporwanie.eu
@@ -3159,7 +3214,6 @@ www.zgarnij.net
 www.zumodi.com
 www.zweryfiikujdane.tk
 www-apple-com-virus-removal-systems.fixingit.solutions
-www.1freesoftwareonline.com
 www.4kplayer.pl
 www.4kstream.pl
 www.50kaweek.live
@@ -3168,19 +3222,6 @@ www.7228.eu
 www.adidas-collection.club
 www.adobe.5v.pl
 www.all-player.pl
-www.apple.com-care-macbook-system.live
-www.apple.com-improve-macos.live
-www.apple.com-macos-clean-systems.live
-www.apple.com-mac-booster.live
-www.apple.com-repair.live
-www.apple.com-repair-macbook.live
-www.apple.com-repair-os.live
-www.apple.com-scan.live
-www.apple.com-scan-mac.live
-www.apple.com-shield.live
-www.apple.com-speedup-macbook.live
-www.apple.com-speedup-macos.live
-www.apple.com-speed-macos.live
 www.bramka-sms-za-darmo.pl
 www.brave-browser.info
 www.btc-forum.pl
@@ -3249,9 +3290,12 @@ www.pko-bp.pl
 www.pobieralnie-plikow.eu
 www.pobierz-pliczek.eu
 www.pobiieerz-fotografiee.eu
+www.pulse-biznesowe.xyz
+www.puls-sukcesu.net
 www.quiz-fun.com.my
 www.rap-share.pl
 www.secure-eplatnosc.com
+www.secure-pge.eu
 www.shinden-anime.info
 www.sms-za-darmo.pl
 www.sportowy-stream.pl
@@ -3421,6 +3465,20 @@ adpro.futurenet.club
 adsheads.go2affise.com
 aoc.teleaudio.pl
 api.myeforsa.pl
+apple.com-care-macbook-system.live
+apple.com-improve-macos.live
+apple.com-macos-clean-systems.live
+apple.com-mac-booster.live
+apple.com-repair.live
+apple.com-repair-macbook.live
+apple.com-repair-os.live
+apple.com-scan.live
+apple.com-scan-mac.live
+apple.com-shield.live
+apple.com-shields-guard.live
+apple.com-speedup-macbook.live
+apple.com-speedup-macos.live
+apple.com-speed-macos.live
 bigbangads.go2cloud.org
 buzz.mobiapp-games.com
 cdnrep.reimageplus.com
@@ -3536,6 +3594,20 @@ www.wielkopolskie.refundacjeregionalne.pl
 www.ww7.openwrt.com
 www.wydawca.lead.network
 www.zmienkolory.blogspot.com
+www.apple.com-care-macbook-system.live
+www.apple.com-improve-macos.live
+www.apple.com-macos-clean-systems.live
+www.apple.com-mac-booster.live
+www.apple.com-repair.live
+www.apple.com-repair-macbook.live
+www.apple.com-repair-os.live
+www.apple.com-scan.live
+www.apple.com-scan-mac.live
+www.apple.com-shield.live
+www.apple.com-shields-guard.live
+www.apple.com-speedup-macbook.live
+www.apple.com-speedup-macos.live
+www.apple.com-speed-macos.live
 www.buzz.mobiapp-games.com
 www.czas-na-fb.blogspot.com
 www.dw.lp.eu.emobi-sys.com

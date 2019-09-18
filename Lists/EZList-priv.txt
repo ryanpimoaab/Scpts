@@ -67,6 +67,7 @@ a8.net
 a8ww.net
 aaddzz.com
 aamsitecertifier.com
+aapsis.com
 aaxdetect.com
 abcstats.com
 ablsrv.com
@@ -372,6 +373,7 @@ bounceexchange.com
 bouncepilot.com
 bouncex.com
 bpmonline.com
+branch.io
 brat-online.ro
 brcdn.com
 bridgevine.com
@@ -446,6 +448,7 @@ celebros-analytics.com
 celebrus.com
 center.io
 centraltag.com
+ceros.com
 cetrk.com
 cformanalytics.com
 cftrack.com
@@ -514,7 +517,6 @@ clixpy.com
 cloud-exploration.com
 cloud-iq.com
 cloudtracer101.com
-clustrmaps.com
 cmcintra.net
 cmcore.com
 cmmeglobal.com
@@ -618,6 +620,7 @@ cxt.ms
 cya2.net
 cybermonitor.com
 cytoclause.com
+czx5eyk0exbhwp43ya.biz
 d-1.co
 d41.co
 dable.io
@@ -630,6 +633,7 @@ databrain.com
 datacaciques.com
 datacoral.com
 datacoral.io
+datadoghq-browser-agent.com
 datafeedfile.com
 datam.com
 datamind.ru
@@ -725,6 +729,7 @@ e-referrer.com
 e-webtrack.net
 e-zeeinternet.com
 earnitup.com
+easy-hit-counter.com
 easy-hit-counters.com
 easycounter.com
 easyhitcounters.com
@@ -823,6 +828,7 @@ exposebox.com
 extole.com
 extole.io
 extreme-dm.com
+extreme-ip-lookup.com
 eyein.com
 eyereturn.com
 ezec.co.uk
@@ -932,6 +938,7 @@ fuziontech.net
 fyreball.com
 gameanalytics.com
 gammachug.com
+gatorleads.co.uk
 gaug.es
 gbotvisit.com
 gear5.me
@@ -1132,6 +1139,7 @@ infopro-insight.com
 infoprodata.com
 informz.net
 inimbus.com.au
+inmoment.com
 innomdc.com
 innovateads.com
 inphonic.com
@@ -1144,6 +1152,7 @@ insitemetrics.com
 inspectlet.com
 instadia.net
 instana.io
+instant.page
 instapage.com
 instore.biz
 integritystat.com
@@ -1187,6 +1196,7 @@ iproanalytics.com
 iprotrk.com
 ipstat.com
 ipv6monitoring.eu
+iqdata.ai
 iqfp1.com
 irelandmetrix.ie
 ironbeast.io
@@ -1433,6 +1443,7 @@ monetate.net
 mongoosemetrics.com
 monitis.com
 monitus.net
+monstat.com
 monu.delivery
 mooseway.com
 motrixi.com
@@ -1656,6 +1667,7 @@ permutive.com
 personalicanvas.com
 personyze.com
 petametrics.com
+pgs.io
 phonalytics.com
 phone-analytics.com
 photorank.me
@@ -1748,6 +1760,7 @@ pxf.io
 pxi.pub
 pymx5.com
 pzkysq.pink
+pzz.events
 q-counter.com
 q-stats.nl
 qbaka.net
@@ -1925,6 +1938,7 @@ searchignite.com
 searchplow.com
 secure-pixel.com
 securepaths.com
+securitytrfx.com
 sedotracker.com
 seehits.com
 seewhy.com
@@ -1997,6 +2011,7 @@ sitelinktrack.com
 sitemeter.com
 sitereport.org
 sitestat.com
+sitestats.live
 sitetag.us
 sitetagger.co.uk
 sitetracker.com
@@ -2044,6 +2059,7 @@ sojern.com
 soko.ai
 sokrati.com
 sometrics.com
+sophi.io
 sophus3.com
 soska.us
 spamanalyst.com
@@ -2118,6 +2134,7 @@ statun.com
 statuncore.com
 stcllctrs.com
 stcounter.com
+steadfastsystem.com
 steelhousemedia.com
 stellaservice.com
 stippleit.com
@@ -3241,14 +3258,17 @@ zymerget.party
 zymerget.stream
 zymerget.win
 6ldu6qa.com
+absorbingband.com
 acridtwist.com
 aheadday.com
 anxiousapples.com
+automaticside.com
 awzbijw.com
 axiomaticalley.com
 balancebreath.com
 bh8yx.xyz
 broaddoor.com
+cannontwin.com
 caringzinc.com
 carscannon.com
 consciouscabbage.com
@@ -3261,11 +3281,14 @@ detectdiscovery.com
 ejyymghi.com
 endurablecrayon.com
 familiarfloor.com
+familiarrod.com
 fearfulflag.com
 flakyfeast.com
 forecasttiger.com
 frailoffer.com
+futuristicfifth.com
 giddycoat.com
+giraffepiano.com
 gorgeousground.com
 greyinstrument.com
 hammerhearing.com
@@ -3283,12 +3306,14 @@ magnetairport.com
 mowfruit.com
 nervoussummer.com
 penspade.com
+perceivequarter.com
 petiteumbrella.com
 photographpan.com
 pietexture.com
 profusesupport.com
 puffyloss.com
 quaintcan.com
+quietknowledge.com
 ritzykey.com
 scintillatingspace.com
 scrubswim.com
@@ -3311,5 +3336,6 @@ suddensidewalk.com
 sugarcurtain.com
 ticklesign.com
 truthfulturn.com
+typicalteeth.com
 untidyrice.com
 womanear.com

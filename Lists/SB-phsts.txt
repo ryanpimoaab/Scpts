@@ -622,6 +622,7 @@ nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 elemetry.firstpartyapps.oaspapps.com
 browser.pipe.aria.microsoft.com
+incoming.telemetry.mozilla.org
 cws.conviva.com
 www.cws.conviva.com
 vrl.m.conviva.com
@@ -1138,3 +1139,16 @@ yip.su
 www.yip.su
 parentelement.tk
 www.parentelement.tk
+www.applicationunificationcontroller.com
+www.dianomi.com
+ladsup.com
+powerad.ai
+hb.brainlyads.com
+report.hb.brainlyads.com
+s-bid.rmp.rakuten.com
+s-imp.rmp.rakuten.com
+discoveryad.castoola.tv
+cdn.discoveryad.castoola.tv
+cdn.castoola.com
+castoola.com
+castoola.tv.lan
