@@ -3,6 +3,7 @@
 4ksport.pl
 4life.com
 4shoes.pl
+4skype.pl
 5k-player.com
 7tools.eu
 20pascals.nl
@@ -16,7 +17,9 @@ acninc.com
 act.poznan.pl
 act-natural.pl
 act-natural-sklep.pl
+aczarniecka.pl
 adamkepinski.pl
+adapterylaptopa.com
 adblock-listefr.com
 adidasbuty.pl
 adidasterrex.pl
@@ -37,6 +40,7 @@ akademiazarabianiawinternecie.pl
 akredytowane.pl
 akuna.pl
 aldaniti.net
+aldashoes.eu
 aldashoes.pl
 alerter.pl
 aleshop.pl
@@ -83,7 +87,6 @@ avita.net.pl
 awarialaptopa.pl
 awin.com
 az27.pl
-babyeishgames.com
 balsit.org
 bartekzukiewicz.pl
 bazartani.pl
@@ -119,6 +122,7 @@ blubox.pl
 bmgrp.tk
 bnewsb.com
 bodysecretrevelation.com
+bonnisi.com
 boobi.biz
 bootstraplugin.com
 boryskowalski.pl
@@ -187,6 +191,7 @@ cristianlay.com
 csgoskinsproject.pl
 cs-podhale.pl
 cultland.pl
+cultsneaks.pl
 czyjtonumertel.pl
 dagcoin.org
 dailyadultnews.com
@@ -205,6 +210,7 @@ dasecosystem.pl
 dassystem.eu
 daswallet.com
 davor.io
+ddgrawer.pl
 decynsire.com
 deloxar.pl
 derotel.com
@@ -254,6 +260,7 @@ ecpp.pl
 eglobalcentral.pl
 ekstrafilmy24.pl
 electrocity24.pl
+electroline.pl
 elektro24h.pl
 elektromax.in.net
 elepta.pl
@@ -372,7 +379,6 @@ gikon.pl
 girrrly.com
 glinkss.com
 globalintergold.com
-globalmagazine24.eu
 gojiberry500.pl
 gokano.com
 goldsaver.pl
@@ -413,7 +419,6 @@ homeexpres.net
 homejailbreak.com
 homgar.pl
 hostedfiles.net
-hotokazje.com
 humanverify.net
 hunterstyle.pl
 hunterstyle24.com
@@ -421,6 +426,7 @@ ibox.green
 ibrainer.net
 idgarin.com
 ifilefinder.com
+igrzyskasto.pl
 imperiumczerniizlota.pl
 imperiumobuwia.pl
 inagrody.pl
@@ -459,6 +465,7 @@ kancelariakufieta.pl
 kancelarialewickich.pl
 kartavisa.pl
 kenseeart.pl
+kickstore.pl
 kickz4u.pl
 killingtonchukka.pl
 kimera.pl
@@ -534,6 +541,7 @@ marekporwol.pl
 mariuszpelczarski.pl
 mariza.com.pl
 marketpremium.pl
+marsonic.pl
 martdiamonds.pl
 marykay.pl
 masenkotrkr.com
@@ -541,7 +549,6 @@ mavoj.pl
 mediaekspert24.pl
 mediaexpres.in.net
 mediamanago.pl
-mediamax.in.net
 mediartvagd.in.net
 mediasam.net
 medicreporters.com
@@ -608,6 +615,7 @@ nb574.pl
 neomedia.in.net
 neomedia24.net
 neomediamax.net
+neonetmax.in.net
 neopozyczki.pl
 neospes.com
 neotech.in.net
@@ -624,6 +632,7 @@ nkuop.com
 normour.com
 norton.pl
 notifyday.com
+novits4.com
 novumedical.pl
 nowaupadlosc.pl
 nowa.k-link-poland.pl
@@ -706,6 +715,7 @@ polskifilm.com.pl
 pol.boobs-xl.com
 pomocnapozyczka.pro
 popcornvod.com
+popshoes.pl
 poradniaszczecin.pl
 powerfactorsaver.com
 pozycjeseksualne.pl
@@ -789,13 +799,13 @@ roulettenumber.com
 rowerowyrajd.pl
 rownet.pl
 rtvagdpro.net
+rubris.org
 ruletkasystem.eu
 ruletka-systemy.com
 runshoes.pl
 rushpay.pl
 rzetelna-pozyczka.pl
 s9kkremkr0.com
-sales-express.eu
 salomonsklep.online
 salomonwyprzedaz.pl
 santos24.net
@@ -806,6 +816,7 @@ seansobox.pl
 sendspace.pl
 sendspace.pw
 senoctis.pl
+sensisslupca.pl
 serendipitygalenite.club
 seriale24.com.pl
 serialefilmy.pl
@@ -815,6 +826,7 @@ serwis-laptopow24.pl
 shidokan-lodz.pl
 shiporama.com
 shoegallery.com.pl
+shoesland.pl
 shoesvclub.com
 shopsneakers.pl
 shop.dr-rath.com
@@ -839,6 +851,7 @@ sneakerstore.com.pl
 sneakersypuma.pl
 sneakervclub.com
 societyjezuufamtobie.pl
+sokolagd.pl
 solvusoft.com
 souvre.pl
 spatiumdg.pl
@@ -1007,7 +1020,9 @@ www.acaiberryextreme.pl
 www.acneuro.pl
 www.acninc.com
 www.act.poznan.pl
+www.aczarniecka.pl
 www.adamkepinski.pl
+www.adapterylaptopa.com
 www.adidasbuty.pl
 www.adidasterrexsolo.pl
 www.adidasterrex.pl
@@ -1027,6 +1042,7 @@ www.akademiazarabianiawinternecie.pl
 www.akredytowane.pl
 www.akuna.pl
 www.aldaniti.net
+www.aldashoes.eu
 www.aldashoes.pl
 www.alerter.pl
 www.aleshop.pl
@@ -1065,7 +1081,6 @@ www.avita.net.pl
 www.awarialaptopa.pl
 www.awin.com
 www.az27.pl
-www.babyeishgames.com
 www.balsit.org
 www.bartekzukiewicz.pl
 www.bazartani.pl
@@ -1097,6 +1112,7 @@ www.blubox.pl
 www.bmgrp.tk
 www.bnewsb.com
 www.bodysecretrevelation.com
+www.bonnisi.com
 www.boobi.biz
 www.bootstraplugin.com
 www.boryskowalski.pl
@@ -1151,6 +1167,7 @@ www.credy.pl
 www.cristianlay.com
 www.csgoskinsproject.pl
 www.cultland.pl
+www.cultsneaks.pl
 www.czyjtonumertel.pl
 www.dagcoin.org
 www.dailyadultnews.com
@@ -1165,6 +1182,7 @@ www.dasecosystem.pl
 www.dassystem.eu
 www.daswallet.com
 www.davor.io
+www.ddgrawer.pl
 www.decynsire.com
 www.deloxar.pl
 www.derotel.com
@@ -1208,6 +1226,7 @@ www.ecpp.pl
 www.eglobalcentral.pl
 www.ekstrafilmy24.pl
 www.electrocity24.pl
+www.electroline.pl
 www.elektro24h.pl
 www.elektromax.in.net
 www.elepta.pl
@@ -1302,7 +1321,6 @@ www.gikon.pl
 www.girrrly.com
 www.glinkss.com
 www.globalintergold.com
-www.globalmagazine24.eu
 www.gojiberry500.pl
 www.gokano.com
 www.goldsaver.pl
@@ -1338,7 +1356,6 @@ www.homeexpres.net
 www.homejailbreak.com
 www.homgar.pl
 www.hostedfiles.net
-www.hotokazje.com
 www.humanverify.net
 www.hunterstyle24.com
 www.hunterstyle.pl
@@ -1346,6 +1363,7 @@ www.ibox.green
 www.ibrainer.net
 www.idgarin.com
 www.ifilefinder.com
+www.igrzyskasto.pl
 www.imperiumczerniizlota.pl
 www.imperiumobuwia.pl
 www.inagrody.pl
@@ -1377,6 +1395,7 @@ www.kancelariakufieta.pl
 www.kancelarialewickich.pl
 www.kartavisa.pl
 www.kenseeart.pl
+www.kickstore.pl
 www.kickz4u.pl
 www.killingtonchukka.pl
 www.kimera.pl
@@ -1443,6 +1462,7 @@ www.marekporwol.pl
 www.mariuszpelczarski.pl
 www.mariza.com.pl
 www.marketpremium.pl
+www.marsonic.pl
 www.martdiamonds.pl
 www.marykay.pl
 www.masenkotrkr.com
@@ -1450,7 +1470,6 @@ www.mavoj.pl
 www.mediaekspert24.pl
 www.mediaexpres.in.net
 www.mediamanago.pl
-www.mediamax.in.net
 www.mediartvagd.in.net
 www.mediasam.net
 www.medicreporters.com
@@ -1508,6 +1527,7 @@ www.nb574.pl
 www.neomedia24.net
 www.neomediamax.net
 www.neomedia.in.net
+www.neonetmax.in.net
 www.neopozyczki.pl
 www.neospes.com
 www.neotech.in.net
@@ -1524,6 +1544,7 @@ www.nkuop.com
 www.normour.com
 www.norton.pl
 www.notifyday.com
+www.novits4.com
 www.novumedical.pl
 www.nowaupadlosc.pl
 www.nubiton.pl
@@ -1579,6 +1600,7 @@ www.poland.fizzyslim.biz
 www.polskifilm.com.pl
 www.pomocnapozyczka.pro
 www.popcornvod.com
+www.popshoes.pl
 www.poradniaszczecin.pl
 www.powerfactorsaver.com
 www.pozycjeseksualne.pl
@@ -1649,6 +1671,7 @@ www.roulettenumber.com
 www.rowerowyrajd.pl
 www.rownet.pl
 www.rtvagdpro.net
+www.rubris.org
 www.ruletkasystem.eu
 www.runshoes.pl
 www.rushpay.pl
@@ -1663,6 +1686,7 @@ www.seansobox.pl
 www.sendspace.pl
 www.sendspace.pw
 www.senoctis.pl
+www.sensisslupca.pl
 www.serendipitygalenite.club
 www.seriale24.com.pl
 www.serialefilmy.pl
@@ -1670,6 +1694,7 @@ www.serwislaptopowwarszawa.com.pl
 www.serwis.kb.help
 www.shiporama.com
 www.shoegallery.com.pl
+www.shoesland.pl
 www.shoesvclub.com
 www.shopsneakers.pl
 www.silvets.pl
@@ -1686,6 +1711,7 @@ www.sneakerstore.com.pl
 www.sneakersypuma.pl
 www.sneakervclub.com
 www.societyjezuufamtobie.pl
+www.sokolagd.pl
 www.solvusoft.com
 www.souvre.pl
 www.spatiumdg.pl
@@ -1857,6 +1883,7 @@ www.zebrapozyczki.pl
 www.zennoa.com
 www.zespolbefree.pl
 www.zespolmayol.pl
+www.zieloneswiatki.pl
 www.zinzino.com
 www.zmotoryzowani24.pl
 www.zobacz24.pl
@@ -1865,6 +1892,7 @@ www.zukiewicz.com
 www.4ksport.pl
 www.4life.com
 www.4shoes.pl
+www.4skype.pl
 www.5k-player.com
 www.7tools.eu
 www.20pascals.nl
@@ -1996,7 +2024,6 @@ www.real-app.date
 www.roboclean-poland.com
 www.ruletka-systemy.com
 www.rzetelna-pozyczka.pl
-www.sales-express.eu
 www.serwis-laptopow24.pl
 www.shidokan-lodz.pl
 www.shop.dr-rath.com
@@ -2029,7 +2056,6 @@ www.votum-sa.pl
 www.web-online.pl
 www.wellstar-company.com
 www.wygrana-konkursu.eu
-www.wygrana-wpisz-dane.eu
 www.wytypowany-zwyciezca.com
 www.wytypowany-zwyciezca.pl
 www.xn--pandorabiuteria-qkd.pl
@@ -2038,7 +2064,6 @@ www.zennoa-poland.com
 www.znajdz-numer.pl
 www.zyski-z-innowacji.pl
 wygrana-konkursu.eu
-wygrana-wpisz-dane.eu
 wyjazd24.pl
 wyleczpc.pl
 wyspaofert.com
@@ -2074,6 +2099,7 @@ zennoa.com
 zennoa-poland.com
 zespolbefree.pl
 zespolmayol.pl
+zieloneswiatki.pl
 zinzino.com
 zmotoryzowani24.pl
 znajdz-numer.pl
@@ -2140,6 +2166,7 @@ clickpush.biz
 clic-douaisis.fr
 commanods.xyz
 d8x.pl
+ditds.xyz
 doitbetterleftside.icu
 doitbetterrightside.icu
 eastmostlitharges.online
@@ -2208,6 +2235,7 @@ www.clickjump.biz
 www.clickpush.biz
 www.commanods.xyz
 www.d8x.pl
+www.ditds.xyz
 www.doitbetterleftside.icu
 www.doitbetterrightside.icu
 www.eastmostlitharges.online
@@ -2508,9 +2536,11 @@ adobe.5v.pl
 ailegro.pl.ua
 akazoo.pl
 aktpl.com
+allonline.pl
 allplayer.pl
 all-player.pl
 androidsecurityplus.com
+anetakurier.info
 appandroider.com
 appiq.mobi
 apps.co.pl
@@ -2520,6 +2550,7 @@ astrocash.org
 bazafilmowa.org
 beka.pl
 bemydate.mobi
+bitcoins-profit.com
 bookbugg.com
 bramka-sms-za-darmo.pl
 brave-browser.info
@@ -2531,12 +2562,14 @@ carambaba.com
 catsplit.com
 cda-flix.pl
 centrumplay.pl
+cfotim.live
 challengeforme.com
 check-prizes-now2.life
 chomik24.com.pl
 chomik-24.pl
 chron-telefon.com
 circultural.com
+climblike.com
 colormessa.info
 cool4mob.com
 coreplays.com
@@ -2628,6 +2661,7 @@ financial.org
 finanse-payu.pl
 firecash.org
 fixfuturetype-restclicks.icu
+flashplayerload.com
 footoografie-pobieralnia.eu
 fotoografie-pobierz.eu
 freegiftcode.com
@@ -2669,7 +2703,6 @@ ilovemobi.com
 infonews24.com.pl
 inpost24.me
 insanepays.com
-instantdownloadsz.com
 interia-zabezpieczenia.pl
 investreviewier.com
 islandmob.com
@@ -2737,6 +2770,7 @@ najlepszewrozby.pl
 naleznoscgov.eu
 namierz-telefon.pl
 nataliaporwana.biz
+nautili.us
 needforfile.net
 newsinsider.me
 newsy-onet24.pl
@@ -2747,6 +2781,7 @@ n-mobile.net
 ogladaj-online24.pl
 ollando.com
 olx-platnosci.online
+omega.best
 onclickbright.com
 onliine.pl
 onlinewideo.pl
@@ -2801,7 +2836,6 @@ przejdz.ml
 przepismix.pl
 przesyleczki.com
 psialapka.pl
-ptcspy.com
 ptgame.eu
 pulsebiznesu.xyz
 pulse-biznesowe.xyz
@@ -2844,10 +2878,13 @@ softsmart.mobi
 solucjegier.pl
 spaceforyou.cc
 speedfile.info
+sportowystream.pl
 sportowy-stream.pl
 sportplus.pro
+sprawa-531.eu
 sprawdzikk.v0r.org
 ssl.bezpieczne-platnosci.pl
+start.favbook.net
 statusnim.info
 steamco.de
 steam-wallet-gifts.com
@@ -2860,6 +2897,7 @@ s-pay24.com
 eenzforfun.com
 elewizja-internetowa24.pl
 hemovienation.com
+he-bitcoin-profit.com
 inyfilehost.com
 inyfileshost.com
 odolize.com
@@ -2871,7 +2909,6 @@ ransmisje24.net
 ruegamers.ga
 vnewtop.pro
 v-internetowa.pl
-wojeartykuly.com
 wojhoroskop.com
 udater.net
 ulink.pl
@@ -2881,7 +2918,6 @@ upshare.org
 uwagaporwanie.eu
 uzupelniajdane.ga
 uzupelniajdane.gq
-videorazr.com
 vidnet.pl
 vidplayer.pl
 vimeoo.net
@@ -2907,8 +2943,10 @@ www.adamdelivery.pl
 www.ailegro.pl.ua
 www.akazoo.pl
 www.aktpl.com
+www.allonline.pl
 www.allplayer.pl
 www.androidsecurityplus.com
+www.anetakurier.info
 www.appandroider.com
 www.appiq.mobi
 www.appsdorado.com
@@ -2925,9 +2963,11 @@ www.captainquizz.de
 www.carambaba.com
 www.catsplit.com
 www.centrumplay.pl
+www.cfotim.live
 www.challengeforme.com
 www.chomik24.com.pl
 www.circultural.com
+www.climblike.com
 www.colormessa.info
 www.cool4mob.com
 www.coreplays.com
@@ -2989,6 +3029,7 @@ www.filmu.pl
 www.filmycda.pl
 www.financial.org
 www.firecash.org
+www.flashplayerload.com
 www.freegiftcode.com
 www.freehackpl.com
 www.freeminecraftgiftcode.net
@@ -3026,7 +3067,6 @@ www.ilovemobi.com
 www.infonews24.com.pl
 www.inpost24.me
 www.insanepays.com
-www.instantdownloadsz.com
 www.investreviewier.com
 www.islandmob.com
 www.itsweeps3.space
@@ -3080,11 +3120,13 @@ www.m.smsquiz.pl
 www.najlepszewrozby.pl
 www.naleznoscgov.eu
 www.nataliaporwana.biz
+www.nautili.us
 www.needforfile.net
 www.newsinsider.me
 www.newszone.pro
 www.nonstopvideos.pl
 www.ollando.com
+www.omega.best
 www.onclickbright.com
 www.onliine.pl
 www.onlinewideo.pl
@@ -3125,7 +3167,6 @@ www.przejdz.ml
 www.przepismix.pl
 www.przesyleczki.com
 www.psialapka.pl
-www.ptcspy.com
 www.ptgame.eu
 www.pulsebiznesu.xyz
 www.qubble.com
@@ -3160,8 +3201,10 @@ www.softsmart.mobi
 www.solucjegier.pl
 www.spaceforyou.cc
 www.speedfile.info
+www.sportowystream.pl
 www.sportplus.pro
 www.sprawdzikk.v0r.org
+www.start.favbook.net
 www.statusnim.info
 www.steamco.de
 www.streamgo.pl
@@ -3178,7 +3221,6 @@ www.trafisz.com
 www.transmisje24.net
 www.truegamers.ga
 www.tvnewtop.pro
-www.twojeartykuly.com
 www.twojhoroskop.com
 www.udater.net
 www.ulink.pl
@@ -3186,7 +3228,6 @@ www.upshare.org
 www.uwagaporwanie.eu
 www.uzupelniajdane.ga
 www.uzupelniajdane.gq
-www.videorazr.com
 www.vidnet.pl
 www.vidplayer.pl
 www.vimeoo.net
@@ -3207,6 +3248,7 @@ www.wygrywa.pl
 www.yotefiles.com
 www.yuppipuppy.com
 www.za10groszy.pl
+www.zalukaj24.pl
 www.zarabativaisazartom.net
 www.zasilkonto.cba.pl
 www.zgarnijplik.pl
@@ -3222,6 +3264,7 @@ www.7228.eu
 www.adidas-collection.club
 www.adobe.5v.pl
 www.all-player.pl
+www.bitcoins-profit.com
 www.bramka-sms-za-darmo.pl
 www.brave-browser.info
 www.btc-forum.pl
@@ -3299,12 +3342,14 @@ www.secure-pge.eu
 www.shinden-anime.info
 www.sms-za-darmo.pl
 www.sportowy-stream.pl
+www.sprawa-531.eu
 www.ssl.bezpieczne-platnosci.pl
 www.steam-wallet-gifts.com
 www.steam-wallet-money.com
 www.super-pay.me
 www.s-pay24.com
 www.telewizja-internetowa24.pl
+www.the-bitcoin-profit.com
 www.token-interia.pl
 www.tv-internetowa.pl
 www.update-1.com
@@ -3316,7 +3361,6 @@ www.wiadomosci-tv24-onet.eu
 www.widget-eforsa.pl
 www.wplogin.5v.pl
 www.wybierz-nagrode.pl
-www.your-mac-security-analysis.net.guygr.upnpuqimdqnghau.icu
 www.your-movies.pl
 www.zalukaj-online.pl
 www.zamowienia-priorytetowe.pl
@@ -3329,10 +3373,10 @@ wygrajpsc.eu
 wygrania.com
 wygrywa.pl
 yotefiles.com
-your-mac-security-analysis.net.guygr.upnpuqimdqnghau.icu
 your-movies.pl
 yuppipuppy.com
 za10groszy.pl
+zalukaj24.pl
 zalukaj-online.pl
 zamowienia-priorytetowe.pl
 zarabativaisazartom.net
@@ -3463,6 +3507,7 @@ ace.jamba.pl
 ace.jamster.pl
 adpro.futurenet.club
 adsheads.go2affise.com
+allegro.pl-nowe-regulamini7913.uhu362.com
 aoc.teleaudio.pl
 api.myeforsa.pl
 apple.com-care-macbook-system.live
@@ -3594,6 +3639,7 @@ www.wielkopolskie.refundacjeregionalne.pl
 www.ww7.openwrt.com
 www.wydawca.lead.network
 www.zmienkolory.blogspot.com
+www.allegro.pl-nowe-regulamini7913.uhu362.com
 www.apple.com-care-macbook-system.live
 www.apple.com-improve-macos.live
 www.apple.com-macos-clean-systems.live

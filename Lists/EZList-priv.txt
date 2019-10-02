@@ -430,6 +430,7 @@ captivate.ai
 captora.com
 capturemedia.network
 capturly.com
+caramel.press
 carrotquest.io
 cashburners.com
 cashcount.com
@@ -536,6 +537,7 @@ company-target.com
 compteur.cc
 comradepony.com
 conductrics.com
+config.parsely.com
 confirmational.com
 confirmit.com
 contactatonce.com
@@ -603,6 +605,7 @@ crosswalkmail.com
 crowdscience.com
 crowdtwist.com
 crsspxl.com
+crtx.info
 crwdcntrl.net
 csdata1.com
 csi-tracking.com
@@ -728,6 +731,7 @@ e-pagerank.net
 e-referrer.com
 e-webtrack.net
 e-zeeinternet.com
+eacla.com
 earnitup.com
 easy-hit-counter.com
 easy-hit-counters.com
@@ -950,6 +954,7 @@ genieesspv.jp
 geobytes.com
 geoedge.be
 geoip-db.com
+geojs.io
 geoplugin.net
 georiot.com
 getbackstory.com
@@ -998,7 +1003,6 @@ google-analytics.com
 googleadservices.com
 googlerank.info
 googletagmanager.com
-googletagmanager.com
 gooo.al
 gopjn.com
 gostats.com
@@ -1024,6 +1028,7 @@ guardwork.info
 guruquicks.net
 gvisit.com
 gweini.com
+gxgydnhz.com
 h4k5.com
 halldata.com
 halo77.com
@@ -1145,6 +1150,7 @@ innovateads.com
 inphonic.com
 inpwrd.com
 inside-graph.com
+insideall.com
 insightera.com
 insightgrit.com
 insigit.com
@@ -1186,6 +1192,7 @@ ipcatch.com
 ipcounter.de
 iperceptions.com
 ipfingerprint.com
+ipgeolocation.io
 ipify.org
 ipinfo.info
 ipinfodb.com
@@ -1195,6 +1202,7 @@ ipro.com
 iproanalytics.com
 iprotrk.com
 ipstat.com
+ipstatp.com
 ipv6monitoring.eu
 iqdata.ai
 iqfp1.com
@@ -1408,6 +1416,7 @@ memo.co
 mercadoclics.com
 mercent.com
 metakeyproducer.com
+meteor.com
 meteorsolutions.com
 metricool.com
 metricsdirect.com
@@ -1438,6 +1447,7 @@ mmi-agency.com
 mno.link
 mobalyzer.net
 mochibot.com
+mockingfish.com
 momently.com
 monetate.net
 mongoosemetrics.com
@@ -1776,8 +1786,6 @@ quantcount.com
 quantserve.com
 quantserve.com
 quantserve.com
-quantserve.com
-quantserve.com
 quantummetric.com
 qubitproducts.com
 questionpro.com
@@ -1831,6 +1839,7 @@ reliablecounter.com
 relmaxtop.com
 remarketingpixel.com
 remarketstats.com
+remind.me
 rep0pkgr.com
 repixel.co
 report-uri.com
@@ -1863,6 +1872,7 @@ rhinoseo.com
 riastats.com
 richard-group.com
 richmetrics.com
+rightmoveanalytics.co.uk
 ritecounter.com
 rivrai.com
 rkdms.com
@@ -1941,6 +1951,7 @@ securepaths.com
 securitytrfx.com
 sedotracker.com
 seehits.com
+seevolution.com
 seewhy.com
 segment-analytics.com
 segment.com
@@ -2274,6 +2285,7 @@ trackdiscovery.net
 trackeame.com
 trackedlink.net
 trackedweb.net
+trackertest.org
 tracking100.com
 tracking202.com
 trackinglabs.com
@@ -2432,9 +2444,6 @@ virgul.com
 virool.com
 virtualnet.co.uk
 visibility-stats.com
-visiblemeasures.com
-visiblemeasures.com
-visiblemeasures.com
 visibli.com
 visioncriticalpanels.com
 visistat.com
@@ -2747,6 +2756,7 @@ clod.pw
 cloudcdn.gdn
 cloudcoins.co
 cloudflane.com
+cloudflareinsights.com
 cndhit.xyz
 cnhv.co
 coin-cube.com
@@ -3269,12 +3279,15 @@ balancebreath.com
 bh8yx.xyz
 broaddoor.com
 cannontwin.com
+capsquirrel.com
 caringzinc.com
 carscannon.com
+cloisteredcord.com
 consciouscabbage.com
 consciouschairs.com
 coordinatedcub.com
 copycarpenter.com
+cubchannel.com
 delegatediscussion.com
 desiredirt.com
 detectdiscovery.com
@@ -3295,6 +3308,7 @@ hammerhearing.com
 hilariouszinc.com
 horsenectar.com
 importedincrease.com
+inquisitiveinvention.com
 intelligentscissors.com
 jadeitite.com
 jewelcheese.com
@@ -3304,7 +3318,9 @@ lizardslaugh.com
 lumberamount.com
 magnetairport.com
 mowfruit.com
+mundanepollution.com
 nervoussummer.com
+pedropanther.com
 penspade.com
 perceivequarter.com
 petiteumbrella.com
@@ -3314,6 +3330,7 @@ profusesupport.com
 puffyloss.com
 quaintcan.com
 quietknowledge.com
+richstring.com
 ritzykey.com
 scintillatingspace.com
 scrubswim.com
@@ -3330,6 +3347,7 @@ spottysense.com
 spurioussteam.com
 squeakzinc.com
 steepsquirrel.com
+stiffstem.com
 storesurprise.com
 strivesidewalk.com
 suddensidewalk.com
@@ -3337,5 +3355,6 @@ sugarcurtain.com
 ticklesign.com
 truthfulturn.com
 typicalteeth.com
+ubiquitousyard.com
 untidyrice.com
 womanear.com

@@ -52,6 +52,8 @@ call.me.sel.sony.com
 flingo.tv
 sonybivstatic-a.akamaihd.net
 ssm1.internet.sony.tv
+facemap.foldlife.net
+bdcore-apr-lb.bda.ndmdhs.com
 # lg
 ad.lgappstv.com
 ibis.lgappstv.com
