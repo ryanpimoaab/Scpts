@@ -152,6 +152,7 @@ advertising.com
 adways.com
 adwstats.com
 adxadtracker.com
+adxcel-ec2.com
 adyapper.com
 afairweb.com
 affilae.com
@@ -218,7 +219,6 @@ anametrix.net
 anatid3.com
 andagainanotherthing.com
 andyetanotherthing.com
-anexia-it.com
 angelfishstats.com
 angorch-cdr7.com
 angsrvr.com
@@ -334,6 +334,7 @@ bidr.io
 bidswitch.net
 bigcattracks.com
 bigmir.net
+bigreal.org
 bigstats.net
 bigtracker.com
 bikepasture.com
@@ -374,6 +375,7 @@ bouncepilot.com
 bouncex.com
 bpmonline.com
 branch.io
+brandlock.io
 brat-online.ro
 brcdn.com
 bridgevine.com
@@ -449,7 +451,6 @@ celebros-analytics.com
 celebrus.com
 center.io
 centraltag.com
-ceros.com
 cetrk.com
 cformanalytics.com
 cftrack.com
@@ -540,7 +541,6 @@ conductrics.com
 config.parsely.com
 confirmational.com
 confirmit.com
-contactatonce.com
 contactmonkey.com
 contemporaryceremonies.ca
 content-square.net
@@ -656,6 +656,7 @@ decideinteractive.com
 declaredthoughtfulness.co
 deep.bi
 deepattention.com
+deepchannel.com
 dejavu.mlapps.com
 demandbase.com
 demdex.net
@@ -680,6 +681,7 @@ dinkstat.com
 directrdr.com
 discover-path.com
 discovertrail.net
+display.studio
 displaymarketplace.com
 distiltag.com
 distralytics.com
@@ -696,6 +698,8 @@ dmtracker.com
 dmtry.com
 dmxleo.com
 doclix.com
+dojomojo.com
+dojomojo.ninja
 dominocounter.net
 domodomain.com
 dotomi.com
@@ -719,9 +723,9 @@ dti-ranker.com
 dtscout.com
 dtxngr.com
 dummy-domain-do-not-change.com
-dv0.info
 dwin1.com
 dwin2.com
+dynamicyield.com
 dynatrace.com
 dynatracesaas.com
 dyntrk.com
@@ -767,6 +771,7 @@ enecto.com
 enectoanalytics.com
 engageclick.com
 engagemaster.com
+engagetosell.com
 engagio.com
 engine212.com
 engine64.com
@@ -896,7 +901,6 @@ foreseeresults.com
 forkcdn.com
 formalyzer.com
 formisimo.com
-forter.com
 foundry42.com
 fout.jp
 fpctraffic2.com
@@ -955,6 +959,7 @@ geobytes.com
 geoedge.be
 geoip-db.com
 geojs.io
+geolid.com
 geoplugin.net
 georiot.com
 getbackstory.com
@@ -969,6 +974,7 @@ getsmartcontent.com
 getsmartlook.com
 getstatistics.se
 gez.io
+gglscr.online
 giddyuptrk.com
 gigcount.com
 gim.co.il
@@ -1002,6 +1008,7 @@ google-analytics.com
 google-analytics.com
 googleadservices.com
 googlerank.info
+googletagmanager.com
 googletagmanager.com
 gooo.al
 gopjn.com
@@ -1074,6 +1081,7 @@ hivps.xyz
 hlserve.com
 hmstats.com
 homechader.com
+hoood.info
 hopurl.org
 hospitality-optimizer.com
 host-tracker.com
@@ -1201,8 +1209,8 @@ iplocationtools.com
 ipro.com
 iproanalytics.com
 iprotrk.com
+ipstack.com
 ipstat.com
-ipstatp.com
 ipv6monitoring.eu
 iqdata.ai
 iqfp1.com
@@ -1297,6 +1305,7 @@ leadsmonitor.io
 leadsrx.com
 leanplum.com
 legolas-media.com
+leokross.com
 les-experts.com
 letterboxtrail.com
 levexis.com
@@ -1325,6 +1334,7 @@ localytics.com
 lockview.cn
 locotrack.net
 logaholic.com
+logbor.com
 logcounter.com
 logdy.com
 logentries.com
@@ -1486,7 +1496,6 @@ mxptint.net
 myaffiliateprogram.com
 myaudience.de
 mybloglog.com
-mybluemix.net
 myfastcounter.com
 mynewcounter.com
 mynsystems.com
@@ -1605,6 +1614,7 @@ onefeed.co.uk
 onelink-translations.com
 onestat.com
 onetag-sys.com
+onetag.io
 ongsono.com
 online-media-stats.com
 online-metrix.net
@@ -1656,6 +1666,7 @@ parklogic.com
 parrable.com
 pass-1234.com
 pathful.com
+pbbl.co
 pc1.io
 pclicks.com
 pcspeedup.com
@@ -1715,6 +1726,7 @@ pnstat.com
 pntra.com
 pntrac.com
 pntrs.com
+pointillist.com
 pointomatic.com
 polarcdn-pentos.com
 popsample.com
@@ -1766,6 +1778,9 @@ pulsemaps.com
 pureairhits.com
 purevideo.com
 putags.com
+px-cdn.net
+px-cloud.net
+pxchk.net
 pxf.io
 pxi.pub
 pymx5.com
@@ -1786,12 +1801,14 @@ quantcount.com
 quantserve.com
 quantserve.com
 quantserve.com
+quantserve.com
 quantummetric.com
 qubitproducts.com
 questionpro.com
 questradeaffiliates.com
 quillion.com
 quintelligence.com
+quitsnap-blue.com
 qzlog.com
 r7ls.net
 radarstats.com
@@ -1876,6 +1893,7 @@ rightmoveanalytics.co.uk
 ritecounter.com
 rivrai.com
 rkdms.com
+rktch.com
 rktu.com
 rlcdn.com
 rmtag.com
@@ -1951,6 +1969,7 @@ securepaths.com
 securitytrfx.com
 sedotracker.com
 seehits.com
+seeip.org
 seevolution.com
 seewhy.com
 segment-analytics.com
@@ -1994,6 +2013,7 @@ shoelace.com
 shoptimally.com
 showheroes.com
 showroomlogic.com
+sift.com
 siftscience.com
 signifyd.com
 signup-way.com
@@ -2023,6 +2043,7 @@ sitemeter.com
 sitereport.org
 sitestat.com
 sitestats.live
+siteswithcontent.com
 sitetag.us
 sitetagger.co.uk
 sitetracker.com
@@ -2036,6 +2057,7 @@ smallseotools.com
 smart-digital-solutions.com
 smart-dmp.com
 smart-ip.net
+smart-traffik.com
 smartctr.com
 smarterhq.io
 smarterremarketer.net
@@ -2069,6 +2091,7 @@ softonic-analytics.net
 sojern.com
 soko.ai
 sokrati.com
+solutionshindsight.net
 sometrics.com
 sophi.io
 sophus3.com
@@ -2077,7 +2100,6 @@ spamanalyst.com
 spectate.com
 speed-trap.com
 speedcurve.com
-sphereup.com
 spklw.com
 splittag.com
 splurgi.com
@@ -2113,6 +2135,7 @@ statcounterfree.com
 statcounters.info
 stathat.com
 stathound.com
+staticcache.org
 staticiv.com
 statisfy.net
 statistiche-web.com
@@ -2346,7 +2369,6 @@ truconversion.com
 truehits.in.th
 truehits1.gits.net.th
 truoptik.com
-trustedform.com
 trysera.com
 tscapeplay.com
 tscounter.com
@@ -2358,6 +2380,7 @@ tsw0.com
 tubetrafficcash.com
 tuinfra.com
 tunnl.com
+tvpixel.com
 tw.cx
 twcount.com
 twopointo.io
@@ -2458,6 +2481,7 @@ visitorpath.com
 visitorprofiler.com
 visitortracklog.com
 visitorville.com
+visitstats.com
 visitstreamer.com
 visto1.net
 visualdna-stats.com
@@ -2486,6 +2510,7 @@ waudit.cz
 waust.at
 wbdx.fr
 wbtrk.net
+wdfl.co
 we-stats.com
 web-boosting.net
 web-counter.net
@@ -2580,6 +2605,7 @@ xtremline.com
 xxxcounter.com
 xyztraffic.com
 y-track.com
+ya-counter.ru
 yamanoha.com
 yandex-metrica.ru
 yaudience.com
@@ -3269,32 +3295,48 @@ zymerget.stream
 zymerget.win
 6ldu6qa.com
 absorbingband.com
+absurdapple.com
 acridtwist.com
 aheadday.com
+alleyarm.com
+allowmailbox.com
 anxiousapples.com
 automaticside.com
 awzbijw.com
 axiomaticalley.com
 balancebreath.com
 bh8yx.xyz
+broadcastbed.com
 broaddoor.com
+burnbubble.com
+butterbulb.com
+butterburst.com
+calculatorstatement.com
 cannontwin.com
 capsquirrel.com
 caringzinc.com
 carscannon.com
 cloisteredcord.com
+colorfulafterthought.com
+conditioncrush.com
 consciouscabbage.com
 consciouschairs.com
 coordinatedcub.com
 copycarpenter.com
 cubchannel.com
+culturedcrayon.com
+damdoor.com
 delegatediscussion.com
 desiredirt.com
 detectdiscovery.com
+diplomahawaii.com
 ejyymghi.com
 endurablecrayon.com
+falseframe.com
 familiarfloor.com
 familiarrod.com
+farmergoldfish.com
+faultycanvas.com
 fearfulflag.com
 flakyfeast.com
 forecasttiger.com
@@ -3304,6 +3346,7 @@ giddycoat.com
 giraffepiano.com
 gorgeousground.com
 greyinstrument.com
+gulliblecamp.com
 hammerhearing.com
 hilariouszinc.com
 horsenectar.com
@@ -3311,7 +3354,9 @@ importedincrease.com
 inquisitiveinvention.com
 intelligentscissors.com
 jadeitite.com
+jamexistence.com
 jewelcheese.com
+lamplow.com
 leaplunchroom.com
 levelbehavior.com
 lizardslaugh.com
@@ -3320,6 +3365,8 @@ magnetairport.com
 mowfruit.com
 mundanepollution.com
 nervoussummer.com
+parcelcreature.com
+parsimoniouspolice.com
 pedropanther.com
 penspade.com
 perceivequarter.com
@@ -3328,10 +3375,14 @@ photographpan.com
 pietexture.com
 profusesupport.com
 puffyloss.com
+puffypull.com
 quaintcan.com
 quietknowledge.com
+raresummer.com
 richstring.com
+ringplayground.com
 ritzykey.com
+roofrelation.com
 scintillatingspace.com
 scrubswim.com
 selectivesummer.com
@@ -3342,19 +3393,28 @@ shelterstraw.com
 shermore.info
 sicksmash.com
 sombersurprise.com
+sortsummer.com
 spiffymachine.com
+spottednoise.com
 spottysense.com
 spurioussteam.com
 squeakzinc.com
+squirrelhands.com
+steadfastsound.com
 steepsquirrel.com
 stiffstem.com
 storesurprise.com
+stormyachiever.com
 strivesidewalk.com
+stupendoussleet.com
 suddensidewalk.com
 sugarcurtain.com
+tendertest.com
 ticklesign.com
 truthfulturn.com
 typicalteeth.com
 ubiquitousyard.com
+unarmedindustry.com
+unbecominghall.com
 untidyrice.com
 womanear.com

@@ -66,3 +66,4 @@ thepiratebay-proxylist.se
 firstonetv.*
 firstone.*
 homeporno.pro
+backend.dna-delivery.com

@@ -39,3 +39,4 @@ reddit.com
 colpirio.com
 docs.google.com
 browser-update.org
+marketing.net.*

@@ -69,11 +69,12 @@ us.lgtvsdp.com
 us.rdx2.lgtvsdp.com
 yumenetworks.com
 # philips
-deviceportal.nettvservices.com
-epg.corio.com
+#deviceportal.nettvservices.com # needed for apps
+#epg.corio.com # needed for apps
 legacyportal.nettvservices.com
 nettv.corio.com
 www.ecdinterface.philips.com
+ad.nettvservices.com
 # samsung
 abtauthprd.samsungcloudsolution.com
 acr0.samsungcloudsolution.com
@@ -83,7 +84,7 @@ amauthprd.samsungcloudsolution.com
 api-hub.samsungyosemite.com
 #auth.samsungosp.com // if blocked, samsung accounts will fail to authenticate
 az43064.vo.msecnd.net
-cdn.samsungcloudsolution.com
+#cdn.samsungcloudsolution.com # ystem update check on samsung ue40f5500
 cdn.samsungcloudsolution.net
 configprd.samsungcloudsolution.net
 coordinator-production-28516768.us-east-1.elb.amazonaws.com
@@ -104,7 +105,7 @@ gld.samsungosp.com
 gpm.samsungqbe.com
 i-stream.pl
 infolink.pavv.co.k
-infolink.pavv.co.kr
+#infolink.pavv.co.kr # needed for appstore and login on samsung ue40f5500
 lcprd1.samsungcloudsolution.net
 log-1.samsungacr.com
 log-2.samsungacr.com
@@ -140,7 +141,7 @@ samsungadhub.com
 samsungcloudsolution.com
 samsungcloudsolution.net
 #samsungosp.com
-samsungotn.net
+#samsungotn.net # system update check on samsung ue65ru7455
 samsungqbe.com
 samsungrm.net
 sas.samsungcloudsolution.com
@@ -196,7 +197,7 @@ de.ioam.de
 #drscdn.500px.org # blocks 500px on desktop
 geo.opera.com
 googleads.g.doubleclick.net
-itv.ard.de
+# itv.ard.de # ard media lib - hbbtv 
 nbc-jite.nbcuni.com
 redbutton-adproxy-lb-prod.redbutton.de
 redbutton-lb-prod.redbutton.de

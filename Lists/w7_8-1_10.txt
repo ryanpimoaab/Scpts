@@ -1,4 +1,4 @@
-### donate: https://www.patreon.com/crazymax ; https://www.paypal.me/crazyws
+### donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
 ### more info: https://github.com/crazy-max/windowsspyblocker
 
 a.ads1.msn.com
@@ -294,6 +294,7 @@ i-ch1-cor002.api.p001.1drv.com
 i-sn2-cor001.api.p001.1drv.com
 i-sn2-cor002.api.p001.1drv.com
 i-sn3p-cor001.api.p001.1drv.com
+i-sn3p-cor002.api.p001.1drv.com
 ieonlinews.microsoft.com
 ieonlinews.trafficmanager.net
 lb1.www.ms.akadns.net
